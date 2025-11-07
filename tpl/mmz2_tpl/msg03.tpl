@@ -5,7 +5,7 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	Let's go...
+	Vamos...
 	"""
 	end
 }
@@ -13,17 +13,17 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	Somehow...
-	I... I did it...
+	De algún modo...
+	Lo... logré...
 	"""
 	msgClear
 	"""
-	But... It...
+	Pero... eso...
 	"""
 	msgClear
 	"""
-	It cost me
-	everything...
+	Me costó
+	todo...
 	"""
 	end
 }
@@ -40,7 +40,7 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	To live or die...?
+	¿Vivir o morir...?
 	Hmm...
 	"""
 	msgClear
@@ -53,25 +53,26 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Ladies and
-	gentlemen.
-	Thanks to your
+	Damas y
+	caballeros.
+	Gracias a sus
 	"""
 	msgClear
 	"""
-	great efforts, it
-	gives me great
-	pleasure to
+	grandes esfuerzos,
+	es un gran placer
+	para mí
 	"""
 	msgClear
 	"""
-	announce the
-	completion of this
-	new Resistance
+	anunciar la
+	finalización de
+	esta nueva base
 	"""
 	msgClear
 	"""
-	Base...
+	de la
+	Resistencia...
 	"""
 	end
 }
@@ -79,15 +80,19 @@ script 4 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I thank you all for
-	accepting me as the
-	commander of this
+	Les agradezco a
+	todos por haberme
+	aceptado como el
 	"""
 	msgClear
 	"""
-	new base. I promise
-	to bring about a
-	new era of peace.
+	comandante de esta
+	nueva base. Prometo
+	traer una nueva 
+	"""
+	msgClear
+	"""
+	era de paz.
 	"""
 	end
 }
@@ -96,7 +101,7 @@ script 5 mmz2 {
 		mugshot = 70
 	msgBottom
 	"""
-	Hooray!
+	¡Hurra!
 	"""
 	end
 }
@@ -104,25 +109,25 @@ script 6 mmz2 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Yah!!
+	¡¡Yah!!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 70
 	"""
-	Victory!
+	¡Victoria!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 71
 	"""
-	For peace!
+	¡Por la paz!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 2
 	"""
-	Yah!!
+	¡¡Yah!!
 	"""
 	end
 }
@@ -130,21 +135,21 @@ script 7 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Ha ha ha... I'm
-	still a little
-	embarrassed when I
+	Ja ja ja... Aún
+	me siento un poco
+	avergonzado al
 	"""
 	msgClear
 	"""
-	think about being a
-	commander... Are
-	you sure about
+	pensar en ser un
+	comandante... ¿Estás
+	segura de esto?
 	"""
 	msgClear
 	"""
-	this? Trusting our
-	fate to a Reploid
-	like me...?
+	¿Confiar nuestro
+	destino a un
+	Reploide como yo...?
 	"""
 	end
 }
@@ -153,20 +158,20 @@ script 8 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	Absolutely. It
-	was you who
-	organized us to
+	Por supuesto.
+	Fuiste tú quien
+	nos organizó para
 	"""
 	msgClear
 	"""
-	fight against Neo
-	Arcadia, when we
-	were barely able
+	luchar contra Neo
+	Arcadia, cuando
+	apenas pudimos
 	"""
 	msgClear
 	"""
-	to escape from
-	there...
+	escapar
+	de allí...
 	"""
 	end
 }
@@ -174,17 +179,18 @@ script 9 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	I'm flattered...
+	Me halagas...
 	"""
 	msgClear
 	"""
-	But, you helped me
-	all along. You know
-	how unreliable I am
+	Pero, tú me has
+	ayudado todo este
+	tiempo. Sabes lo
 	"""
 	msgClear
 	"""
-	without you, Ciel.
+	inseguro que
+	soy sin ti, Ciel.
 	"""
 	end
 }
@@ -193,8 +199,7 @@ script 10 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	You just keep in
-	mind...
+	Solo recuerda...
 	"""
 	end
 }
@@ -203,14 +208,14 @@ script 11 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	...that we had
-	to organize a
-	resistance force
+	...que tuvimos que
+	organizar una fuerza
+	de resistencia
 	"""
 	msgClear
 	"""
-	in order to defend
-	ourselves...
+	para poder
+	defendernos...
 	"""
 	end
 }
@@ -218,15 +223,19 @@ script 12 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Yes, I will
-	remember that.
-	And now we are
+	Sí, lo
+	recordaré.
+	Y ahora estamos
 	"""
 	msgClear
 	"""
-	buying time for
-	you to complete
-	your research.
+	ganando tiempo
+	para que puedas
+	terminar
+	"""
+	msgClear
+	"""
+	tu investigación.
 	"""
 	end
 }
@@ -234,21 +243,21 @@ script 13 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Still... Since X
-	has not been
-	resurrected yet,
+	Aun así... Como X
+	no ha sido
+	resucitado aún,
 	"""
 	msgClear
 	"""
-	we couldn't ask
-	for a better
-	opportunity than
+	no podríamos pedir
+	una mejor
+	oportunidad que
 	"""
 	msgClear
 	"""
-	now. Please, allow
-	me to carry out my
-	operation.
+	esta. Por favor,
+	permíteme llevar a
+	cabo mi operación.
 	"""
 	end
 }
@@ -261,7 +270,7 @@ script 14 mmz2 {
 	"""
 	msgClear
 	"""
-	All right...
+	Está bien...
 	"""
 	end
 }
@@ -270,9 +279,9 @@ script 15 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	But promise me one
-	thing... Do not be
-	too strict.
+	Pero prométeme una
+	cosa... No seas
+	demasiado estricto.
 	"""
 	end
 }
@@ -280,7 +289,7 @@ script 16 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	You have my...
+	Tienes mi...
 	"""
 	end
 }
@@ -288,18 +297,18 @@ script 17 mmz2 {
 	mugshotShow
 		mugshot = 68
 	"""
-	Excuse me, sir!
+	¡Disculpe, señor!
 	"""
 	msgClear
 	"""
-	It's about Zero.
-	He was found lying
-	unconscious...
+	Es sobre Zero.
+	¡Fue hallado
+	inconsciente...
 	"""
 	msgClear
 	"""
-	just outside the
-	base!
+	justo afuera de
+	la base!
 	"""
 	end
 }
@@ -307,7 +316,7 @@ script 18 mmz2 {
 	mugshotShow
 		mugshot = 7
 	"""
-	What? Zero!?
+	¿Qué? ¡¿Zero?!
 	"""
 	end
 }
@@ -315,7 +324,7 @@ script 19 mmz2 {
 	mugshotShow
 		mugshot = 68
 	"""
-	This way.
+	Por aquí.
 	"""
 	end
 }
@@ -323,7 +332,7 @@ script 20 mmz2 {
 	mugshotShow
 		mugshot = 68
 	"""
-	Zero! Zero!
+	¡Zero! ¡Zero!
 	"""
 	end
 }
@@ -343,7 +352,7 @@ script 22 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Zero...!
+	¡Zero...!
 	"""
 	end
 }
@@ -351,8 +360,9 @@ script 23 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	I'm glad you are
-	alive, Zero!
+	¡Me alegra que
+	estés vivo,
+	Zero!
 	"""
 	end
 }
@@ -360,23 +370,24 @@ script 24 mmz2 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Zero! You're
-	functional
-	again!
+	¡Zero! ¡Has
+	vuelto a estar
+	funcional!
 	"""
 	msgClear
 	"""
-	You were in
-	rough shape...
+	Estabas en muy
+	malas condiciones...
 	"""
 	msgClear
 	"""
-	I'm amazed you
-	are still alive.
+	Me asombra que
+	sigas con vida.
 	"""
 	msgClear
 	"""
-	Welcome back!
+	¡Bienvenido de
+	vuelta!
 	"""
 	end
 }
@@ -392,7 +403,7 @@ script 26 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	Where am I?
+	¿Dónde estoy?
 	"""
 	end
 }
@@ -400,27 +411,31 @@ script 27 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	You are in our
-	new Resistance
-	Base. Thanks to
+	Estás en nuestra
+	nueva Base de la
+	Resistencia. Gracias
 	"""
 	msgClear
 	"""
-	you, we were able
-	to escape from Neo
-	Arcadia and start a
+	a ti, pudimos
+	escapar de Neo
+	Arcadia y comenzar
 	"""
 	msgClear
 	"""
-	new life in this
-	place. Thank you
-	so much... And I'm
+	una nueva vida en
+	este lugar.
+	Muchas gracias...
 	"""
 	msgClear
 	"""
-	sorry... that we
-	were unable to
-	come rescue you.
+	Y lamento mucho...
+	que no hayamos
+	podido ir
+	"""
+	msgClear
+	"""
+	a rescatarte.
 	"""
 	end
 }
@@ -428,43 +443,42 @@ script 28 mmz2 {
 	mugshotShow
 		mugshot = 41
 	"""
-	C'mon, Ciel...
-	Zero must be
-	very tired.
+	Vamos, Ciel...
+	Zero debe estar
+	muy cansado.
 	"""
 	msgClear
 	"""
-	I know you have
-	lots to discuss
-	with him, but
+	Sé que tienes
+	mucho de qué
+	hablar con él,
 	"""
 	msgClear
 	"""
-	why don't we
-	let him rest for
-	a bit.
+	pero... ¿por qué
+	no lo dejamos
+	descansar un poco?
 	"""
 	msgClear
 	"""
-	And, Zero I'm
-	afraid that most
-	of your weapons
+	Y Zero, me temo
+	que la mayoría de
+	tus armas estaban
 	"""
 	msgClear
 	"""
-	were broken.
-	Therefore, I've
-	fixed them.
+	dañadas. Así que
+	las reparé.
 	"""
 	msgClear
 	"""
-	I also created a new
-	weapon, so why don't
-	you come by later
+	También creé una
+	nueva arma, así que
+	pasa luego por aquí
 	"""
 	msgClear
 	"""
-	to pick it up.
+	para recogerla.
 	"""
 	end
 }
@@ -472,15 +486,19 @@ script 29 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Okay, I'll go
-	here. I'll be in
-	my lab for a while.
+	De acuerdo, me
+	retiraré. Estaré
+	un rato en
 	"""
 	msgClear
 	"""
-	Come talk to me
-	when you are
-	feeling better.
+	mi laboratorio.
+	"""
+	msgClear
+	"""
+	Ven a hablar
+	conmigo cuando
+	te sientas mejor.
 	"""
 	end
 }
@@ -488,8 +506,9 @@ script 40 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	This isn't fun
-	anymore...
+	Esto ya no es
+	divertido...
 	"""
 	end
+
 }

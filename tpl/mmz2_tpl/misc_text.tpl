@@ -58,29 +58,28 @@ script 8 mmz2 {
 }
 script 9 mmz2 {
 	"""
-	       It has been a year
-	      since Zero chose to
-	       take a different
-	       path from Ciel...
+	         Ha pasado un año
+	      desde que Zero decidió
+	         tomar un camino
+	      distinto al de Ciel...
 	
 	
-	        He still fights
-	      against Neo Arcadia.
-	
-	
-	
-	       But these battles
-	       have lost meaning
-	           for him.
+	       Aún sigue luchando
+	       contra Neo Arcadia.
 	
 	
 	
-	      Zero knows that to
-	       find his purpose,
-	        he should find
-	         Ciel and the
-	          resistance
-	         soldiers...
+	       Pero esas batallas
+	       han perdido sentido
+	           para él.
+	
+	
+	
+	       Zero sabe que, para
+	     encontrar su propósito,
+	        debe hallar a Ciel
+	         y a los soldados
+	       de la resistencia...
 	"""
 	end
 }
