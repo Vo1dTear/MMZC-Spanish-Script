@@ -9,13 +9,13 @@ script 0 mmz2 {
 }
 script 1 mmz2 {
 	"""
-	NO DATA
+	SIN DATOS
 	"""
 	end
 }
 script 2 mmz2 {
 	"""
-	CANCEL
+	CANCELAR
 	"""
 	end
 }
@@ -1043,707 +1043,704 @@ script 183 mmz2 {
 }
 script 200 mmz2 {
 	"""
-	I double
-	your
-	vitality.
+	Yo doblo
+	tu
+	vitalidad.
 	"""
 	end
 }
 script 201 mmz2 {
 	"""
-	I increase
-	vitality
-	slightly.
+	Yo aumento
+	un poco tu
+	vitalidad.
 	"""
 	end
 }
 script 202 mmz2 {
 	"""
-	You want
-	some more
-	vitality?
+	¿Quieres
+	más
+	Vitalidad?
 	"""
 	end
 }
 script 203 mmz2 {
 	"""
-	I can
-	boost your
-	vitality.
+	Aumentaré
+	tu
+	vitalidad.
 	"""
 	end
 }
 script 204 mmz2 {
 	"""
-	Sacrifice
-	me for
-	vitality.
+	Úsame para
+	obtener
+	vitalidad.
 	"""
 	end
 }
 script 205 mmz2 {
 	"""
-	I turn
-	into a
+	Me vuelvo
+	un 
 	Sub Tank.
 	"""
 	end
 }
 script 206 mmz2 {
 	"""
-	I can be
-	your
+	Puedo ser
+	tu
 	Sub Tank.
 	"""
 	end
 }
 script 207 mmz2 {
 	"""
-	I'll give
-	you two
+	Te daré
+	dos
 	continues.
 	"""
 	end
 }
 script 208 mmz2 {
 	"""
-	I'll give
-	you two
+	Te daré
+	dos
 	continues.
 	"""
 	end
 }
 script 209 mmz2 {
 	"""
-	I can sort
-	of restore
-	vitality.
+	Recupero
+	un poco de
+	vitalidad.
 	"""
 	end
 }
 script 210 mmz2 {
 	"""
-	Use my
-	energy for
-	vitality.
+	Usa mi
+	energía
+	para vida.
 	"""
 	end
 }
 script 211 mmz2 {
 	"""
-	I can give
-	a little
-	vitality.
+	Puedo dar
+	un poco de
+	vitalidad.
 	"""
 	end
 }
 script 212 mmz2 {
 	"""
-	I can
-	help your
-	wound.
+	Puedo
+	curar tus
+	heridas.
 	"""
 	end
 }
 script 213 mmz2 {
 	"""
-	I can heal
-	you
-	slightly.
+	Puedo cur-
+	arte lige-
+	ramente.
 	"""
 	end
 }
 script 214 mmz2 {
 	"""
-	You want
-	me to help
-	cure you?
+	¿Te ayudo
+	a curarte?
 	"""
 	end
 }
 script 215 mmz2 {
 	"""
-	I can cure
-	you fully!
+	¡Puedo cu-
+	rarte por
+	completo!
 	"""
 	end
 }
 script 216 mmz2 {
 	"""
-	You want
-	me to cure
-	you fully?
+	¿Quieres
+	curación
+	completa?
 	"""
 	end
 }
 script 217 mmz2 {
 	"""
-	My power
-	will save
-	you.
+	Mi poder
+	te
+	salvará.
 	"""
 	end
 }
 script 218 mmz2 {
 	"""
-	It's my
-	duty to
-	heal you.
+	Es mi
+	deber
+	curarte.
 	"""
 	end
 }
 script 219 mmz2 {
 	"""
-	I change
-	bullets to
-	vitality.
+	Cambio
+	balas por
+	vitalidad.
 	"""
 	end
 }
 script 220 mmz2 {
 	"""
-	I change
-	bullets to
-	vitality.
+	Cambio
+	balas por
+	vitalidad.
 	"""
 	end
 }
 script 221 mmz2 {
 	"""
-	I'll
-	convert
-	bullets.
+	Convertiré
+	las balas.
 	"""
 	end
 }
 script 222 mmz2 {
 	"""
-	The hits I
-	take will
-	heal you.
+	Los golpes
+	que reciba
+	te curarán
 	"""
 	end
 }
 script 223 mmz2 {
 	"""
-	I'll fly
-	drop some
-	items.
+	Volaré y
+	dejaré
+	ítems.
 	"""
 	end
 }
 script 224 mmz2 {
 	"""
-	I'll
-	scatter a
-	few items.
+	Esparciré
+	algunos
+	ítems.
 	"""
 	end
 }
 script 225 mmz2 {
 	"""
-	I'll
-	scatter a
-	few items.
+	Esparciré
+	algunos
+	ítems.
 	"""
 	end
 }
 script 226 mmz2 {
 	"""
-	I'll give
-	you some
-	items.
+	Te daré
+	algunos
+	ítems.
 	"""
 	end
 }
 script 227 mmz2 {
 	"""
-	I help in
-	the fatal
-	zone.
+	Ayudo en
+	la zona
+	fatal.
 	"""
 	end
 }
 script 228 mmz2 {
 	"""
-	I'll teach
-	you how to
-	run fast.
+	Te enseño
+	a correr
+	rápido.
 	"""
 	end
 }
 script 229 mmz2 {
 	"""
-	Climbing
-	is my
-	specialty!
+	¡Escalar
+	es mi
+	fuerza!
 	"""
 	end
 }
 script 230 mmz2 {
 	"""
-	I'll help
-	you defy
-	gravity!
+	Te ayudo a
+	desafiar
+	gravedad.
 	"""
 	end
 }
 script 231 mmz2 {
 	"""
-	You'll
-	never fall
-	with me!
+	¡Nunca
+	caerás
+	conmigo!
 	"""
 	end
 }
 script 232 mmz2 {
 	"""
-	I'll save
-	you form a
-	pit.
+	Te salvaré
+	de un
+	pozo.
 	"""
 	end
 }
 script 233 mmz2 {
 	"""
-	I must
-	save those
-	who fall!
+	¡Debo sal-
+	var a
+	quien cae!
 	"""
 	end
 }
 script 234 mmz2 {
 	"""
-	I'll save
-	you form a
-	pit fall!
+	¡Te salvo
+	de
+	caídas!
 	"""
 	end
 }
 script 235 mmz2 {
 	"""
-	I'll help
-	you out of
-	a hole.
+	Te ayudaré
+	a salir de
+	un agujero
 	"""
 	end
 }
 script 236 mmz2 {
 	"""
-	I'll get
-	you out of
-	any pit!
+	Te saco de
+	cualquier
+	pozo!
 	"""
 	end
 }
 script 237 mmz2 {
 	"""
-	I'll help
-	you out of
-	any hole.
+	Te sacaré
+	de cual-
+	quier pozo
 	"""
 	end
 }
 script 238 mmz2 {
 	"""
-	I'll give
-	you cover
-	fire.
+	Te daré
+	fuego de
+	cobertura.
 	"""
 	end
 }
 script 239 mmz2 {
 	"""
-	I'll help
-	you fight
-	enemies.
+	Te ayudaré
+	a luchar.
 	"""
 	end
 }
 script 240 mmz2 {
 	"""
-	My weapon
-	will give
-	you cover.
+	Mi arma
+	te dará
+	cobertura.
 	"""
 	end
 }
 script 241 mmz2 {
 	"""
-	I'll shoot
-	at your
-	attackers.
+	Dispararé
+	a tus
+	atacantes.
 	"""
 	end
 }
 script 242 mmz2 {
 	"""
-	I'll
-	provide
-	backup.
+	Te daré
+	apoyo.
 	"""
 	end
 }
 script 243 mmz2 {
 	"""
-	My bullets
-	provide
-	backup.
+	Mis balas
+	te darán
+	apoyo.
 	"""
 	end
 }
 script 244 mmz2 {
 	"""
-	I'll cover
-	you!
+	¡Te
+	daré
+	cobertura!
 	"""
 	end
 }
 script 245 mmz2 {
 	"""
-	Use me,if
-	you need
-	back up.
+	Úsame, si
+	necesitas
+	apoyo.
 	"""
 	end
 }
 script 246 mmz2 {
 	"""
-	I stun
-	certain
-	enemies.
+	Aturdo a
+	ciertos
+	enemigos.
 	"""
 	end
 }
 script 247 mmz2 {
 	"""
-	I can stun
-	certain
-	enemies.
+	Aturdiré
+	a ciertos
+	enemigos.
 	"""
 	end
 }
 script 248 mmz2 {
 	"""
-	Your enemy
-	can't
-	shake me!
+	Tu enemigo
+	no puede
+	sacudirme!
 	"""
 	end
 }
 script 249 mmz2 {
 	"""
-	Use me to
-	stun your
-	enemies.
+	Úsame para
+	aturdir
+	enemigos.
 	"""
 	end
 }
 script 250 mmz2 {
 	"""
-	I explode
-	on your
-	enemies!
+	¡Explotaré
+	sobre tus
+	enemigos!
 	"""
 	end
 }
 script 251 mmz2 {
 	"""
-	I can use
-	bullets to
-	explode!
+	Puedo usar
+	balas para
+	explotar!
 	"""
 	end
 }
 script 252 mmz2 {
 	"""
-	I'll eat
-	bullets
-	and burst!
+	¡Comeré
+	balas y
+	explotaré!
 	"""
 	end
 }
 script 253 mmz2 {
 	"""
-	Bullets
-	make me
-	explode!
+	¡Las balas
+	me hacen
+	explotar!
 	"""
 	end
 }
 script 254 mmz2 {
 	"""
-	I'll
-	double
-	your item.
+	Doblaré
+	tus
+	items.
 	"""
 	end
 }
 script 255 mmz2 {
 	"""
-	I'll erase
-	the small
-	enemies!
+	¡Eliminaré
+	a enemigos
+	pequeños!
 	"""
 	end
 }
 script 256 mmz2 {
 	"""
-	I can rub
-	out small
-	enemies!
+	¡Elimino
+	enemigos
+	pequeños!
 	"""
 	end
 }
 script 257 mmz2 {
 	"""
-	I reduce a
-	boss's
-	energy!
+	¡Reduciré
+	energia
+	de jefe!
 	"""
 	end
 }
 script 258 mmz2 {
 	"""
-	I can cut
-	a boss's
-	energy!
+	¡Corto
+	energia de
+	un jefe!
 	"""
 	end
 }
 script 259 mmz2 {
 	"""
-	I'm able
-	to stun
-	enemies.
+	Puedo
+	aturdir
+	enemigos.
 	"""
 	end
 }
 script 260 mmz2 {
 	"""
-	I can stun
-	certain
-	enemies.
+	Aturdo a
+	ciertos
+	enemigos.
 	"""
 	end
 }
 script 261 mmz2 {
 	"""
-	I'll stun
-	enemies
-	for you.
+	Aturdiré
+	enemigos
+	por ti.
 	"""
 	end
 }
 script 262 mmz2 {
 	"""
-	Enemies
-	will get
-	stunned!
+	¡Enemigos
+	serán
+	aturdidos!
 	"""
 	end
 }
 script 263 mmz2 {
 	"""
-	My power
-	can stun
-	enemies.
+	Mi poder
+	aturde
+	enemigos.
 	"""
 	end
 }
 script 264 mmz2 {
 	"""
-	Enemies
-	will get
-	stunned.
+	Enemigos
+	serán
+	aturdidos.
 	"""
 	end
 }
 script 265 mmz2 {
 	"""
-	Charge in
-	less time
-	with me!
+	¡Carga más
+	rápido
+	conmigo!
 	"""
 	end
 }
 script 266 mmz2 {
 	"""
-	I shorten
-	charge
-	time!
+	¡Acorto el
+	tiempo de
+	carga!
 	"""
 	end
 }
 script 267 mmz2 {
 	"""
-	I reduce
-	charge
-	time!
+	Reduzco el
+	tiempo de
+	carga.
 	"""
 	end
 }
 script 268 mmz2 {
 	"""
-	Use me
-	to charge
-	faster!
+	Úsame para
+	cargar más
+	rápido.
 	"""
 	end
 }
 script 269 mmz2 {
 	"""
-	Enemies
-	will drop
-	an item.
+	Enemigos
+	soltarán
+	un ítem.
 	"""
 	end
 }
 script 270 mmz2 {
 	"""
-	Small foe
-	will drop
-	an item.
+	Enemigo
+	peq. suel-
+	ta ítem.
 	"""
 	end
 }
 script 271 mmz2 {
 	"""
-	Use my
-	power to
-	get items.
+	Úsame para
+	obtener
+	ítems.
 	"""
 	end
 }
 script 272 mmz2 {
 	"""
-	I'll make
-	foe drop
-	items!
+	¡Enemigos
+	dejarán
+	ítems!
 	"""
 	end
 }
 script 273 mmz2 {
 	"""
-	I'll turn
-	foe into
+	Convertiré
+	enemigos a
 	Mettalls.
 	"""
 	end
 }
 script 274 mmz2 {
 	"""
-	I'll make
-	foe into
+	Convertiré
+	enemigos a
 	Mettalls.
 	"""
 	end
 }
 script 275 mmz2 {
 	"""
-	I can turn
-	foe into
+	Convierto
+	enemigos a
 	Mettalls.
 	"""
 	end
 }
 script 276 mmz2 {
 	"""
-	Enemies'll
-	turn into
+	¡Enemigos
+	se vuelven
 	Mettalls!
 	"""
 	end
 }
 script 277 mmz2 {
 	"""
-	I'll boost
-	you to
-	level A.
+	Elevaré tu
+	nivel
+	hasta A.
 	"""
 	end
 }
 script 278 mmz2 {
 	"""
-	You'll be
-	at level
+	Estarás
+	en nivel
 	A.
 	"""
 	end
 }
 script 279 mmz2 {
 	"""
-	I'll make
-	you at
-	level A.
+	Te daré
+	rango A.
 	"""
 	end
 }
 script 280 mmz2 {
 	"""
-	Should I
-	make you
-	level A?
+	¿Quieres
+	que te dé
+	rango A?
 	"""
 	end
 }
 script 281 mmz2 {
 	"""
-	You can't
-	have this
-	one yet.
+	No puedes
+	tener
+	este aún.
 	"""
 	end
 }
 script 282 mmz2 {
 	"""
-	This one
-	rests in
-	peace now.
+	Este des-
+	cansa en
+	paz ahora.
 	"""
 	end
 }
 script 283 mmz2 {
 	"""
-	They nurse
-	you back
-	to health.
+	Te cuidan
+	para darte
+	salud.
 	"""
 	end
 }
 script 284 mmz2 {
 	"""
-	They boost
-	your
-	ability.
+	Aumentan
+	tu
+	habilidad.
 	"""
 	end
 }
 script 285 mmz2 {
 	"""
-	They
-	change
-	data.
+	Ellos
+	cambian
+	datos.
 	"""
 	end
 }
 script 287 mmz2 {
 	"""
-	This one
-	is resting
-	in peace.
+	Este ya
+	descansa
+	en paz.
 	"""
 	end
 }
 script 300 mmz2 {
 	"""
-	Your main weapon.
+	Tu arma principal.
 	"""
 	end
 }
 script 301 mmz2 {
 	"""
-	Your sub weapon.
+	Tu sub arma.
 	"""
 	end
 }
@@ -1933,318 +1930,318 @@ script 320 mmz2 {
 }
 script 321 mmz2 {
 	"""
-	Your chosen Element.
+	Tu elemento elejido.
 	"""
 	end
 }
 script 322 mmz2 {
 	"""
-	It acts like electricity.
+	Efecto de electricidad.
 	"""
 	end
 }
 script 323 mmz2 {
 	"""
-	It acts like flame.
+	Efecto de llama.
 	"""
 	end
 }
 script 324 mmz2 {
 	"""
-	It acts like ice.
+	Efecto de hielo.
 	"""
 	end
 }
 script 325 mmz2 {
 	"""
-	Your chosen Cyber-elf.
+	Tu Cyber-elf elegido.
 	"""
 	end
 }
 script 326 mmz2 {
 	"""
-	It doubles your energy.
+	Duplica tu energía.
 	"""
 	end
 }
 script 327 mmz2 {
 	"""
-	Improves your MAX energy.
+	Mejora tu energía MAX.
 	"""
 	end
 }
 script 328 mmz2 {
 	"""
-	It becomes a Sub Tank.
+	Se convierte en Sub Tank.
 	"""
 	end
 }
 script 329 mmz2 {
 	"""
-	It increases continues.
+	Incrementa los continues.
 	"""
 	end
 }
 script 330 mmz2 {
 	"""
-	It recovers some energy.
+	Recupera algo de energía.
 	"""
 	end
 }
 script 331 mmz2 {
 	"""
-	It restores your energy.
+	Restaura tu energía.
 	"""
 	end
 }
 script 332 mmz2 {
 	"""
-	Turns bullets into energy!
+	¡Convierte balas en energía!
 	"""
 	end
 }
 script 333 mmz2 {
 	"""
-	It scatters recovery item.
+	Dispersa ítem de cura
 	"""
 	end
 }
 script 334 mmz2 {
 	"""
-	Protects you in fatal zone.
+	Te protege en zona fatal.
 	"""
 	end
 }
 script 335 mmz2 {
 	"""
-	It increases your speed.
+	Aumenta tu velocidad.
 	"""
 	end
 }
 script 336 mmz2 {
 	"""
-	It quickens your climbing.
+	Acelera tu escalada.
 	"""
 	end
 }
 script 337 mmz2 {
 	"""
-	Reduces wall-sliding speed.
+	Reduce vel. wall-sliding.
 	"""
 	end
 }
 script 338 mmz2 {
 	"""
-	It lets you stand firm.
+	Permite mantenerse firme.
 	"""
 	end
 }
 script 339 mmz2 {
 	"""
-	Rescues you from a hole.
+	Te rescata de un agujero.
 	"""
 	end
 }
 script 340 mmz2 {
 	"""
-	Shoots bullets for cover.
+	Dispara balas de cobertura.
 	"""
 	end
 }
 script 341 mmz2 {
 	"""
-	It sticks to some enemies.
+	Se pega a algunos enemigos.
 	"""
 	end
 }
 script 342 mmz2 {
 	"""
-	It eats bullets to burst.
+	Consume balas para explotar.
 	"""
 	end
 }
 script 343 mmz2 {
 	"""
-	Doubles the item you obtain.
+	Duplica los ítems obtenidos.
 	"""
 	end
 }
 script 344 mmz2 {
 	"""
-	It wipes out some enemies.
+	Elimina algunos enemigos.
 	"""
 	end
 }
 script 345 mmz2 {
 	"""
-	Cuts boss's energy by 50%.
+	Reduce energía del jefe 50%.
 	"""
 	end
 }
 script 346 mmz2 {
 	"""
-	Temporarily stuns some foe.
+	Aturde temporal a enemigos.
 	"""
 	end
 }
 script 347 mmz2 {
 	"""
-	Shortens charge time.
+	Acorta el tiempo de carga.
 	"""
 	end
 }
 script 348 mmz2 {
 	"""
-	Beaten foe will drop items.
+	Enemigos dejarán objetos.
 	"""
 	end
 }
 script 349 mmz2 {
 	"""
-	Turns foe into Mettall.
+	Convierte enemigo a Mettall.
 	"""
 	end
 }
 script 350 mmz2 {
 	"""
-	Boosts Zero's Level to A.
+	Sube el nivel de Zero a A.
 	"""
 	end
 }
 script 351 mmz2 {
 	"""
-	Abort and escape mission.
+	Abortar y dejar la misión.
 	"""
 	end
 }
 script 352 mmz2 {
 	"""
-	Press A Button to escape.
+	Presiona A para escapar.
 	"""
 	end
 }
 script 353 mmz2 {
 	"""
-	You can't escape now!
+	No puedes escapar ahora.
 	"""
 	end
 }
 script 354 mmz2 {
 	"""
-	Store an extra life energy.
+	Almacena una vida extra.
 	"""
 	end
 }
 script 355 mmz2 {
 	"""
-	Remove the chosen Element.
+	Retirar el Elemento elegido.
 	"""
 	end
 }
 script 356 mmz2 {
 	"""
-	Only 3 allowed at a time.
+	Solo se permiten 3 a la vez.
 	"""
 	end
 }
 script 357 mmz2 {
 	"""
-	Only works in a mission.
+	Solo funciona en misión.
 	"""
 	end
 }
 script 360 mmz2 {
 	"""
-	Thank you!
+	¡Gracias!
 	"""
 	end
 }
 script 361 mmz2 {
 	"""
-	Yahoo!
-	Just what
-	I wanted!
+	¡Yahoo!
+	Justo lo
+	que quería
 	"""
 	end
 }
 script 362 mmz2 {
 	"""
-	Thank you,
+	Gracias,
 	Zero.
 	"""
 	end
 }
 script 363 mmz2 {
 	"""
-	Thank you,!
+	¡Gracias,
 	Zero!
 	"""
 	end
 }
 script 364 mmz2 {
 	"""
-	Thanks for
-	feeding
-	me, Zero.
+	Gracias
+	por la
+	comida
 	"""
 	end
 }
 script 365 mmz2 {
 	"""
-	I've grown
-	thanks to
-	you, Zero.
+	He crecido
+	gracias a
+	ti, Zero.
 	"""
 	end
 }
 script 366 mmz2 {
 	"""
-	Yummy!
-	Yummy!
+	Delicioso!
+	Delicioso!
 	"""
 	end
 }
 script 367 mmz2 {
 	"""
-	Thank you!
+	¡Gracias!
 	"""
 	end
 }
 script 368 mmz2 {
 	"""
-	I need
-	more to
-	grow up...
+	Necesito
+	más para
+	crecer...
 	"""
 	end
 }
 script 369 mmz2 {
 	"""
-	Zero, give
-	me more,
-	please...!
+	Zero, dame
+	más, por
+	favor...!
 	"""
 	end
 }
 script 370 mmz2 {
 	"""
-	Just a
-	little
-	more.
+	Solo un
+	poco
+	más.
 	"""
 	end
 }
 script 371 mmz2 {
 	"""
-	I feel
-	wonderful,
-	thanks.
+	Me siento
+	bien,
+	gracias.
 	"""
 	end
 }
 script 372 mmz2 {
 	"""
-	I need
+	¡Necesito
 	Energy
 	Crystals!
 	"""
@@ -2252,50 +2249,50 @@ script 372 mmz2 {
 }
 script 373 mmz2 {
 	"""
-	Please
-	feed me...
+	Por favor
+	aliméntame
 	"""
 	end
 }
 script 380 mmz2 {
 	"""
-	Press the A Button.
+	Presiona el botón A.
 	"""
 	end
 }
 script 381 mmz2 {
 	"""
-	Choose an Elf.
+	Elige un Elf.
 	"""
 	end
 }
 script 382 mmz2 {
 	"""
-	Press A Button to remove.
+	Presiona A para remover.
 	"""
 	end
 }
 script 383 mmz2 {
 	"""
-	You've already used it.
+	Ya lo has usado.
 	"""
 	end
 }
 script 384 mmz2 {
 	"""
-	The Elf has not grown up.
+	El Elf no ha crecido.
 	"""
 	end
 }
 script 385 mmz2 {
 	"""
-	Already been downloaded.
+	Ya ha sido descargado.
 	"""
 	end
 }
 script 386 mmz2 {
 	"""
-	Choose and press A Button.
+	Elige y presiona el botón A.
 	"""
 	end
 }
@@ -2307,65 +2304,67 @@ script 387 mmz2 {
 }
 script 388 mmz2 {
 	"""
-	To Give / Required
+	A Entregar / Requerido
 	"""
 	end
 }
 script 389 mmz2 {
 	"""
-	It's already fully-grown.
+	Ya creció completamente.
 	"""
 	end
 }
 script 390 mmz2 {
 	"""
-	You've used it already.
+	Ya lo has usado.
 	"""
 	end
 }
 script 391 mmz2 {
 	"""
-	It doesn't need raising.
+	No necesita crecer.
 	"""
 	end
 }
 script 392 mmz2 {
 	"""
-	Choose a Cyber-elf.
+	Elige un Cyber-Elf.
 	"""
 	end
 }
 script 395 mmz2 {
 	"""
-	OK to save the current data?
-	  YES
+	¿Guardar los datos actuales?
+	  SÍ
 	  NO
 	"""
 	end
 }
 script 396 mmz2 {
 	"""
-	To which file?
+	¿En qué archivo?
 	"""
 	end
 }
 script 397 mmz2 {
 	"""
-	Data has been saved.
+	Los datos han sido
+	guardados.
 	"""
 	end
 }
 script 398 mmz2 {
 	"""
-	Okay to overwrite?
-	  YES
+	OK para sobrescribir?
+	  SÍ
 	  NO
 	"""
 	end
 }
 script 399 mmz2 {
 	"""
-	Data has been overwriten.
+	Los datos han sido
+	sobrescritos.
 	"""
 	end
 }
@@ -2933,22 +2932,23 @@ script 459 mmz2 {
 }
 script 501 mmz2 {
 	"""
-	To play the HARD mode,
-	save game-clear data, then
-	hold L Button down when
-	you choose "NEW GAME".
+	Para jugar en HARD mode,
+	guarda los datos, luego
+	mantén presionado el Botón
+	L al elegir "NEW GAME".
 	"""
 	end
 }
 script 502 mmz2 {
 	"""
-	Once you save the HARD mode
-	game-clear data,keep Select
-	and L Buttons down and
-	choose "NEW GAME," then you
-	can enter the Gallery. When
-	you exit from Gallery, press
-	Start.
+	Después de guardar los datos
+	de juego completado en modo
+	DIFÍCIL, mantén presionados
+	Select y L, y selecciona
+	"NEW GAME" para poder
+	acceder a la Galería. Al
+	salir de la Galería,
+	presiona Start.
 	"""
 	end
 }
@@ -3664,17 +3664,19 @@ script 691 mmz2 {
 }
 script 692 mmz2 {
 	"""
-	Exit game & return to
-	the title screen.Game
-	progress will be lost.
+	Salir del juego y volver
+	a la pantalla de título.
+	El progreso se perderá.
 	"""
 	end
 }
 script 693 mmz2 {
 	"""
-	Exit to main title
-	screen.Unsaved game
-	progress will be lost.
+	Salir a la pantalla
+	de título principal
+	El progreso no guar-
+	dado se perderá
 	"""
 	end
+
 }
