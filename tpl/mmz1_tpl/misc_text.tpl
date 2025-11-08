@@ -1327,8 +1327,8 @@ script 211 mmz1 {
 script 212 mmz1 {
 	"""
 	Puedo
-	ayudar a
-	tu herida.
+	curar tus
+	heridas.
 	"""
 	end
 }
@@ -1453,9 +1453,9 @@ script 227 mmz1 {
 }
 script 228 mmz1 {
 	"""
-	Te enseña-
-	ré a corr-
-	er rápido.
+	Te enseño
+	a correr
+	rápido.
 	"""
 	end
 }
@@ -1564,17 +1564,16 @@ script 241 mmz1 {
 }
 script 242 mmz1 {
 	"""
-	Proporcio-
-	naré
-	refuerzos.
+	Te daré
+	apoyo.
 	"""
 	end
 }
 script 243 mmz1 {
 	"""
 	Mis balas
-	dan
-	refuerzos.
+	te darán
+	apoyo.
 	"""
 	end
 }
@@ -1700,9 +1699,9 @@ script 258 mmz1 {
 }
 script 259 mmz1 {
 	"""
-	¡Aturdiré
-	a tus
-	enemigos!
+	Aturdiré
+	enemigos
+	por ti.
 	"""
 	end
 }
@@ -2262,7 +2261,7 @@ script 335 mmz1 {
 }
 script 336 mmz1 {
 	"""
-	Te permite mantener firmeza.
+	Permite mantenerse firme.
 	"""
 	end
 }
@@ -2274,7 +2273,7 @@ script 337 mmz1 {
 }
 script 338 mmz1 {
 	"""
-	Dispara balas para cobertura
+	Dispara balas de cobertura.
 	"""
 	end
 }
@@ -2286,7 +2285,7 @@ script 339 mmz1 {
 }
 script 340 mmz1 {
 	"""
-	Come balas y explota.
+	Consume balas para explotar.
 	"""
 	end
 }
@@ -2328,7 +2327,7 @@ script 346 mmz1 {
 }
 script 347 mmz1 {
 	"""
-	Convierte enemigos a Mettall
+	Convierte enemigo a Mettall.
 	"""
 	end
 }
@@ -2358,13 +2357,13 @@ script 351 mmz1 {
 }
 script 352 mmz1 {
 	"""
-	Almacena energía vida extra.
+	Almacena una vida extra.
 	"""
 	end
 }
 script 353 mmz1 {
 	"""
-	Retirar el Elemento elegido
+	Retirar el Elemento elegido.
 	"""
 	end
 }
@@ -2410,7 +2409,7 @@ script 363 mmz1 {
 }
 script 364 mmz1 {
 	"""
-	Gracias 
+	Gracias
 	por la
 	comida
 	"""
@@ -2534,7 +2533,7 @@ script 387 mmz1 {
 }
 script 388 mmz1 {
 	"""
-	To Give / Required
+	A Entregar / Requerido
 	"""
 	end
 }
