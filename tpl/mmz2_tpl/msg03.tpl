@@ -486,9 +486,9 @@ script 29 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	De acuerdo, me
-	retiraré. Estaré
-	un rato en
+	De acuerdo, te
+	dejaré descansar.
+	Estaré un rato en
 	"""
 	msgClear
 	"""

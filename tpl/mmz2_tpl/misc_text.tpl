@@ -2092,7 +2092,7 @@ script 347 mmz2 {
 }
 script 348 mmz2 {
 	"""
-	Enemigos dejarán objetos.
+	Enemigos dejarán ítems.
 	"""
 	end
 }
@@ -2750,13 +2750,15 @@ script 409 mmz2 {
 }
 script 410 mmz2 {
 	"""
-	NEW RESISTANCE BASE
+	NUEVA BASE DE
+	LA RESISTENCIA
 	"""
 	end
 }
 script 411 mmz2 {
 	"""
-	MAINTENANCE ROOM
+	SALA DE
+	MANTENIMIENTO
 	"""
 	end
 }
@@ -3678,5 +3680,4 @@ script 693 mmz2 {
 	dado se perderá
 	"""
 	end
-
 }
