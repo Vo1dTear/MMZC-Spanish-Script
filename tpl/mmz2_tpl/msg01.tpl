@@ -99,7 +99,7 @@ script 8 mmz2 {
 	"""
 	msgClear
 	"""
-	double slash!!
+	doble slash!!
 	"""
 	end
 }

@@ -277,65 +277,65 @@ script 61 mmz2 {
 }
 script 63 mmz2 {
 	"""
-	AREA:FOREST OF DYSIS
-	BOSS:HYLEG OUROBOCKLE
-	MISSION:RESCUE R.
+	ÁREA:FOREST OF DYSIS
+	JEFE:HYLEG OUROBOCKLE
+	MISIÓN:RESCATAR R.
 	"""
 	end
 }
 script 64 mmz2 {
 	"""
-	AREA:COMPUTER ZONE
-	BOSS:POLER KAMROUS
-	MISSION:DESTROY C.Z.
+	ÁREA:COMPUTER ZONE
+	JEFE:POLER KAMROUS
+	MISIÓN:DESTRUIR C.Z.
 	"""
 	end
 }
 script 65 mmz2 {
 	"""
-	AREA:POWER ROOM
-	BOSS:PHOENIX MAGNION
-	MISSION:DESTROY P.R.
+	ÁREA:POWER ROOM
+	JEFE:PHOENIX MAGNION
+	MISIÓN:DESTRUIR P.R.
 	"""
 	end
 }
 script 66 mmz2 {
 	"""
-	AREA:TRAIN OF N.A.
-	BOSS:PANTER FLAUCLAWS
-	MISSION:ROB GOODS
+	ÁREA:TRAIN OF N.A.
+	JEFE:PANTER FLAUCLAWS
+	MISIÓN:ROBAR SUMINISTROS
 	"""
 	end
 }
 script 67 mmz2 {
 	"""
-	AREA:FOREST OF NOTUS
-	BOSS:BURBLE HEKELOT
-	MISSION:CHASE ELPIZO
+	ÁREA:FOREST OF NOTUS
+	JEFE:BURBLE HEKELOT
+	MISIÓN:PERSEGUIR A ELPIZO
 	"""
 	end
 }
 script 68 mmz2 {
 	"""
-	AREA:COMPUTER ZONE 2
-	BOSS:FAIRY LEVIATHAN
-	MISSION:CHASE ELPIZO
+	ÁREA:COMPUTER ZONE 2
+	JEFE:FAIRY LEVIATHAN
+	MISIÓN:PERSEGUIR A ELPIZO
 	"""
 	end
 }
 script 69 mmz2 {
 	"""
-	AREA:CRYSTAL CAVE
-	BOSS:SAGE HARPUIA
-	MISSION:CHASE ELPIZO
+	ÁREA:CRYSTAL CAVE
+	JEFE:SAGE HARPUIA
+	MISIÓN:PERSEGUIR A ELPIZO
 	"""
 	end
 }
 script 70 mmz2 {
 	"""
-	AREA:SHUTTLE FACTORY
-	BOSS:FIGHTING FEFNIR
-	MISSION:CHASE ELPIZO
+	ÁREA:SHUTTLE FACTORY
+	JEFE:FIGHTING FEFNIR
+	MISIÓN:PERSEGUIR A ELPIZO
 	"""
 	end
 }
@@ -501,39 +501,38 @@ script 90 mmz2 {
 }
 script 91 mmz2 {
 	"""
-	You've already
-	accomplished this
-	mission.
+	Ya has completado
+	esta misión.
 	"""
 	end
 }
 script 95 mmz2 {
 	"""
-	How can I help you?
+	¿Cómo puedo ayudar?
 	"""
 	end
 }
 script 96 mmz2 {
 	"""
-	BEGIN MISSION
+	COMENZAR MISIÓN
 	"""
 	end
 }
 script 97 mmz2 {
 	"""
-	PROCESS DATA
+	PROCESAR DATOS
 	"""
 	end
 }
 script 98 mmz2 {
 	"""
-	PROCESS CYBER-ELF
+	PROCESAR CYBER-ELF
 	"""
 	end
 }
 script 99 mmz2 {
 	"""
-	TALK
+	HABLAR
 	"""
 	end
 }

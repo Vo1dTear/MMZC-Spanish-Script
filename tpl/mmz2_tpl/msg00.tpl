@@ -5,14 +5,14 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I'm sorry. I was
-	too harsh...
+	Lo siento. Fui
+	demasiado duro...
 	"""
 	msgClear
 	"""
-	Needless to say,
-	we still appreciate
-	your cooperation.
+	De todos modos,
+	apreciamos mucho
+	tu cooperación.
 	"""
 	end
 }
@@ -20,8 +20,8 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Umm, will you help?
-	  YES
+	Em... ¿Me ayudarás?
+	  SÍ
 	  NO
 	"""
 	end
@@ -30,13 +30,13 @@ script 2 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Thank you. Now,
-	here is the current
-	missions I'd like
+	Gracias. Ahora,
+	estas son las
+	misiones que
 	"""
 	msgClear
 	"""
-	to ask of you...
+	quisiera pedirte...
 	"""
 	end
 }
@@ -45,21 +45,20 @@ script 3 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	Look at the monitor.
-	Can you see them?
-	They may not be
+	Mira el monitor.
+	¿Puedes verlos?
+	Quizás no sean
 	"""
 	msgClear
 	"""
-	enough of a
-	challenge for a
-	legendary
+	un gran desafío
+	para un héroe
+	legendario,
 	"""
 	msgClear
 	"""
-	hero, but it would
-	be very appreciated
-	if you help us.
+	pero apreciaríamos
+	mucho tu ayuda.
 	"""
 	end
 }
@@ -68,9 +67,9 @@ script 4 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	I'll bet that
-	Elpizo is in one
-	of these areas.
+	Apuesto a que
+	Elpizo está en
+	una de estas áreas.
 	"""
 	end
 }
@@ -78,32 +77,31 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Ha ha ha. Don't
-	worry. You have
-	been a big help
+	Ja ja ja. No te
+	preocupes. Has sido
+	de gran ayuda,
 	"""
 	msgClear
 	"""
-	and we can't
-	complain, even
-	if you refuse to
+	y no podemos
+	quejarnos, incluso
+	si ahora te niegas
 	"""
 	msgClear
 	"""
-	help us now.
-	Just leave
-	everything to me,
+	a ayudarnos.
+	Deja todo en mis
+	manos, y deberías
 	"""
 	msgClear
 	"""
-	and you should
-	rest for a while.
-	We will destroy
+	descansar un poco.
+	Destruiremos Neo
+	Arcadia por
 	"""
 	msgClear
 	"""
-	Neo Arcadia by
-	ourselves.
+	nuestra cuenta.
 	"""
 	end
 }
@@ -111,25 +109,25 @@ script 6 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Hmm? What is it
-	now?
+	¿Hmm? ¿Qué pasa
+	ahora?
 	"""
 	msgClear
 	"""
-	Our operations are
-	smooth and right
-	on track.
+	Nuestras operaciones
+	van bien y todo está
+	en marcha.
 	"""
 	msgClear
 	"""
-	You don't need to
-	worry...
+	No necesitas
+	preocuparte...
 	"""
 	msgClear
 	"""
-	Or, are you getting
-	bored of the quiet
-	life already?
+	¿O ya te estás
+	aburriendo de esta
+	vida tranquila?
 	"""
 	end
 }
@@ -137,9 +135,9 @@ script 7 mmz2 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Speak with whom?
+	¿Con quién hablar?
 	  ELPIZO
-	  OPERATOR
+	  OPERADORA
 	"""
 	end
 }
@@ -147,9 +145,9 @@ script 8 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	What's up?
-	  BEGIN MISSION
-	  TALK
+	¿Qué ocurre?
+	  COMENZAR MISIÓN
+	  HABLAR
 	"""
 	end
 }
@@ -157,25 +155,26 @@ script 9 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Thanks to you, we
-	have completed our
-	preparations for
+	Gracias a ti, hemos
+	completado nuestros
+	preparativos para
 	"""
 	msgClear
 	"""
-	our all-out attack.
-	Now leave
-	everything to us.
+	nuestro ataque
+	a gran escala.
+	Ahora déjanos
 	"""
 	msgClear
 	"""
-	You can save your
-	current data, and
-	take a rest. You
+	el resto a nosotros.
+	Puedes guardar tus
+	datos actuales y
 	"""
 	msgClear
 	"""
-	deserve it.
+	descansar un poco.
+	Te lo mereces.
 	"""
 	end
 }
@@ -183,9 +182,9 @@ script 10 mmz2 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Speak with whom?
+	¿Con quién hablar?
 	  CIEL
-	  OPERATOR
+	  OPERADORA
 	"""
 	end
 }
@@ -193,9 +192,9 @@ script 11 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	How can I help you?
-	  BEGIN MISSION
-	  PROCESS DATA
+	¿Cómo puedo ayudar?
+	  COMENZAR MISIÓN
+	  PROCESAR DATOS
 	"""
 	end
 }
@@ -208,9 +207,9 @@ script 15 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Why don't we
-	review a different
-	mission...
+	¿Por qué no
+	revisamos una
+	misión diferente...?
 	"""
 	end
 }
@@ -218,8 +217,8 @@ script 16 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Which are you
-	interested in?
+	¿En cuál estás
+	interesado?
 	"""
 	end
 }
@@ -227,9 +226,9 @@ script 17 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I think that you
-	might be ready
-	for this one.
+	Creo que podrías
+	estar listo para
+	esta misión.
 	"""
 	end
 }
@@ -237,15 +236,15 @@ script 18 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Zero, this is the
-	only place you
-	haven't checked...
+	Zero, este es el
+	único lugar que no
+	has revisado...
 	"""
 	msgClear
 	"""
-	If you feel like
-	going there, talk
-	to me, all right?
+	Si quieres ir allí,
+	habla conmigo,
+	¿de acuerdo?
 	"""
 	end
 }
@@ -260,57 +259,58 @@ script 20 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	In this mission
-	I'd like you to
-	rescue our
+	En esta misión
+	quiero que rescates
+	a nuestros
 	"""
 	msgClear
 	"""
-	comrades.
+	compañeros.
 	"""
 	msgClear
 	"""
-	There are ruins
-	known as Dysis
-	deep in the
+	Hay unas ruinas
+	conocidas como
+	Dysis, en lo
 	"""
 	msgClear
 	"""
-	forests.
+	profundo del bosque.
 	"""
 	msgClear
 	"""
-	Scout soldiers who
-	went there to
-	investigate, have
+	Los exploradores
+	que fueron allí a
+	investigar no han
 	"""
 	msgClear
 	"""
-	not returned yet.
-	I'd like to send
-	someone to rescue
+	regresado aún.
+	Quisiera enviar a
+	alguien a
 	"""
 	msgClear
 	"""
-	them, but
-	considering our
-	current state of
+	rescatarlos, pero
+	considerando nuestro
+	estado actual de
 	"""
 	msgClear
 	"""
-	preparing for the
-	coming operations,
-	we don't have a
+	preparación para
+	las próximas
+	operaciones,
 	"""
 	msgClear
 	"""
-	soldier available.
+	no tenemos ningún
+	soldado disponible.
 	"""
 	msgClear
 	"""
-	I'm very sorry to
-	bother you, but
-	will you find and
+	Lamento molestarte,
+	pero ¿podrías ir a
+	buscarlos?
 	"""
 	end
 }
@@ -319,8 +319,8 @@ script 21 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	rescue them?
-	  YES
+	¿Rescatarlos?
+	  SÍ
 	  NO
 	"""
 	end
@@ -330,38 +330,42 @@ script 22 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	This mission is
-	about sabotage.
-	There is one of
+	Esta misión trata
+	de sabotaje. Hay
+	una de las
 	"""
 	msgClear
 	"""
-	the computers in
-	Antarctica which
-	controls the
+	computadoras en
+	la Antártida que
+	controla el
 	"""
 	msgClear
 	"""
-	defense system
-	of Neo Arcadia.
+	sistema de defensa
+	de Neo Arcadia.
 	"""
 	msgClear
 	"""
-	Once you destroy the
-	guardian boss and
-	the computer room,
+	Cuando destruyas al
+	jefe guardián y la
+	sala del servidor,
 	"""
 	msgClear
 	"""
-	the defense of the
-	enemy stronghold
-	will be weakened
+	la defensa de la
+	fortaleza enemiga
+	se debilitará lo
 	"""
 	msgClear
 	"""
-	enough to carry
-	out "Operation
-	Righteous Strike."
+	suficiente para
+	llevar a cabo la
+	"""
+	msgClear
+	"""
+	“Operación Golpe
+	Justo”.
 	"""
 	end
 }
@@ -370,8 +374,8 @@ script 23 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	Will you do this?
-	  YES
+	¿Harás esto?
+	  SÍ
 	  NO
 	"""
 	end
@@ -381,43 +385,49 @@ script 24 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	There is no way
-	to exterminate
-	all of Neo Arcadia.
+	No hay forma de
+	exterminar a
+	toda Neo Arcadia.
 	"""
 	msgClear
 	"""
-	The rumor says that
-	there is an arms
-	factory in a city
+	Los rumores dicen
+	que hay una fábrica
+	de armas en una
 	"""
 	msgClear
 	"""
-	situated at about
-	100km north of our
-	Resistance Base...
+	ciudad situada a
+	unos 100 km al
+	norte de nuestra
 	"""
 	msgClear
 	"""
-	We found a power
-	reactor supplying
-	electricity to the
+	Base de la
+	Resistencia...
 	"""
 	msgClear
 	"""
-	factory close to
-	there.
+	Hemos encontrado
+	un reactor que
+	suministra
 	"""
 	msgClear
 	"""
-	If we destroy the
-	power reactor, we
-	would be able to
+	electricidad a la
+	fábrica cerca
+	de allí.
 	"""
 	msgClear
 	"""
-	limit their number
-	of enemy soldier.
+	Si destruimos el
+	reactor, podremos
+	reducir el número
+	"""
+	msgClear
+	"""
+	de soldados
+	enemigos.
 	"""
 	end
 }
@@ -426,8 +436,8 @@ script 25 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	Will you do it?
-	  YES
+	¿Lo harás?
+	  SÍ
 	  NO
 	"""
 	end
@@ -437,33 +447,32 @@ script 26 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	In this mission
-	I'd like you to
-	seize supplies.
+	En esta misión
+	quiero que te
+	apoderes de
 	"""
 	msgClear
 	"""
-	Currently we are
-	moving a large
-	amount of troops,
+	los suministros.
+	Ahora estamos
+	moviendo una gran
 	"""
 	msgClear
 	"""
-	but we are a
-	little short on
-	supplies.
+	cantidad de tropas,
+	pero nos faltan
+	suministros.
 	"""
 	msgClear
 	"""
-	Therefore, we
-	are thinking
-	about assaulting
+	Por ello, pensamos
+	asaltar un
+	transporte enemigo
 	"""
 	msgClear
 	"""
-	an enemy transport
-	and seizing their
-	supplies.
+	y apoderarnos de
+	sus suministros.
 	"""
 	end
 }
@@ -472,8 +481,8 @@ script 27 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	Will you help?
-	  YES
+	¿Me ayudarás?
+	  SÍ
 	  NO
 	"""
 	end
@@ -483,33 +492,37 @@ script 28 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	This must be the
-	ruins of the lost
-	civilization which
+	Estas deben ser
+	las ruinas de la
+	civilización perdida
 	"""
 	msgClear
 	"""
-	Neo Arcadia has
-	been administrating.
-	This area is
+	que Neo Arcadia
+	ha estado
+	administrando.
 	"""
 	msgClear
 	"""
-	considered to be
-	forbidden land,
-	where even the
+	Esta zona se
+	considera tierra
 	"""
 	msgClear
 	"""
-	Neo Arcadian
-	citizens are not
-	allowed to enter...
+	prohibida, donde
+	incluso los
 	"""
 	msgClear
 	"""
-	I don't understand
-	why Elpizo went
-	there...
+	ciudadanos de Neo
+	Arcadia no pueden
+	entrar...
+	"""
+	msgClear
+	"""
+	No entiendo por
+	qué Elpizo fue
+	ahí...
 	"""
 	end
 }
@@ -518,8 +531,8 @@ script 29 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	Will you go there?
-	  YES
+	¿Quieres ir allí?
+	  SÍ
 	  NO
 	"""
 	end
@@ -529,37 +542,41 @@ script 30 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	This is Neo
-	Arcadia's computer
-	facility in
+	Esta es la
+	instalación
 	"""
 	msgClear
 	"""
-	Antarctica. You
-	have destroyed most
-	of it, but some of
+	informática de
+	Neo Arcadia en
 	"""
 	msgClear
 	"""
-	the systems are
-	still alive. Elpizo
-	seems to be trying
+	la Antártida. Has
+	destruido la mayor
+	parte, pero algunos
 	"""
 	msgClear
 	"""
-	to find out the
-	secret code to go
-	into the facilities
+	sistemas siguen
+	funcionando. Parece
+	que Elpizo intenta
 	"""
 	msgClear
 	"""
-	in Neo Arcadia... I
-	wonder if he intends
-	to break into Neo
+	descubrir el código
+	secreto para entrar
+	en las instalaciones
 	"""
 	msgClear
 	"""
-	Arcadia alone...
+	de Neo Arcadia... Me
+	pregunto si piensa
+	entrar a Neo
+	"""
+	msgClear
+	"""
+	Arcadia solo...
 	"""
 	msgSubEnd
 	"""
@@ -573,8 +590,8 @@ script 31 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	Will you go there?
-	  YES
+	¿Quieres ir allí?
+	  SÍ
 	  NO
 	"""
 	end
@@ -584,43 +601,37 @@ script 32 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	This is the crystal
-	cave where the
-	bombardment
+	Esta es la cueva de
+	cristal donde se
+	estrelló la nave
 	"""
 	msgClear
 	"""
-	aircraft that we
-	destroyed has
-	crashed... Elpizo
+	de bombardeo que
+	destruimos... Parece
+	que Elpizo estuvo
 	"""
 	msgClear
 	"""
-	seems to have been
-	there to look for
-	something, but I
+	allí buscando algo,
+	pero no sé qué es...
+	Como el área está
 	"""
 	msgClear
 	"""
-	don't know what it
-	is... Since the area
-	is very close to
+	muy cerca de nuestra
+	base, pedí a algunos
+	soldados de la
 	"""
 	msgClear
 	"""
-	our base, I asked
-	some resistance
-	soldiers to look
+	Resistencia que
+	busquen a Elpizo. No
+	sé si podrán hacerlo
 	"""
 	msgClear
 	"""
-	for Elpizo. I don't
-	know if they can
-	manage by
-	"""
-	msgClear
-	"""
-	themselves.
+	por sí mismos.
 	"""
 	end
 }
@@ -629,8 +640,8 @@ script 33 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	Will you help them?
-	  YES
+	¿Los ayudarás?
+	  SÍ
 	  NO
 	"""
 	end
@@ -640,36 +651,36 @@ script 34 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	This is a
-	redundant factory.
+	Esta es una
+	fábrica en desuso.
 	"""
 	msgClear
 	"""
-	But I guess they
-	reconstructed it,
-	and it was working
+	Pero supongo que la
+	reconstruyeron y que
+	funcionaba a
 	"""
 	msgClear
 	"""
-	on a small scale...
-	Why this place,
-	anyway?
+	pequeña escala...
+	¿Por qué este lugar,
+	de todos modos?
 	"""
 	msgClear
 	"""
-	What did Elpizo go
-	to this factory for?
-	I don't understand.
+	¿A qué fue Elpizo a
+	esta fábrica? No lo
+	entiendo.
 	"""
 	msgClear
 	"""
-	Still, one thing I'm
-	certain is that it's
-	too dangerous to
+	Aun así, algo de lo
+	que estoy segura es
+	que es muy peligroso
 	"""
 	msgClear
 	"""
-	act alone.
+	actuar solo.
 	"""
 	end
 }
@@ -677,7 +688,7 @@ script 35 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Please stop him.
+	Por favor, deténlo.
 	  YES
 	  NO
 	"""
@@ -687,14 +698,14 @@ script 36 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	You are about to go
-	to the first area of
+	Estás a punto de ir
+	a la primer área de
 	Neo Arcadia...
 	"""
 	msgClear
 	"""
-	It's the temple of
-	flame.
+	Es el templo de
+	la llama.
 	"""
 	end
 }
@@ -702,8 +713,8 @@ script 37 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Are you sure?
-	  YES
+	¿Estás seguro?
+	  SÍ
 	  NO
 	"""
 	end
@@ -712,14 +723,14 @@ script 38 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	You are about to go
-	to the second area
-	of Neo Arcadia...
+	Estás a punto de ir
+	a la segunda área
+	de Neo Arcadia...
 	"""
 	msgClear
 	"""
-	It's the temple of
-	ice.
+	Es el templo del
+	hielo.
 	"""
 	end
 }
@@ -727,8 +738,8 @@ script 39 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Can you do it?
-	  YES
+	¿Puedes hacerlo?
+	  SÍ
 	  NO
 	"""
 	end
@@ -737,20 +748,20 @@ script 40 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	You are about to go
-	to the third area
-	of Neo Arcadia...
+	Estás a punto de ir
+	a la tercera área
+	de Neo Arcadia...
 	"""
 	msgClear
 	"""
-	It's the temple of
-	wind. This is the
-	last area before
+	Es el templo del
+	viento. Esta es la
+	última área antes
 	"""
 	msgClear
 	"""
-	the Arcadia
-	capital.
+	de la capital de
+	Arcadia.
 	"""
 	end
 }
@@ -758,8 +769,8 @@ script 41 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Want to go there?
-	  YES
+	¿Quieres ir ahí?
+	  SÍ
 	  NO
 	"""
 	end
@@ -768,8 +779,8 @@ script 42 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	At last... Here is
-	the final area of...
+	Al fin... Aquí está
+	el área final de...
 	Neo Arcadia.
 	"""
 	end
@@ -778,8 +789,8 @@ script 43 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Will you go...?
-	  YES
+	¿Irás...?
+	  SÍ
 	  NO
 	"""
 	end
@@ -788,13 +799,14 @@ script 50 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Mission
-	commencing...
+	Misión
+	comenzando...
 	"""
 	msgClear
 	"""
-	Everyone, prepare
-	for the transfer.
+	Todos, prepárense
+	para la
+	transferencia.
 	"""
 	end
 }
@@ -802,8 +814,9 @@ script 51 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	We are now ready
-	to transfer...
+	Ahora estamos listos
+	para la
+	transferencia...
 	"""
 	end
 }
@@ -811,7 +824,8 @@ script 52 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	Transfer start!
+	¡Iniciando
+	transferencia!
 	"""
 	end
 }
@@ -819,7 +833,7 @@ script 53 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Good Luck.
+	Buena suerte.
 	"""
 	end
 }
@@ -827,8 +841,8 @@ script 54 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	I wish you
-	good luck.
+	Te deseo
+	buena suerte.
 	"""
 	end
 }
@@ -836,9 +850,8 @@ script 55 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Please don't
-	overstrain
-	yourself...
+	Por favor, no te
+	exijas demasiado...
 	"""
 	end
 }
@@ -846,8 +859,8 @@ script 56 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Mission
-	accomplished.
+	Misión
+	cumplida.
 	"""
 	end
 }
@@ -855,16 +868,16 @@ script 57 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	Transfer in
-	progress...
+	Transferencia en
+	progreso...
 	"""
 	msgClear
 	"""
-	Two...
+	Dos...
 	"""
 	msgClear
 	"""
-	One...
+	Uno...
 	"""
 	end
 }
@@ -872,7 +885,8 @@ script 59 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Transfer complete.
+	Transferencia
+	completada.
 	"""
 	end
 }
@@ -880,13 +894,13 @@ script 60 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Zero is going to
-	take to the field.
+	Zero va a entrar
+	en acción.
 	"""
 	msgClear
 	"""
-	Everyone, prepare
-	to transfer.
+	Todos, prepárense
+	para transferir.
 	"""
 	end
 }
@@ -894,7 +908,8 @@ script 61 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Zero is returning.
+	Zero está
+	regresando.
 	"""
 	end
 }
@@ -902,7 +917,7 @@ script 70 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	Where to transfer?
+	¿A dónde transferir?
 	"""
 	end
 }
@@ -912,7 +927,7 @@ script 71 mmz2 {
 	"""
 	SAND WILDERNESS?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -922,7 +937,7 @@ script 72 mmz2 {
 	"""
 	FOREST OF DYSIS?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -932,7 +947,7 @@ script 73 mmz2 {
 	"""
 	ENTRANCE OF C.F.?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -942,7 +957,7 @@ script 74 mmz2 {
 	"""
 	POWER ROOM?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -952,7 +967,7 @@ script 75 mmz2 {
 	"""
 	TRAIN?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -962,7 +977,7 @@ script 76 mmz2 {
 	"""
 	RESIDENTIAL AREA?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -972,7 +987,7 @@ script 77 mmz2 {
 	"""
 	BROKEN AIRCRAFT?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -982,7 +997,7 @@ script 78 mmz2 {
 	"""
 	ROOF OF C.F.?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -992,7 +1007,7 @@ script 79 mmz2 {
 	"""
 	FOREST OF NOTUS?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -1002,7 +1017,7 @@ script 80 mmz2 {
 	"""
 	CRYSTAL CAVE?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -1012,7 +1027,7 @@ script 81 mmz2 {
 	"""
 	SHUTTLE FACTORY?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -1022,7 +1037,7 @@ script 82 mmz2 {
 	"""
 	NEO ARCADIA TEMPLE?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -1032,7 +1047,7 @@ script 83 mmz2 {
 	"""
 	TEMPLE OF FIRE?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -1042,7 +1057,7 @@ script 84 mmz2 {
 	"""
 	TEMPLE OF ICE?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -1052,7 +1067,7 @@ script 85 mmz2 {
 	"""
 	TEMPLE OF WIND?
 	  OK
-	  CANCEL
+	  CANCELAR
 	"""
 	end
 }
@@ -1060,13 +1075,12 @@ script 100 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	What's up?
+	¿Qué ocurre?
 	"""
 	msgClear
 	"""
-	Please tell me
-	what you want
-	to do...
+	Por favor, dime
+	qué quieres hacer...
 	"""
 	end
 }
@@ -1074,9 +1088,9 @@ script 101 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	  PROCESS DATA
-	  ASK ABOUT CYBER-ELF
-	  TALK
+	  PROCESAR DATOS
+	  SOBRE CYBER-ELF
+	  HABLAR
 	"""
 	end
 }
@@ -1084,9 +1098,9 @@ script 102 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	  PROCESS DATA
-	  ASK ABOUT CYBER-ELF
-	  TALK
+	  PROCESAR DATOS
+	  SOBRE CYBER-ELF
+	  HABLAR
 	"""
 	end
 }
@@ -1094,53 +1108,47 @@ script 103 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Just incase you
-	forgot, the
-	Cyber-elf is a
+	Por si lo olvidaste,
+	el Cyber-elf es un
+	tipo de programa
 	"""
 	msgClear
 	"""
-	type of program,
-	which was
-	created to
+	que fue creado
+	para apoyarnos.
 	"""
 	msgClear
 	"""
-	support us.
+	Normalmente puedes
+	utilizarlo tras
+	descargarlo.
 	"""
 	msgClear
 	"""
-	Usually you can use
-	it after you
-	download it.
+	Pero algunos no se
+	pueden usar si no
+	han sido
 	"""
 	msgClear
 	"""
-	However, some of
-	them can't be used
-	unless they are
+	criados.
 	"""
 	msgClear
 	"""
-	bred.
+	También, aunque
+	los creamos con
+	la más avanzada
 	"""
 	msgClear
 	"""
-	Also, although we
-	created them with
-	our most cutting
+	tecnología,
+	un Cyber-elf no
+	puede ser resucitado.
 	"""
 	msgClear
 	"""
-	edge technology,
-	a Cyber-elf cannot
-	be resurrected
-	"""
-	msgClear
-	"""
-	So, please use each
-	of them wisely...
-	
+	Así que, por favor,
+	úsalos sabiamente...
 	"""
 	end
 }
@@ -1148,22 +1156,22 @@ script 104 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	  SAVE DATA
-	  LOAD DATA
-	  ERASE DATA
+	  GUARDAR DATOS
+	  CARGAR DATOS
+	  BORRAR DATOS
 	"""
 	end
 }
 script 105 mmz2 {
 	"""
-	Save data location?
+	¿Dónde guardar?
 	"""
 	end
 }
 script 106 mmz2 {
 	"""
-	  DATA-OVERWRITE?
-	  YES
+	  ¿SOBRE-ESCRIBIR?
+	  SÍ
 	  NO
 	"""
 	end
@@ -1172,50 +1180,50 @@ script 107 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Pick data to load?
+	¿Qué datos cargar?
 	"""
 	end
 }
 script 108 mmz2 {
 	"""
-	  DATA-LOAD?
-	  YES
+	  ¿CARGAR DATOS?
+	  SÍ
 	  NO
 	"""
 	end
 }
 script 109 mmz2 {
 	"""
-	Pick data to erase?
+	¿Qué datos borrar?
 	"""
 	end
 }
 script 110 mmz2 {
 	"""
-	  DATA-ERASE?
-	  YES
+	  ¿BORRAR DATOS?
+	  SÍ
 	  NO
 	"""
 	end
 }
 script 111 mmz2 {
 	"""
-	Data has been
-	saved.
+	Los datos han sido
+	guardados.
 	"""
 	end
 }
 script 112 mmz2 {
 	"""
-	Data has been
-	loaded.
+	Los datos han sido
+	cargados.
 	"""
 	end
 }
 script 113 mmz2 {
 	"""
-	Data has been
-	erased.
+	Los datos han sido
+	borrados.
 	"""
 	end
 }
@@ -1223,9 +1231,9 @@ script 114 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	  DOWNLOAD ELF
-	  FEED ELF
-	  ASK ABOUT ELF
+	  DESCARGAR ELF
+	  ALIMENTAR ELF
+	  PREGUNTAR POR ELF
 	"""
 	end
 }
@@ -1233,36 +1241,36 @@ script 120 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Well done, Zero.
-	You have been very
-	helpful!
+	Bien hecho, Zero.
+	¡Has sido de gran
+	ayuda!
 	"""
 	msgClear
 	"""
-	With your valuable
-	cooperation, we've
-	been able to
+	Con tu valiosa
+	colaboración, hemos
+	logrado
 	"""
 	msgClear
 	"""
-	retrieve another
+	recuperar otro
 	Baby Elf.
 	"""
 	msgClear
 	"""
-	We now have both
-	Baby Elves that Neo
-	Arcadia kept
+	Ahora tenemos ambos
+	Baby Elves que Neo
+	Arcadia mantenía
 	"""
 	msgClear
 	"""
-	inside their vault.
+	dentro de su bóveda.
 	"""
 	msgClear
 	"""
-	Once again, I'd like
-	to thank you for
-	your support.
+	Una vez más, quiero
+	agradecerte por
+	tu apoyo.
 	"""
 	end
 }
@@ -1270,27 +1278,27 @@ script 121 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Well done. You
-	are as amazing as
-	I thought you'd
+	Bien hecho. Eres
+	tan increíble como
+	yo pensaba que
 	"""
 	msgClear
 	"""
-	be. I've never
-	doubted your
-	success...
+	serías. Nunca he
+	dudado de tu
+	éxito...
 	"""
 	msgClear
 	"""
-	Thanks to your
-	cooperation, our
-	operations are
+	Gracias a tu colabo-
+	ración, nuestras
+	operaciones están
 	"""
 	msgClear
 	"""
-	progressing fine.
-	You are such a
-	great help to us.
+	progresando bien.
+	Eres de gran ayuda
+	para nosotros.
 	"""
 	end
 }
@@ -1298,25 +1306,24 @@ script 122 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Thank you very
-	much, Zero. Another
-	concern has been
+	Muchas gracias,
+	Zero. Otra situación
+	ha sido resuelta
 	"""
 	msgClear
 	"""
-	handled thanks to
-	you, and our
-	operations are
+	gracias a ti, y
+	nuestras operaciones
 	"""
 	msgClear
 	"""
-	moving smoothly.
-	I'm now very
-	confident of our
+	avanzan sin
+	problemas. Ahora 
+	tengo mucha confianza
 	"""
 	msgClear
 	"""
-	success.
+	en nuestro éxito.
 	"""
 	end
 }
@@ -1324,31 +1331,31 @@ script 123 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Excellent. We now
-	have enough
-	supplies to launch
+	Excelente. Ahora
+	tenemos suficientes
+	suministros para
 	"""
 	msgClear
 	"""
-	our all-out attack.
-	The preparations
-	are almost done,
+	lanzar nuestro
+	ataque a gran escala.
+	Los preparativos
 	"""
 	msgClear
 	"""
-	and we are going
-	to open fire
-	shortly. Thank
+	casi han terminado,
+	y pronto abriremos
+	fuego. Muchas
 	"""
 	msgClear
 	"""
-	you very much for
-	your support, Zero.
-	We appreciate your
+	gracias por tu
+	apoyo, Zero.
+	Apreciamos tu
 	"""
 	msgClear
 	"""
-	continued support.
+	apoyo continuo.
 	"""
 	end
 }
@@ -1356,34 +1363,34 @@ script 124 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	The Dark Elf...
-	A key to unlock
-	the seal...
+	El Dark Elf...
+	Una llave para
+	romper el sello...
 	"""
 	msgClear
 	"""
-	Invincible power...
+	Poder invencible...
 	"""
 	msgClear
 	"""
-	I'm not sure...
-	What's Elpizo is
-	up to...?
+	No estoy segura...
+	¿Qué pretende
+	hacer Elpizo...?
 	"""
 	msgClear
 	"""
-	I believe it's
-	wrong to bring
-	peace to the world
+	Creo que está mal
+	tratar de traer
+	la paz al mundo
 	"""
 	msgClear
 	"""
-	with power.
+	con poder.
 	"""
 	msgClear
 	"""
-	Please, Zero...
-	Please stop him!
+	Por favor, Zero...
+	¡Deténlo, por favor!
 	"""
 	end
 }
@@ -1391,27 +1398,27 @@ script 125 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Elpizo seems to have
-	acquired the secret
-	code.
+	Parece que Elpizo
+	ha conseguido el
+	código secreto.
 	"""
 	msgClear
 	"""
-	The secret code
-	can unlock a
-	door to the
+	El código secreto
+	puede abrir la
+	puerta hacia el
 	"""
 	msgClear
 	"""
-	highest security
-	area in Neo
+	área de máxima
+	seguridad en Neo
 	Arcadia...
 	"""
 	msgClear
 	"""
-	I guess...
-	The Dark Elf is
-	sealed there...
+	Supongo...
+	El Dark Elf está
+	encerrado allí...
 	"""
 	end
 }
@@ -1419,26 +1426,26 @@ script 126 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	He seems to have
-	stolen a transport
-	from the factory.
+	Parece que ha
+	robado un transporte
+	de la fábrica.
 	"""
 	msgClear
 	"""
-	It's true that
-	you can't travel to
-	Neo Arcadia by a
+	Es cierto que no
+	puedes viajar a Neo
+	Arcadia con un
 	"""
 	msgClear
 	"""
-	portable Trans
-	Server, but...
+	Trans Server
+	portátil, pero...
 	"""
 	msgClear
 	"""
-	Elpizo does intend
-	to sneak into Neo
-	Arcadia alone!
+	¡Elpizo pretende
+	colarse en Neo
+	Arcadia solo!
 	"""
 	end
 }
@@ -1446,37 +1453,37 @@ script 127 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	The IFF beacon
-	that Elpizo was
-	looking for is...
+	La baliza IFF que
+	Elpizo estaba
+	buscando es...
 	"""
 	msgClear
 	"""
-	Used for Neo
-	Arcadia radar to
-	identify friend
+	Utilizada para que
+	el radar de Neo
+	Arcadia identifique
 	"""
 	msgClear
 	"""
-	or enemy...
+	si es amigo o
+	enemigo...
 	"""
 	msgClear
 	"""
-	I know you need one
-	when you want to
-	sneak into an enemy
+	Sé que necesitas
+	una cuando quieres
+	colarte en una base
 	"""
 	msgClear
 	"""
-	base, without
-	letting them notice
-	you... But I don't
+	enemiga sin ser
+	notados... Pero no
 	"""
 	msgClear
 	"""
-	understand why he
-	is trying to do
-	that...
+	entiendo por qué
+	está intentando
+	hacer eso...
 	"""
 	end
 }
@@ -1484,15 +1491,15 @@ script 128 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Zero! I'm glad that
-	you are fine...
-	Thank you very much
+	¡Zero! Me alegra
+	que estés bien...
+	Muchas gracias
 	"""
 	msgClear
 	"""
-	for your effort.
-	Please, just rest
-	for a while.
+	por tu esfuerzo.
+	Por favor, descansa
+	un momento.
 	"""
 	end
 }
@@ -1500,19 +1507,18 @@ script 129 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Zero, thank you
-	for your efforts.
+	Zero, gracias
+	por tu esfuerzo.
 	"""
 	msgClear
 	"""
-	But don't take it
-	too far...
-	If something should
+	Pero no te exijas
+	demasiado...
+	Si algo te pasara...
 	"""
 	msgClear
 	"""
-	happen to you...
-	I...
+	Yo...
 	"""
 	end
 }
@@ -1520,13 +1526,12 @@ script 130 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Zero! Are you OK?
+	¡Zero! ¿Estás bien?
 	"""
 	msgClear
 	"""
-	I'm sorry that I
-	asked you to risk
-	your life...
+	Perdón por pedirte
+	arriesgar tu vida...
 	"""
 	end
 }
@@ -1534,19 +1539,21 @@ script 131 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Zero! I was so very
-	worried about you...
+	¡Zero! Estuve muy
+	preocupada por ti...
 	"""
 	msgClear
 	"""
-	Soon, you'll be
-	able to reach the
-	deepest part of
+	Pronto podrás
+	llegar a la parte
+	más profunda de
 	"""
 	msgClear
 	"""
-	Neo Arcadia, where
-	Dark Elf is sealed.
+	Neo Arcadia, donde
+	está sellado el
+	Dark Elf.
 	"""
 	end
+
 }

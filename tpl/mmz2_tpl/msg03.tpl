@@ -185,12 +185,12 @@ script 9 mmz2 {
 	"""
 	Pero, tú me has
 	ayudado todo este
-	tiempo. Sabes lo
+	tiempo. Sabes que
 	"""
 	msgClear
 	"""
-	inseguro que
-	soy sin ti, Ciel.
+	no soy de fiar
+	sin ti, Ciel.
 	"""
 	end
 }
