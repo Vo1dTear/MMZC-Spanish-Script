@@ -5,27 +5,31 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: The ruins are
+	Operadora: Las ruinas
 	"""
 	msgClear
 	"""
-	beyond this forest.
+	se encuentran más allá
 	"""
 	msgClear
 	"""
-	Use the portable Trans
+	de este bosque.
 	"""
 	msgClear
 	"""
-	Server and
+	Usa el Trans Server
 	"""
 	msgClear
 	"""
-	rescue the resistance
+	portátil y rescata
 	"""
 	msgClear
 	"""
-	soldiers who were lost.
+	a los soldados de la
+	"""
+	msgClear
+	"""
+	resistencia perdidos.
 	"""
 	end
 }
@@ -33,15 +37,19 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 21
 	"""
-	Hiss! This is a
-	restricted area,
-	even for us Neo
+	¡Hiss! Esta es un
+	área restringida,
+	incluso para
 	"""
 	msgClear
 	"""
-	Arcadians... You
-	will never leave
-	here alive. Hiss!
+	nosotros Neo
+	Arcadians...
+	"""
+	msgClear
+	"""
+	Nunca saldrán de
+	aquí vivos. ¡Hiss!
 	"""
 	end
 }
@@ -49,19 +57,19 @@ script 2 mmz2 {
 	mugshotShow
 		mugshot = 20
 	"""
-	No... If only that
-	Baby Elf wasn't
-	stolen...
+	No... Si tan solo ese
+	Baby Elf no hubiera
+	sido robado...
 	"""
 	msgClear
 	"""
-	I could have easily
-	destroyed the
-	nameless soldier...
+	Podría haber destru-
+	ido fácilmente al
+	soldado sin nombre...
 	"""
 	msgClear
 	"""
-	Hissssss!
+	¡Hissssss!
 	"""
 	end
 }
@@ -69,13 +77,14 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 71
 	"""
-	Thank you, Mr. Zero.
-	The ruins are full
-	of traps. Please
+	Gracias, Sr. Zero.
+	Las ruinas están
+	llenas de trampas.
 	"""
 	msgClear
 	"""
-	be careful.
+	Por favor, ten
+	cuidado.
 	"""
 	end
 }
@@ -83,9 +92,9 @@ script 4 mmz2 {
 	mugshotShow
 		mugshot = 71
 	"""
-	Thank you. I hope
-	the others are
-	fine.
+	Gracias. Espero
+	que los demás
+	estén bien.
 	"""
 	end
 }
@@ -93,9 +102,13 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Thank you so much...
-	I went too far
-	and got stuck...
+	Muchas gracias...
+	Fui demasiado lejos
+	y me quedé
+	"""
+	msgClear
+	"""
+	atascado...
 	"""
 	end
 }
@@ -103,14 +116,13 @@ script 6 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	I'm glad that you
-	came here to help
-	me.
+	Me alegra que
+	hayas venido
+	a ayudarme.
 	"""
 	msgClear
 	"""
-	Thank you very
-	much.
+	Muchas gracias.
 	"""
 	end
 }
@@ -118,9 +130,9 @@ script 7 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Thanks!! I almost
-	lost hope of
-	a rescue...
+	¡Gracias! Casi pierdo
+	la esperanza de ser
+	rescatado...
 	"""
 	end
 }
@@ -128,25 +140,26 @@ script 8 mmz2 {
 	mugshotShow
 		mugshot = 71
 	"""
-	Commander sent us
-	here to investigate
-	something called a
+	El comandante nos
+	envió a investigar
+	algo llamado
 	"""
 	msgClear
 	"""
 	Baby Elf...
-	But we encountered
-	the Neo Arcadian
+	Pero nos topamos
+	con el ejército
 	"""
 	msgClear
 	"""
-	army. My comrades
-	are still somewhere
-	in the forest.
+	de Neo Arcadia.
+	Mis compañeros
+	están aún en el
 	"""
 	msgClear
 	"""
-	Please save them,
+	bosque. ¡Por
+	favor sálvalos,
 	Zero!
 	"""
 	end
@@ -155,12 +168,13 @@ script 9 mmz2 {
 	mugshotShow
 		mugshot = 21
 	"""
-	Give that back...
+	Devuélvelo...
 	"""
 	msgClear
 	"""
-	And your life may
-	be spared. Hiss!
+	Y puede que tu
+	vida sea perdonada.
+	¡Hiss!
 	"""
 	end
 }
@@ -168,12 +182,12 @@ script 10 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	What are you waiting
-	for...
+	¿Qué estás
+	esperando...
 	"""
 	msgClear
 	"""
-	Run!
+	¡Corre!
 	"""
 	end
 }
@@ -181,53 +195,51 @@ script 11 mmz2 {
 	mugshotShow
 		mugshot = 85
 	"""
-	It's been a long
-	time...
+	Ha pasado mucho
+	tiempo...
 	Zero...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	X!
+	¡X!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 85
 	"""
-	I can no longer
-	rest...
+	Ya no puedo
+	descansar...
 	"""
 	msgClear
 	"""
-	Both Baby
-	Elves have
-	awakened...
+	Ambos Baby
+	Elves han
+	despertado...
 	"""
 	msgClear
 	"""
-	The Baby Elves
-	are still
-	children...
+	Los Baby Elves
+	siguen siendo
+	niños...
 	"""
 	msgClear
 	"""
-	They cry for
-	their mother as
-	they tremble
+	Lloran por
+	su madre mientras
+	tiemblan
 	"""
 	msgClear
 	"""
-	from the
-	loneliness.
+	de soledad.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
 	... ... ...
-	What's your point,
-	X?
+	¿A qué vas, X?
 	"""
 	end
 }
@@ -235,30 +247,30 @@ script 12 mmz2 {
 	mugshotShow
 		mugshot = 85
 	"""
-	The Baby Elves will
-	do anything to
-	reunite with
+	Los Baby Elves harán
+	cualquier cosa para
+	reunirse con
 	"""
 	msgClear
 	"""
-	their mother.
+	su madre.
 	"""
 	msgClear
 	"""
-	Stir the humans'
-	minds and bring
-	chaos...
+	Agitar las mentes
+	de los humanos y
+	traer caos...
 	"""
 	msgClear
 	"""
-	It's all to meet
-	their mother,
-	the Dark Elf....
+	Todo es para encon-
+	trarse con su madre,
+	el Dark Elf...
 	"""
 	msgClear
 	"""
-	The Dark Elf
-	that I sealed...
+	El Dark Elf
+	que yo sellé...
 	"""
 	end
 }
@@ -266,7 +278,7 @@ script 13 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	Wait, X!
+	¡Espera, X!
 	"""
 	msgClear
 	"""
@@ -274,7 +286,7 @@ script 13 mmz2 {
 	"""
 	msgClear
 	"""
-	The Dark Elf...
+	El Dark Elf...
 	"""
 	end
 }
@@ -282,11 +294,11 @@ script 14 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: You have four
+	Operadora: Tienes cuatro
 	"""
 	msgClear
 	"""
-	soldiers to rescue.
+	soldados por rescatar.
 	"""
 	end
 }
@@ -294,11 +306,11 @@ script 15 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: You have three
+	Operadora: Tienes tres
 	"""
 	msgClear
 	"""
-	soldiers to rescue.
+	soldados por rescatar.
 	"""
 	end
 }
@@ -306,11 +318,11 @@ script 16 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: You have two
+	Operadora: Tienes dos
 	"""
 	msgClear
 	"""
-	soldiers to rescue.
+	soldados	por rescatar.
 	"""
 	end
 }
@@ -318,11 +330,11 @@ script 17 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: You have one
+	Operadora: Tienes un
 	"""
 	msgClear
 	"""
-	soldier to rescue.
+	soldado	por rescatar.
 	"""
 	end
 }
@@ -330,11 +342,11 @@ script 18 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: You have rescued
+	Operadora: Has rescatado
 	"""
 	msgClear
 	"""
-	all the soldiers.
+	a todos los soldados.
 	"""
 	end
 }
@@ -342,7 +354,8 @@ script 19 mmz2 {
 	mugshotShow
 		mugshot = 71
 	"""
-	Uh... Yes...!
+	Uh... ¡Sí...!
 	"""
 	end
+
 }

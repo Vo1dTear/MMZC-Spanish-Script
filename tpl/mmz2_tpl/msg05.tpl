@@ -5,39 +5,35 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: There are four
+	Operadora: La sala de
 	"""
 	msgClear
 	"""
-	cooling systems
+	computadoras del
 	"""
 	msgClear
 	"""
-	for the computer room of
+	complejo cuenta con
 	"""
 	msgClear
 	"""
-	the facility.
+	cuatro sistemas de
 	"""
 	msgClear
 	"""
-	Once you destroy all of
+	refrigeración.
 	"""
 	msgClear
 	"""
-	the systems,
+	Si los destruyes todos,
 	"""
 	msgClear
 	"""
-	the abilities of the
+	la capacidad de la sala
 	"""
 	msgClear
 	"""
-	computer room will be
-	"""
-	msgClear
-	"""
-	weakened.
+	se verá debilitada.
 	"""
 	end
 }
@@ -45,19 +41,18 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Bwooooh! You are
-	the one!?
+	¡Bwooooh! ¿Eres tú!?
 	"""
 	msgClear
 	"""
-	You are trying to
-	destroy this and
-	confuse us!
+	¡Estás intentando
+	destruir esto y
+	confundirnos!
 	"""
 	msgClear
 	"""
-	Bwooooh! I won't let
-	you do that!
+	¡Bwooooh! ¡No dejaré
+	que lo hagas!
 	"""
 	end
 }
@@ -69,17 +64,17 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	I can't believe
-	this. I was beaten
-	by this little
+	No puedo creerlo.
+	Fui derrotado por
+	este pequeño
 	"""
 	msgClear
 	"""
-	bug thing...
+	insecto...
 	"""
 	msgClear
 	"""
-	Bobobohfa....!
+	¡Bobobohfa....!
 	"""
 	end
 }
@@ -87,11 +82,11 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: you have three
+	Operadora: Te quedan tres
 	"""
 	msgClear
 	"""
-	systems to destroy.
+	sistemas por destruir.
 	"""
 	end
 }
@@ -99,11 +94,11 @@ script 4 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: you have two
+	Operadora: Te quedan dos
 	"""
 	msgClear
 	"""
-	systems to destroy.
+	sistemas por destruir.
 	"""
 	end
 }
@@ -111,11 +106,11 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: you have one
+	Operadora: Te queda un
 	"""
 	msgClear
 	"""
-	system to destroy.
+	sistema por destruir.
 	"""
 	end
 }
@@ -123,11 +118,16 @@ script 6 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: All the systems
+	Operadora: Todos los
 	"""
 	msgClear
 	"""
-	have been destroyed.
+	sistemas han sido
+	"""
+	msgClear
+	"""
+	destruidos.
 	"""
 	end
+
 }

@@ -331,25 +331,25 @@ script 22 mmz2 {
 	msgBottom
 	"""
 	Esta misión trata
-	de sabotaje. Hay
-	una de las
+	de sabotaje.
 	"""
 	msgClear
 	"""
-	computadoras en
-	la Antártida que
-	controla el
+	En la Antártida se
+	encuentra uno de los
+	ordenadores que
 	"""
 	msgClear
 	"""
-	sistema de defensa
-	de Neo Arcadia.
+	controla el sistema
+	de defensa de
+	Neo Arcadia.
 	"""
 	msgClear
 	"""
 	Cuando destruyas al
 	jefe guardián y la
-	sala del servidor,
+	sala de servidores,
 	"""
 	msgClear
 	"""
