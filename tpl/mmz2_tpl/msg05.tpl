@@ -129,5 +129,4 @@ script 6 mmz2 {
 	destruidos.
 	"""
 	end
-
 }

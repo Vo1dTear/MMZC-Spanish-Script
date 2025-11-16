@@ -349,5 +349,4 @@ script 7 mmz1 {
 	SOLDIER:¡Está cerrado!
 	"""
 	end
-
 }

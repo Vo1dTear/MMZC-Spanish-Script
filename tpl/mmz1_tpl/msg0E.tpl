@@ -309,5 +309,4 @@ script 12 mmz1 {
 	CIEL:todas las computadoras?
 	"""
 	end
-
 }

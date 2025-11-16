@@ -777,5 +777,4 @@ script 27 mmz1 {
 	lo eliminaré...
 	"""
 	end
-
 }

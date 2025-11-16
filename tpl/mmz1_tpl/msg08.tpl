@@ -143,5 +143,4 @@ script 6 mmz1 {
 	te eliminaré!
 	"""
 	end
-
 }

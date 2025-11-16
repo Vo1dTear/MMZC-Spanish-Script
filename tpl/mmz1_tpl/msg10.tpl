@@ -40,5 +40,4 @@ script 1 mmz1 {
 	por mi espada!
 	"""
 	end
-
 }

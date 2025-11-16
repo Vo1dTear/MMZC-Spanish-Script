@@ -285,5 +285,4 @@ script 16 mmz1 {
 	CIEL:¡¡Zero!!
 	"""
 	end
-
 }

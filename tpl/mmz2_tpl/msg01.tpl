@@ -1132,5 +1132,4 @@ script 132 mmz2 {
 	Boomerang!!
 	"""
 	end
-
 }

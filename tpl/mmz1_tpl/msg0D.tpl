@@ -590,5 +590,4 @@ script 36 mmz1 {
 	ayúdanos!
 	"""
 	end
-
 }

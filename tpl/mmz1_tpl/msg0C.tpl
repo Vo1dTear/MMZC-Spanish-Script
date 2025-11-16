@@ -185,5 +185,4 @@ script 10 mmz1 {
 	¡Adiós!!
 	"""
 	end
-
 }

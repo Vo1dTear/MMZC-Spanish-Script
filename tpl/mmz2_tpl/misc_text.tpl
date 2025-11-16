@@ -3674,9 +3674,8 @@ script 692 mmz2 {
 script 693 mmz2 {
 	"""
 	Salir a la pantalla
-	de título principal
-	El progreso no guar-
-	dado se perderá
+	principal. El progreso
+	no guardado se perderá.
 	"""
 	end
 }

@@ -18,5 +18,4 @@ script 1 mmz1 {
 	lárgate.
 	"""
 	end
-
 }

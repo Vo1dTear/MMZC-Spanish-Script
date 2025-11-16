@@ -4235,5 +4235,4 @@ script 167 mmz2 {
 	aquí en una misión.
 	"""
 	end
-
 }

@@ -1555,5 +1555,4 @@ script 131 mmz2 {
 	Dark Elf.
 	"""
 	end
-
 }
