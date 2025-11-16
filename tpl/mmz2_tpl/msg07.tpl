@@ -5,31 +5,31 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Destroy all power
+	Operadora: destruye todos
 	"""
 	msgClear
 	"""
-	reactors to put a stop
+	los reactores de energía
 	"""
 	msgClear
 	"""
-	to the factory functions
+	para detener las funciones
 	"""
 	msgClear
 	"""
-	for good.
+	de la fábrica de una vez
 	"""
 	msgClear
 	"""
-	Currently, there are four
+	por todas.
 	"""
 	msgClear
 	"""
-	power reactors
+	Actualmente hay cuatro
 	"""
 	msgClear
 	"""
-	in operation.
+	reactores activos.
 	"""
 	end
 }
@@ -37,34 +37,33 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 19
 	"""
-	What are you doing
-	here?
+	¿Qué haces aquí?
 	"""
 	msgClear
 	"""
-	How dare you fool
-	around in my area!
+	¡Cómo te atreves
+	a jugar en mi área!
 	"""
 	msgClear
 	"""
-	I am Phoenix
+	Yo soy Phoenix
 	Magnion.
 	"""
 	msgClear
 	"""
-	Well, you'll pay
-	for this insult...
+	Bueno, pagarás
+	por este insulto...
 	"""
 	msgClear
 	"""
-	With my phoenix
-	flame!
+	¡Con mi llama
+	fénix!
 	"""
 	msgClear
 	"""
-	I shall purify
-	your evil mind
-	with my flame.
+	Purificaré tu
+	mente malvada
+	con mi fuego.
 	"""
 	end
 }
@@ -72,22 +71,22 @@ script 2 mmz2 {
 	mugshotShow
 		mugshot = 18
 	"""
-	... I am...
-	...A phoenix...
+	... Yo soy...
+	...un fénix...
 	"""
 	msgClear
 	"""
-	I will be back...
-	Again and again...
+	Volveré...
+	una y otra vez...
 	"""
 	msgClear
 	"""
-	Until you pay for
-	your insult...
+	Hasta que pagues
+	por tu insulto...
 	"""
 	msgClear
 	"""
-	Uh... Uwooooooh!
+	Uh... ¡Uwooooooh!
 	"""
 	end
 }
@@ -95,23 +94,23 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Zero, can you
+	Operadora: Zero, ¿puedes
 	"""
 	msgClear
 	"""
-	hear me? Please use an
+	oírme? Usa una
 	"""
 	msgClear
 	"""
-	Escape Unit in order to
+	Escape Unit para volver
 	"""
 	msgClear
 	"""
-	return to base from this
+	a la base desde esta
 	"""
 	msgClear
 	"""
-	area.
+	área..
 	"""
 	end
 }
