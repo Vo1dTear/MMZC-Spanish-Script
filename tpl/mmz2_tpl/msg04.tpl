@@ -263,13 +263,17 @@ script 12 mmz2 {
 	"""
 	msgClear
 	"""
-	Todo es para encon-
-	trarse con su madre,
-	el Dark Elf...
+	Todo es para poder
+	reencontrarse con
+	su madre,
 	"""
 	msgClear
 	"""
-	El Dark Elf
+	la Dark Elf...
+	"""
+	msgClear
+	"""
+	La Dark Elf
 	que yo sellé...
 	"""
 	end
@@ -286,7 +290,7 @@ script 13 mmz2 {
 	"""
 	msgClear
 	"""
-	El Dark Elf...
+	La Dark Elf...
 	"""
 	end
 }

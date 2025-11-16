@@ -787,7 +787,7 @@ script 77 mmz2 {
 	"""
 	msgClear
 	"""
-	Hallaste un elfo raro, Zero.
+	Hallaste un Rare Elf, Zero.
 	"""
 	end
 }

@@ -91,7 +91,7 @@ script 5 mmz2 {
 	"""
 	a ayudarnos.
 	Deja todo en mis
-	manos, y deberías
+	manos, deberías
 	"""
 	msgClear
 	"""
@@ -1109,7 +1109,7 @@ script 103 mmz2 {
 		mugshot = 6
 	"""
 	Por si lo olvidaste,
-	el Cyber-elf es un
+	un Cyber-elf es un
 	tipo de programa
 	"""
 	msgClear
@@ -1363,7 +1363,7 @@ script 124 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	El Dark Elf...
+	La Dark Elf...
 	Una llave para
 	romper el sello...
 	"""
@@ -1417,7 +1417,7 @@ script 125 mmz2 {
 	msgClear
 	"""
 	Supongo...
-	El Dark Elf está
+	La Dark Elf está
 	encerrado allí...
 	"""
 	end

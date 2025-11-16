@@ -133,7 +133,7 @@ script 5 mmz2 {
 	msgClear
 	"""
 	mañana para todos
-	los Reploids.
+	los Reploides.
 	"""
 	end
 }
@@ -240,7 +240,7 @@ script 9 mmz2 {
 	msgClear
 	"""
 	mejor de lo que
-	expected!
+	esperaba!
 	"""
 	msgClear
 	"""
@@ -873,13 +873,13 @@ script 42 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Zero... Perdón por
+	Zero... lamento
 	hacerte sentir
 	incómodo...
 	"""
 	msgClear
 	"""
-	Terminará cuando
+	Todo terminará cuando
 	complete la investi-
 	gación, ¿verdad?
 	"""
@@ -889,34 +889,35 @@ script 43 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Are you OK, Zero?
+	¿Estás bien,
+	Zero?
 	"""
 	msgClear
 	"""
-	I wonder why
-	Elpizo is
-	bothering you
+	Me pregunto por
+	qué Elpizo te
+	está molestando
 	"""
 	msgClear
 	"""
-	with these very
-	hard orders...
+	con estas órdenes
+	tan difíciles...
 	"""
 	msgClear
 	"""
-	If there is a
-	very difficult
-	mission, I will
+	Si hay una
+	misión muy
+	difícil, yo
 	"""
 	msgClear
 	"""
-	help you.
+	te ayudaré.
 	"""
 	msgClear
 	"""
-	Please tell me
-	if you need the
-	power of the
+	Por favor dime
+	si necesitas el
+	poder del
 	"""
 	msgClear
 	"""
@@ -924,24 +925,25 @@ script 43 mmz2 {
 	"""
 	msgClear
 	"""
-	And, I just
-	remembered!
+	Y, ¡acabo de
+	recordar!
 	"""
 	msgClear
 	"""
-	The computer at
-	the entrance has
-	the data that I
+	La computadora
+	en la entrada
+	tiene los datos
 	"""
 	msgClear
 	"""
-	have studied.
+	que he
+	estudiado.
 	"""
 	msgClear
 	"""
-	Please take a look
-	at it when you have
-	time.
+	Por favor échale
+	un vistazo cuando
+	tengas tiempo.
 	"""
 	end
 }
@@ -949,19 +951,20 @@ script 44 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Things are getting
-	terrible, Zero...
+	Las cosas están
+	terribles, Zero...
 	"""
 	msgClear
 	"""
-	I am very worried
-	about Elpizo.
+	Estoy muy
+	preocupada por
+	Elpizo.
 	"""
 	msgClear
 	"""
-	It's important to
-	find out where he
-	is right now...
+	Es importante
+	descubrir dónde
+	está ahora...
 	"""
 	end
 }
@@ -969,12 +972,13 @@ script 45 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Good luck, Zero...
+	Buena suerte,
+	Zero...
 	"""
 	msgClear
 	"""
-	Only you can
-	stop Elpizo...
+	Sólo tú puedes
+	detener a Elpizo...
 	"""
 	msgClear
 	"""
@@ -986,9 +990,9 @@ script 46 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	I hope you can
-	do it...
-	Good luck, Zero.
+	Espero que puedas
+	lograrlo...
+	Buena suerte, Zero.
 	"""
 	end
 }
@@ -1000,95 +1004,89 @@ script 47 mmz2 {
 	"""
 	msgClear
 	"""
-	Can you use your
-	weapons well?
+	¿Te manejas bien
+	con tus armas?
 	"""
 	msgClear
 	"""
-	By the way... I
-	wanted to tell
-	you one thing
+	Por cierto...
+	hay algo que
+	quería decirte
 	"""
 	msgClear
 	"""
-	that I noticed
-	while watching
-	you...
+	después de
+	verte pelear...
 	"""
 	msgClear
 	"""
-	You seem to have
-	a secret potential
-	ability...
+	Parece que tienes
+	una habilidad
+	oculta...
 	"""
 	msgClear
 	"""
-	For example, if
-	you defeat a boss
-	enemy when your
+	Por ejemplo, si
+	derrotas a un jefe
+	cuando tu nivel es
 	"""
 	msgClear
 	"""
-	level is high,
-	you will learn
-	how to use
+	alto, puedes
+	aprender a usar
+	su técnica...
 	"""
 	msgClear
 	"""
-	their ability...
+	Y además...
 	"""
 	msgClear
 	"""
-	And...
+	Si peleas solo
+	con el Buster,
+	tus disparos
 	"""
 	msgClear
 	"""
-	If you use only
-	Busters, the
-	attack power of
+	serán más
+	poderosos...
 	"""
 	msgClear
 	"""
-	the bullets will
-	increase...
+	Y si vences a
+	muchos enemigos
+	con el Escudo,
 	"""
 	msgClear
 	"""
-	If you defeat
-	many enemies with
-	the Shield, your
+	tu defensa
+	mejora.
 	"""
 	msgClear
 	"""
-	defense power
-	will increase.
+	Parece que aún
+	tienes más
+	habilidades
 	"""
 	msgClear
 	"""
-	It seems that
-	there are more
-	abilities inside
+	en tu interior...
 	"""
 	msgClear
 	"""
-	you...
+	Es realmente
+	asombroso...
 	"""
 	msgClear
 	"""
-	It's really
-	amazing...
+	Eres un Reploide
+	creado hace mucho
+	tiempo, pero
 	"""
 	msgClear
 	"""
-	You are a Reploid
-	that was created a
-	long time ago, but
-	"""
-	msgClear
-	"""
-	you have such
-	incredible
-	abilities...
+	tienes habilidades
+	increíbles...
 	"""
 	end
 }
@@ -1096,28 +1094,28 @@ script 48 mmz2 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Zero, it seems
-	very noisy in
-	the base, what's
+	Zero, parece que
+	la base está muy
+	ruidosa, ¿qué
 	"""
 	msgClear
 	"""
-	happening?
+	está pasando?
 	"""
 	msgClear
 	"""
-	...What?
-	Elpizo?
+	¿...Qué?
+	¿Elpizo?
 	"""
 	msgClear
 	"""
-	He is dangerous.
-	He should be the
-	first person you
+	Es peligroso.
+	Él debería ser
+	lo primero que
 	"""
 	msgClear
 	"""
-	locate!
+	encuentres.
 	"""
 	end
 }
@@ -1125,14 +1123,14 @@ script 49 mmz2 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Zero, catch Elpizo
-	as soon as
-	possible.
+	Zero, atrapa a
+	Elpizo lo antes
+	posible.
 	"""
 	msgClear
 	"""
-	Before it is
-	too late...
+	Antes de que sea
+	demasiado tarde...
 	"""
 	end
 }
@@ -1141,24 +1139,24 @@ script 50 mmz2 {
 		mugshot = 41
 	"""
 	Zero...
-	I believe you.
+	Confío en ti.
 	"""
 	msgClear
 	"""
-	That means that
-	I will do any
-	hard studies
+	Significa que
+	haré todos los
+	estudios difíciles
 	"""
 	msgClear
 	"""
-	and tests for
-	you.
+	y pruebas para
+	ti.
 	"""
 	msgClear
 	"""
-	Just please promise
-	me you will come
-	back alive.
+	Solo prométeme
+	que volverás
+	con vida.
 	"""
 	end
 }
@@ -1166,7 +1164,7 @@ script 51 mmz2 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Good luck, Zero...
+	Buena suerte, Zero…
 	"""
 	end
 }
@@ -1174,39 +1172,37 @@ script 52 mmz2 {
 	mugshotShow
 		mugshot = 68
 	"""
-	If you want to
-	go to the area
-	that you have
+	Si quieres volver
+	a alguna de las
+	áreas que ya
 	"""
 	msgClear
 	"""
-	already cleared,
-	please use the
+	superaste, usa el 
 	Trans Server.
 	"""
 	msgClear
 	"""
-	It is located at
-	the center of the
-	commander room.
+	Está justo en el
+	centro de la sala
+	del comandante.
 	"""
 	msgClear
 	"""
-	It can transfer
-	you to the other
-	areas.
+	Desde ahí puedes
+	viajar a cualquier
+	otra área.
 	"""
 	msgClear
 	"""
-	In order to use
-	the Trans Server,
-	stand in the
+	Para usar el Trans
+	Server, colócate
+	en el centro
 	"""
 	msgClear
 	"""
-	middle of it and
-	speak to the
-	operator.
+	y habla con la
+	operadora.
 	"""
 	end
 }
@@ -1215,12 +1211,12 @@ script 53 mmz2 {
 		mugshot = 68
 	"""
 	Zero...
-	Are you using the
-	Trans Server well?
+	¿Estás usando bien
+	el Trans Server?
 	"""
 	msgClear
 	"""
-	It's very useful.
+	Es muy útil.
 	"""
 	end
 }
@@ -1228,13 +1224,14 @@ script 54 mmz2 {
 	mugshotShow
 		mugshot = 68
 	"""
-	Zero, we can watch
-	over the base.
-	Please, just leave
+	Zero, nosotros
+	podemos encargarnos
+	de vigilar la base.
 	"""
 	msgClear
 	"""
-	it to us.
+	Déjanos eso
+	a nosotros.
 	"""
 	end
 }
@@ -1242,8 +1239,8 @@ script 55 mmz2 {
 	mugshotShow
 		mugshot = 42
 	"""
-	Oh, Zero!
-	You are safe!
+	¡Oh, Zero!
+	¡Estás a salvo!
 	"""
 	end
 }
@@ -1251,27 +1248,27 @@ script 56 mmz2 {
 	mugshotShow
 		mugshot = 42
 	"""
-	It seems that
-	there is
-	something wrong
+	Parece que hay
+	algún problema
+	con el ascensor,
 	"""
 	msgClear
 	"""
-	with the elevator
-	and you can't move
-	to the 1st or 5th
+	y no puedes ir
+	ni al 1er piso
+	ni al 5to.
 	"""
 	msgClear
 	"""
-	floors. Plus, you
-	cannot go higher
-	than the 5th floor.
+	Tampoco es posible
+	subir más allá
+	del 5to piso.
 	"""
 	msgClear
 	"""
-	But, I think that
-	it will be working
-	soon...
+	Pero creo que
+	volverá a funcionar
+	pronto...
 	"""
 	end
 }
@@ -1279,26 +1276,31 @@ script 57 mmz2 {
 	mugshotShow
 		mugshot = 42
 	"""
-	The pictures of
-	the bosses in the
-	monitors of the
+	Las fotos de los
+	jefes que ves en
+	los monitores de
 	"""
 	msgClear
 	"""
-	commander's room
-	is taken by an
-	advance team who
+	la sala del
+	comandante fueron
+	tomadas por un
 	"""
 	msgClear
 	"""
-	used very impressive
-	spy techniques.
+	equipo avanzado que
+	usó técnicas de
+	espionaje muy
 	"""
 	msgClear
 	"""
-	It must have been
-	very risky to take
-	the pictures.
+	impresionantes.
+	"""
+	msgClear
+	"""
+	Debió ser muy
+	arriesgado sacar
+	esas fotos.
 	"""
 	end
 }
@@ -1306,11 +1308,11 @@ script 58 mmz2 {
 	mugshotShow
 		mugshot = 42
 	"""
-	Ah, Zero!
+	¡Ah, Zero!
 	"""
 	msgClear
 	"""
-	What's become of
+	¿Qué pasó con
 	Elpizo?
 	"""
 	end
@@ -1319,8 +1321,9 @@ script 59 mmz2 {
 	mugshotShow
 		mugshot = 42
 	"""
-	I am really worried
-	about Elpizo.
+	Estoy realmente
+	preocupado por
+	Elpizo.
 	"""
 	end
 }
@@ -1328,7 +1331,8 @@ script 60 mmz2 {
 	mugshotShow
 		mugshot = 42
 	"""
-	Good luck, Zero.
+	Buena suerte,
+	Zero.
 	"""
 	end
 }
@@ -1336,20 +1340,20 @@ script 61 mmz2 {
 	mugshotShow
 		mugshot = 36
 	"""
-	You are new here.
-	Welcome to our
-	base, son.
+	Eres nuevo por aquí.
+	Bienvenido a nuestra
+	base, hijo.
 	"""
 	msgClear
 	"""
-	My name is Andrew.
-	If you have time,
-	come to my place.
+	Mi nombre es Andrew.
+	Si tienes tiempo,
+	ven a mi lugar.
 	"""
 	msgClear
 	"""
-	I'll tell you an
-	interesting story.
+	Te contaré una
+	historia interesante.
 	"""
 	end
 }
@@ -1357,24 +1361,24 @@ script 62 mmz2 {
 	mugshotShow
 		mugshot = 36
 	"""
-	What is your name,
-	young man?
+	¿Cómo te llamas,
+	joven?
 	"""
 	msgClear
 	"""
-	Zero... You have
-	the same name as
-	that legendary
+	Zero... Tienes el
+	mismo nombre que
+	aquel legendario
 	"""
 	msgClear
 	"""
-	Reploid...
+	Reploide...
 	"""
 	msgClear
 	"""
-	Work hard and don't
-	disgrace that hero's
-	name!
+	¡Esfuérzate y no
+	deshonres el nombre
+	de ese héroe!
 	"""
 	end
 }
@@ -1386,34 +1390,34 @@ script 63 mmz2 {
 	"""
 	msgClear
 	"""
-	Are you doing well?
+	¿Te está yendo bien?
 	"""
 	msgClear
 	"""
-	When I was new, I
-	used to cause
-	everyone problems
+	Cuando yo era
+	nuevo, solía
+	causarle problemas
 	"""
 	msgClear
 	"""
-	because I couldn't
-	learn things
-	quickly.
+	a todos porque no
+	podía aprender
+	rápidamente.
 	"""
 	msgClear
 	"""
-	But you're working
-	very hard without
-	complaining about
+	Pero tú estás
+	trabajando muy
+	duro sin
 	"""
 	msgClear
 	"""
-	anything...
+	quejarte de nada...
 	"""
 	msgClear
 	"""
-	Good luck, young
-	man.
+	Buena suerte,
+	joven.
 	"""
 	end
 }
@@ -1425,120 +1429,124 @@ script 64 mmz2 {
 	"""
 	msgClear
 	"""
-	If you have time,
-	I will tell you
-	about my younger
+	Si tienes tiempo,
+	puedo contarte
+	sobre mis días de
 	"""
 	msgClear
 	"""
-	days.
+	juventud.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Want to listen?
-	  YES
+	¿Quieres escuchar?
+	  SÍ
 	  NO
 	"""
 	msgClear
 	"""
-	Oh! You want to
-	listen!
+	¡Oh! ¡Quieres
+	escuchar!
 	"""
 	msgClear
 	"""
-	I was working for
-	a bread factory in
-	a small village...
+	Trabajaba en una
+	panadería en un
+	pequeño pueblo...
 	"""
 	msgClear
 	"""
-	There was a clean
-	and beautiful creek
-	near the factory.
+	Había un arroyo
+	limpio y hermoso
+	cerca del lugar.
 	"""
 	msgClear
 	"""
-	The location was
-	the best for making
-	bread.
+	Era el sitio ideal
+	para hacer pan.
 	"""
 	msgClear
 	"""
-	All the bread we
-	made sold very well.
-	And the bread which
+	Todo el pan que
+	hacíamos se vendía
+	muy bien. Y el pan
 	"""
 	msgClear
 	"""
-	sold the best was...
-	Wait, I know I can
-	remember this...
+	que más vendíamos...
+	Espera, sé que puedo
+	recordarlo...
 	"""
 	msgClear
 	"""
-	Yes, it was buns
-	with jam...
+	Sí, eran bollos
+	con mermelada...
 	"""
 	msgClear
 	"""
-	No, no, no, buns
-	with cream was our
-	best seller.
+	No, no, no, los
+	bollos con crema
+	eran los más
 	"""
 	msgClear
 	"""
-	Some people came to
-	buy our bread from
-	far away places
+	populares.
 	"""
 	msgClear
 	"""
-	because they heard
-	such good things
-	about our bread.
+	Algunas personas
+	venían desde lejos
+	para comprar pan
 	"""
 	msgClear
 	"""
-	I used to work hard
-	and not rest at all
-	because I was happy
+	porque oían cosas
+	tan buenas sobre
+	nuestro pan.
 	"""
 	msgClear
 	"""
-	to see the smiles
-	of those who ate
-	our bread.
+	Trabajaba duro y no
+	descansaba porque me
+	alegraba ver las
 	"""
 	msgClear
 	"""
-	I had very happy
-	days as a baker...
+	sonrisas de quienes
+	comían nuestro pan.
 	"""
 	msgClear
 	"""
-	But... Who expected
-	that incident...
+	Fueron días muy
+	felices como
+	panadero...
 	"""
 	msgClear
 	"""
-	I feel sad to
-	remember...
+	Pero... quién iba
+	a esperar aquel
+	incidente...
 	"""
 	msgClear
 	"""
-	Sorry, I can't tell
-	you anymore. I'm
-	just so sad now...
+	Me da tristeza
+	recordarlo...
+	"""
+	msgClear
+	"""
+	Lo siento, no puedo
+	contarte más. Estoy
+	demasiado triste...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Are you busy...?
-	How cold recent
-	Reploids are...
+	¿Estás ocupado...?
+	Qué fríos son los
+	Reploides de hoy...
 	"""
 	end
 }
@@ -1550,203 +1558,207 @@ script 65 mmz2 {
 	"""
 	msgClear
 	"""
-	Did I tell you
-	about my long and
+	¿Te conté sobre
+	mi largo e
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	interesting past?
-	  YES
+	interesante pasado?
+	  SÍ
 	  NO
 	"""
 	msgClear
 	"""
-	Oh, really...
+	Oh, ya veo...
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 2
 	"""
-	Do you remember it?
-	  YES
+	¿Lo recuerdas?
+	  SÍ
 	  NO
 	"""
 	msgClear
 	"""
-	Is that true?!
+	¿En serio?
 	"""
 	msgClear
 	"""
-	I will test you to
-	make sure you're
-	not lying...
+	Te pondré a prueba
+	para asegurarme
+	de que no mientes...
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 3
 	"""
-	Where did I work?
-	  TV STATION
-	  BREAD FACTORY
+	¿Dónde trabajaba?
+	  ESTACIÓN DE TV
+	  PANADERÍA
 	"""
 	msgClear
 	"""
-	I didn't say that.
-	The young people of
-	today are not
+	No dije eso.
+	Los jóvenes de hoy
+	no están
 	"""
 	msgClear
 	"""
-	willing to listen
-	to me... How sad...
+	dispuestos a
+	escucharme...
+	Qué triste...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Oh, I didn't
-	tell you yet.
+	Ah, aún no te lo
+	contaba.
 	"""
 	msgClear
 	"""
-	It was a very
-	trivial story...
+	Es una historia
+	muy trivial...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	It is a dull story
-	of an old man...
+	Es solo el viejo
+	relato de un
+	anciano...
 	"""
 	msgClear
 	"""
-	No need to
-	remember...
+	No hace falta
+	recordarlo...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 3
 	"""
-	Correct! But
-	everyone answers
-	that one correctly.
+	¡Correcto! Pero
+	todos responden
+	esa bien.
 	"""
 	msgClear
 	"""
-	So, the next
-	question...
+	Así que, la
+	siguiente
+	pregunta...
 	"""
 	msgClear
 	"""
-	Can you name the
-	location of the
+	¿Recuerdas el
+	lugar donde
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 4
 	"""
-	factory?
-	  NEAR A CREEK
-	  NEAR A POND
+	estaba la fábrica?
+	  CERCA DE UN ARROYO
+	  CERCA DE UNA LAGUNA
 	"""
 	msgClear
 	"""
-	Oh, you are correct!
-	Then, how about
-	this question?
+	¡Correcto!
+	Entonces, ¿qué
+	tal esta?
 	"""
 	msgClear
 	"""
-	Can you name the
-	bread that sold the
+	¿Recuerdas cuál
+	era el pan que
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 5
 	"""
-	best in our factory?
-	  BUN WITH JAM
-	  BUN WITH CREAM
+	más vendíamos?
+	  BOLLO CON MERMELADA
+	  BOLLO CON CREMA
 	"""
 	msgClear
 	"""
-	That's not
-	correct...
+	No es correcto...
 	"""
 	msgClear
 	"""
-	I feel sad...
+	Qué pena...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 4
 	"""
-	No one wants to
-	listen to a story
-	of an old man like
+	Nadie quiere
+	escuchar la
+	historia de un
 	"""
 	msgClear
 	"""
-	me...
+	anciano como yo...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 5
 	"""
-	That's right!
+	¡Así es!
 	"""
 	msgClear
 	"""
-	Then, when did I
-	feel happiest?
+	Entonces, ¿cuándo
+	fui más feliz?
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 6
 	"""
-	Can you answer?
-	  PEOPLE SMILING
-	  BECAME FAMOUS
+	¿Sabes la respuesta?
+	  GENTE SONRIENDO
+	  HACERME FAMOSO
 	"""
 	msgClear
 	"""
-	Yes, that's right.
+	Sí, es correcto.
 	"""
 	msgClear
 	"""
-	Young man...
-	You must realize
-	that some day...
+	Joven... Debes
+	darte cuenta de
+	que algún día...
 	"""
 	msgClear
 	"""
-	The smiles of
-	people will
-	represent the
+	Las sonrisas de la
+	gente serán el
+	signo que
 	"""
 	msgClear
 	"""
-	sign of peace.
+	representará la
+	paz.
 	"""
 	msgClear
 	"""
-	Thank you for
-	listening to my
-	long story.
+	Gracias por
+	escuchar mi
+	larga historia.
 	"""
 	msgClear
 	"""
-	Here is a gift for
-	answering my
-	questions
+	Aquí tienes un
+	regalo por
+	responder mis
 	"""
 	msgClear
 	"""
-	correctly. Take this
-	Cyber-elf with you.
+	preguntas bien.
+	Lleva este
+	Cyber-elf contigo.
 	"""
 	msgGotoSub
 		subindex = 9
@@ -1754,15 +1766,15 @@ script 65 mmz2 {
 	msgSub
 		subindex = 6
 	"""
-	No... It's not
-	important for me to
-	be famous.
+	No... No es
+	importante para mí
+	ser famoso.
 	"""
 	msgClear
 	"""
-	I thought you were
-	listening to me...
-	How sad...
+	Creí que me
+	escuchabas...
+	Qué triste...
 	"""
 	end
 }
@@ -1770,17 +1782,18 @@ script 66 mmz2 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Hey, young man.
-	You are beginning
-	to look like that
+	Oye, joven.
+	Estás empezando
+	a parecerte a
 	"""
 	msgClear
 	"""
-	legendary hero.
+	a ese héroe
+	legendario.
 	"""
 	msgClear
 	"""
-	I feel so...
+	Me siento tan...
 	"""
 	end
 }
@@ -1788,18 +1801,18 @@ script 67 mmz2 {
 	mugshotShow
 		mugshot = 36
 	"""
-	There will be many
-	difficulties, but
-	you will be able
+	Habrá muchas
+	dificultades, pero
+	serás capaz de
 	"""
 	msgClear
 	"""
-	to do it.
+	lograrlo.
 	"""
 	msgClear
 	"""
-	Good luck, young
-	man.
+	Buena suerte,
+	joven.
 	"""
 	end
 }
@@ -1807,21 +1820,23 @@ script 68 mmz2 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Zero! I really
-	wanted to see
-	you!
+	¡Zero! ¡De verdad
+	quería verte!
 	"""
 	msgClear
 	"""
-	I asked you to
-	stay with us...
-	You lied to me!
+	Te pedí que
+	te quedaras con
+	nosotros...
 	"""
 	msgClear
 	"""
-	But I'll forgive
-	you because you
-	came back.
+	¡Me mentiste!
+	"""
+	msgClear
+	"""
+	Pero te perdonaré
+	porque has vuelto.
 	"""
 	end
 }
@@ -1829,20 +1844,27 @@ script 69 mmz2 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Ciel has looked
-	sad since we
-	escaped from our
+	Ciel ha estado
+	triste desde que
+	escapamos de
 	"""
 	msgClear
 	"""
-	old base. I loved
-	our old Resistance
-	Base, because I...
+	nuestra antigua
+	base. Me encantaba
+	nuestra antigua
 	"""
 	msgClear
 	"""
-	I don't like
-	Commander Elpizo.
+	Base de la
+	Resistencia,
+	porque a mí...
+	"""
+	msgClear
+	"""
+	No me gusta
+	el Comandante
+	Elpizo.
 	"""
 	end
 }
@@ -1850,46 +1872,39 @@ script 70 mmz2 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Oh, Zero!
+	¡Oh, Zero!
 	"""
 	msgClear
 	"""
-	How are you
-	doing in the
-	new Resistance
+	¿Cómo te ha ido
+	en la nueva Base
+	de la Resistencia?
 	"""
 	msgClear
 	"""
-	Base?
+	Me dijeron que no
+	entrara a la otra
+	habitación, así
 	"""
 	msgClear
 	"""
-	I was told not to
-	go to the other
-	room, so I'm
+	que estoy
+	hablando aquí...
 	"""
 	msgClear
 	"""
-	talking with it
-	here...
+	Cada vez está
+	peor, y quiero que
+	Ciel lo arregle...
 	"""
 	msgClear
 	"""
-	It is getting
-	worse, so I
-	want Ciel to
+	Pero Ciel está
+	muy ocupada...
 	"""
 	msgClear
 	"""
-	fix it...
-	"""
-	msgClear
-	"""
-	But Ciel is busy...
-	"""
-	msgClear
-	"""
-	Boring!
+	¡Qué aburrido!
 	"""
 	end
 }
@@ -1897,25 +1912,30 @@ script 71 mmz2 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Ciel showed me a
-	very pretty Baby
-	Elf in her room...
+	Ciel me mostró
+	un Baby Elf
+	muy bonito en su
 	"""
 	msgClear
 	"""
-	I wonder how it
-	will look when
-	it grows up...?
+	habitación...
+	Me pregunto cómo
+	se verá cuando
 	"""
 	msgClear
 	"""
-	I named the elf
-	Crea!
+	crezca...?
 	"""
 	msgClear
 	"""
-	Ciel said this
-	is a good name!
+	¡Le puse el
+	nombre Crea!
+	"""
+	msgClear
+	"""
+	¡Ciel dijo que
+	es un buen
+	nombre!
 	"""
 	end
 }
@@ -1923,18 +1943,18 @@ script 72 mmz2 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Zero!
+	¡Zero!
 	"""
 	msgClear
 	"""
-	What became of
+	¿Qué pasó con
 	Elpizo?
 	"""
 	msgClear
 	"""
-	No one tells me
-	anything about
-	him...
+	Nadie quiere
+	contarme nada
+	de él...
 	"""
 	end
 }
@@ -1942,46 +1962,46 @@ script 73 mmz2 {
 	mugshotShow
 		mugshot = 34
 	"""
-	You know, I found
-	a new Baby Elf in
-	Ciel's room.
+	Sabes, encontré
+	otro Baby Elf en la
+	habitación de Ciel.
 	"""
 	msgClear
 	"""
-	But it has gone
-	somewhere with
+	Pero se fue a
+	algún lugar con
 	Crea...
 	"""
 	msgClear
 	"""
-	I wanted to name
-	it Prea...
+	Quería nombrarlo
+	Prea...
 	"""
 	msgClear
 	"""
-	Umm, well... Anyway
-	do you think that
+	Umm, bueno...
+	De todos modos,
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	they will be back?
-	  YES...
+	¿crees que volverán?
+	  SÍ...
 	  NO...
 	"""
 	msgClear
 	"""
-	Yahoo! I think
-	they will be back,
-	too!
+	¡Yahoo! ¡Creo que
+	ellas volverán,
+	también!
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Why do you say
-	that? I hate you!
+	¿Por qué dices
+	eso? ¡Te odio!
 	"""
 	end
 }
@@ -1989,9 +2009,9 @@ script 74 mmz2 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I want Ciel to show
-	me the Baby Elves
-	again!
+	¡Quiero que Ciel
+	me muestre los
+	Baby Elves otra vez!
 	"""
 	end
 }
@@ -1999,13 +2019,14 @@ script 75 mmz2 {
 	mugshotShow
 		mugshot = 34
 	"""
-	My Crea and
+	Mi Crea y
 	Prea...
 	"""
 	msgClear
 	"""
-	Zero, when my Baby
-	Elves will be back?
+	Zero, ¿cuándo
+	volverán mis
+	Baby Elves?
 	"""
 	end
 }
@@ -2014,7 +2035,7 @@ script 76 mmz2 {
 		mugshot = 34
 	"""
 	Zero...
-	I feel lonely...
+	Me siento sola...
 	"""
 	end
 }
@@ -2022,32 +2043,36 @@ script 77 mmz2 {
 	mugshotShow
 		mugshot = 38
 	"""
-	Zero!! I worried
-	about you very
-	much!
+	¡¡Zero!! ¡Estaba
+	muy preocupado
+	por ti!
 	"""
 	msgClear
 	"""
-	I must hurry!
-	I must hurry!!
-	I must hurry!!!
+	¡Debo apurarme!
+	¡Debo apurarme!!
+	¡Debo apurarme!!!
 	"""
 	msgClear
 	"""
-	I have been
-	working so hard
-	these days in
+	He estado
+	trabajando muy
+	duro estos días
 	"""
 	msgClear
 	"""
-	order to please
-	Elpizo.
+	para complacer
+	a Elpizo.
 	"""
 	msgClear
 	"""
-	I wish I could do
-	operations in that
-	control room...
+	Desearía poder
+	encargarme de las
+	operaciones en esa
+	"""
+	msgClear
+	"""
+	sala de control...
 	"""
 	end
 }
@@ -2055,29 +2080,29 @@ script 78 mmz2 {
 	mugshotShow
 		mugshot = 38
 	"""
-	I must hurry!
-	I must hurry!!
-	I must hurry!!!
+	¡Debo apurarme!
+	¡Debo apurarme!!
+	¡Debo apurarme!!!
 	"""
 	msgClear
 	"""
-	I think I am
-	the hardest
-	worker in this
+	Creo que soy
+	el que más
+	trabaja en toda
 	"""
 	msgClear
 	"""
-	base.
+	la base.
 	"""
 	msgClear
 	"""
-	Zero, if you meet
-	Elpizo, tell him
-	that I'm working
+	Zero, si ves a
+	Elpizo, dile que
+	estoy trabajando
 	"""
 	msgClear
 	"""
-	hard!
+	muy duro.
 	"""
 	end
 }
@@ -2085,28 +2110,30 @@ script 79 mmz2 {
 	mugshotShow
 		mugshot = 38
 	"""
-	Zero!
-	How about Elpizo?
+	¡Zero!
+	¿Qué hay de
+	Elpizo?
 	"""
 	msgClear
 	"""
 	Elpizo...
-	If he resigns from
-	commander, I want
+	Si renuncia como
+	comandante, yo
 	"""
 	msgClear
 	"""
-	to succeed to him.
+	quiero ser su
+	sucesor.
 	"""
 	msgClear
 	"""
-	Being an operator
-	is good, but being
-	a commander is the
+	Ser operador
+	es bueno, pero
+	ser comandante es
 	"""
 	msgClear
 	"""
-	best!
+	lo mejor.
 	"""
 	end
 }
@@ -2115,17 +2142,18 @@ script 80 mmz2 {
 		mugshot = 38
 	"""
 	Zero...
-	You work so hard.
+	Trabajas
+	muy duro.
 	"""
 	msgClear
 	"""
-	I respect you
-	because you're
-	always trying
+	Te respeto
+	porque siempre
+	das lo mejor
 	"""
 	msgClear
 	"""
-	your best.
+	de ti.
 	"""
 	end
 }
@@ -2133,18 +2161,18 @@ script 81 mmz2 {
 	mugshotShow
 		mugshot = 46
 	"""
-	Hiya! My name is
-	Menart!
+	¡Hola! ¡Mi nombre
+	es Menart!
 	"""
 	msgClear
 	"""
-	I'm not liked by
-	everyone just
-	because I always
+	¡A nadie le caigo
+	bien solo porque
+	siempre dejo
 	"""
 	msgClear
 	"""
-	blow off my work!
+	el trabajo tirado!
 	"""
 	end
 }
@@ -2152,13 +2180,13 @@ script 82 mmz2 {
 	mugshotShow
 		mugshot = 46
 	"""
-	Don't work so
-	hard, because you
-	won't defeat Neo
+	¡No trabajes
+	tanto, porque si
+	no, no derrotarás
 	"""
 	msgClear
 	"""
-	Arcadia!
+	a Neo Arcadia!
 	"""
 	end
 }
@@ -2166,29 +2194,28 @@ script 83 mmz2 {
 	mugshotShow
 		mugshot = 46
 	"""
-	Hey, Zero!
-	It must be so
-	difficult.
+	¡Hey, Zero!
+	Debe ser muy
+	difícil.
 	"""
 	msgClear
 	"""
-	Once I met him,
-	I immediately
-	felt that there
+	Una vez que lo
+	vi, de inmediato
+	sentí que había
 	"""
 	msgClear
 	"""
-	was something
+	algo mal
 	"""
 	msgClear
 	"""
-	wrong with him.
-	Therefore, I don't
-	want to work under
+	con él. ¡Por eso,
+	no quiero trabajar
 	"""
 	msgClear
 	"""
-	him!
+	bajo sus órdenes!
 	"""
 	end
 }
@@ -2196,9 +2223,9 @@ script 84 mmz2 {
 	mugshotShow
 		mugshot = 46
 	"""
-	The first
-	priority is to
-	catch him.
+	La primera
+	prioridad es
+	capturarlo.
 	"""
 	end
 }
@@ -2206,23 +2233,24 @@ script 85 mmz2 {
 	mugshotShow
 		mugshot = 46
 	"""
-	Are you all
-	right, Zero?
-	You must never
+	¿Estás bien,
+	Zero?
+	Nunca debes
 	"""
 	msgClear
 	"""
-	die...
+	morir...
 	"""
 	msgClear
 	"""
-	If you die,
-	there are many
-	people who will
+	¡Si mueres,
+	hay muchas
+	personas que
 	"""
 	msgClear
 	"""
-	be very sad!
+	se pondrán
+	muy tristes!
 	"""
 	end
 }
@@ -2230,30 +2258,30 @@ script 86 mmz2 {
 	mugshotShow
 		mugshot = 50
 	"""
-	You are the one who
-	was brought here?
-	Oh, you look
+	¿Eres tú a quien
+	trajeron aquí?
+	Oh, te ves
 	"""
 	msgClear
 	"""
-	completely
-	recovered.
+	completamente
+	recuperado.
 	"""
 	msgClear
 	"""
-	I'm Rocinolle...
-	I look after
-	injured Reploids.
+	Soy Rocinolle...
+	Cuido de los
+	Reploides heridos.
 	"""
 	msgClear
 	"""
-	When the injury is
-	serious, Cerveau
-	will take care of
+	Cuando el daño es
+	grave, Cerveau
+	será quien se haga
 	"""
 	msgClear
 	"""
-	them.
+	cargo.
 	"""
 	end
 }
@@ -2261,34 +2289,34 @@ script 87 mmz2 {
 	mugshotShow
 		mugshot = 50
 	"""
-	What is happening
+	¿Qué sucede,
 	Zero?
 	"""
 	msgClear
 	"""
-	If you have time,
-	please talk with
-	old Andrew.
+	Si tienes tiempo,
+	por favor habla con
+	el viejo Andrew.
 	"""
 	msgClear
 	"""
-	I want to listen
-	to his stories,
-	but I am needed
+	Quisiera escuchar
+	sus historias,
+	pero me necesitan
 	"""
 	msgClear
 	"""
-	here.
+	aquí.
 	"""
 	msgClear
 	"""
-	If you talk with
-	him, maybe you'll
-	get something good
+	Si hablas con él,
+	quizás consigas
+	algo bueno
 	"""
 	msgClear
 	"""
-	out of it...
+	de ello...
 	"""
 	end
 }
@@ -2300,14 +2328,14 @@ script 88 mmz2 {
 	"""
 	msgClear
 	"""
-	I heard about
+	Escuché sobre
 	Elpizo...
 	"""
 	msgClear
 	"""
-	What on earth is
-	he thinking? Please
-	be careful.
+	¿En qué diablos está
+	pensando? Por favor,
+	ten cuidado.
 	"""
 	end
 }
@@ -2315,18 +2343,18 @@ script 89 mmz2 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Zero, didn't you
-	see Elpizo?
+	Zero, ¿no has
+	visto a Elpizo?
 	"""
 	msgClear
 	"""
-	I don't know why
-	such a thing
-	happened...
+	No sé por qué
+	pasó algo así...
 	"""
 	msgClear
 	"""
-	Be careful, Zero.
+	Ten cuidado,
+	Zero.
 	"""
 	end
 }
@@ -2334,9 +2362,9 @@ script 90 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	You saved my life,
-	Zero. Thank you
-	very much.
+	Me salvaste la vida,
+	Zero. Muchas
+	gracias.
 	"""
 	end
 }
@@ -2344,9 +2372,9 @@ script 91 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	What has become of
-	Master Elpizo?
-	Where is he?
+	¿Qué ha sido del
+	Maestro Elpizo?
+	¿Dónde está?
 	"""
 	end
 }
@@ -2354,8 +2382,9 @@ script 92 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Master Elpizo...
-	I hope he is safe...
+	Maestro Elpizo...
+	Espero que esté
+	bien...
 	"""
 	end
 }
@@ -2363,18 +2392,18 @@ script 93 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Thank you for
-	saving me.
+	Gracias por
+	salvarme.
 	"""
 	msgClear
 	"""
-	I did't think I
-	would be able to
-	come back like
+	No pensé que
+	lograría regresar
+	sano y salvo
 	"""
 	msgClear
 	"""
-	this.
+	de esta manera.
 	"""
 	end
 }
@@ -2382,21 +2411,21 @@ script 94 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	I think that
-	Master Elpizo is
-	thinking something
+	Pienso que
+	el Maestro Elpizo
+	tiene en mente algo
 	"""
 	msgClear
 	"""
-	very important. And
-	that is why he is
-	acting like this.
+	muy importante. Y
+	por eso actúa
+	así.
 	"""
 	msgClear
 	"""
-	I don't think we
-	have to worry about
-	him.
+	No creo que tengamos
+	que preocuparnos
+	por él.
 	"""
 	end
 }
@@ -2404,9 +2433,9 @@ script 95 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Master Elpizo...
-	I hope that is
-	just a nightmare...
+	Maestro Elpizo...
+	Espero que solo
+	sea una pesadilla...
 	"""
 	end
 }
@@ -2414,9 +2443,9 @@ script 96 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Zero, thank you
-	very much. You are
-	the legendary hero!
+	Zero, muchas
+	gracias. ¡Eres
+	el héroe legendario!
 	"""
 	end
 }
@@ -2424,19 +2453,19 @@ script 97 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Master Elpizo is
-	always thinking
-	about us.
+	El Maestro Elpizo
+	siempre se preocupa
+	por nosotros.
 	"""
 	msgClear
 	"""
-	I hope Neo Arcadia
-	will be defeated as
-	soon as possible
+	Ojalá Neo Arcadia
+	caiga lo más
+	pronto posible,
 	"""
 	msgClear
 	"""
-	and peace will come.
+	y llegue la paz.
 	"""
 	end
 }
@@ -2444,14 +2473,20 @@ script 98 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	I wonder if we
-	resistance soldiers
-	have a chance of
+	Me pregunto si
+	nosotros,
 	"""
 	msgClear
 	"""
-	winning without
-	Master Elpizo...
+	los soldados de
+	la resistencia,
+	tendremos
+	"""
+	msgClear
+	"""
+	alguna oportunidad
+	de ganar sin
+	el Maestro Elpizo...
 	"""
 	end
 }
@@ -2459,8 +2494,8 @@ script 99 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	I owe you, Zero...
-	Thank you very much.
+	Te debo una, Zero...
+	Muchas gracias.
 	"""
 	end
 }
@@ -2468,19 +2503,19 @@ script 100 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Even the invincible
-	Master Elpizo won't
-	be able to destroy
+	Incluso el invencible
+	Maestro Elpizo no
+	podrá destruir
 	"""
 	msgClear
 	"""
-	Neo Arcadia by
-	himself.
+	Neo Arcadia por sí
+	mismo.
 	"""
 	msgClear
 	"""
-	So please help him,
-	Zero.
+	Así que por favor,
+	ayúdalo, Zero.
 	"""
 	end
 }
@@ -2488,9 +2523,13 @@ script 101 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Is Elpizo safe...?
-	I really worry
-	about him...
+	¿Está Elpizo a
+	salvo...?
+	"""
+	msgClear
+	"""
+	Realmente me
+	preocupa...
 	"""
 	end
 }
@@ -2498,9 +2537,9 @@ script 102 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Without you, I
-	wouldn't be here...
-	Thank you, Zero.
+	Sin ti, no 
+	estaría aquí...
+	Gracias, Zero.
 	"""
 	end
 }
@@ -2508,19 +2547,19 @@ script 103 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Without Elpizo,
-	the Resistance
-	Base will become
+	Sin Elpizo,
+	la Base de la
+	Resistencia se
 	"""
 	msgClear
 	"""
-	a mess.
+	volverá un caos.
 	"""
 	msgClear
 	"""
-	I hope he will
-	return as soon
-	as possible.
+	Espero que regrese
+	lo más pronto
+	posible.
 	"""
 	end
 }
@@ -2528,9 +2567,8 @@ script 104 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Zero, everything
-	depends on your
-	power.
+	Zero, todo depende
+	de tu poder.
 	"""
 	end
 }
@@ -2538,15 +2576,13 @@ script 105 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	I would have been
-	killed by the
-	monster like a
+	Sin ti, el monstruo
+	que parecía serpiente
+	me habría matado.
 	"""
 	msgClear
 	"""
-	snake without
-	you. Thank you,
-	Zero.
+	Gracias, Zero.
 	"""
 	end
 }
@@ -2554,14 +2590,14 @@ script 106 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Master Elpizo is
-	interested in the
-	little elves.
+	El Maestro Elpizo
+	está interesado por
+	los pequeños elfos.
 	"""
 	msgClear
 	"""
-	They must have some
-	amazing power.
+	Deben tener algún
+	poder increíble.
 	"""
 	end
 }
@@ -2569,13 +2605,13 @@ script 107 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Zero, everything
-	depends on your
-	incredible power.
+	Zero, todo depende
+	de tu increíble
+	poder.
 	"""
 	msgClear
 	"""
-	Good luck.
+	Buena suerte.
 	"""
 	end
 }
@@ -2583,31 +2619,32 @@ script 108 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	Hey, Zero!
-	No one would
-	believe me, but
+	¡Hey, Zero!
+	Nadie me lo
+	creería, pero
 	"""
 	msgClear
 	"""
-	I'll tell you
-	anyway.
+	igual te lo
+	diré.
 	"""
 	msgClear
 	"""
-	I saw green wind
-	blow in the sky
-	for a moment, just
+	Vi un viento verde
+	cruzar el cielo por
+	un momento, justo
 	"""
 	msgClear
 	"""
-	when you were being
-	carried here.
+	cuando te estaban
+	llevando hasta
+	aquí.
 	"""
 	msgClear
 	"""
-	Ha ha ha... Or
-	maybe I was seeing
-	an illusion?
+	Ja ja ja... ¿O tal
+	vez solo fue una
+	ilusión?
 	"""
 	end
 }
@@ -2615,37 +2652,38 @@ script 109 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	Hey, Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	You know what?
+	¿Sabes qué?
 	"""
 	msgClear
 	"""
-	Inside the bushes
-	in the forest, you
-	can find various
+	Entre los arbustos
+	del bosque puedes
+	encontrar varias
 	"""
 	msgClear
 	"""
-	things...
+	cosas...
 	"""
 	msgClear
 	"""
-	You will also find
-	a ruin when you
-	progress, which
+	También encontrarás
+	una ruina más
+	adelante, que
 	"""
 	msgClear
 	"""
-	has many secrets.
+	guarda muchos
+	secretos.
 	"""
 	msgClear
 	"""
-	They are from the
-	mystery of the
-	Maverick Wars.
+	Provienen del
+	misterio de las
+	Guerras Maverick.
 	"""
 	end
 }
@@ -2653,61 +2691,56 @@ script 110 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	Hey, Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	You Know what?
+	¿Sabes qué?
 	"""
 	msgClear
 	"""
-	In the center
-	part of Neo Arcadia,
-	there is a very
+	En la parte central
+	de Neo Arcadia,
+	hay un árbol muy
 	"""
 	msgClear
 	"""
-	huge tree, which I
-	have never seen
-	anywhere else.
+	grande, que nunca
+	he visto en
+	ningún otro lugar.
 	"""
 	msgClear
 	"""
-	Behind its root, you
-	may find something
-	important.
+	Detrás de sus raíces
+	podrías encontrar
+	algo importante.
 	"""
 	msgClear
 	"""
-	However, it's not
-	easy for you to
-	get there.
+	Pero, no te será
+	fácil llegar allí.
 	"""
 	msgClear
 	"""
-	Due to the fact
-	that the area is
-	protected by many
+	Pues la zona está
+	protegida por
+	muchos edificios.
 	"""
 	msgClear
 	"""
-	buildings.
+	En realidad, esto
+	es solo un rumor
+	que escuché de
 	"""
 	msgClear
 	"""
-	Actually, this is
-	just a rumor that
-	I heard from
+	alguien más. Así
+	que supongo que
+	depende de tu
 	"""
 	msgClear
 	"""
-	someone else. So
-	I guess it just
-	depends on your
-	"""
-	msgClear
-	"""
-	belief in rumors...
+	fe en los rumores...
 	"""
 	end
 }
@@ -2715,17 +2748,17 @@ script 111 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	What's up, Zero?
+	¿Qué tal, Zero?
 	"""
 	msgClear
 	"""
-	Did you already
-	find Elpizo?
+	¿Ya encontraste
+	a Elpizo?
 	"""
 	msgClear
 	"""
-	I can't understand
-	what he wants...
+	No logro entender
+	lo que quiere...
 	"""
 	end
 }
@@ -2733,15 +2766,15 @@ script 112 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	I know that you
-	can destroy Neo
+	Sé que tú puedes
+	destruir Neo
 	Arcadia...
 	"""
 	msgClear
 	"""
-	I'll always be
-	watching you
-	from here.
+	Siempre te estaré
+	vigilando desde
+	aquí.
 	"""
 	end
 }
@@ -2749,19 +2782,20 @@ script 113 mmz2 {
 	mugshotShow
 		mugshot = 56
 	"""
-	Ha ha ha...
-	You're doing very
-	well, new comer.
+	Ja ja ja...
+	Lo estás haciendo
+	muy bien, novato.
 	"""
 	msgClear
 	"""
-	Now you must defeat
-	me to move on.
+	Ahora debes
+	derrotarme para
+	seguir adelante.
 	"""
 	msgClear
 	"""
-	No, no, I was
-	only kidding!
+	¡No, no, solo
+	estaba bromeando!
 	"""
 	end
 }
@@ -2769,34 +2803,33 @@ script 114 mmz2 {
 	mugshotShow
 		mugshot = 56
 	"""
-	Do you know Ciel?
+	¿Conoces a Ciel?
 	"""
 	msgClear
 	"""
-	I think she
-	shouldn't be a
-	human being.
+	Creo que ella no
+	debería ser
+	un ser humano.
 	"""
 	msgClear
 	"""
-	The reason why is
-	because humans age
-	and grow old.
+	La razón es, que los
+	humanos envejecen
+	con el tiempo.
 	"""
 	msgClear
 	"""
-	But, there is a
-	Reploid who
-	purposely asked
+	Pero hay un Reploide
+	que quiso a
+	propósito
 	"""
 	msgClear
 	"""
-	to look like an
-	old one...
+	parecer un viejo...
 	"""
 	msgClear
 	"""
-	That's funny.
+	Qué gracioso.
 	"""
 	end
 }
@@ -2804,15 +2837,15 @@ script 115 mmz2 {
 	mugshotShow
 		mugshot = 56
 	"""
-	What? Is there
-	anything more you
-	want to tell me?
+	¿Qué? ¿Hay algo
+	más que quieras
+	decirme?
 	"""
 	msgClear
 	"""
-	I wanted you to
-	tell me everything
-	you can.
+	Quería que me
+	contaras todo
+	lo que puedas.
 	"""
 	end
 }
@@ -2820,19 +2853,19 @@ script 116 mmz2 {
 	mugshotShow
 		mugshot = 56
 	"""
-	New comer, did you
-	come here to listen
-	to my sarcastic
+	Novato, ¿viniste
+	a escuchar mis
+	comentarios
 	"""
 	msgClear
 	"""
-	comment?
+	sarcásticos?
 	"""
 	msgClear
 	"""
-	By the way,
-	what's going on
-	with Commander
+	Por cierto,
+	¿Qué está pasando
+	con el Comandante
 	"""
 	msgClear
 	"""
@@ -2840,9 +2873,9 @@ script 116 mmz2 {
 	"""
 	msgClear
 	"""
-	Shouldn't you
-	catch him as soon
-	as possible?
+	¿No deberías
+	alcanzarlo lo
+	más pronto posible?
 	"""
 	end
 }
@@ -2850,24 +2883,24 @@ script 117 mmz2 {
 	mugshotShow
 		mugshot = 56
 	"""
-	Hey, why are you
-	working so hard?
+	Oye, ¿por qué te
+	esfuerzas tanto?
 	"""
 	msgClear
 	"""
-	Do you think you
-	can change this
-	world by yourself?
+	¿De verdad crees
+	que puedes cambiar
+	el mundo tú solo?
 	"""
 	msgClear
 	"""
-	If you think so,
-	you are the
-	happiest man in
+	Si es así,
+	eres el tipo
+	más feliz del
 	"""
 	msgClear
 	"""
-	the world.
+	mundo.
 	"""
 	end
 }
@@ -2875,20 +2908,19 @@ script 118 mmz2 {
 	mugshotShow
 		mugshot = 56
 	"""
-	You are amazing.
-	Even someone as
-	great as myself
+	Eres increíble.
+	Hasta alguien tan
+	genial como yo
 	"""
 	msgClear
 	"""
-	has respect for
-	you.
+	te respeta.
 	"""
 	msgClear
 	"""
-	You might hate to
-	listen to me, but
-	good luck!
+	Quizá no quieras
+	escucharme, pero
+	¡buena suerte!
 	"""
 	end
 }
@@ -2896,31 +2928,31 @@ script 119 mmz2 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Nice to meet you,
-	Zero. My name is
-	Perroquiet.
+	Encantado de
+	conocerte, Zero. Me 
+	llamo Perroquiet.
 	"""
 	msgClear
 	"""
-	I came here to
-	help Ciel locate
-	data, but there
+	Vine aquí para
+	ayudar a Ciel a
+	localizar datos,
 	"""
 	msgClear
 	"""
-	are just too many
-	here...
+	pero hay
+	demasiados aquí...
 	"""
 	msgClear
 	"""
-	However, I think
-	the data on Baby
-	Elves that Ciel
+	Sin embargo, creo
+	que los datos de
+	los Baby Elves que
 	"""
 	msgClear
 	"""
-	wants is not
-	here...
+	Ciel quiere no
+	están aquí...
 	"""
 	end
 }
@@ -2928,31 +2960,27 @@ script 120 mmz2 {
 	mugshotShow
 		mugshot = 52
 	"""
-	It will take a
-	month to check
-	all the data here.
+	Tomará un mes
+	revisar todos
+	los datos aquí.
 	"""
 	msgClear
 	"""
-	I understand she
-	wants to study and
-	test it as soon as
+	Entiendo que ella
+	quiere estudiarlo
+	y probarlo lo
 	"""
 	msgClear
 	"""
-	possible, but this
-	schedule is too
-	difficult to
+	antes posible,
+	pero es muy
+	difícil lograrlo.
 	"""
 	msgClear
 	"""
-	accomplish.
-	"""
-	msgClear
-	"""
-	By the way, I've
-	never seen such a
-	beautiful elf...
+	Por cierto, nunca
+	vi un elfo tan
+	hermoso...
 	"""
 	end
 }
@@ -2960,17 +2988,19 @@ script 121 mmz2 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Are you looking for
-	something too, Zero?
+	¿Buscas algo
+	tú también,
+	Zero?
 	"""
 	msgClear
 	"""
-	Ah, you're looking
-	for Elpizo...
+	Ah, buscas
+	a Elpizo...
 	"""
 	msgClear
 	"""
-	But he isn't here!
+	¡Pero no está
+	aquí!
 	"""
 	end
 }
@@ -2982,25 +3012,29 @@ script 122 mmz2 {
 	"""
 	msgClear
 	"""
-	When you finish
-	your job, help me
-	tidy up this shelf.
+	Cuando termines
+	tu trabajo, ven y
+	ayúdame a ordenar
 	"""
 	msgClear
 	"""
-	I can't reach the
-	higher place...
+	este estante.
 	"""
 	msgClear
 	"""
-	I had hoped that
-	Autruche in the
-	storage room would
+	No alcanzo la parte
+	de arriba...
 	"""
 	msgClear
 	"""
-	have to do this
-	instead of me...
+	Esperaba que
+	Autruche del
+	almacén
+	"""
+	msgClear
+	"""
+	hiciera esto
+	en vez de mí...
 	"""
 	end
 }
@@ -3009,29 +3043,29 @@ script 123 mmz2 {
 		mugshot = 52
 	"""
 	Zero...
-	I didn't think
-	that the Baby Elves
+	No pensé que
+	los Baby Elves
 	"""
 	msgClear
 	"""
-	were dangerous
-	elves...
+	fueran elfos
+	peligrosos...
 	"""
 	msgClear
 	"""
-	Ciel believes that
-	she can improve the
-	energy shortage,
+	Ciel cree que
+	puede mejorar la
+	falta de energía,
 	"""
 	msgClear
 	"""
-	but...
+	pero...
 	"""
 	msgClear
 	"""
-	Anyway, I'm glad
-	that Ciel is
-	doing well.
+	De todos modos,
+	me alegra que a Ciel
+	le esté yendo bien.
 	"""
 	end
 }
@@ -3039,38 +3073,43 @@ script 124 mmz2 {
 	mugshotShow
 		mugshot = 52
 	"""
-	The power of the
-	elves will destroy
-	even Neo Arcadia...
+	El poder de los elfos
+	destruirá incluso
+	a Neo Arcadia...
 	"""
 	msgClear
 	"""
-	The arbitrary
-	action of a
-	commander Reploid
+	La acción
+	arbitraria de un
+	Comandante Reploide
 	"""
 	msgClear
 	"""
-	is...
-	The change in
-	Elpizo is...
+	es...
+	El cambio en
+	Elpizo es...
 	"""
 	msgClear
 	"""
-	It is in many ways
-	similar to the
-	record of the one
+	En muchos sentidos
+	es similar al
+	registro de aquel
 	"""
 	msgClear
 	"""
-	Reploid, who caused
-	the Maverick Wars...
+	Reploide que causó
+	las Guerras
+	Maverick...
 	"""
 	msgClear
 	"""
-	Please, please stop
-	Elpizo, or it will
-	be too late!
+	¡Por favor, debes
+	detener a Elpizo,
+	"""
+	msgClear
+	"""
+	o será demasiado
+	tarde!
 	"""
 	end
 }
@@ -3078,49 +3117,49 @@ script 125 mmz2 {
 	mugshotShow
 		mugshot = 54
 	"""
-	Um?
-	You must be Zero.
+	¿Hm?
+	Debes ser Zero.
 	"""
 	msgClear
 	"""
-	My name is Doigt.
+	Mi nombre es Doigt.
 	"""
 	msgClear
 	"""
-	As Cerveau told me,
-	you're so
-	well-designed that
+	Como dijo Cerveau,
+	estás tan bien
+	diseñado que
 	"""
 	msgClear
 	"""
-	I can't believe
-	you're an old-type
-	Reploid.
+	cuesta creer que
+	seas un Reploide
+	de tipo antiguo.
 	"""
 	msgClear
 	"""
-	I want to see your
-	insides, so do you
-	mind if I rip you
+	Quiero ver tu
+	interior, ¿te
+	molesta si te
 	"""
 	msgClear
 	"""
-	apart?
+	desarmo?
 	"""
 	msgClear
 	"""
-	Ha ha ha.
-	I'm kidding.
+	Ja ja ja.
+	Es broma.
 	"""
 	msgClear
 	"""
-	No really, I'm
-	just kidding.
+	De verdad, solo
+	estoy bromeando.
 	"""
 	msgClear
 	"""
-	Don't look at me
-	like that.
+	No me mires
+	así.
 	"""
 	end
 }
@@ -3128,25 +3167,26 @@ script 126 mmz2 {
 	mugshotShow
 		mugshot = 54
 	"""
-	By the way, Cerveau
-	is so very
-	interesting...
+	Por cierto,
+	Cerveau es
+	muy interesante...
 	"""
 	msgClear
 	"""
-	Once he gets deep
-	into research, he
-	does not hear
+	Cuando se mete
+	a fondo en sus
+	investigaciones,
 	"""
 	msgClear
 	"""
-	anything...
+	no oye
+	nada...
 	"""
 	msgClear
 	"""
-	It seems there is no 
-	way that I will ever
-	be a match for him.
+	Parece que jamás
+	podré estar a su
+	mismo nivel.
 	"""
 	end
 }
@@ -3154,29 +3194,29 @@ script 127 mmz2 {
 	mugshotShow
 		mugshot = 54
 	"""
-	Oh, hello Zero.
-	I heard you're
-	doing great.
+	Oh, hola Zero.
+	Oí que te está
+	yendo muy bien.
 	"""
 	msgClear
 	"""
-	It's all thanks
-	to the weapons
-	that Cerveau
+	¡Todo es gracias
+	a las armas que
+	Cerveau
 	"""
 	msgClear
 	"""
-	developed!
+	desarrolló!
 	"""
 	msgClear
 	"""
-	...Well, I
-	shouldn't say
-	that because you
+	...Bueno, no
+	debería decir
+	eso porque tú
 	"""
 	msgClear
 	"""
-	might get mad.
+	podrías enojarte.
 	"""
 	end
 }
@@ -3184,19 +3224,20 @@ script 128 mmz2 {
 	mugshotShow
 		mugshot = 54
 	"""
-	Cerveau and I are
-	making weapons for
-	all the resistance
+	Cerveau y yo
+	estamos haciendo
+	armas para todos
 	"""
 	msgClear
 	"""
-	soldiers.
+	los soldados de
+	la Resistencia.
 	"""
 	msgClear
 	"""
-	But, it's just too
-	much work for the
-	two of us...
+	Pero es demasiado
+	trabajo para
+	solo nosotros dos…
 	"""
 	end
 }
@@ -3204,18 +3245,20 @@ script 129 mmz2 {
 	mugshotShow
 		mugshot = 54
 	"""
-	I don't mean to
-	brag, but...
+	No quiero
+	alardear, pero...
 	"""
 	msgClear
 	"""
-	We're very proud of
-	the weapons we made.
+	Estamos muy
+	orgullosos de las
+	armas que hicimos.
 	"""
 	msgClear
 	"""
-	So, you'd better
-	believe in yourself.
+	Así que más te
+	vale confiar en
+	ti mismo.
 	"""
 	end
 }
@@ -3223,50 +3266,47 @@ script 130 mmz2 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Hello, Mr. Zero.
+	Hola, Sr. Zero.
 	"""
 	msgClear
 	"""
-	My name is Autruche.
+	Me llamo
+	Autruche.
 	"""
 	msgClear
 	"""
-	I'm ashamed to
-	say this...
+	Me da vergüenza
+	decir esto...
 	"""
 	msgClear
 	"""
-	I'm tall but I'm
-	not good at heavy
-	work.
+	Soy alto, pero no
+	soy bueno para
+	trabajos pesados.
 	"""
 	msgClear
 	"""
-	In spite of the
-	fact, I have to
-	carry goods in
+	Aun así, tengo
+	que cargar cosas
+	en el almacén...
 	"""
 	msgClear
 	"""
-	storage...
+	No sé quién
+	decidió esta
+	asignación, pero
 	"""
 	msgClear
 	"""
-	I don't know who
-	decided the
-	assignment but they
+	no tiene nada de
+	conocimiento de
+	aptitudes.
 	"""
 	msgClear
 	"""
-	do not have any
-	knowledge of
-	aptitude.
-	"""
-	msgClear
-	"""
-	Oh, I'm sorry...
-	I really shouldn't
-	complain.
+	Oh, perdona...
+	No debería
+	quejarme.
 	"""
 	end
 }
@@ -3274,13 +3314,15 @@ script 131 mmz2 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Keep up the good
-	work, Mr. Zero.
+	Siga así con el
+	buen trabajo,
+	Sr. Zero.
 	"""
 	msgClear
 	"""
-	I also hang in
-	there... somehow...
+	Yo también sigo
+	aguantando...
+	de algún modo...
 	"""
 	end
 }
@@ -3288,22 +3330,22 @@ script 132 mmz2 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Hello, Mr. Zero.
+	Hola, Sr. Zero.
 	"""
 	msgClear
 	"""
-	You came to listen
-	to my complaints?
+	¿Vino a oír mis
+	quejas?
 	"""
 	msgClear
 	"""
-	Oh, you shouldn't
-	do that...
+	Oh, no debería
+	hacer eso...
 	"""
 	msgClear
 	"""
-	It will just make
-	you feel blue...
+	Solo logrará que
+	se sienta mal...
 	"""
 	end
 }
@@ -3311,30 +3353,30 @@ script 133 mmz2 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Even for me, I
-	don't have so
-	much complaining.
+	Incluso yo no
+	tengo tantas
+	quejas.
 	"""
 	msgClear
 	"""
-	Well, if I force
-	myself...
+	Bueno, si me
+	esfuerzo...
 	"""
 	msgClear
 	"""
-	The amount of
+	La cantidad de
 	Energy Crystal
-	I get a day is
+	que recibo por día
 	"""
 	msgClear
 	"""
-	the same as
-	Perroquet.
+	es la misma que
+	la de Perroquet.
 	"""
 	msgClear
 	"""
-	That doesn't
-	make sense.
+	No tiene
+	sentido.
 	"""
 	end
 }
@@ -3342,14 +3384,14 @@ script 134 mmz2 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Mr. Zero.
-	Good luck.
+	Señor Zero.
+	Buena suerte.
 	"""
 	msgClear
 	"""
-	Though I can't
-	do anything for
-	you...
+	Aunque no
+	puedo hacer
+	nada por ti...
 	"""
 	end
 }
@@ -3357,90 +3399,102 @@ script 135 mmz2 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Boot complete.
+	Arranque
+	completado.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Do you want to know?
-	  YES
+	¿Quieres saber?
+	  SÍ
 	  NO
 	"""
 	msgClear
 	"""
-	Request accepted.
+	Solicitud
+	aceptada.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 2
 	"""
-	What do you want?
-	  MAVERICK WARS
+	¿Qué quieres?
+	  GUERRAS MAVERICK
 	  CYBER-ELF
 	"""
 	msgClear
 	"""
-	The Maverick Wars
-	was started by the
-	Sigma virus, which
+	Las Guerras
+	Maverick comenzaron
+	por el virus Sigma,
 	"""
 	msgClear
 	"""
-	terrified the world.
+	que aterrorizó
+	al mundo.
 	"""
 	msgClear
 	"""
-	Eventually the
-	Maverick Wars
-	turned into everyone
+	Con el tiempo, las
+	Guerras Maverick se
+	volvieron un caos
 	"""
 	msgClear
 	"""
-	misusing the power
-	of the Cyeber-elves.
+	donde todos
+	comenzaron a abusar
 	"""
 	msgClear
 	"""
-	Thanks to X, the
-	evil Cyber-elves
-	have been deleted.
+	del poder de los
+	Cyber-elves.
 	"""
 	msgClear
 	"""
-	No further
-	information can
-	be found.
+	Gracias a X, los
+	Cyber-elves malvados
+	fueron eliminados.
+	"""
+	msgClear
+	"""
+	No se puede
+	encontrar más
+	información.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Terminating
-	program...
+	Terminando
+	programa...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	The Cyber-elf is a
-	program created to
-	support humans and
+	Un Cyber-elf es un
+	programa creado para
+	apoyar a humanos y
 	"""
 	msgClear
 	"""
-	Reploids.
+	Reploides.
 	"""
 	msgClear
 	"""
-	The Cyber-elf has
-	its own will and
-	can talk.
+	Los Cyber-elves
+	tienen voluntad
+	propia y pueden
 	"""
 	msgClear
 	"""
-	However, once it
-	is used, it dies.
+	hablar.
+	"""
+	msgClear
+	"""
+	Sin embargo, una
+	vez usados, mueren.
 	"""
 	end
 }
@@ -3448,120 +3502,125 @@ script 136 mmz2 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Boot complete.
+	Arranque
+	completado.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Do you want to know?
-	  YES
+	¿Quieres saber?
+	  SÍ
 	  NO
 	"""
 	msgClear
 	"""
-	Request accepted.
+	Solicitud
+	aceptada.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 2
 	"""
-	What do you want?
+	¿Qué quieres?
 	  X
-	  FOUR GUARDIANS
+	  CUATRO GUARDIANES
 	"""
 	msgClear
 	"""
-	X is...
+	X es...
 	"""
 	msgClear
 	"""
-	A Reploid who was
-	a famous Maverick
-	Hunter.
+	Un Reploide que fue
+	un famoso Cazador
+	de Mavericks.
 	"""
 	msgClear
 	"""
-	After he ended the
-	Maverick Wars, he
-	created Neo Arcadia
+	Tras poner fin a
+	las Guerras
+	Maverick, creó Neo
 	"""
 	msgClear
 	"""
-	in hope of
-	creating a lasting
-	peace.
+	Arcadia con la
+	esperanza de lograr
+	una paz duradera.
 	"""
 	msgClear
 	"""
-	However, he went
-	missing and his
-	location is
+	Sin embargo,
+	desapareció y su
+	paradero aún
 	"""
 	msgClear
 	"""
-	still unknown...
+	se desconoce...
 	"""
 	msgClear
 	"""
-	If Cyber-elf X is
-	real...
+	Si el Cyber-elf X
+	es real...
 	"""
 	msgClear
 	"""
-	Then the body of
-	the original X
-	should still exist
+	Entonces el cuerpo
+	del X original
+	todavía debería
 	"""
 	msgClear
 	"""
-	somewhere.
+	existir en algún
+	lado.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Terminating
-	program...
+	Terminando
+	programa...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	The Four Guardians
-	are Harpuia, Fefnir,
-	Leviathan and
+	Los Cuatro
+	Guardianes son
+	Harpuia, Fefnir,
 	"""
 	msgClear
 	"""
+	Leviathan y
 	Phantom.
 	"""
 	msgClear
 	"""
-	They are designed
-	based upon parts
-	of the original X.
+	Fueron diseñados
+	a partir de partes
+	del X original.
 	"""
 	msgClear
 	"""
-	Three of the
-	Guardians have
-	attributes like
+	Tres de los
+	Guardianes tienen
+	atributos como
 	"""
 	msgClear
 	"""
-	Thunder, Flame, or
-	Ice.
+	Trueno, Fuego o
+	Hielo.
 	"""
 	msgClear
 	"""
-	However, Phantom
-	blew himself up in
-	a fight against
+	Sin embargo,
+	Phantom se hizo
+	volar a sí mismo
 	"""
 	msgClear
 	"""
-	Zero a year ago.
+	en una batalla con
+	Zero hace un año.
 	"""
 	end
 }
@@ -3569,56 +3628,58 @@ script 137 mmz2 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Boot complete.
+	Arranque
+	completado.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Do you want to know?
-	  YES
+	¿Quieres saber?
+	  SÍ
 	  NO
 	"""
 	msgClear
 	"""
-	Request accepted.
+	Solicitud
+	aceptada.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 2
 	"""
-	What do you want?
+	¿Qué quieres?
 	  DARK ELF
 	  ELPIZO
 	"""
 	msgClear
 	"""
-	The Dark Elf is a
-	special type of
-	Cyber-elf created
+	La Dark Elf es un
+	tipo especial de
+	Cyber-elf creado
 	"""
 	msgClear
 	"""
-	to bring the
-	Maverick
-	Wars to end...
+	para poner fin a
+	las Guerras
+	Maverick...
 	"""
 	msgClear
 	"""
-	X used it and the
-	wars quickly
-	ended...
+	X la utilizó y las
+	guerras terminaron
+	rápidamente...
 	"""
 	msgClear
 	"""
-	After that, it was
-	stolen by someone,
-	and then the Dark
+	Luego de eso, fue
+	robada por
+	alguien, y la Dark
 	"""
 	msgClear
 	"""
-	Elf brought about
-	the Elf Wars.
+	Elf provocó las
+	Guerras Élficas.
 	"""
 	msgClear
 	"""
@@ -3626,65 +3687,65 @@ script 137 mmz2 {
 	"""
 	msgClear
 	"""
-	Power Unknown...
+	Poder desconocido...
 	"""
 	msgClear
 	"""
-	Unknown...
-	Unknown...
-	Unknown...
+	Desconocido...
+	Desconocido...
+	Desconocido...
 	"""
 	msgClear
 	"""
-	ERROR: Termination
-	commencing...
+	ERROR: Iniciando
+	terminación...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Terminating
-	program...
+	Terminando
+	programa...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	Elpizo once
-	worked for Neo
-	Arcadia.
+	Elpizo trabajó en
+	Neo Arcadia en
+	algún momento.
 	"""
 	msgClear
 	"""
-	Then he rebelled
-	against Neo
-	Arcadia and built
+	Luego se rebeló
+	contra Neo
+	Arcadia y creó
 	"""
 	msgClear
 	"""
-	up the Resistance
-	Base.
+	la Base de la
+	Resistencia.
 	"""
 	msgClear
 	"""
-	Presently, he has
-	abandoned the
-	Resistance Base
+	Actualmente, ha
+	abandonado la
+	Base de la
 	"""
 	msgClear
 	"""
-	because he has
-	become enchanted
-	by the power of
+	Resistencia porque
+	se dejó seducir
+	por el poder de
 	"""
 	msgClear
 	"""
-	the Dark Elf...
+	la Dark Elf...
 	"""
 	msgClear
 	"""
-	His location is
-	unknown...
+	Su paradero es
+	desconocido...
 	"""
 	end
 }
@@ -3692,18 +3753,14 @@ script 138 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	What?!!
-	I conducted
-	attacks against
+	¿Qué?!!
+	¿He atacado
+	al Sr. Zero?
 	"""
 	msgClear
 	"""
-	Mr. Zero?
-	"""
-	msgClear
-	"""
-	It must be some
-	mistake!?
+	¡Debe ser algún
+	error!?
 	"""
 	end
 }
@@ -3711,13 +3768,13 @@ script 139 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Stay alert,
-	Mr. Zero.
+	Mantente alerta,
+	Sr. Zero.
 	"""
 	msgClear
 	"""
-	Neo Arcadia is
-	full of danger.
+	Neo Arcadia está
+	llena de peligros.
 	"""
 	end
 }
@@ -3725,13 +3782,12 @@ script 140 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Mr. Zero.
-	You saved me?
+	Sr. Zero.
+	¿Me salvaste?
 	"""
 	msgClear
 	"""
-	Thank you very
-	much.
+	Muchas gracias.
 	"""
 	end
 }
@@ -3739,9 +3795,13 @@ script 141 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Mr. Zero. Please
-	bring back our
-	Commander Elpizo.
+	Sr. Zero. Por favor,
+	trae de vuelta a
+	nuestro Comandante
+	"""
+	msgClear
+	"""
+	Elpizo.
 	"""
 	end
 }
@@ -3749,13 +3809,15 @@ script 142 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	For a new Resistance
-	Base, don't you
-	think this room
+	Para una nueva
+	Base de la
+	Resistencia, ¿no
 	"""
 	msgClear
 	"""
-	is too small?
+	crees que esta
+	habitación es
+	demasiado pequeña?
 	"""
 	end
 }
@@ -3763,14 +3825,13 @@ script 143 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Mr. Zero...
-	Do you think that
-	a peaceful era
+	Sr. Zero...
+	¿Crees que algún día
+	llegará una era de
 	"""
 	msgClear
 	"""
-	will ever really
-	come true?
+	verdadera paz?
 	"""
 	end
 }
@@ -3778,13 +3839,13 @@ script 144 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Is it true that
-	I was brainwashed?
-	I don't remember
+	¿Es cierto que me
+	lavaron el cerebro?
+	No recuerdo nada
 	"""
 	msgClear
 	"""
-	at all.
+	en absoluto.
 	"""
 	end
 }
@@ -3792,19 +3853,20 @@ script 145 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Mr. Zero, we'd like
-	to come along with
-	you to Neo Arcadia.
+	Sr. Zero, nos
+	gustaría ir contigo
+	a Neo Arcadia.
 	"""
 	msgClear
 	"""
-	But it appears to
-	be impossible to
-	transfer all of
+	Pero parece
+	imposible
+	transferirnos
 	"""
 	msgClear
 	"""
-	us simultaneously.
+	a todos
+	simultáneamente.
 	"""
 	end
 }
@@ -3812,8 +3874,8 @@ script 146 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Mr. Zero, you're
-	a lifesaver.
+	Sr. Zero, eres
+	un salvavidas.
 	"""
 	end
 }
@@ -3821,15 +3883,15 @@ script 147 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	This new Resistance
-	Base would have
-	easily been
+	Esta nueva Base de
+	la Resistencia
+	habría sido
 	"""
 	msgClear
 	"""
-	destroyed without
-	you here to protect
-	us all.
+	fácilmente destruida
+	si no estuvieras aquí
+	para protegernos.
 	"""
 	end
 }
@@ -3837,19 +3899,19 @@ script 148 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Even though I was
-	brainwashed, I
-	can't believe I
+	Aunque me hayan
+	lavado el cerebro,
+	no puedo creer que
 	"""
 	msgClear
 	"""
-	turned a gun to
-	you, Mr. Zero...
+	apuntara un arma
+	a ti, Sr. Zero...
 	"""
 	msgClear
 	"""
-	My apologies for
-	acting like that.
+	Mis disculpas por
+	actuar así.
 	"""
 	end
 }
@@ -3857,18 +3919,18 @@ script 149 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Mr. Zero.
+	Sr. Zero.
 	"""
 	msgClear
 	"""
-	The Neo Arcadia
-	Temple is full
-	of traps.
+	El Templo de Neo
+	Arcadia está lleno
+	de trampas.
 	"""
 	msgClear
 	"""
-	Please stay on
-	guard!
+	¡Mantente en
+	guardia!
 	"""
 	end
 }
@@ -3876,15 +3938,15 @@ script 150 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	If you hadn't
-	rescued me, I
-	might have killed
+	Si no me hubieras
+	rescatado, podría
+	haber matado a mi
 	"""
 	msgClear
 	"""
-	my comrade. I feel
-	so disgusted just
-	thinking of it...
+	camarada. Me siento
+	tan indignado solo
+	de pensarlo...
 	"""
 	end
 }
@@ -3892,9 +3954,9 @@ script 151 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Be careful not to
-	get brainwashed,
-	Mr. Zero.
+	Cuidado con que te
+	laven el cerebro,
+	Sr. Zero.
 	"""
 	end
 }
@@ -3902,14 +3964,14 @@ script 152 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	I almost gave up
-	returning to the
-	base... I still
+	Casi renuncié a
+	regresar a la base...
+	Aún no puedo
 	"""
 	msgClear
 	"""
-	can't believe that
-	I survived.
+	creer que
+	sobreviví.
 	"""
 	end
 }
@@ -3917,9 +3979,13 @@ script 153 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Mr. Zero...
-	Thank you for your
-	efforts and risks.
+	Sr. Zero...
+	Gracias por todo
+	tu esfuerzo y
+	"""
+	msgClear
+	"""
+	por arriesgarte.
 	"""
 	end
 }
@@ -3927,8 +3993,9 @@ script 154 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	I was brainwashed?
-	I had no idea...
+	¿Me lavaron el
+	cerebro?
+	No tenía ni idea...
 	"""
 	end
 }
@@ -3936,14 +4003,15 @@ script 155 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	I sometimes have
-	problems with my
-	memory.
+	A veces tengo
+	problemas con
+	mi memoria.
 	"""
 	msgClear
 	"""
-	Is this an effect
-	of the brainwash?
+	¿Será este un
+	efecto del lavado
+	de cerebro?
 	"""
 	end
 }
@@ -3951,14 +4019,14 @@ script 156 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	I remember up until
-	I headed for the
-	crashed aircraft...
+	Recuerdo hasta que
+	me dirigí hacia la
+	nave estrellada...
 	"""
 	msgClear
 	"""
-	Neo Arcadia is very
-	scary...
+	Neo Arcadia da
+	mucho miedo...
 	"""
 	end
 }
@@ -3966,9 +4034,9 @@ script 157 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Mr. Zero. Leave us
-	here to guard the
-	Resistance Base.
+	Sr. Zero. Déjanos
+	a cargo de la base
+	de la Resistencia.
 	"""
 	end
 }
@@ -3976,14 +4044,14 @@ script 158 mmz2 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Mr. Zero, leave
-	this area to me.
+	Sr. Zero, déjame
+	esta área a mí.
 	"""
 	msgClear
 	"""
-	I'll take care
-	of any enemies
-	by myself.
+	Me ocuparé de
+	cualquier enemigo
+	por mi mismo.
 	"""
 	end
 }
@@ -3991,9 +4059,9 @@ script 159 mmz2 {
 	mugshotShow
 		mugshot = 64
 	"""
-	I just shot down
-	an enemy minnow
-	Mechaniloid.
+	Acabo de derribar
+	un Mecaniloide
+	enemigo pequeño.
 	"""
 	end
 }
@@ -4001,26 +4069,25 @@ script 160 mmz2 {
 	mugshotShow
 		mugshot = 64
 	"""
-	To tell the truth...
-	My hand on the
-	trigger was
+	Para ser sincero...
+	Mi mano temblaba
+	sobre el gatillo
 	"""
 	msgClear
 	"""
-	trembling when
-	I saw a bombardment
-	aircraft.
+	cuando vi un avión
+	de bombardeo.
 	"""
 	msgClear
 	"""
-	Though I'm a
-	resistance
-	soldier...
+	Aunque soy un
+	soldado de la
+	resistencia...
 	"""
 	msgClear
 	"""
-	I'm ashamed to
-	admit it...
+	Me da vergüenza
+	admitirlo...
 	"""
 	end
 }
@@ -4028,15 +4095,15 @@ script 161 mmz2 {
 	mugshotShow
 		mugshot = 64
 	"""
-	I'm proud to be
-	able to fight
-	with Mr. Zero.
+	Estoy orgulloso
+	de poder luchar
+	junto al Sr. Zero.
 	"""
 	msgClear
 	"""
-	Thank you for
-	your cooperation,
-	Mr. Zero.
+	Gracias por tu
+	cooperación,
+	Sr. Zero.
 	"""
 	end
 }
@@ -4044,23 +4111,29 @@ script 162 mmz2 {
 	mugshotShow
 		mugshot = 62
 	"""
-	Oh, Mr. Zero!
+	¡Oh, Sr. Zero!
 	"""
 	msgClear
 	"""
-	I found a lost
-	Cyber-elf earlier.
-	Can you take this?
+	Encontré un
+	Cyber-elf perdido
+	hace un momento.
 	"""
 	msgClear
 	"""
-	I think this
-	Cyber-elf would be
-	happier with other
+	¿Puedes
+	llevarlo?
 	"""
 	msgClear
 	"""
-	the Cyber-elves.
+	Creo que este
+	Cyber-elf sería
+	más feliz con
+	"""
+	msgClear
+	"""
+	los otros
+	Cyber-elves.
 	"""
 	end
 }
@@ -4068,24 +4141,25 @@ script 163 mmz2 {
 	mugshotShow
 		mugshot = 62
 	"""
-	I heard that
-	Miss Ciel is
-	commanding
+	Escuché que la
+	Srta. Ciel está
+	comandando
 	"""
 	msgClear
 	"""
-	operations. Is she
-	all right?
+	operaciones.
+	¿Ella está bien?
 	"""
 	msgClear
 	"""
-	Don't get me
-	wrong... I didn't
-	mean that I don't
+	No me
+	malinterpretes...
+	no quiero decir que
 	"""
 	msgClear
 	"""
-	trust Miss Ciel.
+	no confíe en la
+	Srta. Ciel.
 	"""
 	end
 }
@@ -4093,13 +4167,13 @@ script 164 mmz2 {
 	mugshotShow
 		mugshot = 62
 	"""
-	As long as Mr. Zero
-	is with us, we
-	won't be afraid
+	Mientras el Sr. Zero
+	esté con nosotros,
+	no tendremos miedo
 	"""
 	msgClear
 	"""
-	of Neo Arcadia.
+	de Neo Arcadia.
 	"""
 	end
 }
@@ -4107,28 +4181,29 @@ script 165 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	Hey, Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	You've got Ultimate
-	Form! Amazing!
+	¡Tienes la
+	Forma Ultimate!
+	¡Increíble!
 	"""
 	msgClear
 	"""
-	By the way,you
-	know what?
+	Por cierto,
+	¿sabes qué?
 	"""
 	msgClear
 	"""
-	I'm afraid that
-	even if you use
-	all Cyber-elves,
+	Me temo que incluso
+	usando todos
+	los Cyber-elves,
 	"""
 	msgClear
 	"""
-	you can't get
-	the Rare Elf.
+	no podrás obtener
+	el Rare Elf.
 	"""
 	end
 }
@@ -4140,8 +4215,8 @@ script 166 mmz2 {
 	"""
 	msgClear
 	"""
-	Listen to me when
-	you have time.
+	Escúchame cuando
+	tengas tiempo.
 	"""
 	end
 }
@@ -4149,19 +4224,16 @@ script 167 mmz2 {
 	mugshotShow
 		mugshot = 62
 	"""
-	Well, the scenery
-	from here is
-	outstanding...
+	Bueno, el paisaje
+	desde aquí es
+	espectacular...
 	"""
 	msgClear
 	"""
-	I can't help but
-	forget about the
-	fact that we are
-	"""
-	msgClear
-	"""
-	here on a mission.
+	No puedo evitar
+	olvidar que estamos
+	aquí en una misión.
 	"""
 	end
+
 }
