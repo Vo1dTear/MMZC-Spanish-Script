@@ -326,7 +326,7 @@ script 16 mmz2 {
 	"""
 	msgClear
 	"""
-	soldados	por rescatar.
+	soldados por rescatar.
 	"""
 	end
 }
@@ -338,7 +338,7 @@ script 17 mmz2 {
 	"""
 	msgClear
 	"""
-	soldado	por rescatar.
+	soldado por rescatar.
 	"""
 	end
 }
