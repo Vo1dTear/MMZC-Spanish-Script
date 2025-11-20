@@ -5,23 +5,23 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: We confirmed that
+	Operadora: Confirmamos que
 	"""
 	msgClear
 	"""
-	there are supplies
+	hay suministros
 	"""
 	msgClear
 	"""
-	in this transport train.
+	en este tren de transporte.
 	"""
 	msgClear
 	"""
-	Watch out for obstructions
+	Cuidado con los obstáculos
 	"""
 	msgClear
 	"""
-	and seize the train.
+	y apodérate del tren.
 	"""
 	end
 }
@@ -29,27 +29,26 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 17
 	"""
-	Hey, you!
+	¡Oye, tú!
 	"""
 	msgClear
 	"""
-	Don't you know
-	that this is
-	Master Harpuia's
+	¿No sabes que
+	este es
+	territorio del
 	"""
 	msgClear
 	"""
-	territory?
+	Maestro Harpuia?
 	"""
 	msgClear
 	"""
-	Huh, a minion of
-	the resistance
-	force!
+	Huh, ¡un esbirro de
+	la resistencia!
 	"""
 	msgClear
 	"""
-	I shall stop you!
+	¡Te detendré!
 	"""
 	end
 }
@@ -57,23 +56,23 @@ script 2 mmz2 {
 	mugshotShow
 		mugshot = 16
 	"""
-	No... No... I
-	can't believe
-	this...
+	No... No...
+	No puedo creer
+	esto...
 	"""
 	msgClear
 	"""
-	Master Harpuia...
+	Maestro Harpuia...
 	"""
 	msgClear
 	"""
-	I'm ashamed...
-	I was not good
-	enough...
+	Estoy avergonzado...
+	No fui lo suficien-
+	temente bueno...
 	"""
 	msgClear
 	"""
-	Guhhha....h!
+	¡Guhhha....h!
 	"""
 	end
 }
@@ -81,35 +80,35 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Mr. Zero! Please
+	Operator: ¡Sr. Zero!
 	"""
 	msgClear
 	"""
-	listen!
+	¡Por favor, escuche!
 	"""
 	msgClear
 	"""
-	Enemy Mechaniloids are
+	Mecaniloides enemigos
 	"""
 	msgClear
 	"""
-	approaching you.
+	se acercan a usted.
 	"""
 	msgClear
 	"""
-	Their mission is to
+	La misión de ellos es
 	"""
 	msgClear
 	"""
-	retrieve the supplies.
+	recuperar los suministros.
 	"""
 	msgClear
 	"""
-	Please protect the supplies
+	Protege los suministros
 	"""
 	msgClear
 	"""
-	and defeat the enemies.
+	y acaba con los enemigos.
 	"""
 	end
 }

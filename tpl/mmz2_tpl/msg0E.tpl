@@ -5,26 +5,30 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 29
 	"""
-	Why are you so
-	late, Zero?
+	¿Por qué tardaste
+	tanto, Zero?
 	"""
 	msgClear
 	"""
-	I was so bored that
-	we had to retire
-	all the resistance
+	Estaba tan aburrida
+	que tuvimos que
+	ocuparnos de todos
 	"""
 	msgClear
 	"""
-	soldiers to pass
-	the time... All
-	that remains is
+	los soldados de la
+	resistencia para
+	matar el tiempo...
 	"""
 	msgClear
 	"""
-	only this inferior
-	ex-Neo Arcadia
-	citizen.
+	Ahora solo queda
+	este ciudadano
+	inferior, ex–Neo
+	"""
+	msgClear
+	"""
+	Arcadia.
 	"""
 	end
 }
@@ -32,21 +36,21 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Zero, I've been
-	waiting for you
-	too long.
+	Zero, te he estado
+	esperando por
+	demasiado tiempo.
 	"""
 	msgClear
 	"""
-	They were too weak
-	to have fun with...
-	I have wanted to
+	Los otros eran dema-
+	siado débiles como
+	para divertirme...
 	"""
 	msgClear
 	"""
-	face you. Why don't
-	we have fun
-	together!!
+	Quería enfrentarme
+	a ti. ¿Por qué no
+	nos divertimos!!
 	"""
 	end
 }
@@ -54,7 +58,7 @@ script 2 mmz2 {
 	mugshotShow
 		mugshot = 25
 	"""
-	Stop!
+	¡Alto!
 	"""
 	end
 }
@@ -62,7 +66,7 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Wha...!
+	¡Qué...!
 	"""
 	end
 }
@@ -74,34 +78,34 @@ script 4 mmz2 {
 	"""
 	msgClear
 	"""
-	Did you come to
-	rescue this
-	Reploid, Zero?
+	¿Viniste a
+	rescatar a este
+	Reploide, Zero?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	... Yeah.
+	... Sí.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 25
 	"""
-	Why do you bother?
-	Even if you help
-	him, he won't
+	¿Por qué te
+	molestas?
+	Aunque lo ayudes,
 	"""
 	msgClear
 	"""
-	thank you. And...
-	If he lives, even
-	more resistance
+	no te lo agradecerá.
+	Y... si vive, aún
+	más soldados de la
 	"""
 	msgClear
 	"""
-	soldiers are going
-	to die.
+	resistencia van a
+	morir.
 	"""
 	end
 }
@@ -109,26 +113,26 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	I'll save this
-	Reploid... And I
-	won't let anymore
+	Salvaré a este
+	Reploide... Y no
+	permitiré que más
 	"""
 	msgClear
 	"""
-	resistance soldiers
-	Die.
+	soldados de la
+	resistencia mueran.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 25
 	"""
-	How greedy...
-	But can you
-	really do that
+	Qué ambicioso...
+	Pero, ¿realmente
+	puedes lograr eso
 	"""
 	msgClear
 	"""
-	by yourself?
+	tú solo?
 	"""
 	end
 }
@@ -136,27 +140,35 @@ script 6 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Emergency call
+	Operadora: ¡Llamada de
 	"""
 	msgClear
 	"""
-	for Zero!
+	emergencia para Zero!
 	"""
 	msgClear
 	"""
-	An unidentified object is
+	Un objeto no identificado
 	"""
 	msgClear
 	"""
-	rapidly flying toward the
+	está volando rápido
 	"""
 	msgClear
 	"""
-	Resistance Base.
+	hacia la Base de la
 	"""
 	msgClear
 	"""
-	Return to base immediately!
+	Resistencia.
+	"""
+	msgClear
+	"""
+	¡Vuelve a la base
+	"""
+	msgClear
+	"""
+	inmediatamente!
 	"""
 	end
 }
@@ -164,14 +176,14 @@ script 7 mmz2 {
 	mugshotShow
 		mugshot = 29
 	"""
-	Ooh. Can you hear
-	it? A bombardment
-	aircraft is heading
+	Ohh. ¿Lo oyes?
+	Un avión de
+	bombardeo se dirige
 	"""
 	msgClear
 	"""
-	for your base with
-	a special bomb.
+	a tu base con
+	una bomba especial.
 	"""
 	end
 }
@@ -179,47 +191,47 @@ script 8 mmz2 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Using bombs is not
-	my style. But all
-	is fair in love
+	Usar bombas no es
+	mi estilo. Pero en
+	el amor y la guerra
 	"""
 	msgClear
 	"""
-	and war...
+	todo se vale...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 25
 	"""
-	Your resistance
-	forces have made
-	a mistake that
+	Las fuerzas de tu
+	resistencia han
+	cometido un error
 	"""
 	msgClear
 	"""
-	can't be forgiven.
-	Neo Arcadia, or
-	should I say, human
+	imperdonable.
+	Neo Arcadia, o
+	debería decir, la
 	"""
 	msgClear
 	"""
-	society is not a
-	thing that Reploids
-	can rebel against.
+	sociedad humana,
+	no es algo contra
+	lo que los Reploides
 	"""
 	msgClear
 	"""
-	If they do, they
-	should be
-	exterminated...
+	puedan rebelarse.
+	Si lo hacen, deben
+	ser exterminados...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	Operator! Transfer
-	us back to the
-	base!
+	¡Operadora!
+	¡Transfiérenos de
+	vuelta a la base!
 	"""
 	end
 }
@@ -227,11 +239,11 @@ script 9 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Roger...
+	Operadora: Entendido...
 	"""
 	msgClear
 	"""
-	Transfer commencing.
+	Iniciando transferencia.
 	"""
 	end
 }
@@ -243,20 +255,21 @@ script 10 mmz2 {
 	"""
 	msgClear
 	"""
-	I don't think that
-	justice is
-	destroying
+	No creo que
+	la justicia sea
+	destruir a las
 	"""
 	msgClear
 	"""
-	resistance forces.
-	But, as long as
-	they try to disobey
+	fuerzas de la
+	resistencia. Pero,
+	mientras intenten
 	"""
 	msgClear
 	"""
-	humans, destroying
-	them is my goal.
+	desobedecer a los
+	humanos, destruirlos
+	es mi objetivo.
 	"""
 	end
 }

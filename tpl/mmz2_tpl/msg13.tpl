@@ -5,8 +5,9 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	We are ready to
-	open fire, sir.
+	Estamos listos
+	para abrir fuego,
+	señor.
 	"""
 	end
 }
@@ -15,8 +16,8 @@ script 1 mmz2 {
 		mugshot = 60
 	msgBottom
 	"""
-	We're waiting for
-	the signal, sir!!
+	¡Estamos esperan-
+	do la señal, señor!!
 	"""
 	end
 }
@@ -25,51 +26,56 @@ script 2 mmz2 {
 		mugshot = 4
 	msgTop
 	"""
-	Well... The time
-	has come to launch
-	a massive attack
+	Bueno... Ha llegado
+	el momento de lanzar
+	un ataque masivo
 	"""
 	msgClear
 	"""
-	against Neo
-	Arcadia. Or maybe
-	it's best to say
+	contra Neo
+	Arcadia. O quizá
+	sea mejor decir
 	"""
 	msgClear
 	"""
-	that it is time
-	to destroy it
-	once and for all.
+	que es momento de
+	destruirla de una
+	vez por todas.
 	"""
 	msgClear
 	"""
-	I'm happy to
-	announce that we
-	are commencing
+	¡Me complace
+	anunciar que
+	estamos dando
 	"""
 	msgClear
 	"""
-	this Operation
-	Righteous Strike!
-	This has been a
+	inicio a esta
+	Operación Golpe
+	Justo! Este ha
 	"""
 	msgClear
 	"""
-	team effort, but
-	I would especially
-	like to thank the
+	sido un trabajo
+	en equipo, pero
+	quisiera agradecer
 	"""
 	msgClear
 	"""
-	efforts of Zero.
-	Now, ladies and
-	gentlemen, BEGIN...
+	en especial los
+	esfuerzos de Zero.
+	Ahora, damas y
+	"""
+	msgClear
+	"""
+	caballeros,
+	INICIEN...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Wait!
+	¡Esperen!
 	"""
 	end
 }
@@ -77,27 +83,27 @@ script 4 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	What is it
-	Ms. Ciel?
+	¿Qué sucede,
+	Srta. Ciel?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	msgBottom
 	"""
-	Is this necessary?
-	Do we really have
-	to do this?
+	¿Es necesario esto?
+	¿De verdad tenemos 
+	que hacerlo?
 	"""
 	msgClear
 	"""
-	If we conduct an
-	all-out attack,
-	the casualties
+	Si lanzamos un
+	ataque total,
+	las bajas serán
 	"""
 	msgClear
 	"""
-	will be so high...
+	muy altas...
 	"""
 	end
 }
@@ -105,13 +111,17 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I'M afraid that's
-	the price we must
-	pay for our future.
+	Me temo que es el
+	precio que debemos
+	pagar por 
 	"""
 	msgClear
 	"""
-	It's sad...
+	nuestro futuro.
+	"""
+	msgClear
+	"""
+	Es lamentable...
 	"""
 	end
 }
@@ -120,25 +130,26 @@ script 6 mmz2 {
 		mugshot = 41
 	msgBottom
 	"""
-	Ciel's research
-	will be completed
-	soon... Once the
+	La investigación de
+	Ciel estará lista
+	muy pronto... 
 	"""
 	msgClear
 	"""
-	substitute energy
-	has been developed,
-	Neo Arcadia loses
+	Una vez que la
+	energía sustituta
+	esté desarrollada,
 	"""
 	msgClear
 	"""
-	its reason to
-	crackdown on us...
-	Will you give us a
+	Neo Arcadia ya no
+	tendrá motivos para
+	reprimirnos...
 	"""
 	msgClear
 	"""
-	little more time?
+	¿Podrías darnos un
+	poco más de tiempo?
 	"""
 	end
 }
@@ -146,26 +157,26 @@ script 7 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	That...
-	Well, that's
-	nothing but a sweet
+	Eso...
+	Bueno, eso no es
+	más que una dulce
 	"""
 	msgClear
 	"""
-	illusion. If a
-	substitute energy
-	is developed,
+	ilusión. Si se
+	desarrolla una
+	energía sustituta,
 	"""
 	msgClear
 	"""
-	and if we give it
-	to them for free,
-	I don't think
+	y si se la damos
+	gratis, no creo que
 	"""
 	msgClear
 	"""
-	Neo Arcadia will
-	show mercy to us...
+	Neo Arcadia
+	nos muestre
+	misericordia...
 	"""
 	end
 }
@@ -174,7 +185,7 @@ script 8 mmz2 {
 		mugshot = 7
 	msgBottom
 	"""
-	B... But...
+	P... Pero...
 	"""
 	end
 }
@@ -182,7 +193,7 @@ script 9 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Silence!
+	¡Silencio!
 	"""
 	msgClear
 	"""
@@ -194,27 +205,27 @@ script 10 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I apologize for my
-	orders, Ms. Ciel.
-	But you must follow
+	Me disculpo por mis
+	órdenes, Srta. Ciel.
+	Pero debe seguirlas.
 	"""
 	msgClear
 	"""
-	them. I'm... I'm so
-	worried about you
-	Reploids...
+	Yo... Estoy tan
+	preocupado por uste-
+	des, los Reploides...
 	"""
 	msgClear
 	"""
-	About Ms. Ciel...
-	and about the
-	resistance
+	Por la Srta. Ciel...
+	y por los soldados
+	de la resistencia...
 	"""
 	msgClear
 	"""
-	soldiers... I just
-	want what is best
-	for YOU ALL!!
+	¡Solo quiero lo
+	mejor para TODOS
+	USTEDES!!
 	"""
 	end
 }
@@ -222,25 +233,25 @@ script 11 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	All troops...
+	Todas las tropas...
 	"""
 	msgClear
 	"""
-	Open fire...
+	Abran fuego...
 	"""
 	msgClear
 	"""
-	Engage!
+	¡Entren en combate!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 75
 	"""
-	All troops.
+	Todas las tropas.
 	"""
 	msgClear
 	"""
-	Open fire now!
+	¡Abran fuego ahora!
 	"""
 	end
 }
@@ -249,7 +260,7 @@ script 12 mmz2 {
 		mugshot = 60
 	msgBottom
 	"""
-	Roger!
+	¡Recibido!
 	"""
 	end
 }
@@ -257,13 +268,13 @@ script 13 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I'm going to the
-	front line to give
-	commands.
+	Voy a la línea
+	del frente a 
+	dar órdenes.
 	"""
 	msgClear
 	"""
-	Transfer me.
+	Transfiéranme.
 	"""
 	end
 }
@@ -271,8 +282,8 @@ script 14 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Preparing to
-	transfer.
+	Preparándose para
+	transferir.
 	"""
 	end
 }
@@ -280,24 +291,25 @@ script 15 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Don't worry.
-	We can work this
-	our later...
+	No te preocupes.
+	Podremos arreglar
+	esto después...
 	"""
 	msgClear
 	"""
-	And when this is
-	all over, I...
+	Y cuando todo
+	esto termine, yo...
 	"""
 	msgClear
 	"""
-	I'd like to...
+	Me gustaría...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 76
 	"""
-	Transfer commencing.
+	Comenzando
+	transferencia.
 	"""
 	end
 }
@@ -306,14 +318,13 @@ script 16 mmz2 {
 		mugshot = 41
 	msgBottom
 	"""
-	Zero, will you
-	follow Commander
-	Elpizo?
+	Zero, ¿seguirás al
+	Comandante Elpizo?
 	"""
 	msgClear
 	"""
-	I've got a very
-	bad feeling...
+	Tengo un muy mal
+	presentimiento...
 	"""
 	msgClear
 	msgSub
@@ -322,21 +333,21 @@ script 16 mmz2 {
 		mugshot = 75
 	msgTop
 	"""
-	Zero, please.
+	Zero, por favor.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 0
 	"""
-	Will you watch him?
-	  YES
+	"¿Lo protegerás?"
+	  SÍ
 	  NO
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 75
 	"""
-	Thank you, Zero.
+	Gracias, Zero.
 	"""
 	msgGotoSub
 		subindex = 2
@@ -346,22 +357,22 @@ script 16 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	Zero. You are our
-	only hope.
+	Zero. Eres nuestra
+	única esperanza.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Will you help him?
-	  YES
+	¿Le ayudarás?
+	  SÍ
 	  NO
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 76
 	"""
-	Thank you, Zero.
+	Gracias, Zero.
 	"""
 	msgClear
 	msgSub
@@ -369,8 +380,8 @@ script 16 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Preparing to
-	transfer.
+	Preparando
+	transferencia.
 	"""
 	end
 }
@@ -378,7 +389,8 @@ script 18 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	Transfer commencing.
+	Comenzando
+	transferencia.
 	"""
 	end
 }
@@ -386,7 +398,7 @@ script 19 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Good luck...
+	Buena suerte...
 	"""
 	end
 }
@@ -394,9 +406,9 @@ script 20 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	We have injured.
-	Bring the Emergency
-	squad.
+	Tenemos a un herido.
+	Llamen al escuadrón
+	de emergencia.
 	"""
 	end
 }
@@ -404,7 +416,8 @@ script 21 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	Transfer complete.
+	Transferencia
+	completada.
 	"""
 	end
 }
@@ -412,19 +425,19 @@ script 22 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Stand-by alert.
-	The huge enemy
-	aircraft is
+	Alerta en espera.
+	El enorme avión
+	enemigo se está
 	"""
 	msgClear
 	"""
-	approaching.
-	Estimated time of
-	arrival is...
+	acercando.
+	Tiempo estimado
+	de llegada...
 	"""
 	msgClear
 	"""
-	Ten minutes.
+	Diez minutos.
 	"""
 	end
 }
@@ -432,23 +445,23 @@ script 23 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	I'll take care of
-	it. Ready a
-	shuttle.
+	Me encargaré de
+	ello. Preparen
+	un transbordador.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 75
 	"""
-	Roger.
-	Zero is going to
-	intercept it.
+	Entendido.
+	Zero lo va a
+	interceptar.
 	"""
 	msgClear
 	"""
-	Prepare an
-	aircraft for
-	launch.
+	Preparen un
+	avión para
+	el despegue.
 	"""
 	end
 }
@@ -456,8 +469,8 @@ script 24 mmz2 {
 	mugshotShow
 		mugshot = 7
 	"""
-	I'm coming with
-	you, Zero!
+	Voy contigo,
+	Zero!
 	"""
 	end
 }
@@ -465,27 +478,27 @@ script 25 mmz2 {
 	mugshotShow
 		mugshot = 7
 	"""
-	I heard it is
-	carrying a special
-	bomb. I don't think
+	Escuché que lleva
+	una bomba especial.
+	No creo que puedas
 	"""
 	msgClear
 	"""
-	you can just destroy
-	it. You must
-	neutralize it
+	destruirla así
+	sin más.
+	Debes neutralizarla
 	"""
 	msgClear
 	"""
-	before you can
-	destroy it.
+	antes de poder
+	destruirla.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	No. It's too
-	dangerous.
+	No. Es demasiado
+	peligroso.
 	"""
 	end
 }
@@ -493,28 +506,27 @@ script 26 mmz2 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Zero. You can act
-	brave, but you
-	shouldn't be
+	Zero. Puedes ser
+	valiente, pero no
+	seas temerario.
 	"""
 	msgClear
 	"""
-	reckless. You
-	know we have
-	no other choice.
+	Sabes que no hay
+	otra opción.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
 	... ... ...
-	Use a portable
-	Trans Server...
+	Usa un Trans
+	Server portátil...
 	"""
 	msgClear
 	"""
-	I'll let you
-	know when.
+	Te avisaré
+	cuándo hacerlo.
 	"""
 	end
 }
@@ -522,9 +534,9 @@ script 27 mmz2 {
 	mugshotShow
 		mugshot = 75
 	"""
-	Zero, Ciel, thanks
-	for intercepting
-	the aircraft.
+	Zero, Ciel, gracias
+	por interceptar
+	el avión.
 	"""
 	end
 }
@@ -533,22 +545,22 @@ script 28 mmz2 {
 		mugshot = 6
 	msgBottom
 	"""
-	Where's Commander
-	Elpizo?
+	¿Dónde está el
+	Comandante Elpizo?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 75
 	msgTop
 	"""
-	Commander Elpizo
-	has assigned Ciel
-	as the acting
+	El Comandante Elpizo
+	nombró a Ciel como
+	comandante interina
 	"""
 	msgClear
 	"""
-	commander and
-	took to the field.
+	y partió directo
+	al campo de batalla.
 	"""
 	end
 }
@@ -556,13 +568,14 @@ script 29 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	His current location
-	is unknown... I will
-	play the message he
+	Su ubicación actual
+	es desconocida...
+	Reproduciré el
 	"""
 	msgClear
 	"""
-	left behind. Listen.
+	mensaje que dejó.
+	Escuchen.
 	"""
 	end
 }
@@ -570,45 +583,49 @@ script 30 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Ms. Ciel...
-	Our operation has
-	failed... You can
+	Señorita Ciel...
+	Nuestra operación
+	ha fallado... Puedes
 	"""
 	msgClear
 	"""
-	blame my
-	foolishness.
+	culpar a mi
+	estupidez.
 	"""
 	msgClear
 	"""
-	Ha ha... I'm such
-	a fool...
+	Ja ja... Soy un
+	completo idiota...
 	"""
 	msgClear
 	"""
-	I was an errand
-	boy in Neo Arcadia.
-	When I came here,
+	En Neo Arcadia
+	no era más que un
+	recadero. Cuando 
 	"""
 	msgClear
 	"""
-	they assigned me as
-	a commander, and I
-	failed everyone.
+	llegué aquí, me
+	asignaron como
+	comandante, y
 	"""
 	msgClear
 	"""
-	I was such a fool...
+	le fallé a todos.
 	"""
 	msgClear
 	"""
-	This is all
-	because... I
-	didn't have the
+	Fui un completo
+	idiota...
 	"""
 	msgClear
 	"""
-	power...
+	Todo esto es
+	porque... no tenía
+	"""
+	msgClear
+	"""
+	el poder...
 	"""
 	end
 }
@@ -617,30 +634,29 @@ script 31 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	I want to be
-	strong...
+	Quiero ser fuerte...
 	"""
 	msgClear
 	"""
-	I want to be
-	all-powerful...
+	Quiero ser
+	todopoderoso...
 	"""
 	msgClear
 	"""
-	I want to be the
-	most powerful
-	Reploid ever...
+	Quiero ser el
+	Reploide más
+	poderoso de todos...
 	"""
 	msgClear
 	"""
-	I'll destroy
-	Neo Arcadia...
-	And all the humans!
+	Destruiré
+	Neo Arcadia... ¡Y a
+	todos los humanos!
 	"""
 	msgClear
 	"""
-	Then... I'll be
-	a true HERO!
+	Entonces... ¡seré
+	un verdadero HÉROE!
 	"""
 	end
 }
@@ -649,41 +665,41 @@ script 32 mmz2 {
 		mugshot = 75
 	msgTop
 	"""
-	We may be able
-	to track down the
-	history of the
+	Quizás podamos
+	rastrear el 
+	historial del
 	"""
 	msgClear
 	"""
-	Trans Server that
-	Elpizo used...
-	Here they are...
+	Trans Server que
+	Elpizo utilizó...
+	Aquí está...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 76
 	"""
-	The Commander must
-	be in one of these
-	locations. Will you
+	El Comandante debe
+	estar en una de
+	estas ubicaciones.
 	"""
 	msgClear
 	"""
-	follow, locate and
-	bring the Commander
-	back?
+	¿Lo seguirás, lo
+	localizarás y lo
+	traerás de vuelta?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 6
 	msgBottom
 	"""
-	We must...
+	Debemos...
 	"""
 	msgClear
 	"""
-	We must help
-	Elpizo...
+	Debemos ayudar
+	a Elpizo...
 	"""
 	end
 }

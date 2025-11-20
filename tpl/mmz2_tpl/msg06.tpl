@@ -33,7 +33,7 @@ script 0 mmz2 {
 	"""
 	msgClear
 	"""
-	activando un Trans
+	activando el Trans
 	"""
 	msgClear
 	"""

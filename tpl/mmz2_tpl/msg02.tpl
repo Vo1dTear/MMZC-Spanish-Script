@@ -1164,7 +1164,8 @@ script 51 mmz2 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Buena suerte, Zero…
+	Buena suerte,
+	Zero...
 	"""
 	end
 }
@@ -2194,7 +2195,7 @@ script 83 mmz2 {
 	mugshotShow
 		mugshot = 46
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	Debe ser muy
 	difícil.
 	"""
@@ -2206,12 +2207,9 @@ script 83 mmz2 {
 	"""
 	msgClear
 	"""
-	algo mal
-	"""
-	msgClear
-	"""
-	con él. ¡Por eso,
-	no quiero trabajar
+	algo mal	con él.
+	¡Por eso, no quiero
+	trabajar
 	"""
 	msgClear
 	"""
@@ -2324,7 +2322,7 @@ script 88 mmz2 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Hey, Zero.
+	Oye, Zero.
 	"""
 	msgClear
 	"""
@@ -2418,8 +2416,7 @@ script 94 mmz2 {
 	msgClear
 	"""
 	muy importante. Y
-	por eso actúa
-	así.
+	por eso actúa así.
 	"""
 	msgClear
 	"""
@@ -3212,7 +3209,7 @@ script 127 mmz2 {
 	"""
 	...Bueno, no
 	debería decir
-	eso porque tú
+	eso porque
 	"""
 	msgClear
 	"""
@@ -3237,7 +3234,7 @@ script 128 mmz2 {
 	"""
 	Pero es demasiado
 	trabajo para
-	solo nosotros dos…
+	solo nosotros dos...
 	"""
 	end
 }
@@ -4075,7 +4072,7 @@ script 160 mmz2 {
 	"""
 	msgClear
 	"""
-	cuando vi un avión
+	cuando vi el avión
 	de bombardeo.
 	"""
 	msgClear

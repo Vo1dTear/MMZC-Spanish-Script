@@ -5,15 +5,15 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: ... You found Elpizo.
+	Ciel: ... Lo encontraste.
 	"""
 	msgClear
 	"""
-	Zero... Take care of him...
+	Zero... encárgate de él...
 	"""
 	msgClear
 	"""
-	Please.
+	Por favor.
 	"""
 	end
 }
@@ -21,19 +21,23 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 23
 	"""
-	W... Waaait!
+	¡E... Eeeespera!
 	"""
 	msgClear
 	"""
-	Wait. Wait. Wait.
-	No one can go beyond
-	here, ribbid!
+	Espera. Espera.
+	Espera.
 	"""
 	msgClear
 	"""
-	This is an order
-	of Master Harpuia,
-	ribbid!
+	¡Nadie puede pasar
+	de aquí, ¡ribbit!
+	"""
+	msgClear
+	"""
+	Esta es una orden
+	del Maestro Harpuia,
+	¡ribbit!
 	"""
 	msgClear
 	"""
@@ -41,20 +45,20 @@ script 1 mmz2 {
 	"""
 	msgClear
 	"""
-	Hmm? Is there
-	someone on the
-	other side of
+	¿Hmm? ¿Hay alguien
+	del otro lado de
+	la puerta? Ribbit.
 	"""
 	msgClear
 	"""
-	the door? Ribbid.
-	No way... This must
-	be a false alarm.
+	No puede ser...
+	Seguro es una
+	falsa alarma.
 	"""
 	msgClear
 	"""
-	I need to have my
-	sensor replaced...
+	Necesito que me
+	cambien el sensor...
 	"""
 	end
 }
@@ -66,17 +70,17 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	Master Harpuia!
+	¡Maestro Harpuia!
 	"""
 	msgClear
 	"""
-	How can I
-	apologize to
-	Master Harpuia...?
+	¿Cómo puedo
+	disculparme ante el
+	Maestro Harpuia...?
 	"""
 	msgClear
 	"""
-	Ug... Gwaaaah!
+	¡Ug... Gwaaaah!
 	"""
 	end
 }
@@ -84,56 +88,57 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Ha ha ha, Zero.
-	Nice to see you
-	again.
+	Ja ja ja, Zero.
+	Qué bueno verte
+	de nuevo.
 	"""
 	msgClear
 	"""
-	Are you...
-	Looking for me...?
+	¿Acaso... me estás
+	buscando?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	Return to the base.
-	What can you do by
-	yourself...?
+	Regresa a la base.
+	¿Qué puedes hacer
+	tú solo...?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 79
 	"""
-	Actually, I can do
-	anything and
-	everything...
+	En realidad, puedo
+	hacer cualquier cosa
+	y todo...
 	"""
 	msgClear
 	"""
-	If I obtain a
-	certain thing.
+	Solo necesito
+	obtener algo.
 	"""
 	msgClear
 	"""
-	I learned about
-	something that makes
-	you invincible once
+	Descubrí que
+	hay algo que te
+	vuelve invencible
 	"""
 	msgClear
 	"""
-	you obtain it...
+	en cuanto lo
+	consigues...
 	"""
 	msgClear
 	"""
-	Thanks to these
+	Gracias a estos
 	Baby Elves...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	You mean... The
+	¿Te refieres... al
 	Dark Elf...
 	"""
 	end
@@ -142,27 +147,31 @@ script 4 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Yes. Hee hee hee.
-	I once thought it
-	was something from
+	Sí. Je je je.
+	Antes pensé que
+	era algo de
 	"""
 	msgClear
 	"""
-	mythology... But I
-	was wrong. I have
-	come believe in it.
+	mitología... Pero
+	estaba equivocado.
+	He llegado a creer
 	"""
 	msgClear
 	"""
-	The key to unlock
-	the seal of the Dark
-	Elf is somewhere
+	en ello. La llave
+	para liberar el
+	sello del Dark Elf
 	"""
 	msgClear
 	"""
-	around here... Let's
-	see who'll find it
-	first!
+	está en algún lugar
+	por aquí...
+	"""
+	msgClear
+	"""
+	¡Veamos quién
+	la encuentra primero!
 	"""
 	end
 }
@@ -170,17 +179,17 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Hee hee hee.
+	Je je je.
 	"""
 	msgClear
 	"""
-	Finally, I found
-	the key!
+	¡Finalmente,
+	encontré la llave!
 	"""
 	msgClear
 	"""
-	Nice try, Zero.
-	Hee hee hee.
+	Buen intento, Zero.
+	Je je je.
 	"""
 	end
 }
@@ -188,39 +197,41 @@ script 6 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Gha ha ha ha!
+	¡Gha ja ja ja!
 	"""
 	msgClear
 	"""
-	Now... All I have to
-	do is break the seal
-	of the Dark Elf.
+	Ahora... Solo tengo
+	que romper el sello
+	del Dark Elf.
 	"""
 	msgClear
 	"""
-	Then I will be as
-	strong as you, Zero.
+	Entonces seré tan
+	fuerte como tú,
+	Zero.
 	"""
 	msgClear
 	"""
-	Or should I say
-	stronger than
-	you...?
+	¿O debería decir,
+	mas fuerte que
+	tú...?
 	"""
 	msgClear
 	"""
-	Oh, don't get me
-	wrong... I won't use
-	this power for
+	Oh, no me malinter-
+	pretes... No usaré
+	este poder para
 	"""
 	msgClear
 	"""
-	evil. I do this for
-	world peace.
+	el mal.
+	Lo haré por la
+	paz mundial.
 	"""
 	msgClear
 	"""
-	And, for Ms. Ciel!
+	Y por la Srta. Ciel.
 	"""
 	msgClear
 	mugshotShow
@@ -243,13 +254,13 @@ script 7 mmz2 {
 	"""
 	msgClear
 	"""
-	Sorry, Zero...
+	Perdón, Zero...
 	"""
 	msgClear
 	"""
-	I didn't expect them
-	to have become that
-	strong...
+	No esperaba que
+	se volvieran
+	tan fuertes..
 	"""
 	msgClear
 	mugshotShow
@@ -261,24 +272,25 @@ script 7 mmz2 {
 	mugshotShow
 		mugshot = 85
 	"""
-	As long as I'm
-	protecting the seal
-	of the main body,
+	Mientras esté prote-
+	giendo el sello del
+	cuerpo principal,
 	"""
 	msgClear
 	"""
-	I'm not ready to
-	deal with them...
+	no estoy en
+	condiciones de
+	enfrentarlos...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	Don't worry...
+	No te preocupes...
 	"""
 	msgClear
 	"""
-	I'll handle it...
+	Yo me encargaré...
 	"""
 	msgClear
 	mugshotShow
@@ -288,15 +300,15 @@ script 7 mmz2 {
 	"""
 	msgClear
 	"""
-	She is responding
-	to her children...
-	Zero... We have no
+	Está respondiendo
+	a sus hijos...
+	Zero... No tenemos
 	"""
 	msgClear
 	"""
-	time... You must
-	find a way to
-	stop Elpizo.
+	tiempo... Debes
+	encontrar una forma
+	de detener a Elpizo.
 	"""
 	end
 }
@@ -308,7 +320,7 @@ script 8 mmz2 {
 	"""
 	msgClear
 	"""
-	The Dark Elf...
+	La Dark Elf...
 	"""
 	msgClear
 	"""
@@ -316,9 +328,9 @@ script 8 mmz2 {
 	"""
 	msgClear
 	"""
-	Mission
-	accomplished.
-	Transfer me back.
+	Mision cumplida.
+	Transfieranme
+	de vuelta.
 	"""
 	end
 }
@@ -326,11 +338,11 @@ script 9 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Roger.
+	Operadora: Recibido.
 	"""
 	msgClear
 	"""
-	Transfer commencing.
+	Iniciando transferencia.
 	"""
 	end
 }

@@ -5,31 +5,31 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: ... Zero. Can you
+	Ciel: ...Zero, ¿me oyes?
 	"""
 	msgClear
 	"""
-	hear me?
+	Parece que no puedes
 	"""
 	msgClear
 	"""
-	It seems you can't enter
+	entrar a través
 	"""
 	msgClear
 	"""
-	it through the facility.
+	de la instalación.
 	"""
 	msgClear
 	"""
-	You need to enter from
+	Debes ingresar
 	"""
 	msgClear
 	"""
-	the outside.
+	desde afuera.
 	"""
 	msgClear
 	"""
-	Stay alert...
+	Mantente alerta...
 	"""
 	end
 }
@@ -37,25 +37,25 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 29
 	"""
-	Hello, Zero.
-	It's nice to see
-	you again.
+	Hola, Zero.
+	Es bueno verte
+	de nuevo.
 	"""
 	msgClear
 	"""
-	I'd love to play
-	with you... But
-	unfortunately I
+	Me encantaría
+	jugar contigo...
+	Pero, por desgracia,
 	"""
 	msgClear
 	"""
-	have no time.
+	no tengo tiempo.
 	"""
 	msgClear
 	"""
-	As soon as I defeat
-	you, I have to take
-	care of commander
+	En cuanto te derrote
+	tendré que ocuparme
+	del comandante
 	"""
 	msgClear
 	"""
@@ -63,7 +63,8 @@ script 1 mmz2 {
 	"""
 	msgClear
 	"""
-	So let's go, Zero!
+	¡Así que vamos,
+	Zero!
 	"""
 	end
 }
@@ -71,37 +72,38 @@ script 2 mmz2 {
 	mugshotShow
 		mugshot = 28
 	"""
-	Hah hah hah...
+	Ja ja ja...
 	"""
 	msgClear
 	"""
-	While playing with
-	you... Elpizo went
-	somewhere...
+	Mientras jugaba
+	contigo... Elpizo
+	fue a algún lugar...
 	"""
 	msgClear
 	"""
-	I got caught up in
-	the fun of the
-	moment. How
+	Me dejé llevar
+	por la diversión
+	del momento. Qué
 	"""
 	msgClear
 	"""
-	foolish of me...
+	tonta fui yo...
 	"""
 	msgClear
 	"""
-	Your strength
-	drives me crazy...
+	Tu fuerza
+	me enloquece...
 	"""
 	msgClear
 	"""
-	Next time...
-	I'll do better...
+	La próxima vez...
+	lo haré mejor...
 	"""
 	msgClear
 	"""
-	So, see you again...
+	Así que, nos
+	veremos de nuevo...
 	"""
 	end
 }

@@ -37,12 +37,13 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 19
 	"""
-	¿Qué haces aquí?
+	¿Qué estás
+	haciendo aquí?
 	"""
 	msgClear
 	"""
-	¡Cómo te atreves
-	a jugar en mi área!
+	¡Cómo te atreves a
+	merodear en mi área!
 	"""
 	msgClear
 	"""
