@@ -2207,7 +2207,7 @@ script 83 mmz2 {
 	"""
 	msgClear
 	"""
-	algo mal	con él.
+	algo mal con él.
 	¡Por eso, no quiero
 	trabajar
 	"""
