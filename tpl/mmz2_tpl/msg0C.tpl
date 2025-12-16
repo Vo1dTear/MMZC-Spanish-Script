@@ -9,7 +9,7 @@ script 0 mmz2 {
 	"""
 	msgClear
 	"""
-	Stay Alert...
+	Mantente alerta...
 	"""
 	end
 }
@@ -17,42 +17,42 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Oh! You must be
+	¡Oh! ¡Debes ser
 	Zero!!
 	"""
 	msgClear
 	"""
-	Ha ha!
-	I'm so glad to
-	see you again!
+	¡Ja ja!
+	¡Me alegra tanto
+	verte otra vez!
 	"""
 	msgClear
 	"""
-	I was chasing a
-	guy named Elpizo,
-	you know him,
+	Estaba persiguiendo
+	a un tal Elpizo,
+	Lo conoces,
 	"""
 	msgClear
 	"""
-	right?
+	¿verdad?
 	"""
 	msgClear
 	"""
-	Ha ha!
+	¡Ja ja!
 	"""
 	msgClear
 	"""
-	I am lucky to
-	meet you here.
+	Qué suerte
+	encontrarte aquí.
 	"""
 	msgClear
 	"""
-	Now, let's start!!
-	Let's do it now!
+	¡Bueno, vamos!!
+	¡Empecemos ya!
 	"""
 	msgClear
 	"""
-	Here I goooooo!!!
+	¡¡Allá vooooy!!
 	"""
 	end
 }
@@ -64,30 +64,29 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	Whew. That was
-	really fun!
-	Thank you, Zero.
+	Uf. ¡Eso fue
+	muy divertido!
+	Gracias, Zero.
 	"""
 	msgClear
 	"""
-	I enjoy a
-	challenging
-	fight like
+	Disfruto de una
+	pelea desafiante
 	"""
 	msgClear
 	"""
-	this one.
-	Hee hee.
+	como esta.
+	Je je.
 	"""
 	msgClear
 	"""
-	Next time, let's
-	go for even
-	more!
+	¡La próxima vez,
+	vayamos por
+	aún más!
 	"""
 	msgClear
 	"""
-	See ya!!
+	¡¡Nos vemos!!
 	"""
 	end
 }

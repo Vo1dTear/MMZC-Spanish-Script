@@ -5,35 +5,35 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: I've set a
+	Ciel: He fijado un
 	"""
 	msgClear
 	"""
-	coordinate axis...
+	eje de coordenadas...
 	"""
 	msgClear
 	"""
-	Now you can return here
+	Ahora puedes volver aquí
 	"""
 	msgClear
 	"""
-	anytime you want...
+	cuando quieras...
 	"""
 	msgClear
 	"""
-	So please return to the
+	Así que por favor regresa
 	"""
 	msgClear
 	"""
-	base once,
+	a la base una vez,
 	"""
 	msgClear
 	"""
-	before you go any further.
+	antes de avanzar más.
 	"""
 	msgClear
 	"""
-	Please... Zero.
+	Por favor... Zero.
 	"""
 	end
 }

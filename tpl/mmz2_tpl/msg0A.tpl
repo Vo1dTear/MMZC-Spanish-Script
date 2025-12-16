@@ -38,8 +38,8 @@ script 1 mmz2 {
 		mugshot = 29
 	"""
 	Hola, Zero.
-	Es bueno verte
-	de nuevo.
+	Qué gusto volver
+	a verte.
 	"""
 	msgClear
 	"""
@@ -77,8 +77,8 @@ script 2 mmz2 {
 	msgClear
 	"""
 	Mientras jugaba
-	contigo... Elpizo
-	fue a algún lugar...
+	contigo... Elpizo se
+	fue a algún lado...
 	"""
 	msgClear
 	"""
@@ -88,7 +88,7 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	tonta fui yo...
+	tonta fui...
 	"""
 	msgClear
 	"""

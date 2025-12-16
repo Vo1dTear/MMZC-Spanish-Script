@@ -423,7 +423,7 @@ script 38 mmz2 {
 	"""
 	msgClear
 	"""
-	of Harpuia!
+	de Harpuia!
 	"""
 	msgClear
 	"""

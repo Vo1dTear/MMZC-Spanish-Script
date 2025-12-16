@@ -5,31 +5,31 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: This should be the
+	Ciel: Este debería ser
 	"""
 	msgClear
 	"""
-	meeting spot for our
+	el punto de reunión de
 	"""
 	msgClear
 	"""
-	comrades.
+	nuestros camaradas.
 	"""
 	msgClear
 	"""
-	It's strange...
+	Qué extraño...
 	"""
 	msgClear
 	"""
-	No one has arrived...
+	Nadie ha llegado...
 	"""
 	msgClear
 	"""
-	Zero... I've got a very
+	Zero... tengo un muy
 	"""
 	msgClear
 	"""
-	bad feeling...
+	mal presentimiento...
 	"""
 	end
 }
@@ -38,13 +38,13 @@ script 1 mmz2 {
 		mugshot = 79
 	"""
 	Fu fu fu...
-	This is it...
+	Esto es...
 	"""
 	msgClear
 	"""
-	Now I am a step
-	closer to the
-	Dark Elf...
+	Estoy un paso más
+	cerca del Dark
+	Elf...
 	"""
 	msgClear
 	"""
@@ -64,44 +64,45 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 25
 	"""
-	That commander of
-	yours seemed to have
-	retrieved the IFF
+	Ese comandante tuyo
+	parece haber recupe-
+	rado la baliza IFF
 	"""
 	msgClear
 	"""
-	beacon... I wonder
-	what he is up to...
-	Why is he acting
+	Me pregunto qué
+	está tramando...
+	¿Por qué actúa
 	"""
 	msgClear
 	"""
-	alone, breaking into
-	Neo Arcadian
-	facilities...?
+	solo, infiltrandose
+	en instalaciones de
+	Neo Arcadia...?
 	"""
 	msgClear
 	"""
-	I don't understand
-	the logic at all...
+	No entiendo su
+	lógica en lo
+	absoluto...
 	"""
 	msgClear
 	"""
-	Well, I don't really
-	need to know...
-	All those Inferior
+	Aunque tampoco
+	necesito saberlo...
+	Todas esas bajas
 	"""
 	msgClear
 	"""
-	resistance behaviors
-	are not all that
-	different.
+	conductas de la
+	resistencia no son
+	tan distintas.
 	"""
 	msgClear
 	"""
-	Well Zero, it's
-	time for you to
-	die!
+	Bueno, Zero,
+	¡es hora de que
+	mueras!
 	"""
 	end
 }
@@ -109,9 +110,9 @@ script 4 mmz2 {
 	mugshotShow
 		mugshot = 24
 	"""
-	Are you serious?
-	How can a legend
-	die?
+	¿Hablas en serio?
+	¿Cómo una leyenda
+	puede morir?
 	"""
 	end
 }
@@ -119,27 +120,27 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 24
 	"""
-	Ha ha ha... You are
-	still so strong...
-	I like it...
+	Ja ja ja... Sigues
+	siendo tan fuerte...
+	Me gusta...
 	"""
 	msgClear
 	"""
-	No... I love it
-	this way.
-	You are the only
+	No... Así me
+	encanta.
+	Eres el único
 	"""
 	msgClear
 	"""
-	one who can make
-	me feel this
-	alive... I enjoy
+	que puede hacerme
+	sentir tan vivo...
+	Disfruto esta
 	"""
 	msgClear
 	"""
-	the sensation, I
-	love the pain...
-	You are worthy...
+	sensación, amo
+	este dolor...
+	Eres digno...
 	"""
 	end
 }
@@ -151,16 +152,21 @@ script 6 mmz2 {
 	"""
 	msgClear
 	"""
-	Mission
-	accomplished.
-	Transfer me back.
+	Misión
+	cumplida.
+	"""
+	msgClear
+	"""
+	Transfiéreme
+	de vuelta.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 72
 	"""
-	Roger. Transfer
-	commencing.
+	Recibido.
+	Iniciando
+	transferencia.
 	"""
 	end
 }
@@ -168,23 +174,23 @@ script 7 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: ... Zero! They are
+	Ciel: ... ¡Zero! ¡Ellos
 	"""
 	msgClear
 	"""
-	being controlled by
+	están siendo controlados
 	"""
 	msgClear
 	"""
-	something!
+	por algo!
 	"""
 	msgClear
 	"""
-	Make sure you don't harm
+	Asegúrate de no
 	"""
 	msgClear
 	"""
-	them, Zero.
+	lastimarlos, Zero.
 	"""
 	end
 }

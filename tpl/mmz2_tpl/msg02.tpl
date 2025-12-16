@@ -3368,7 +3368,7 @@ script 133 mmz2 {
 	msgClear
 	"""
 	es la misma que
-	la de Perroquet.
+	la de Perroquiet.
 	"""
 	msgClear
 	"""
@@ -3942,8 +3942,8 @@ script 150 mmz2 {
 	msgClear
 	"""
 	camarada. Me siento
-	tan indignado solo
-	de pensarlo...
+	tan indignado de
+	solo pensarlo...
 	"""
 	end
 }

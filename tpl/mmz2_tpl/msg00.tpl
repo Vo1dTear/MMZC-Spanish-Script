@@ -689,7 +689,7 @@ script 35 mmz2 {
 		mugshot = 6
 	"""
 	Por favor, deténlo.
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -1418,7 +1418,7 @@ script 125 mmz2 {
 	"""
 	Supongo...
 	La Dark Elf está
-	encerrado allí...
+	encerrada allí...
 	"""
 	end
 }
@@ -1477,7 +1477,7 @@ script 127 mmz2 {
 	msgClear
 	"""
 	enemiga sin ser
-	notados... Pero no
+	notado... Pero no
 	"""
 	msgClear
 	"""
