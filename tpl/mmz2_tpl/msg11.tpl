@@ -8,18 +8,18 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	Harpuia!!
+	¡¡Harpuia!!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 79
 	"""
-	Ha! Ha! Ha!
+	¡Ja! ¡Ja! ¡Ja!
 	"""
 	msgClear
 	"""
-	You've made it here
-	at last, Zero.
+	Al fin llegaste
+	hasta aquí, Zero.
 	"""
 	end
 }
@@ -28,22 +28,22 @@ script 2 mmz2 {
 		mugshot = 79
 	msgBottom
 	"""
-	Look...
+	Mira...
 	"""
 	msgClear
 	"""
-	This is...
+	Esto es...
 	Dark Elf...
 	"""
 	msgClear
 	"""
-	A perfect Cyber-elf,
-	which will bring
-	peace to this
+	Un Cyber-elf
+	perfecto, que
+	traerá paz a
 	"""
 	msgClear
 	"""
-	world...
+	este mundo...
 	"""
 	end
 }
@@ -51,20 +51,25 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Hee hee, it will
-	not be long before
-	I can get rid of
+	Je je, no pasará
+	mucho tiempo antes
+	de que pueda
 	"""
 	msgClear
 	"""
-	all the humans who
-	waste our valuable
-	energy, and destroy
+	eliminar a todos
+	los humanos que
+	desperdician
 	"""
 	msgClear
 	"""
-	Neo Arcadia which
-	protects them.
+	nuestra valiosa
+	energía, y destruir
+	"""
+	msgClear
+	"""
+	Neo Arcadia, que
+	los protege.
 	"""
 	end
 }
@@ -72,18 +77,19 @@ script 4 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	All I have to do
-	is...
+	Todo lo que debo
+	hacer es...
 	"""
 	msgClear
 	"""
-	Destroy X, who has
-	been interfering
-	with the true
+	Destruir a X, quien
+	ha estado
+	interfiriendo
 	"""
 	msgClear
 	"""
-	revival of Dark
+	con el verdadero
+	renacer del Dark
 	Elf...
 	"""
 	end
@@ -92,8 +98,8 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 25
 	"""
-	I won't...
-	Let that happen...
+	No voy a...
+	permitirlo...
 	"""
 	end
 }
@@ -101,9 +107,9 @@ script 6 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	You!
-	You can still say
-	such a thing...!
+	¡Tú!
+	¡Aún te atreves a
+	decir algo así...!
 	"""
 	end
 }
@@ -111,35 +117,36 @@ script 7 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Be a good boy and
-	die...
+	Sé un buen chico
+	y muere...
 	"""
 	msgClear
 	"""
-	Wha ha ha ha ha!
+	¡Wua ja ja ja ja!
 	"""
 	msgClear
 	"""
-	You must know your
-	own worth. Do you
-	regret that you
+	Debes conocer
+	tu propio valor.
+	¿Te arrepientes
 	"""
 	msgClear
 	"""
-	haven't shown any
-	respect for me...?
-	Now that I am so
+	de no haberme
+	mostrado respeto...?
+	Ahora que soy
 	"""
 	msgClear
 	"""
-	much more than you!
-	I've acquired a
-	power that no one
+	mucho más que tú.
+	He obtenido un
+	poder que nadie
 	"""
 	msgClear
 	"""
-	can match. I've
-	become invincible!
+	puede igualar.
+	¡Me he vuelto
+	invencible!
 	"""
 	end
 }
@@ -147,23 +154,19 @@ script 8 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Hee hee...
+	Je je...
 	"""
 	msgClear
 	"""
-	It's getting
-	late... Time to
-	wake the Dark Elf
+	Se está
+	haciendo tarde...
+	Hora de despertar
 	"""
 	msgClear
 	"""
-	up...
-	Let's celebrate
-	the new history
-	"""
-	msgClear
-	"""
-	of the world.
+	al Dark Elf...
+	Celebremos la nueva
+	historia del mundo.
 	"""
 	end
 }
@@ -171,12 +174,13 @@ script 9 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Why don't you
-	enjoy yourselves.
+	¿Por qué no se
+	entretienen un rato?
 	"""
 	msgClear
 	"""
-	Well then, enjoy!
+	Bueno entonces,
+	¡diviértanse!
 	"""
 	end
 }
@@ -192,7 +196,7 @@ script 10 mmz2 {
 	"""
 	msgClear
 	"""
-	Kill... me...
+	Mátame...
 	"""
 	msgClear
 	mugshotShow
@@ -204,18 +208,18 @@ script 10 mmz2 {
 	mugshotShow
 		mugshot = 25
 	"""
-	Just kill me...
+	Solo mátame...
 	"""
 	msgClear
 	"""
-	I will... soon be
-	controlled by Baby
-	Elf...
+	Pronto seré...
+	controlado por
+	el Baby Elf...
 	"""
 	msgClear
 	"""
-	Kill me now...
-	And stop him...!
+	Mátame ahora...
+	¡Y detenlo...!
 	"""
 	end
 }
@@ -223,20 +227,25 @@ script 11 mmz2 {
 	mugshotShow
 		mugshot = 25
 	"""
-	H... hurry, Zero...
+	A... apúrate,
+	Zero...
 	"""
 	msgClear
 	"""
-	Protect Master X...
-	and the world...
-	from him...
+	Protege al
+	Maestro X...
+	"""
+	msgClear
+	"""
+	y al mundo...
+	de él...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	I understand...
-	Leave it to me.
+	Entiendo...
+	Déjamelo a mí.
 	"""
 	end
 }
@@ -244,27 +253,35 @@ script 12 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: I've set a
+	Ciel: He fijado un
 	"""
 	msgClear
 	"""
-	coordinate axis...
+	eje de coordenadas...
 	"""
 	msgClear
 	"""
-	Now you can return here
+	Ahora puedes volver aquí
 	"""
 	msgClear
 	"""
-	anytime you want...
+	cuando quieras...
 	"""
 	msgClear
 	"""
-	So please return to the
+	Así que por favor regresa
 	"""
 	msgClear
 	"""
-	base once. Please... Zero.
+	a la base una vez,
+	"""
+	msgClear
+	"""
+	antes de avanzar más.
+	"""
+	msgClear
+	"""
+	Por favor... Zero.
 	"""
 	end
 }

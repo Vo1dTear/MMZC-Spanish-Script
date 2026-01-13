@@ -269,11 +269,11 @@ script 12 mmz2 {
 	"""
 	msgClear
 	"""
-	la Dark Elf...
+	el Dark Elf...
 	"""
 	msgClear
 	"""
-	La Dark Elf
+	El Dark Elf
 	que yo sellé...
 	"""
 	end
@@ -290,7 +290,7 @@ script 13 mmz2 {
 	"""
 	msgClear
 	"""
-	La Dark Elf...
+	El Dark Elf...
 	"""
 	end
 }

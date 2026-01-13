@@ -8,31 +8,31 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Hey, Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	You came along to
-	get Elpizo?
-	I know you did!
+	¿Viniste hasta
+	aquí por Elpizo?
+	¡Lo sabía!
 	"""
 	msgClear
 	"""
-	He is crazy about
-	the Dark Elf.
-	Leave that guy to
+	Está obsesionado
+	con el Dark Elf.
+	¡Deja a ese tipo
 	"""
 	msgClear
 	"""
-	Harpuia and have
-	fun with me
-	instead!!
+	a Harpuia y
+	diviértete
+	conmigo mejor!!
 	"""
 	msgClear
 	"""
-	Iiieyahh!
-	Get ready for a
-	fight!
+	¡Iiieyahh!
+	¡Prepárate para
+	pelear!
 	"""
 	end
 }
@@ -40,32 +40,37 @@ script 2 mmz2 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Ngwooooohhh!!
+	¡¡Ngwooooohhh!!
 	"""
 	msgClear
 	"""
-	What's the problem!
+	¡¿Cuál es el
+	problema?!
 	"""
 	msgClear
 	"""
-	Even though I had
-	powered up, I'm no
-	match for you!
+	¡Aun después de
+	haberme potenciado,
 	"""
 	msgClear
 	"""
-	I... I won't give
-	up...
+	no soy rival
+	para ti!
 	"""
 	msgClear
 	"""
-	Someday... I will
-	destroy you for
-	sure!!!
+	Yo... yo no me
+	rendiré...
 	"""
 	msgClear
 	"""
-	Just you wait!
+	Algún día...
+	¡te destruiré
+	seguro!!!
+	"""
+	msgClear
+	"""
+	¡Ya lo verás!
 	"""
 	end
 }
@@ -73,27 +78,35 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: I've set a
+	Ciel: He fijado un
 	"""
 	msgClear
 	"""
-	coordinate axis...
+	eje de coordenadas...
 	"""
 	msgClear
 	"""
-	Now you can return here
+	Ahora puedes volver aquí
 	"""
 	msgClear
 	"""
-	anytime you want...
+	cuando quieras...
 	"""
 	msgClear
 	"""
-	So please return to the
+	Así que por favor regresa
 	"""
 	msgClear
 	"""
-	base once. Please... Zero.
+	a la base una vez,
+	"""
+	msgClear
+	"""
+	antes de avanzar más.
+	"""
+	msgClear
+	"""
+	Por favor... Zero.
 	"""
 	end
 }

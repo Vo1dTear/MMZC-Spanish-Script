@@ -47,7 +47,7 @@ script 1 mmz2 {
 	"""
 	msgClear
 	"""
-	¡Bueno, vamos!!
+	¡¡Bueno, vamos!!
 	¡Empecemos ya!
 	"""
 	msgClear
@@ -70,8 +70,8 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	Disfruto de una
-	pelea desafiante
+	Disfruto de
+	peleas desafiantes
 	"""
 	msgClear
 	"""

@@ -707,7 +707,7 @@ script 33 mmz2 {
 	mugshotShow
 		mugshot = 72
 	"""
-	Hee hee hee hee.
+	Je je je je.
 	"""
 	end
 }
@@ -715,28 +715,30 @@ script 34 mmz2 {
 	mugshotShow
 		mugshot = 72
 	"""
-	You couldn't stop
-	me, Mr. Zero.
+	No pudiste
+	detenerme,
+	señor Zero.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 75
 	"""
-	Transmission through
-	a secret line.
-	According to the
+	Transmisión por
+	una línea secreta.
+	Según la
 	"""
 	msgClear
 	"""
-	ID signal... It's
-	Commander Elpizo!
+	señal de ID...
+	¡Es el comandante
+	Elpizo!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 6
 	"""
-	Switch it to the
-	main monitor!
+	¡Cámbienlo al
+	monitor principal!
 	"""
 	end
 }
@@ -745,47 +747,52 @@ script 35 mmz2 {
 		mugshot = 4
 	msgBottom
 	"""
-	Guess where I am,
-	Mr. Zero.
+	Adivina dónde
+	estoy, señor Zero.
 	"""
 	msgClear
 	"""
-	Surprise,
-	surprise... I'm
-	in the deepest core
+	Sorpresa,
+	sorpresa... Estoy
+	en el núcleo más
 	"""
 	msgClear
 	"""
-	of Neo Arcadia...
-	I'm in the room
-	where the Dark Elf
+	profundo de
+	Neo Arcadia...
 	"""
 	msgClear
 	"""
-	is resting. This
-	is where even the
-	high executives are
+	Estoy en la sala
+	donde el Dark Elf
+	descansa. Este es
 	"""
 	msgClear
 	"""
-	prohibited to enter.
-	Hee hee hee.
+	un lugar al que
+	incluso los altos
+	ejecutivos tienen
 	"""
 	msgClear
 	"""
-	First, I'll awaken
-	the Dark Elf...
+	prohibido entrar.
+	Je je je.
 	"""
 	msgClear
 	"""
-	Next, I'll destroy
-	the Original X...
+	Primero, despertaré
+	al Dark Elf...
 	"""
 	msgClear
 	"""
-	Then I will be able
-	to obtain the true
-	power of the Dark
+	Luego destruiré
+	al X Original...
+	"""
+	msgClear
+	"""
+	Entonces podré
+	obtener el verdadero
+	poder del Dark 
 	"""
 	msgClear
 	"""
@@ -793,13 +800,13 @@ script 35 mmz2 {
 	"""
 	msgClear
 	"""
-	Hee hee hee...
-	I'm going...
+	Je je je...
+	Voy a...
 	"""
 	msgClear
 	"""
-	I'm going to gain
-	the ULTIMATE POWER!
+	¡Voy a obtener
+	el PODER SUPREMO!
 	"""
 	end
 }
@@ -807,62 +814,64 @@ script 37 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Um?
+	¿Um?
 	"""
 	msgClear
 	"""
-	It's you... X...
+	Eres tú... X...
 	"""
 	msgClear
 	"""
-	I'm not afraid of
-	you. You can't move
-	while you are
+	No te tengo
+	miedo. No puedes
+	moverte mientras
 	"""
 	msgClear
 	"""
-	sealing the 
-	Dark Elf. You'd
-	better take care
+	estás sellando al
+	Dark Elf. Será
+	mejor que cuides
 	"""
 	msgClear
 	"""
-	of the Baby Elves...
+	a los Baby Elves...
 	"""
 	msgClear
 	"""
-	... What?
+	... ¿Qué?
 	"""
 	msgClear
 	"""
-	What are you doing?
-	No... Stop it...!
+	¿Qué estás
+	haciendo?
+	No... ¡Detente...!
 	"""
 	msgClear
 	"""
-	Don't bother me, X!!
+	¡No me molestes, X!!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 58
 	"""
-	Meeeeee!
+	¡Meeeeee!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Hey, don't go,
+	¡Oye, no te
+	vayas,
 	Baby Elf!!
 	"""
 	msgClear
 	"""
-	I won't...
-	Give in...!
+	¡No voy a...
+	rendirme...!
 	"""
 	msgClear
 	"""
-	Arghhhhh!
+	¡Arghhhhh!
 	"""
 	end
 }
@@ -870,8 +879,8 @@ script 38 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	What just happened
-	to him...?
+	¿Qué acaba de pasar
+	con él...?
 	"""
 	end
 }
@@ -879,7 +888,7 @@ script 39 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	What was that?
+	¿Qué fue eso?
 	"""
 	end
 }
@@ -887,67 +896,72 @@ script 40 mmz2 {
 	mugshotShow
 		mugshot = 85
 	"""
-	At last he has made
-	his way to the
-	sacred vault
+	Finalmente ha
+	llegado a la
+	bóveda sagrada
 	"""
 	msgClear
 	"""
-	of Neo Arcadia...
+	de Neo Arcadia...
 	"""
 	msgClear
 	"""
-	Worse, he has
-	damaged the seal
-	of her.
+	Peor aún, ha
+	dañado el sello
+	de ella.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	The Dark Elf...
+	El Dark Elf...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 85
 	"""
-	I'm sorry...
+	Lo siento...
 	"""
 	msgClear
 	"""
-	My voice couldn't
-	seem to draw off his
-	attention...
+	Parece que mi voz
+	no logró desviar su
+	atención...
 	"""
 	msgClear
 	"""
-	But she...
+	Pero ella...
 	"""
 	msgClear
 	"""
-	... They call her a
-	Dark Elf. She is not
-	fully awake yet...
+	... Ellos la llaman
+	Dark Elf.
 	"""
 	msgClear
 	"""
-	With my remaining
-	power, I'm still
-	tying not wake her
+	Aún no está
+	completamente
+	despierta...
 	"""
 	msgClear
 	"""
-	up...
+	Con el poder que
+	me queda, aún
+	intento que no
 	"""
 	msgClear
 	"""
-	Please, Zero... Come
-	to Neo Arcadia...
+	despierte...
 	"""
 	msgClear
 	"""
-	And please stop
-	him... Zero...
+	Por favor, Zero...
+	Ven a Neo Arcadia...
+	"""
+	msgClear
+	"""
+	Y por favor,
+	deténlo... Zero...
 	"""
 	end
 }
@@ -956,19 +970,20 @@ script 41 mmz2 {
 		mugshot = 9
 	"""
 	Ciel.
-	Trans me now.
+	Transfiéreme ahora.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 6
 	"""
-	We can't transfer
-	you directly to the
+	No podemos
+	transferirte
+	directamente al
 	"""
 	msgClear
 	"""
-	core of Neo
-	Arcadia...
+	núcleo de
+	Neo Arcadia...
 	"""
 	msgClear
 	"""
@@ -976,27 +991,31 @@ script 41 mmz2 {
 	"""
 	msgClear
 	"""
-	But if you go, we
-	can transfer you to
-	somewhere around
+	Pero si vas, podemos
+	transferirte a
+	algún lugar cerca
 	"""
 	msgClear
 	"""
-	the main entrance...
-	Though it's very
-	dangerous...
+	de la entrada
+	principal...
 	"""
 	msgClear
 	"""
-	But... Zero!
+	Aunque es muy
+	peligroso...
+	"""
+	msgClear
+	"""
+	Pero... ¡Zero!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 9
 	"""
-	Don't worry...
-	I'm sure... I can
-	work it out.
+	No te preocupes...
+	Estoy seguro... de
+	que puedo lograrlo.
 	"""
 	end
 }

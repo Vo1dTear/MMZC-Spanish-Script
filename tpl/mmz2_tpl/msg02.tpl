@@ -3651,7 +3651,7 @@ script 137 mmz2 {
 	"""
 	msgClear
 	"""
-	La Dark Elf es un
+	El Dark Elf es un
 	tipo especial de
 	Cyber-elf creado
 	"""
@@ -3733,11 +3733,11 @@ script 137 mmz2 {
 	"""
 	Resistencia porque
 	se dejó seducir
-	por el poder de
+	por el poder del
 	"""
 	msgClear
 	"""
-	la Dark Elf...
+	Dark Elf...
 	"""
 	msgClear
 	"""

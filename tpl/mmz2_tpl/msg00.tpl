@@ -1363,7 +1363,7 @@ script 124 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	La Dark Elf...
+	El Dark Elf...
 	Una llave para
 	romper el sello...
 	"""
@@ -1417,8 +1417,8 @@ script 125 mmz2 {
 	msgClear
 	"""
 	Supongo...
-	La Dark Elf está
-	encerrada allí...
+	El Dark Elf está
+	encerrado allí...
 	"""
 	end
 }

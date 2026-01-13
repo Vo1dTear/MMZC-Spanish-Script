@@ -320,7 +320,7 @@ script 8 mmz2 {
 	"""
 	msgClear
 	"""
-	La Dark Elf...
+	El Dark Elf...
 	"""
 	msgClear
 	"""

@@ -10,39 +10,38 @@ script 1 mmz2 {
 	msgBottom
 	"""
 	Fu fu...
-	I'm waiting for
-	you, Zero.
+	Te estaba
+	esperando, Zero.
 	"""
 	msgClear
 	"""
-	I guess Fefnir's
-	disease infected
-	me.
+	Creo que la
+	enfermedad de
+	Fefnir me contagió.
 	"""
 	msgClear
 	"""
-	Once I start
-	thinking of you...
-	I stop caring about
+	Cuando comienzo
+	a pensar en ti...
+	deja de importarme
 	"""
 	msgClear
 	"""
-	the Dark Elf...
+	el Dark Elf...
 	"""
 	msgClear
 	"""
-	Even if the world
-	dies, I will be
-	happy as long
+	Incluso si el mundo
+	muere, seré feliz
+	siempre y cuando
 	"""
 	msgClear
 	"""
-	as I can defeat
-	you.
+	pueda derrotarte.
 	"""
 	msgClear
 	"""
-	Now, let's battle!
+	Ahora, ¡luchemos!
 	"""
 	end
 }
@@ -54,36 +53,37 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	I'm getting worse
-	than ever...
+	Estoy peor
+	que nunca...
 	"""
 	msgClear
 	"""
-	The only thing I
-	can take seriously
-	is...
+	Lo único que
+	puedo tomar
+	en serio es...
 	"""
 	msgClear
 	"""
-	Fighting with you.
+	Pelear contigo.
 	"""
 	msgClear
 	"""
-	But... I'm happy.
+	Pero... estoy feliz.
 	"""
 	msgClear
 	"""
-	I'll keep going...
+	Seguiré así...
 	"""
 	msgClear
 	"""
-	Dreaming that I
-	can destroy you
-	someday...
+	Soñando con que
+	algún día te
+	destruiré...
 	"""
 	msgClear
 	"""
-	See you... soon...
+	Nos veremos...
+	pronto...
 	"""
 	end
 }
@@ -91,27 +91,35 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: I've set a
+	Ciel: He fijado un
 	"""
 	msgClear
 	"""
-	coordinate axis...
+	eje de coordenadas...
 	"""
 	msgClear
 	"""
-	Now you can return here
+	Ahora puedes volver aquí
 	"""
 	msgClear
 	"""
-	anytime you want...
+	cuando quieras...
 	"""
 	msgClear
 	"""
-	So please return to the
+	Así que por favor regresa
 	"""
 	msgClear
 	"""
-	base once. Please... Zero.
+	a la base una vez,
+	"""
+	msgClear
+	"""
+	antes de avanzar más.
+	"""
+	msgClear
+	"""
+	Por favor... Zero.
 	"""
 	end
 }
