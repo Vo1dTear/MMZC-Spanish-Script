@@ -5,14 +5,15 @@ script 0 mmz2 {
 	mugshotShow
 		mugshot = 21
 	"""
-	With Master Elpizo
-	and ... Master
-	Dark Elf, the new
+	Con el Maestro
+	Elpizo y... el
+	Maestro Dark Elf,
 	"""
 	msgClear
 	"""
-	world is... Ready
-	to start...
+	el nuevo mundo
+	está... listo
+	para comenzar...
 	"""
 	end
 }
@@ -20,14 +21,14 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 20
 	"""
-	The new world...
-	The new order...
-	The new peace...
+	El nuevo mundo...
+	El nuevo orden...
+	La nueva paz...
 	"""
 	msgClear
 	"""
-	Master Elpizo,
-	forever!
+	¡Maestro Elpizo,
+	por siempre!
 	"""
 	end
 }
@@ -35,22 +36,23 @@ script 2 mmz2 {
 	mugshotShow
 		mugshot = 20
 	"""
-	Where... where
-	am I?!
+	!¿Dónde... dónde
+	estoy?!
 	"""
 	msgClear
 	"""
-	Elpizo came...
-	and Baby Elf
-	came...
+	Elpizo vino...
+	y Baby Elf
+	vino...
 	"""
 	msgClear
 	"""
-	What I'm doing...?
+	¿Qué estoy
+	haciendo...?
 	"""
 	msgClear
 	"""
-	Hissssss!
+	¡Hissssss!
 	"""
 	end
 }
@@ -58,14 +60,14 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Bwooooh!
-	Master Elpizo...
-	Master Dark Elf...
+	¡Bwooooh!
+	Maestro Elpizo...
+	Maestro Dark Elf...
 	"""
 	msgClear
 	"""
-	The new world...
-	It's ready...
+	El nuevo mundo...
+	está listo...
 	"""
 	end
 }
@@ -73,15 +75,15 @@ script 4 mmz2 {
 	mugshotShow
 		mugshot = 14
 	"""
-	The new world...
-	The new order...
-	The new peace...
+	El nuevo mundo...
+	El nuevo orden...
+	La nueva paz...
 	"""
 	msgClear
 	"""
-	Master Elpizo,
-	forever.
-	Bobobobhfa....!
+	Maestro Elpizo,
+	por siempre.
+	¡Bobobobhfa....!
 	"""
 	end
 }
@@ -89,24 +91,26 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 14
 	"""
-	Bwooooh!...!?
+	¿¡Bwooooh!...!?
 	"""
 	msgClear
 	"""
-	Where is Elpizo!
+	¡Dónde está
+	Elpizo!
 	"""
 	msgClear
 	"""
-	What?
+	¿Qué?
 	"""
 	msgClear
 	"""
-	What... am I doing?
+	¿Qué... estoy
+	haciendo?
 	"""
 	msgClear
 	"""
-	So hot...
-	Bwooooh!?
+	Qué calor...
+	¿¡Bwooooh!?
 	"""
 	end
 }
@@ -114,19 +118,20 @@ script 6 mmz2 {
 	mugshotShow
 		mugshot = 19
 	"""
-	With the
-	combination of
-	Master Elpizo
+	Con la
+	combinación de
+	el Maestro Elpizo
 	"""
 	msgClear
 	"""
-	and Master Dark
-	Elf, the new
-	world is... Ready
+	y el Maestro
+	Dark Elf, el nuevo
+	mundo está...
 	"""
 	msgClear
 	"""
-	to begin...
+	listo para
+	comenzar...
 	"""
 	end
 }
@@ -134,14 +139,14 @@ script 7 mmz2 {
 	mugshotShow
 		mugshot = 18
 	"""
-	The new world...
-	The new order...
-	The new peace...
+	El nuevo mundo...
+	El nuevo orden...
+	La nueva paz...
 	"""
 	msgClear
 	"""
-	Master Elpizo,
-	forever!
+	¡Maestro Elpizo,
+	por siempre!
 	"""
 	end
 }
@@ -150,17 +155,21 @@ script 8 mmz2 {
 		mugshot = 18
 	"""
 	Ugh...
-	It can't be...
+	No puede ser...
 	"""
 	msgClear
 	"""
-	I didn't think my
-	heart could be
-	tricked by them...
+	No pensé que mi
+	corazón pudiera
+	ser engañado por
 	"""
 	msgClear
 	"""
-	Foolish...
+	ellos...
+	"""
+	msgClear
+	"""
+	Qué necio...
 	"""
 	end
 }
@@ -168,18 +177,19 @@ script 9 mmz2 {
 	mugshotShow
 		mugshot = 17
 	"""
-	The greatest thing
-	ever will soon...
+	Lo más grandioso
+	que jamás ha
+	existido pronto...
 	"""
 	msgClear
 	"""
-	awaken in this
-	world...
+	despertará en este
+	mundo...
 	"""
 	msgClear
 	"""
-	Master Elpizo,
-	forever!
+	¡Maestro Elpizo,
+	por siempre!
 	"""
 	end
 }
@@ -187,14 +197,18 @@ script 10 mmz2 {
 	mugshotShow
 		mugshot = 16
 	"""
-	Another chapter in
-	history is about
-	to unfold...
+	Otro capítulo de
+	la historia está
+	a punto de 
 	"""
 	msgClear
 	"""
-	Master Elpizo,
-	forever!
+	comenzar...
+	"""
+	msgClear
+	"""
+	¡Maestro Elpizo,
+	por siempre!
 	"""
 	end
 }
@@ -202,16 +216,21 @@ script 11 mmz2 {
 	mugshotShow
 		mugshot = 16
 	"""
-	What?!
+	¡¿Qué?!
 	"""
 	msgClear
 	"""
-	It can't be!? Hey!!
-	What am I doing...!?
+	¡No puede ser!
+	¡¡Oye!!
 	"""
 	msgClear
 	"""
-	Guhhha....h!
+	¡¿Qué estoy
+	haciendo...?!
+	"""
+	msgClear
+	"""
+	¡Guhhha....h!
 	"""
 	end
 }
@@ -219,36 +238,36 @@ script 12 mmz2 {
 	mugshotShow
 		mugshot = 11
 	"""
-	The greatest thing
-	ever is ready to
+	Lo más grande
+	jamás creado
+	está listo para
 	"""
 	msgClear
 	"""
-	awaken...
+	despertar...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 12
 	"""
-	Another chapter in
-	our glorious
-	history begins...
+	Otro capítulo de
+	nuestra gloriosa
+	historia comienza...
 	"""
 	msgClear
 	"""
-	Master Elpizo,
-	forever...
+	Maestro Elpizo,
+	por siempre...
 	"""
 	msgClear
 	"""
-	Let's go, little
-	brother...
+	Vamos, hermanito...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 11
 	"""
-	Yes, brother!
+	¡Sí, hermano!
 	"""
 	end
 }
@@ -256,26 +275,26 @@ script 13 mmz2 {
 	mugshotShow
 		mugshot = 10
 	"""
-	History is about
-	to be written...
+	La historia está
+	a punto de ser
+	escrita...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 12
 	"""
-	Master Elpizo,
-	forever...
+	Maestro Elpizo,
+	por siempre...
 	"""
 	msgClear
 	"""
-	And the bond
-	between the
-	Anchus
+	Y el lazo entre
+	los hermanos
 	"""
 	msgClear
 	"""
-	brothers shall
-	live forever...
+	Anchus vivirá
+	por siempre...
 	"""
 	end
 }
@@ -283,27 +302,28 @@ script 14 mmz2 {
 	mugshotShow
 		mugshot = 10
 	"""
-	What... what
-	happened?
+	¿Qué... qué
+	pasó?
 	"""
 	msgClear
 	"""
-	Brother!!
+	¡¡Hermano!!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 12
 	"""
-	It can't be!!
+	¡¡No puede
+	ser!!
 	"""
 	msgClear
 	"""
-	We were
-	manipulated!!!!
+	¡¡Fuimos
+	manipulados!!
 	"""
 	msgClear
 	"""
-	Uggggg!!
+	¡¡Uggggg!!
 	"""
 	end
 }
@@ -311,25 +331,27 @@ script 15 mmz2 {
 	mugshotShow
 		mugshot = 23
 	"""
-	The greatest
-	thing...
+	Lo más
+	grande...
 	Ribbid!
 	"""
 	msgClear
 	"""
-	is going to awaken
-	again... in this
-	world. Ribbid...
+	va a despertar otra
+	vez en este mundo.
+	Ribbid...
 	"""
 	msgClear
 	"""
-	Our story is about
-	to unfold...
+	Nuestra historia
+	está a punto de
+	desplegarse...
 	"""
 	msgClear
 	"""
-	Master Elpizo,
-	forever... Ribbid!
+	¡Maestro Elpizo,
+	por siempre...
+	Ribbid!
 	"""
 	end
 }
@@ -337,14 +359,14 @@ script 16 mmz2 {
 	mugshotShow
 		mugshot = 22
 	"""
-	We are ready to
-	define our
-	destiny...
+	Estamos listos
+	para definir
+	nuestro destino...
 	"""
 	msgClear
 	"""
-	Master Elpizo,
-	forever...
+	¡Maestro Elpizo,
+	por siempre...
 	Ribbid!
 	"""
 	end
@@ -353,16 +375,16 @@ script 17 mmz2 {
 	mugshotShow
 		mugshot = 22
 	"""
-	Ribbbbid!!
+	¡¡Ribbbbid!!
 	"""
 	msgClear
 	"""
-	Where am I?!
-	What am I??
+	¡¿Dónde estoy?!
+	¿¿Qué soy??
 	"""
 	msgClear
 	"""
-	Ribbbbbbbbbbid!!
+	¡¡Ribbbbbbbbbbid!!
 	"""
 	end
 }
@@ -370,25 +392,24 @@ script 20 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Hee hee hee. I've
-	been waiting for
-	you, Zero. Nothing
+	Je je je. He estado
+	esperándote,
+	Zero. Nada es
 	"""
 	msgClear
 	"""
-	is worse than
-	having a show that
-	no one comes to
+	peor que dar un
+	espectáculo sin
+	público.
 	"""
 	msgClear
 	"""
-	watch. Once I
-	destroy the
-	original X, I
+	Cuando destruya
+	al X original,
 	"""
 	msgClear
 	"""
-	will be invincible!
+	¡seré invencible!
 	"""
 	end
 }
@@ -396,8 +417,8 @@ script 21 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	I won't let that
-	happen!
+	¡No te permitiré
+	hacer eso!
 	"""
 	end
 }
@@ -405,7 +426,7 @@ script 22 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	What the...
+	¿Pero qué...?
 	"""
 	end
 }
@@ -413,20 +434,20 @@ script 23 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Hee hee hee.
-	Thank you for
-	coming to my show.
+	Je je je.
+	Gracias por venir
+	a mi espectáculo.
 	"""
 	msgClear
 	"""
-	But, I'm afraid
-	that... this is
-	the real
+	Pero me temo
+	que... este es
+	el verdadero
 	"""
 	msgClear
 	"""
-	"retirement" of
-	your friend.
+	"retiro" de
+	tu amigo.
 	"""
 	end
 }
@@ -434,13 +455,13 @@ script 24 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Hee hee hee!
-	Time to die,
+	¡Je je je!
+	Hora de morir,
 	X...
 	"""
 	msgClear
 	"""
-	And release the
+	Y liberar al
 	Dark Elf!
 	"""
 	end
@@ -449,14 +470,14 @@ script 25 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Ha...
-	Ha ha ha...
-	Gha ha ha ha ha!
+	Ja...
+	Ja Ja Ja...
+	Gua Ja Ja Ja Ja!
 	"""
 	msgClear
 	"""
-	I did it!
-	I did it at last!
+	¡Lo hice!
+	¡Al fin lo hice!
 	"""
 	end
 }
@@ -464,13 +485,13 @@ script 26 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	I terminated the
-	legendary hero!
+	¡He eliminado al
+	héroe legendario!
 	"""
 	msgClear
 	"""
-	I destroyed X at
-	last!
+	¡Al fin destruí
+	a X!
 	"""
 	end
 }
@@ -478,7 +499,7 @@ script 27 mmz2 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Arghhhhhh!!
+	¡¡Arghhhhhh!!
 	"""
 	end
 }
@@ -494,32 +515,35 @@ script 28 mmz2 {
 	"""
 	msgClear
 	"""
-	Sorry to have kept
-	you waiting Zero.
-	I'm going to
+	Perdón por hacerte
+	esperar, Zero.
+	Voy a eliminarte,
 	"""
 	msgClear
 	"""
-	terminate you,
-	destroy all Neo
-	Arcadia, and
+	destruir Neo
+	Arcadia, y
 	"""
 	msgClear
 	"""
-	exterminate all the
-	human beings.
+	exterminar a todos
+	los humanos.
 	"""
 	msgClear
 	"""
-	What do you say?
-	A world without
-	humans... The world
+	¿Qué dices?
+	Un mundo sin
+	humanos...
 	"""
 	msgClear
 	"""
-	only for Reploids...
-	Don't you think it
-	will be paradise!?
+	Un mundo solo
+	para Reploides...
+	"""
+	msgClear
+	"""
+	¿¡No crees que
+	sería un paraíso!?
 	"""
 	end
 }
@@ -527,25 +551,24 @@ script 29 mmz2 {
 	mugshotShow
 		mugshot = 30
 	"""
-	This can't be... I
-	am supposed to have
-	become
+	Esto no puede ser...
+	Se suponía que me
+	había vuelto
 	"""
 	msgClear
 	"""
-	invincible...
+	invencible...
 	"""
 	msgClear
 	"""
-	I'm supposed to
-	have obtained the
-	power that had
+	Se suponía que
+	había obtenido el
+	poder que casi
 	"""
 	msgClear
 	"""
-	nearly brought the
-	world to
-	destruction...
+	llevó al mundo a
+	la destrucción...
 	"""
 	end
 }
@@ -553,9 +576,9 @@ script 30 mmz2 {
 	mugshotShow
 		mugshot = 30
 	"""
-	It was not enough,
-	Dark Elf! Give me
-	more strength!!
+	¡No fue suficiente,
+	Dark Elf!
+	¡¡Dame más poder!!
 	"""
 	end
 }
@@ -563,21 +586,21 @@ script 32 mmz2 {
 	mugshotShow
 		mugshot = 83
 	"""
-	Thank you... Zero...
-	Thank you for
-	stopping me... You
+	Gracias... Zero...
+	Gracias por
+	detenerme... Me
 	"""
 	msgClear
 	"""
-	saved me. I almost
-	did something...
-	That can't be
+	salvaste. Estuve a
+	punto de hacer
+	algo... Algo que
 	"""
 	msgClear
 	"""
-	forgiven...
-	Thank you so
-	much...
+	no puede ser
+	perdonado...
+	Muchas gracias...
 	"""
 	end
 }
@@ -586,32 +609,36 @@ script 34 mmz2 {
 		mugshot = 32
 	msgBottom
 	"""
-	I was so
-	weak-minded... I
-	was so pathetic...
+	Fui tan débil...
+	Tan patético...
 	"""
 	msgClear
 	"""
-	Accepting your
-	failures in life is
-	a very difficult
+	Aceptar los
+	fracasos en la
+	vida es algo muy
 	"""
 	msgClear
 	"""
-	thing... I think
-	that I've become a
-	little stronger
+	difícil... Creo
+	que con esta
+	lección me he
 	"""
 	msgClear
 	"""
-	from this lesson...
-	Time to say
-	goodbye, Zero.
+	vuelto un poco
+	más fuerte...
+	Es hora de
 	"""
 	msgClear
 	"""
-	Tell Ciel, I'm
-	sorry...
+	decir adiós,
+	Zero.
+	"""
+	msgClear
+	"""
+	Dile a Ciel que
+	lo siento...
 	"""
 	end
 }
@@ -619,11 +646,11 @@ script 35 mmz2 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Me...?
+	¿Me...?
 	"""
 	msgClear
 	"""
-	Meeeee!
+	¡Meeeee!
 	"""
 	end
 }
@@ -631,7 +658,7 @@ script 36 mmz2 {
 	mugshotShow
 		mugshot = 83
 	"""
-	I feel warm...
+	Siento calor...
 	Ahhh...
 	"""
 	end
@@ -640,21 +667,22 @@ script 37 mmz2 {
 	mugshotShow
 		mugshot = 83
 	"""
-	It appears that
-	she... saved me.
+	Parece que
+	ella... me salvó.
 	"""
 	msgClear
 	"""
-	She is not evil...
+	Ella no es
+	malvada...
 	"""
 	msgClear
 	"""
-	Thank you.
+	Gracias.
 	Zero.
 	"""
 	msgClear
 	"""
-	And goodbye...
+	Y adiós...
 	"""
 	end
 }
@@ -687,38 +715,44 @@ script 40 mmz2 {
 	mugshotShow
 		mugshot = 85
 	"""
-	She wasn't always
-	called the "Dark
-	Elf"... When she
+	Ella no siempre
+	fue llamada
+	"Dark Elf"...
 	"""
 	msgClear
 	"""
-	was born, she had
-	a mission to save
-	the world, and had
+	Cuando nació,
+	tenía una misión,
+	salvar el mundo,
 	"""
 	msgClear
 	"""
-	another name.
-	However, when her
-	ability became a
+	y tenía otro
+	nombre.
+	Pero cuando su
 	"""
 	msgClear
 	"""
-	threat of world
-	destruction, they
-	began to call her
+	habilidad se
+	convirtió en una
+	amenaza para la
 	"""
 	msgClear
 	"""
-	the "Dark Elf..."
-	Since someone
-	called Dr. Weil
+	destrucción del
+	mundo, comenzaron
+	a llamarla
 	"""
 	msgClear
 	"""
-	placed a curse on
-	her...
+	"Dark Elf"...
+	Desde que alguien
+	llamado Dr. Weil
+	"""
+	msgClear
+	"""
+	le impuso una
+	maldición...
 	"""
 	end
 }
@@ -726,8 +760,8 @@ script 41 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	I... I feel that
-	I know her...
+	Yo... siento que
+	la conozco...
 	"""
 	end
 }
@@ -748,19 +782,19 @@ script 50 mmz2 {
 		mugshot = 72
 	msgBottom
 	"""
-	It seems the Dark
-	Elf has been
-	awakened.
+	Parece que el
+	Dark Elf ha
+	despertado.
 	"""
 	msgClear
 	"""
-	Hee hee hee hee.
+	Je je je je.
 	"""
 	msgClear
 	"""
-	The time has come
-	for you to take
-	action, Omega...
+	Ha llegado el
+	momento de
+	actuar, Omega...
 	"""
 	end
 }
@@ -769,8 +803,8 @@ script 51 mmz2 {
 		mugshot = 72
 	msgBottom
 	"""
-	Hee hee hee hee.
-	Hee hee hee.
+	Je je je je.
+	Je je je.
 	"""
 	end
 }
