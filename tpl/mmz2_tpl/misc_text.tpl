@@ -2375,9 +2375,9 @@ script 400 mmz2 {
 	textColorWhite
 	"""
 	
-	Your basic
-	form when
-	you begin.
+	Forma
+	basica
+	inicial.
 	POWER 
 	"""
 	textColorRed
@@ -2413,9 +2413,9 @@ script 401 mmz2 {
 	textColorWhite
 	"""
 	
-	Many extra
-	life
-	energies.
+	Muchas
+	energías
+	de vida.
 	POWER 
 	"""
 	textColorRed
@@ -2451,7 +2451,7 @@ script 402 mmz2 {
 	textColorWhite
 	"""
 	
-	Obtain the
+	Obtén el
 	Buster
 	Shot.
 	POWER 
@@ -2489,9 +2489,9 @@ script 403 mmz2 {
 	textColorWhite
 	"""
 	
-	Get
-	defense
-	power.
+	Gana
+	poder de
+	defensa.
 	POWER 
 	"""
 	textColorRed
@@ -2527,9 +2527,9 @@ script 404 mmz2 {
 	textColorWhite
 	"""
 	
-	Erase
-	enemy
-	bullets.
+	Borra
+	balas
+	enemigas.
 	POWER 
 	"""
 	textColorRed
@@ -2565,9 +2565,9 @@ script 405 mmz2 {
 	textColorWhite
 	"""
 	
-	Do jumping
-	rolling
-	slashes.
+	Rolling
+	slashes
+	saltando.
 	POWER 
 	"""
 	textColorRed
@@ -2603,9 +2603,9 @@ script 406 mmz2 {
 	textColorWhite
 	"""
 	
-	Use the
-	slash with
-	the saber.
+	Usa el
+	slash con
+	el saber.
 	POWER 
 	"""
 	textColorRed
@@ -2642,8 +2642,8 @@ script 407 mmz2 {
 	"""
 	
 	3rd slash
-	moves
-	upward.
+	ascenden-
+	te.
 	POWER 
 	"""
 	textColorRed
@@ -2679,9 +2679,9 @@ script 408 mmz2 {
 	textColorWhite
 	"""
 	
-	Attack
-	level is
-	higher.
+	Nivel de
+	ataque
+	mayor.
 	POWER 
 	"""
 	textColorRed
@@ -2717,9 +2717,9 @@ script 409 mmz2 {
 	textColorWhite
 	"""
 	
-	Command
-	the charge
-	attack.
+	Cmd. el
+	ataque
+	cargado.
 	POWER 
 	"""
 	textColorRed
@@ -2729,7 +2729,7 @@ script 409 mmz2 {
 	textColorWhite
 	"""
 	
-	DEFEMD
+	DEFEND
 	"""
 	textColorRed
 	"""
@@ -2770,8 +2770,8 @@ script 450 mmz2 {
 	"""
 	
 	(BUSTER)
-	Attack
-	with the
+	Ataca
+	con el
 	sharp
 	Buster
 	Shot.
@@ -2787,11 +2787,11 @@ script 451 mmz2 {
 	"""
 	
 	(BUSTER)
-	Equip Ice
-	Chip. It
-	splits
-	into 3
-	bullets.
+	Equipa
+	Ice Chip.
+	Se separa
+	en 3
+	balas.
 	"""
 	end
 }
@@ -2804,11 +2804,11 @@ script 452 mmz2 {
 	"""
 	
 	(BUSTER)
-	Equip
+	Equipa
 	Thunder
-	Chip to
-	use this
-	weapon.
+	Chip para
+	usar esta
+	arma.
 	"""
 	end
 }
@@ -2821,11 +2821,11 @@ script 453 mmz2 {
 	"""
 	
 	(SABER)
-	Press
+	Pulsa
 	+Control
-	Pad Up and
-	Attack
-	Button.
+	Pad Arriba
+	y Boton
+	Atacar.
 	"""
 	end
 }
@@ -2838,11 +2838,11 @@ script 454 mmz2 {
 	"""
 	
 	(SABER)
-	
-	Use Attack
-	Button
-	while
-	dashing.
+	Usa
+	Boton
+	Atacar
+	al hacer
+	dash.
 	"""
 	end
 }
@@ -2855,11 +2855,11 @@ script 455 mmz2 {
 	"""
 	
 	(CHAIN)
-	Stab enemy
-	then hold
-	Attack
-	Button
-	down.
+	Clava
+	enemigo
+	y mantén
+	Boton
+	Atacar.
 	"""
 	end
 }
@@ -2872,11 +2872,11 @@ script 456 mmz2 {
 	"""
 	
 	(SABER)
-	Press
+	Pulsa
 	+Control
-	Pad Down
-	and stab
-	enemy.
+	Pad Abajo
+	y clava
+	enemigo.
 	"""
 	end
 }
@@ -2890,10 +2890,10 @@ script 457 mmz2 {
 	
 	(BUSTER)
 	
-	Equip
+	Equipa
 	Flame
 	Chip
-	to use.
+	para usar.
 	"""
 	end
 }
@@ -2906,11 +2906,11 @@ script 458 mmz2 {
 	"""
 	
 	(SABER)
-	Press
+	Pulsa
 	+Control
-	Pad Down
-	and Attack
-	Button.
+	Pad Abajo
+	y Boton
+	Atacar.
 	"""
 	end
 }
@@ -2923,11 +2923,11 @@ script 459 mmz2 {
 	"""
 	
 	(SHIELD)
-	Dodge a
-	bullet
-	and it'll
-	turn into
-	a crystal.
+	Esquiva
+	una
+	bala y
+	será un
+	crystal.
 	"""
 	end
 }
