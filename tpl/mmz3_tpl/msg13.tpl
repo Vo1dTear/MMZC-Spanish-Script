@@ -5,32 +5,31 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	Ms. Ciel, please
-	cheer up.
+	Srta. Ciel, por
+	favor anímese.
 	"""
 	msgClear
 	"""
-	Everything's turned
-	out alright before,
-	hasn't it?!
+	Todo ha salido bien
+	antes, ¿no es así?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 109
 	"""
-	That's right.
+	Así es.
 	"""
 	msgClear
 	"""
-	We believe in you,
-	Ms. Ciel. And in
-	Mr. Zero, too!
+	Confiamos en usted,
+	Srta. Ciel. ¡Y en
+	el Sr. Zero también!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 64
 	"""
-	Thank you, everyone.
+	Gracias a todos.
 	"""
 	end
 }
@@ -38,31 +37,31 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	The simulation will
-	take a while longer
-	to finish...
+	La simulación
+	tardará un poco más
+	en terminar...
 	"""
 	msgClear
 	"""
-	I think we're going
-	to need your help
-	again, Zero...
+	Creo que vamos a
+	necesitar tu ayuda
+	de nuevo, Zero...
 	"""
 	msgClear
 	"""
-	But you should get a
-	little rest, first.
+	Pero primero deberías
+	descansar un poco.
 	"""
 	msgClear
 	"""
-	For now...
+	Por ahora...
 	"""
 	end
 }
 script 2 mmz3 {
 	"""
-	I'll save our data.
-	  YES
+	¿Guardar los datos?
+	  SÍ
 	  NO
 	"""
 	end
@@ -71,37 +70,38 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	I'll take care of
-	managing the data,
-	just like always.
+	Me encargaré de
+	gestionar los datos,
+	como siempre.
 	"""
 	msgClear
 	"""
-	If you need any-
-	thing, let me know.
+	Si necesitas algo,
+	dímelo.
 	"""
 	msgClear
 	"""
-	One more thing...
-	You should go see
+	Una cosa más...
+	Deberías ir a ver a
 	Cerveau.
 	"""
 	msgClear
 	"""
-	I hear he's finished
-	his Secret Disk
-	analyzer.
+	Escuché que ya
+	terminó su analizador
+	de Discos Secretos.
 	"""
 	msgClear
 	"""
-	If you find any
-	Secret Disks that
-	you can't analyze,
+	Si encuentras algún
+	Disco Secreto que
+	no puedas analizar,
 	"""
 	msgClear
 	"""
-	ask Cerveau to have
-	a look for you.
+	pídele a Cerveau
+	que lo revise por
+	ti.
 	"""
 	end
 }
@@ -109,38 +109,39 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Shouldn't you be
-	resting? Don't
-	overdo it.
+	¿No deberías
+	descansar? No te
+	exijas demasiado.
 	"""
 	msgClear
 	"""
-	I'll manage the
-	data. Tell me if
-	you need anything.
+	Me encargaré de
+	los datos. Avísame
+	si necesitas algo.
 	"""
 	msgClear
 	"""
-	One more thing...
-	You should go see
+	Una cosa más...
+	Deberías ir a ver a
 	Cerveau.
 	"""
 	msgClear
 	"""
-	I hear he's finished
-	his Secret Disk
-	analyzer.
+	Escuché que ya
+	terminó su analizador
+	de Discos Secretos.
 	"""
 	msgClear
 	"""
-	If you find any
-	Secret Disks that
-	you can't analyze,
+	Si encuentras algún
+	Disco Secreto que
+	no puedas analizar,
 	"""
 	msgClear
 	"""
-	ask Cerveau to have
-	a look for you.
+	pídele a Cerveau
+	que lo revise por
+	ti.
 	"""
 	end
 }
@@ -148,14 +149,18 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Have you talked to
-	Cerveau yet?
+	¿Ya hablaste con
+	Cerveau?
 	"""
 	msgClear
 	"""
-	I hear he can't wait
-	to try out his
-	disk analyzer!
+	¡Escuché que está
+	ansioso por probar
+	"""
+	msgClear
+	"""
+	su analizador de
+	discos!
 	"""
 	end
 }

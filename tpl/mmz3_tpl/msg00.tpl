@@ -1015,8 +1015,8 @@ script 80 mmz3 {
 	mugshotShow
 		mugshot = 98
 	"""
-	Transferring...
-	Two...
+	Transfiriendo...
+	Dos...
 	One...
 	"""
 	end
@@ -1025,7 +1025,8 @@ script 81 mmz3 {
 	mugshotShow
 		mugshot = 97
 	"""
-	Transfer complete.
+	Transferencia
+	completada.
 	"""
 	end
 }
@@ -1033,44 +1034,46 @@ script 89 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	What should I do?
+	¿Qué debería
+	hacer?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	Well, for now...
+	Bueno, por ahora...
 	"""
 	msgClear
 	"""
-	Not letting Neo
-	Arcadia have the
+	No dejar que Neo
+	Arcadia obtenga al
 	Dark Elf...
 	"""
 	msgClear
 	"""
-	That would be
-	priority number one.
+	Esa sería la
+	prioridad número
+	uno.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 98
 	"""
-	I will calculate
-	our best course of
-	action, giving
+	Calcularé nuestro
+	mejor curso de
+	acción, dando
 	"""
 	msgClear
 	"""
-	priority to the
-	search for the
+	prioridad a la
+	búsqueda del
 	Dark Elf.
 	"""
 	msgClear
 	"""
-	I will report to
-	Ms. Ciel as soon as
-	the results are in.
+	Le informaré a la
+	Srta. Ciel en cuanto
+	estén los resultados.
 	"""
 	end
 }

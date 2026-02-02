@@ -5,98 +5,99 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	It sure is quiet...
+	Está muy tranquilo...
 	"""
 	msgClear
 	"""
-	There haven't been
-	many Neo Arcadian
-	attacks lately.
+	No ha habido muchos
+	ataques de Neo
+	Arcadia últimamente.
 	"""
 	msgClear
 	"""
-	Things are almost
-	too peaceful now...
+	Todo está
+	casi demasiado
+	tranquilo...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 109
 	"""
-	Ms. Ciel completed
-	her research on the
-	new energy...
+	La Srta. Ciel terminó
+	su investigación de
+	la nueva energía...
 	"""
 	msgClear
 	"""
-	And if it solves
-	the energy crisis,
+	Y si resuelve
+	la crisis energética,
 	"""
 	msgClear
 	"""
-	Neo Arcadia won't
-	have a reason to
-	fight us anymore.
+	Neo Arcadia ya no
+	tendrá razón para
+	luchar con nosotros.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 64
 	"""
-	Actually...
+	En realidad...
 	"""
 	msgClear
 	"""
-	I already informed
-	Neo Arcadia about
+	Ya informé a
+	Neo Arcadia sobre
 	"""
 	msgClear
 	"""
-	this new energy,
-	the "Ciel System"...
+	esta nueva energía,
+	el "Ciel System"...
 	"""
 	msgClear
 	"""
-	But...
+	Pero...
 	"""
 	msgClear
 	"""
-	I haven't received
-	a reply yet...
+	Aún no he recibido
+	una respuesta...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 108
 	"""
-	Don't worry! I'm
-	sure their answer
-	will come soon!
+	¡No te preocupes!
+	Seguro que su
+	respuesta llegará.
 	"""
 	msgClear
 	"""
-	There's no more
-	reason to fight. We
-	can live in peace!
+	Ya no hay razón para
+	luchar. ¡Podemos
+	vivir en paz!
 	"""
 	msgClear
 	"""
-	Right?!
+	¡¿Verdad?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	We're in the middle
-	of a mission.
+	Estamos en medio
+	de una misión.
 	"""
 	msgClear
 	"""
-	So put a lid on it
-	and walk!
+	Así que guarda
+	silencio y camina.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 64
 	"""
-	*gulp!* Sorry!
+	*gulp!* ¡Perdón!
 	"""
 	end
 }
@@ -104,9 +105,8 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	The reading is
-	getting stronger.
-	We're close...
+	La señal es fuerte.
+	Estamos cerca...
 	"""
 	end
 }
@@ -114,8 +114,8 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 109
 	"""
-	The snow is letting
-	up...
+	La nieve está
+	disminuyendo...
 	"""
 	end
 }
@@ -123,11 +123,11 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	W-wow!
+	¡W-wow!
 	"""
 	msgClear
 	"""
-	Look at that!
+	¡Mira eso!
 	"""
 	end
 }
@@ -135,8 +135,8 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 5
 	"""
-	Is that...some kind
-	of ship?
+	¿Eso es... algún
+	tipo de nave?
 	"""
 	end
 }
@@ -144,43 +144,42 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	Ms. Ciel...
+	Srta. Ciel...
 	"""
 	msgClear
 	"""
-	Did that...huge
-	thing...fall from
-	outer space?!
+	¿Esa... cosa
+	enorme... cayó
+	del espacio?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 65
 	"""
-	Yes...but what's
-	more...
+	Sí... pero además...
 	"""
 	msgClear
 	"""
-	It's giving out the
-	same energy reading
-	as the Dark Elf...
+	Emite la misma
+	lectura de energía
+	que el Dark Elf...
 	"""
 	msgClear
 	"""
-	of which there is
-	only one in the
-	whole world...
+	del cual solo hay
+	uno en todo el
+	mundo...
 	"""
 	msgClear
 	"""
-	Zero was against the
-	idea, but I just had
-	to find out...
+	Zero se oponía a la
+	idea, pero tenía que
+	comprobarlo...
 	"""
 	msgClear
 	"""
-	What could possibly
-	be going on here?
+	¿Qué puede estar
+	pasando aquí?
 	"""
 	end
 }
@@ -188,30 +187,30 @@ script 6 mmz3 {
 	mugshotShow
 		mugshot = 5
 	"""
-	Neo Arcadia has the
-	area ahead of us
-	cordoned off.
+	Neo Arcadia ha
+	acordonado la zona
+	al frente.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 64
 	"""
-	What?!
+	¡¿Qué?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	You guys stay here
-	until I make sure
-	it's safe.
+	Quédense aquí
+	hasta que vea
+	que es seguro.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 64
 	"""
-	Okay...
-	Be careful, Zero...
+	De acuerdo...
+	Ten cuidado, Zero...
 	"""
 	end
 }
@@ -219,13 +218,13 @@ script 7 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Up ahead...
+	Más adelante...
 	"""
 	msgClear
 	"""
-	That's where the
-	Dark Elf reading is
-	coming from.
+	De ahí viene la
+	lectura del
+	Dark Elf.
 	"""
 	end
 }
@@ -234,14 +233,14 @@ script 8 mmz3 {
 		mugshot = 4
 	msgBottom
 	"""
-	She knew who I
-	was...
+	Ella sabía quién
+	soy...
 	"""
 	msgClear
 	"""
-	Why would the elf
-	who almost destroyed
-	the world know me?
+	¿Por qué el Elf
+	que casi destruyó
+	el mundo me conoce?
 	"""
 	end
 }
@@ -249,7 +248,7 @@ script 9 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: Zero? Are you there?
+	Ciel: Zero, ¿estás ahí?
 	"""
 	end
 }
@@ -257,12 +256,13 @@ script 10 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Maintain radio
-	silence!
+	¡Mantén silencio
+	radial!
 	"""
 	msgClear
 	"""
-	The enemy is near...
+	El enemigo está
+	cerca...
 	"""
 	end
 }
@@ -270,7 +270,7 @@ script 11 mmz3 {
 	mugshotShow
 		mugshot = 65
 	"""
-	Oh, I-I'm sorry...
+	Oh, lo-lo siento...
 	"""
 	end
 }
@@ -278,7 +278,7 @@ script 12 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	Get down!
+	¡Al suelo!
 	"""
 	end
 }
@@ -286,13 +286,13 @@ script 14 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	Neo Arcadians!
+	¡Neo Arcadianos!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 109
 	"""
-	Ms. Ciel, look out!
+	¡Srta. Ciel, cuidado!
 	"""
 	end
 }
@@ -300,7 +300,7 @@ script 15 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	No!
+	¡No!
 	"""
 	end
 }
@@ -308,35 +308,38 @@ script 16 mmz3 {
 	mugshotShow
 		mugshot = 45
 	"""
-	Relax.
-	They won't come to
-	any harm.
+	Relájate.
+	No les harán
+	ningún daño.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Harpuia?!
+	¡¿Harpuia?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 45
 	"""
-	I'm letting you off
-	the hook this time.
+	Esta vez los
+	dejaré ir.
 	"""
 	msgClear
 	"""
-	But you and those
-	Resistance fighters
-	must leave, now!
+	¡Pero tú y esos
+	luchadores de la
+	Resistencia deben
+	"""
+	msgClear
+	"""
+	irse, ahora!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	You're letting us
-	off the hook?!
+	¡¿Nos dejarás ir?!
 	"""
 	end
 }
@@ -344,12 +347,13 @@ script 17 mmz3 {
 	mugshotShow
 		mugshot = 45
 	"""
-	Scram!
+	¡Lárguense!
 	"""
 	msgClear
 	"""
-	I don't have time to
-	mess with you now!
+	¡No tengo tiempo
+	para lidiar con
+	ustedes ahora!
 	"""
 	end
 }
@@ -369,7 +373,7 @@ script 19 mmz3 {
 	"""
 	msgClear
 	"""
-	Can you hear me?
+	¿Puedes oírme?
 	"""
 	end
 }
@@ -377,18 +381,19 @@ script 20 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Seems you're okay...
+	Parece que
+	estás bien...
 	"""
 	msgClear
 	"""
-	Leave the rest of
-	this up to me.
+	Déjame el resto
+	de esto a mí.
 	"""
 	msgClear
 	"""
-	I want you all to
-	head back to the
-	Resistance Base.
+	Quiero que todos
+	vuelvan a la Base
+	de la Resistencia.
 	"""
 	end
 }
@@ -396,7 +401,7 @@ script 21 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: But, Zero...
+	Ciel: Pero, Zero...
 	"""
 	end
 }
@@ -404,9 +409,9 @@ script 22 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I've heard that
-	voice somewhere
-	before...
+	He oído esa voz
+	en algún lugar
+	antes...
 	"""
 	end
 }
@@ -415,7 +420,7 @@ script 23 mmz3 {
 		mugshot = 4
 	msgBottom
 	"""
-	Is it...calling me?
+	¿Me... está llamando?
 	"""
 	end
 }
@@ -423,7 +428,7 @@ script 24 mmz3 {
 	mugshotShow
 		mugshot = 47
 	"""
-	Aaaaaargh!
+	¡Aaaaaargh!
 	"""
 	end
 }
@@ -431,8 +436,8 @@ script 25 mmz3 {
 	mugshotShow
 		mugshot = 49
 	"""
-	Now you're askin'
-	for it!
+	¡Ahora sí lo
+	pediste!
 	"""
 	end
 }
@@ -440,8 +445,8 @@ script 26 mmz3 {
 	mugshotShow
 		mugshot = 49
 	"""
-	I'll blast you to
-	pieces!
+	¡Te volaré en
+	pedazos!
 	"""
 	end
 }
@@ -449,7 +454,7 @@ script 27 mmz3 {
 	mugshotShow
 		mugshot = 49
 	"""
-	Ooph!
+	¡Ooph!
 	"""
 	end
 }
@@ -458,11 +463,11 @@ script 28 mmz3 {
 		mugshot = 47
 	msgBottom
 	"""
-	*pant pant*
+	*jadeo jadeo*
 	"""
 	msgClear
 	"""
-	Are you alive,
+	¿Sigues vivo,
 	Fefnir?
 	"""
 	msgClear
@@ -470,26 +475,26 @@ script 28 mmz3 {
 		mugshot = 48
 	msgBottom
 	"""
-	What a monster...
+	Qué monstruo...
 	"""
 	msgClear
 	"""
-	The two of us
-	fighting together,
-	and not a scratch.
+	Nosotros dos
+	luchando juntos,
+	y ni un rasguño.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 47
 	msgBottom
 	"""
-	Omega, the evil
-	Reploid banished
-	from Neo Arcadia...
+	Omega, el malvado
+	Reploide desterrado
+	de Neo Arcadia...
 	"""
 	msgClear
 	"""
-	He's pretty tough...
+	Es bastante duro...
 	"""
 	end
 }
@@ -497,18 +502,18 @@ script 29 mmz3 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Zero?!
+	¡¿Zero?!
 	"""
 	msgClear
 	"""
-	What the heck are
-	YOU doing here?!
+	¡¿Qué demonios
+	haces aquí?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	What is that thing?
+	¿Qué es esa cosa?
 	"""
 	end
 }
@@ -516,29 +521,33 @@ script 30 mmz3 {
 	mugshotShow
 		mugshot = 46
 	"""
-	That's Omega.
-	His mere existence
-	defies reality...
+	Ese es Omega.
+	Su mera existencia
 	"""
 	msgClear
 	"""
-	He's strong, but...
+	desafía la
+	realidad...
 	"""
 	msgClear
 	"""
-	He's not as fun to
-	fight as you are.
-	Hehe...
+	Es fuerte, pero...
 	"""
 	msgClear
 	"""
-	I don't feel like
-	fighting him, so
-	he's all yours...
+	No es tan divertido
+	luchar contra él como
+	contigo. Jeje...
 	"""
 	msgClear
 	"""
-	See you later, Zero.
+	No tengo ganas de
+	luchar, así que
+	es todo tuyo...
+	"""
+	msgClear
+	"""
+	Hasta luego, Zero.
 	"""
 	end
 }
@@ -546,29 +555,35 @@ script 31 mmz3 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Bah, that
+	Bah, esa
 	Leviathan...
 	"""
 	msgClear
 	"""
-	Grr, I can't move!
-	We'll have to finish
-	this another time!
+	Grr, no puedo
+	moverme.
 	"""
 	msgClear
 	"""
-	Hey, Zero!
+	Tendremos que
+	terminar esto
+	otro día.
 	"""
 	msgClear
 	"""
-	I'll get you and
-	that Omega one of
-	these days!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
-	Don't you dare die
-	before then, Zero!
+	¡Algún día te
+	atraparé a ti
+	y a ese Omega!
+	"""
+	msgClear
+	"""
+	¡No te atrevas
+	a morir antes
+	de eso, Zero!
 	"""
 	end
 }
@@ -576,12 +591,12 @@ script 32 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Omega, huh?
+	¿Omega, eh?
 	"""
 	msgClear
 	"""
-	So you were the one
-	who called me here?
+	¿Así que fuiste tú
+	quien me llamó aquí?
 	"""
 	end
 }
@@ -597,8 +612,8 @@ script 34 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	You just don't give
-	up, do you...
+	No te rindes
+	nunca, ¿verdad...?
 	"""
 	end
 }
@@ -606,18 +621,19 @@ script 35 mmz3 {
 	mugshotShow
 		mugshot = 44
 	"""
-	So you're Omega.
+	Así que tú eres
+	Omega.
 	"""
 	msgClear
 	"""
-	I'm afraid I can't
-	let you leave this
-	place, ever.
+	Me temo que no
+	puedo dejarte salir
+	de este lugar jamás.
 	"""
 	msgClear
 	"""
-	Time for your
-	destruction!
+	¡Es hora de tu
+	destrucción!
 	"""
 	end
 }
@@ -625,7 +641,7 @@ script 36 mmz3 {
 	mugshotShow
 		mugshot = 61
 	"""
-	Gaaarrrrwl!
+	¡Gaaarrrrwl!
 	"""
 	end
 }
@@ -633,12 +649,12 @@ script 37 mmz3 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Hehehehe...
+	Jejejeje...
 	"""
 	msgClear
 	"""
-	Omega, that will be
-	quite enough.
+	Omega, eso será
+	suficiente.
 	"""
 	end
 }
@@ -646,20 +662,20 @@ script 38 mmz3 {
 	mugshotShow
 		mugshot = 59
 	"""
-	From this day
-	forward...
+	Desde hoy en
+	adelante...
 	"""
 	msgClear
 	"""
-	You will fight with
-	this person as a
-	Neo Arcadian.
+	Pelearás con
+	esta persona como
+	neoarcadiano.
 	"""
 	msgClear
 	"""
-	It's not polite,
-	smashing a friend
-	like that.
+	No es educado
+	golpear a un amigo
+	así.
 	"""
 	end
 }
@@ -675,11 +691,12 @@ script 39 mmz3 {
 		mugshot = 44
 	msgBottom
 	"""
-	A Neo Arcadian?!
+	¡¿Un neoarcadiano?!
 	"""
 	msgClear
 	"""
-	Who is this guy?!
+	¡¿Quién es este
+	tipo?!
 	"""
 	end
 }
@@ -688,23 +705,27 @@ script 40 mmz3 {
 		mugshot = 59
 	msgBottom
 	"""
-	Hehehehe...
+	Jejejeje...
 	"""
 	msgClear
 	"""
-	I am Weil. You may
-	call me Dr. Weil.
+	Soy Weil. Puedes
+	llamarme Dr. Weil.
 	"""
 	msgClear
 	"""
-	You must know my
-	name, Harpuia of the
-	Four Guardians?
+	Debes conocer mi
+	nombre, ¿Harpuia de
 	"""
 	msgClear
 	"""
-	And you...the
-	legendary hero.
+	los Cuatro
+	Guardianes?
+	"""
+	msgClear
+	"""
+	Y tú... el héroe
+	legendario.
 	"""
 	msgClear
 	"""
@@ -715,30 +736,34 @@ script 40 mmz3 {
 		mugshot = 44
 	msgBottom
 	"""
-	Dr. Weil?!
+	¡¿Dr. Weil?!
 	"""
 	msgClear
 	"""
-	You're kidding me!
-	It can't be! Why
-	are you, who were
+	¡Estás bromeando!
+	¡No puede ser! ¡¿Por
+	qué tú, que fuiste
 	"""
 	msgClear
 	"""
-	banished from Neo
-	Arcadia a century
-	ago, with Omega?!
+	desterrado de Neo
+	Arcadia hace un
+	"""
+	msgClear
+	"""
+	siglo, estás con
+	Omega?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 55
 	msgBottom
 	"""
-	That's simple.
+	Eso es simple.
 	"""
 	msgClear
 	"""
-	I-I brought him.
+	Y-yo lo traje.
 	"""
 	end
 }
@@ -746,8 +771,8 @@ script 41 mmz3 {
 	mugshotShow
 		mugshot = 44
 	"""
-	M...Master X?!
-	Is that you?!
+	¡¿M... Maestro X?!
+	¿Eres tú?!
 	"""
 	end
 }
@@ -755,18 +780,17 @@ script 42 mmz3 {
 	mugshotShow
 		mugshot = 55
 	"""
-	Harpuia! Hehe, you
-	haven't ch-changed!
+	¡Harpuia! Jeje,
+	¡no h-has cambiado!
 	"""
 	msgClear
 	"""
-	And th-then
-	there's...
+	Y t-también
+	está...
 	"""
 	msgClear
 	"""
-	I missed y-you,
-	Zero...
+	Te extrañé, Z-Zero...
 	"""
 	end
 }
@@ -774,58 +798,63 @@ script 43 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	You must be...
-	You're a copy,
-	aren't you?
+	Debes ser...
+	Eres una copia,
+	¿no es así?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	msgBottom
 	"""
-	Hehehe!
+	¡Jejeje!
 	"""
 	msgClear
 	"""
-	I brought back
-	Master X, whom you
-	defeated long ago!
+	¡Traje de vuelta al
+	Maestro X, a quien
 	"""
 	msgClear
 	"""
-	To protect humanity
-	from the chaos of
-	this world!
+	derrotaste hace
+	tiempo!
+	"""
+	msgClear
+	"""
+	¡Para proteger a la
+	humanidad del caos
+	de este mundo!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 55
 	msgTop
 	"""
-	Weil saved my life.
-	I owe h-him, see...
+	Weil me salvó la
+	vida. S-se lo
+	debo...
 	"""
 	msgClear
 	"""
-	I'll take Omega
-	back, thank y-you.
+	Me llevaré a Omega
+	de vuelta, g-gracias.
 	"""
 	msgClear
 	"""
-	Harpuia, you k-keep
-	searching for the
+	Harpuia, s-sigue
+	buscando al
 	Dark Elf.
 	"""
 	msgClear
 	"""
-	Omega and the Dark
-	Elf... 
+	Omega y el Dark
+	Elf...
 	"""
 	msgClear
 	"""
-	We'll need them
-	both for what's to
-	c-come...
+	Los necesitaremos
+	a ambos para lo
+	q-que viene...
 	"""
 	end
 }
@@ -833,40 +862,47 @@ script 44 mmz3 {
 	mugshotShow
 		mugshot = 44
 	"""
-	But Master X! Think
-	how many humans died
+	¡Pero Maestro X!
+	Piense en cuántos
+	humanos murieron
 	"""
 	msgClear
 	"""
-	because of the Dark
-	Elf and Omega, both
-	built by this man...
+	por el Dark Elf y
+	Omega, ambos creados
+	por este hombre...
 	"""
 	msgClear
 	"""
-	How can you justify
-	exposing humanity to
-	such a grave danger,
+	¡¿Cómo puede
+	justificar exponer
+	a la humanidad a
 	"""
 	msgClear
 	"""
-	especially now with
-	the energy crisis
-	almost solved?!
+	un peligro tan
+	grave, justo ahora
+	que la crisis
+	"""
+	msgClear
+	"""
+	energética está
+	casi resuelta?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	msgBottom
 	"""
-	What's this? Are you
-	trying to tell
-	Master X what to do?
+	¿Qué es esto?
+	¿Intentas decirle al
+	Maestro X qué hacer?
 	"""
 	msgClear
 	"""
-	When did you grow so
-	bold, Harpuia?
+	¿Cuándo te volviste
+	tan atrevido,
+	Harpuia?
 	"""
 	end
 }
@@ -875,30 +911,30 @@ script 45 mmz3 {
 		mugshot = 44
 	msgTop
 	"""
-	Weil...you...
+	Weil...tú...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 55
 	"""
-	So, Zero.
+	Entonces, Zero.
 	"""
 	msgClear
 	"""
-	You g-guys are
-	also searching for
-	the Dark Elf, right?
+	U-ustedes también
+	están buscando al
+	Dark Elf, ¿no?
 	"""
 	msgClear
 	"""
-	Let's m-make a
-	contest out of it!
+	¡C-convirtámoslo en
+	una competencia!
 	"""
 	msgClear
 	"""
-	I'll sh-show you
-	who the real hero
-	i-is!
+	¡T-te mostraré
+	quién es el
+	verdadero héroe!
 	"""
 	end
 }
@@ -907,15 +943,15 @@ script 46 mmz3 {
 		mugshot = 59
 	msgBottom
 	"""
-	Hehehe... Now things
-	are getting
-	interesting, Zero!
+	Jejeje... ¡Ahora
+	esto se pone
+	interesante, Zero!
 	"""
 	msgClear
 	"""
-	Let's see how far
-	you get with that
-	body! Hehehe...
+	¡Veamos hasta dónde
+	llegas con ese
+	cuerpo! Jejeje...
 	"""
 	end
 }
@@ -923,7 +959,7 @@ script 47 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	"With that body"...?
+	"Con ese cuerpo"...?
 	"""
 	msgClear
 	"""
@@ -939,7 +975,7 @@ script 48 mmz3 {
 	"""
 	msgClear
 	"""
-	This is terrible...
+	Esto es terrible...
 	"""
 	end
 }
@@ -947,9 +983,9 @@ script 49 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	So you were
-	monitoring the whole
-	thing?
+	¿Así que estabas
+	monitoreando todo
+	esto?
 	"""
 	end
 }
@@ -957,17 +993,21 @@ script 50 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: Hurry back to base.
+	Ciel: Rápido, vuelve a
 	"""
 	msgClear
 	"""
-	Operator?
+	la base.
+	"""
+	msgClear
+	"""
+	¿Operadora?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Commencing trans.
+	Operadora: Iniciando trans.
 	"""
 	end
 }

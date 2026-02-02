@@ -65,82 +65,81 @@ script 9 mmz3 {
 }
 script 10 mmz3 {
 	"""
-	  The legendary Reploid Zero 
-	 awoke from a long slumber...
+	 El legendario Reploid Zero
+	    despertó de un largo
+	          sueño...
 	
 	
-	  With Ciel's Resistance he
-	  defeated Copy X, the ruler
-	       of Neo Arcadia.
-	
-	
-	
-	
-	
-	
-	    The terror of the Neo
-	    Arcadian regime ended,
-	
-	
-	   but the energy shortage
-	 remained a constant problem.
+	  Junto a la Resistencia de
+	  Ciel, derrotó a Copy X, el
+	  gobernante de Neo Arcadia.
 	
 	
 	
 	
 	
-	
-	   Ciel devoted herself to
-	   researching new forms of
-	           energy.
+	   El terror del régimen de
+	     Neo Arcadia terminó,
 	
 	
-	 And Elpizo became the newly
-	 appointed Resistance leader.
-	
+	  pero la escasez de energía
+	   siguió siendo un problema
+	          constante.
 	
 	
 	
 	
 	
-	   However, overcome by his
-	      desire for power, 
+	 Ciel se dedicó por completo
+	  a investigar nuevas formas
+	         de energía
 	
 	
-	   Elpizo awakened the Dark
-	   Elf, whose magic had once
-	  nearly destroyed the world.
-	
-	
-	
-	
-	
-	
-	   Elpizo, thirsting for the
-	  power of the Dark Elf, lost
-	    sight of his true duty,
-	
-	
-	   and was finally defeated
-	    after a fierce battle.
-	
-	
-	  However, the Dark Elf fled,
-	  her destination unknown...
+	  Y Elpizo fue nombrado como
+	     el nuevo líder de la
+	         Resistencia.
 	
 	
 	
 	
 	
+	 Sin embargo, dominado por su
+	        deseo de poder, 
 	
-	 The battle over the Dark Elf
-	    had only just begun...
+	
+	 Elpizo despertó al Dark Elf,
+	 cuya magia estuvo a punto de
+	  destruir el mundo una vez.
+	
+	
+	
+	
+	
+	    Sediento del poder del
+	   Dark Elf, perdió de vista
+	     su verdadero deber,
+	
+	
+	  y finalmente fue derrotado
+	    tras una feroz batalla.
+	
+	
+	   Sin embargo, el Dark Elf
+	      huyó con un destino
+	         desconocido...
+	
+	
+	
+	
+	
+	  La batalla por el Dark Elf
+	   apenas había comenzado...
 	"""
 	end
 }
 script 11 mmz3 {
 	"""
-	Two months later.
+	Dos meses después.
 	"""
 	end
 }
