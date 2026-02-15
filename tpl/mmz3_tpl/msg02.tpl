@@ -5,31 +5,31 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero...I guess I
-	got out of control
-	back there.
+	Zero... supongo que
+	perdí el control
+	allá afuera.
 	"""
 	msgClear
 	"""
-	But when I imagine
-	somebody getting
-	hurt...I...
+	Pero cuando imagino
+	a alguien saliendo
+	herido... yo...
 	"""
 	msgClear
 	"""
-	Everything just
-	turns black...
+	Todo se vuelve
+	negro...
 	"""
 	msgClear
 	"""
-	There must be some
-	other way...
+	Debe haber alguna
+	otra forma...
 	"""
 	msgClear
 	"""
-	I will not give up
-	until peace is
-	secured.
+	No me rendiré hasta
+	que la paz esté
+	asegurada.
 	"""
 	end
 }
@@ -41,20 +41,24 @@ script 1 mmz3 {
 	"""
 	msgClear
 	"""
-	I hate to think that
-	I might trouble you
-	again, Zero...
+	Odio pensar que
+	podría causarte
 	"""
 	msgClear
 	"""
-	But without you,
-	humans and Reploids
-	will never be able
+	problemas otra vez,
+	Zero...
 	"""
 	msgClear
 	"""
-	to coexist
-	peacefully.
+	Pero sin ti, los
+	humanos y los
+	Reploides nunca
+	"""
+	msgClear
+	"""
+	podrán convivir
+	en paz.
 	"""
 	end
 }
@@ -210,17 +214,18 @@ script 7 mmz3 {
 	mugshotShow
 		mugshot = 67
 	"""
-	What's this?
+	¿Qué es esto?
 	"""
 	msgClear
 	"""
-	Don't you have to
-	go to see Ciel?
+	¿No tienes que ir
+	a ver a Ciel?
 	"""
 	msgClear
 	"""
-	You shouldn't make
-	a young lady wait!
+	¡No deberías hacer
+	esperar a una
+	joven dama!
 	"""
 	end
 }
@@ -232,120 +237,122 @@ script 8 mmz3 {
 	"""
 	msgClear
 	"""
-	Sorry I couldn't fix
-	up your weapons in
-	time...
+	Perdón por no haber
+	arreglado tus armas
+	a tiempo...
 	"""
 	msgClear
 	"""
-	Since there haven't
-	been any attacks
-	from Neo Arcadia...
+	Como no ha habido
+	ataques de
+	Neo Arcadia...
 	"""
 	msgClear
 	"""
-	I thought I'd just
-	upgrade your
-	weapons instead...
+	pensé en mejorar
+	tus armas en su
+	lugar...
 	"""
 	msgClear
 	"""
-	But it ended up
-	taking more time
-	than I expected...
+	Pero al final tomó
+	más tiempo del que
+	esperaba...
 	"""
 	msgClear
 	"""
-	Sorry about that...
-	But I was able to
-	make some pretty
+	Lo siento...
+	Pero logré hacer
 	"""
 	msgClear
 	"""
-	good improvements
-	to your weapons.
+	muy buenas mejoras
+	en tus armas.
 	"""
 	msgClear
 	"""
-	By the way...about
-	your Recoil Rod...
-	Do you want to know
+	Por cierto... sobre
+	el Recoil Rod...
+	¿Quieres saber
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	how to use it?
-	  Sure do.
-	  Not really...
+	cómo usarlo?
+	  Claro.
+	  No mucho...
 	"""
 	msgClear
 	"""
-	I see, I see!
+	¡Ya veo, ya veo!
 	"""
 	msgClear
 	"""
-	The Recoil Rod can
-	blast enemies with
-	a charge, and you
+	El Recoil Rod puede
+	atacar enemigos con
+	un disparo cargado,
 	"""
 	msgClear
 	"""
-	can also aim down
-	and shoot to fly
-	up into the air!
+	y también puedes
+	apuntar hacia abajo
+	y disparar para
 	"""
 	msgClear
 	"""
-	Certain barriers can
-	only be destroyed
-	with the charge
+	elevarte por
+	el aire.
 	"""
 	msgClear
 	"""
-	attack, so don't
-	hesitate to give
-	it a try.
+	Ciertas barreras
+	solo pueden romperse
+	con el ataque
 	"""
 	msgClear
 	"""
-	Doigt and I spent a
-	month putting it
-	together for you,
+	cargado, así que no
+	dudes en probarlo.
 	"""
 	msgClear
 	"""
-	so use it well!
+	¡Doigt y yo pasamos
+	un mes armándolo
+	para ti,
 	"""
 	msgClear
 	"""
-	Of course, the trick
-	with new weapons is
-	to give them a try,
+	así que úsalo bien!
 	"""
 	msgClear
 	"""
-	and get used to
-	them!
+	¡Claro, el truco con
+	las armas nuevas es
+	probarlas,
+	"""
+	msgClear
+	"""
+	y acostumbrarse
+	a ellas!
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	I see. You don't
-	even care at all,
-	do you?
+	Ya veo. ¿Ni siquiera
+	te interesa, eh?
 	"""
 	msgClear
 	"""
-	If Doigt could hear
-	that from outside of
-	the room
+	Si Doigt oyera eso
+	desde fuera del
+	cuarto,
 	"""
 	msgClear
 	"""
-	he'd sure be
-	disappointed.
+	seguro se
+	decepcionaría.
 	"""
 	end
 }
@@ -353,33 +360,31 @@ script 9 mmz3 {
 	mugshotShow
 		mugshot = 67
 	"""
-	I got so caught up
-	in making your
-	weapons...
+	Me metí tanto en
+	mejorar tus armas...
 	"""
 	msgClear
 	"""
-	that I worked for 10
-	days without taking
-	any E-Crystals, and
+	que trabajé durante
+	10 días sin tomar
+	ningún E-Crystal, y
 	"""
 	msgClear
 	"""
-	almost ended up
-	shutting down.
-	Hah hah hah...
+	casi terminé
+	apagándome.
+	Ja, ja, ja...
 	"""
 	msgClear
 	"""
-	Oh yes... I have
-	something to give
-	to you.
+	Oh, sí... tengo
+	algo para darte.
 	"""
 	msgClear
 	"""
-	It's no use to me
-	anyway, so have this
-	disk.
+	No me sirve de nada,
+	así que toma este
+	disco.
 	"""
 	msgGotoSub
 		subindex = 9
@@ -538,18 +543,19 @@ script 61 mmz3 {
 	mugshotShow
 		mugshot = 70
 	"""
-	What's this?
-	You must be the
-	new whippersnapper!
+	¿Qué es esto?
+	¡Debes ser el
+	nuevo novato!
 	"""
 	msgClear
 	"""
-	...hah, I'm kidding.
+	...ja, es broma.
 	"""
 	msgClear
 	"""
-	Even MY memory isn't
-	quite that bad!
+	¡Ni siquiera mi
+	memoria está tan
+	mal!
 	"""
 	end
 }
@@ -557,25 +563,25 @@ script 62 mmz3 {
 	mugshotShow
 		mugshot = 70
 	"""
-	By the way, son...
+	Por cierto, hijo...
 	"""
 	msgClear
 	"""
-	Where's the young
-	lad with the long
-	blonde hair,
+	¿Dónde está el
+	joven de cabello
+	rubio y largo,
 	"""
 	msgClear
 	"""
-	who was in the
-	commander's room
-	until just recently?
+	que estaba en la
+	sala del comandante
+	hasta hace poco?
 	"""
 	msgClear
 	"""
-	Well, it's nothing
-	really. There was
-	just this thing...
+	Bueno, no es nada
+	importante.
+	Solo era una cosa...
 	"""
 	end
 }
@@ -583,207 +589,230 @@ script 63 mmz3 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Hey, Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
-	When you have a
-	moment, won't you
-	listen to my story?
+	Cuando tengas un
+	momento, ¿podrías
+	escuchar mi historia?
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Can I tell you?
-	  Yes
+	¿Puedo contártela?
+	  Sí
 	  No
 	"""
 	msgClear
 	"""
-	A long time ago...
-	I was a teacher at
-	a school...
+	Hace mucho tiempo...
+	yo era maestro en
+	una escuela...
 	"""
 	msgClear
 	"""
-	Back then, there
-	were many humans...
+	En aquellos días,
+	había muchos
+	humanos...
 	"""
 	msgClear
 	"""
-	It is no falsehood
-	to say we lived in
-	harmony together...
+	No es mentira decir
+	que vivíamos en
+	armonía...
 	"""
 	msgClear
 	"""
-	I have so many good
-	memories of those
-	days...
+	Tengo tantos buenos
+	recuerdos de esa
+	época...
 	"""
 	msgClear
 	"""
-	The one I remember
-	most vividly is when
-	we went on a picnic.
+	El que más recuerdo
+	es cuando fuimos
+	de picnic.
 	"""
 	msgClear
 	"""
-	There was a girl who
-	had forgotten to
-	bring her lunch...
+	Había una niña que
+	había olvidado traer
+	su almuerzo...
 	"""
 	msgClear
 	"""
-	And when lunchtime
-	came, she sat alone
-	by herself.
+	Y cuando llegó la
+	hora de comer, se
+	sentó sola.
 	"""
 	msgClear
 	"""
-	All her friends were
-	too busy talking and
-	eating to notice.
+	Todos sus amigos
+	estaban muy ocupados
 	"""
 	msgClear
 	"""
-	She hard a hard time
-	fitting in. Didn't
-	speak up much...
+	hablando y comiendo
+	como para notarlo.
 	"""
 	msgClear
 	"""
-	She didn't know how
-	to tell her friends
-	she forgot lunch.
+	Le costaba mucho
+	encajar. No hablaba
+	mucho...
 	"""
 	msgClear
 	"""
-	When I saw her, I
-	figured that as much
-	had happened.
+	No sabía cómo decirle
+	a sus amigos que se
 	"""
 	msgClear
 	"""
-	So I gave her some
-	doughnuts I had made
-	that morning.
+	había olvidado
+	el almuerzo.
+	"""
+	msgClear
+	"""
+	Cuando la vi,
+	entendí lo que
+	había pasado.
+	"""
+	msgClear
+	"""
+	Así que le di unas
+	donas que había
+	hecho esa mañana.
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 2
 	"""
-	Oh? Bored already?
-	  Yes
+	¿Oh? ¿Ya te aburrí?
+	  Sí
 	  No
 	"""
 	msgClear
 	"""
-	Ah, bored I see...
+	Ah, ya veo...
 	"""
 	msgClear
 	"""
-	There's more I want
-	to tell you, but,
-	oh well...
+	Hay más que quisiera
+	contarte, pero... que
+	se le va a hacer.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	I see... no time eh?
-	Can't be helped...
+	Ya veo... no tienes
+	tiempo, ¿eh?
+	No hay remedio...
 	"""
 	msgClear
 	"""
-	Sorry to bother you
-	when you're busy...
+	Perdona por
+	molestarte cuando
+	estás ocupado...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	You know, before I
-	taught, I worked
-	at a bread factory.
+	Sabes, antes de ser
+	maestro, trabajé
+	en una panadería.
 	"""
 	msgClear
 	"""
-	And before that I
-	was a sailor.
+	Y antes de eso,
+	fui marinero.
 	"""
 	msgClear
 	"""
-	Oops...
-	Went off track...
+	Ups...
+	Me desvié del
+	tema...
 	"""
 	msgClear
 	"""
-	I was telling you
-	about my giving
-	the girl a doughnut.
+	Te estaba contando
+	que le di una dona
+	a la niña.
 	"""
 	msgClear
 	"""
-	She didn't thank me
-	and ran off with her
-	head bowed...
+	No me dio las
+	gracias y se fue
 	"""
 	msgClear
 	"""
-	I thought she was
-	going off to be with
-	her friends...
+	corriendo con la
+	cabeza baja...
 	"""
 	msgClear
 	"""
-	But on the way home,
+	Pensé que iba a
+	reunirse con sus
+	amigos...
 	"""
 	msgClear
 	"""
-	The girl got off the
-	bus and gave me
-	something.
+	Pero de camino a
+	casa,
 	"""
 	msgClear
 	"""
-	It was a short
-	letter and a
-	piece of clover.
+	la niña se bajó del
+	autobús y me dio
+	algo.
 	"""
 	msgClear
 	"""
-	The letter said:
+	Era una carta corta
+	y un trébol.
 	"""
 	msgClear
 	"""
-	"Mr. Andrew, I'm
-	sorry I didn't find
-	you a 4-leaf clover"
+	La carta decía:
 	"""
 	msgClear
 	"""
-	Written in tiny
-	letters.
+	"Sr. Andrew, lo
+	siento por no haber
 	"""
 	msgClear
 	"""
-	That was her way
-	of saying "Thank
-	you."
+	encontrado un trébol
+	de cuatro hojas"
 	"""
 	msgClear
 	"""
-	Whenever I pass by
-	the harbor where the
-	school was, I recall
+	Escrito con letras
+	muy pequeñas.
 	"""
 	msgClear
 	"""
-	the sweet voices of
-	children calling to
-	me, "Mr. Andrew"...
+	Esa fue su manera
+	de decir "gracias".
+	"""
+	msgClear
+	"""
+	Cada vez que paso
+	por el puerto donde
+	"""
+	msgClear
+	"""
+	estaba la escuela,
+	recuerdo
+	"""
+	msgClear
+	"""
+	las dulces voces de
+	los niños llamándome,
+	"Sr. Andrew"...
 	"""
 	end
 }
@@ -791,148 +820,148 @@ script 65 mmz3 {
 	mugshotShow
 		mugshot = 70
 	"""
-	Oh, it's you, Zero.
+	Oh, eres tú, Zero.
 	"""
 	msgClear
 	"""
-	By the way, did I
-	ever tell you about
+	Por cierto, ¿alguna
+	vez te hablé de
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	my younger days?
-	  Yes
+	mi juventud?
+	  Sí
 	  No
 	"""
 	msgClear
 	"""
-	Ah, yes...
-	do you remember what
+	Ah, sí...
+	¿recuerdas de qué
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 2
 	"""
-	the story was about?
-	  Yes
+	trataba la historia?
+	  Sí
 	  No
 	"""
 	msgClear
 	"""
-	Really?!
+	¡¿De verdad?!
 	"""
 	msgClear
 	"""
-	I'm gonna quiz you
-	to see if you do!
+	¡Entonces te pondré
+	a prueba!
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 3
 	"""
-	Before teaching I...
-	  Was a sailor
-	  Was a bread maker
+	Antes de enseñar...
+	  Fui marinero
+	  Fui panadero
 	"""
 	msgClear
 	"""
-	Wrong.
+	Incorrecto.
 	"""
 	msgClear
 	"""
-	Before teaching I
-	worked at a bread
-	factory...
+	Antes de ser maestro
+	trabajé en una
+	panadería...
 	"""
 	msgClear
 	"""
-	Nobody pays any
-	attention to my
-	stories anymore...
+	Ya nadie presta
+	atención a mis
+	historias...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Is that so? Guess
-	I haven't then.
+	¿Ah, sí? Entonces
+	supongo que no.
 	"""
 	msgClear
 	"""
-	It'd probably bore
-	you anyway...
+	De todos modos,
+	probablemente te
+	aburrirían...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	Of course you
-	don't...
+	Claro que no...
 	"""
 	msgClear
 	"""
-	It can't be helped,
-	my stories are all
-	boring anyway...
+	No se puede evitar,
+	mis historias son
+	aburridas...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 3
 	"""
-	Wow, that's correct!
-	But maybe you just
-	got lucky.
+	¡Vaya, correcto!
+	Pero quizá solo
+	tuviste suerte.
 	"""
 	msgClear
 	"""
-	Next question:
+	Siguiente pregunta:
 	"""
 	msgClear
 	"""
-	As a teacher, my
-	fondest memory
-	was of when I...
+	Como maestro, mi
+	recuerdo más querido
+	fue cuando...
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 4
 	"""
-	...went to a:
+	...fuimos a un:
 	  Festival
 	  Picnic
 	"""
 	msgClear
 	"""
-	Nope.
+	No.
 	"""
 	msgClear
 	"""
-	Well...I suppose
-	my stories are all
-	useless anyway...
+	Bueno... supongo que
+	mis historias no
+	sirven para nada...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 4
 	"""
-	Well done!
-	How about this?
+	¡Muy bien!
+	A ver esta.
 	"""
 	msgClear
 	"""
-	On the picnic,
-	a girl forgot her
-	lunch. I saw this...
+	En el picnic, una
+	niña olvidó su
+	almuerzo. Yo...
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 5
 	"""
-	...and gave her:
-	  A hamburger
-	  A doughnut
+	...le di:
+	  Una hamburguesa
+	  Una dona
 	"""
 	msgClear
 	"""
@@ -940,77 +969,78 @@ script 65 mmz3 {
 	"""
 	msgClear
 	"""
-	Incorrect.
+	Incorrecto.
 	"""
 	msgClear
 	"""
-	I had my hopes up
-	for a second there
-	...*sigh*...
+	Por un momento tuve
+	esperanzas...
+	...*suspiro*...
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 5
 	"""
-	Yes! That's correct!
-	And in return for
-	the doughnut, she...
+	¡Sí! ¡Correcto!
+	Y a cambio de la
+	dona, ella me dio...
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 6
 	"""
-	...gave me a:
-	  3-leaf clover
-	  4-leaf clover
+	...un trébol de:
+	  Tres hojas
+	  Cuatro hojas
 	"""
 	msgClear
 	"""
-	Yes, that's right.
+	Sí, así es.
 	"""
 	msgClear
 	"""
-	She looked hard for
-	a 4-leaf clover...
+	Buscó mucho un trébol
+	de cuatro hojas...
 	"""
 	msgClear
 	"""
-	But couldn't find
-	one...
+	Pero no pudo
+	encontrarlo...
 	"""
 	msgClear
 	"""
-	And now, the last
-	question for you!
+	¡Y ahora, la última
+	pregunta!
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 7
 	"""
-	The girl's name was:
-	  I don't know
+	La niña se llamaba:
+	  No lo sé
 	  Jasmine
 	"""
 	msgClear
 	"""
-	Ooh! Fantastic!
-	That was a trick
-	question!
+	¡Oh! ¡Excelente!
+	Era una pregunta
+	trampa.
 	"""
 	msgClear
 	"""
-	Thanks for humoring
-	an old Reploid...
+	Gracias por escuchar
+	a este viejo
+	Reploide...
 	"""
 	msgClear
 	"""
-	Here's a token of
-	my appreciation.
+	Aquí tienes una
+	pequeña recompensa.
 	"""
 	msgClear
 	"""
-	Take this disk I
-	have!
+	¡Toma este disco que
+	tengo!
 	"""
 	msgGotoSub
 		subindex = 9
@@ -1022,31 +1052,30 @@ script 65 mmz3 {
 	"""
 	msgClear
 	"""
-	Not 4, but 3-leaf...
+	No era de cuatro,
+	sino de tres hojas...
 	"""
 	msgClear
 	"""
-	It's obvious you
-	weren't really
-	paying attention!
+	¡Está claro que no
+	prestabes atención!
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 7
 	"""
-	I never told you
-	what her name was!
+	¡Nunca te dije cuál
+	era su nombre!
 	"""
 	msgClear
 	"""
-	Ah well, I guess
-	it's only natural
-	that you'd be bored
+	En fin, supongo que
+	es normal aburrirse
 	"""
 	msgClear
 	"""
-	by an old geezer's
-	ramblings...
+	con las historias
+	de un viejo...
 	"""
 	end
 }
@@ -1094,29 +1123,34 @@ script 68 mmz3 {
 	mugshotShow
 		mugshot = 68
 	"""
-	Oh, hey, Zero!
+	Oh, ¡hey, Zero!
 	"""
 	msgClear
 	"""
-	I've been waiting
-	here the whole time
-	for Ciel.
+	He estado esperando
+	aquí todo este
+	tiempo por Ciel.
 	"""
 	msgClear
 	"""
-	She came in and left
-	again right away...
+	Entró un momento y
+	se fue enseguida...
 	"""
 	msgClear
 	"""
-	This little guy is a
-	bit worn out, so I'd
-	like it fixed...
+	Este pequeño está
+	un poco desgastado,
 	"""
 	msgClear
 	"""
-	I guess Ciel must
-	be busy...
+	así que me gustaría
+	arreglarlo...
+	"""
+	msgClear
+	"""
+	Supongo que Ciel
+	debe estar
+	ocupada...
 	"""
 	end
 }
@@ -1124,37 +1158,37 @@ script 69 mmz3 {
 	mugshotShow
 		mugshot = 68
 	"""
-	I wonder where my
-	little Crea and Prea
-	went...
+	Me pregunto a dónde
+	habrán ido mis peque-
+	ñas Crea y Prea...
 	"""
 	msgClear
 	"""
-	They are my precious
+	Son mis preciados
 	Baby Elves...
 	"""
 	msgClear
 	"""
-	Did you know that I
-	could talk to them
-	a little...?
+	¿Sabías que podía
+	hablar un poco con
+	ellas...?
 	"""
 	msgClear
 	"""
-	At first it was just
-	"MiMiMiMi" and
-	other baby babble.
+	Al principio solo
+	decían “MiMiMiMi”
+	y otros balbuceos.
 	"""
 	msgClear
 	"""
-	Zero, please let me
-	know if you find
-	them!
+	Zero, por favor,
+	¡avísame si las
+	encuentras!
 	"""
 	msgClear
 	"""
-	Promise me...
-	okay?
+	Prométemelo...
+	¿sí?
 	"""
 	end
 }
@@ -1322,31 +1356,31 @@ script 76 mmz3 {
 	mugshotShow
 		mugshot = 72
 	"""
-	Hi-ya, Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	It's been 2 months
-	since Mr. Elpizo
-	left here.
+	Ya han pasado 2 meses
+	desde que el
+	Sr. Elpizo se fue.
 	"""
 	msgClear
 	"""
-	I wonder when I'll
-	be promoted to
-	commander...
+	Me pregunto cuándo
+	me ascenderán a
+	comandante...
 	"""
 	msgClear
 	"""
-	I don't think there
-	is a more qualified
-	successor...
+	No creo que haya
+	un sucesor más
+	capacitado...
 	"""
 	msgClear
 	"""
-	If that weren't
-	possible, I might be
-	an operator instead!
+	Y si eso no pasa,
+	tal vez sea
+	operador.
 	"""
 	end
 }
@@ -1354,19 +1388,20 @@ script 77 mmz3 {
 	mugshotShow
 		mugshot = 72
 	"""
-	Busy, busy, busy!
+	¡Ocupado, ocupado,
+	ocupado!
 	"""
 	msgClear
 	"""
-	I think I work the
-	hardest of everyone
-	here at the base!
+	¡Creo que soy el que
+	más trabaja aquí
+	en la base!
 	"""
 	msgClear
 	"""
-	Zero, when you see
-	everyone, tell them
-	how hard I work!
+	¡Zero, cuando veas a
+	todos, diles lo
+	duro que trabajo!
 	"""
 	end
 }
@@ -1511,32 +1546,37 @@ script 82 mmz3 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Oh, it's you, Zero.
+	Oh, eres tú, Zero.
 	"""
 	msgClear
 	"""
-	I just can't stand
-	work!
+	¡No soporto
+	trabajar!
 	"""
 	msgClear
 	"""
-	My job?
+	¿Mi trabajo?
 	"""
 	msgClear
 	"""
-	My job is to watch
-	the harbor all day.
-	All day, every day!
+	Mi trabajo es vigilar
+	el puerto todo el
+	día.
 	"""
 	msgClear
 	"""
-	Heh, just kidding!
+	¡Todo el día, todos
+	los días!
 	"""
 	msgClear
 	"""
-	If that Hibou heard
-	me say that he'd
-	sure be mad.
+	Je, ¡es broma!
+	"""
+	msgClear
+	"""
+	Si Hibou me oyera
+	decir eso, seguro
+	que se enojaría.
 	"""
 	end
 }
@@ -1544,63 +1584,63 @@ script 83 mmz3 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Oh, hey!
+	Oh, ¡hey!
 	"""
 	msgClear
 	"""
-	I found this disk
-	underneath this
-	load...
+	Encontré este disco
+	debajo de esta
+	carga...
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Do you want it?
-	  Sure...
-	  No thanks...
+	¿Lo quieres?
+	  Claro...
+	  No, gracias...
 	"""
 	msgClear
 	"""
-	Well...
+	Bueno...
 	"""
 	msgClear
 	"""
-	You're not expecting
-	to get it for free,
-	are you?
+	No estarás esperando
+	que te lo dé gratis,
+	¿verdad?
 	"""
 	msgClear
 	"""
-	Let me think...
+	Déjame pensar...
 	"""
 	msgClear
 	"""
-	Alright! You can
-	have it if you
-	answer my question.
+	¡Está bien! Puedes
+	tenerlo si respondes
+	mi pregunta.
 	"""
 	msgClear
 	"""
-	Do you know that
-	small Reploid down
-	the hall?
+	¿Conoces a ese
+	Reploide pequeño del
+	pasillo?
 	"""
 	msgClear
 	"""
-	The one that carries
-	a book with him
-	wherever he goes.
+	El que siempre anda
+	con un libro a todos
+	lados.
 	"""
 	msgClear
 	"""
-	Answer me this!
+	¡Respóndeme esto!
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 2
 	"""
-	What's his name?
+	¿Cómo se llama?
 	  Menart
 	  Perroquiet
 	"""
@@ -1610,12 +1650,12 @@ script 83 mmz3 {
 	"""
 	msgClear
 	"""
-	I'M Menart!
+	¡Yo soy Menart!
 	"""
 	msgClear
 	"""
-	How could you forget
-	my name!
+	¡¿Cómo pudiste
+	olvidar mi nombre?!
 	"""
 	msgSubEnd
 	msgSub
@@ -1625,24 +1665,24 @@ script 83 mmz3 {
 	"""
 	msgClear
 	"""
-	Well if you don't
-	want it, you won't
-	have it.
+	Bueno, si no lo
+	quieres, entonces no
+	lo tendrás.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	So, you knew.
+	Así que lo sabías.
 	"""
 	msgClear
 	"""
-	Very well, then.
+	Muy bien, entonces.
 	"""
 	msgClear
 	"""
-	Here, take it, as I
-	promised!
+	Aquí tienes, como
+	te lo prometí.
 	"""
 	msgGotoSub
 		subindex = 9
@@ -1652,14 +1692,14 @@ script 84 mmz3 {
 	mugshotShow
 		mugshot = 79
 	"""
-	About the disk I
-	gave you...
+	Sobre el disco que
+	te di...
 	"""
 	msgClear
 	"""
-	To tell you the
-	truth, I don't know
-	what's on it.
+	Para decirte la
+	verdad, no sé qué
+	hay en él.
 	"""
 	end
 }
@@ -1745,25 +1785,35 @@ script 89 mmz3 {
 	mugshotShow
 		mugshot = 74
 	"""
-	The lull in attacks
-	from Neo Arcadia had
-	me optimistic...
+	La pausa en los
+	ataques de Neo
 	"""
 	msgClear
 	"""
-	But it seems they're
-	on the move...
+	Arcadia me hacía
+	ser optimista...
 	"""
 	msgClear
 	"""
-	I just hope they
-	don't come here...
+	Pero parece que
+	están en
+	movimiento...
 	"""
 	msgClear
 	"""
-	For my job, the
-	quieter things are,
-	the better.
+	Solo espero que no
+	vengan hasta aquí...
+	"""
+	msgClear
+	"""
+	Para mi trabajo,
+	cuanto más
+	tranquilas
+	"""
+	msgClear
+	"""
+	estén las cosas,
+	mejor.
 	"""
 	end
 }
@@ -1771,37 +1821,40 @@ script 90 mmz3 {
 	mugshotShow
 		mugshot = 74
 	"""
-	Ah, yes...if you
-	have some time, do
-	visit old Andrew.
+	Ah, sí... si tienes
+	un poco de tiempo,
 	"""
 	msgClear
 	"""
-	Let's see, I think
-	he's on the 3rd
-	floor.
+	ve a visitar al
+	viejo Andrew.
 	"""
 	msgClear
 	"""
-	Oh!
+	A ver, creo que está
+	en el tercer piso.
 	"""
 	msgClear
 	"""
-	Speaking of old
-	Andrew, I just
-	remembered...
+	¡Oh!
 	"""
 	msgClear
 	"""
-	This disk belongs to
-	old Andrew.
-	But since he's no
+	Hablando del viejo
+	Andrew, acabo de
+	recordar algo...
 	"""
 	msgClear
 	"""
-	good with machines,
-	you just go ahead
-	and take it.
+	Este disco pertenece
+	al viejo Andrew.
+	Pero como no se le
+	"""
+	msgClear
+	"""
+	dan bien las
+	máquinas, adelante,
+	tómalo tú.
 	"""
 	msgGotoSub
 		subindex = 9
@@ -1811,29 +1864,33 @@ script 91 mmz3 {
 	mugshotShow
 		mugshot = 74
 	"""
-	Have you studied
-	what's on that
-	disk?
+	¿Has revisado lo que
+	hay en ese disco?
 	"""
 	msgClear
 	"""
-	You see, that was
+	Verás, eso era una
 	"""
 	msgClear
 	"""
-	an ID card from when
-	old Andrew worked
-	at a bread factory.
+	tarjeta de ID de
+	cuando el viejo
+	Andrew trabajaba
 	"""
 	msgClear
 	"""
-	Hmm...I wonder how
-	young he was back
-	then...
+	en una fábrica de
+	pan.
 	"""
 	msgClear
 	"""
-	He's such an enigma.
+	Hmm... me pregunto
+	qué tan joven era
+	entonces...
+	"""
+	msgClear
+	"""
+	Es todo un enigma.
 	"""
 	end
 }
@@ -1904,40 +1961,46 @@ script 108 mmz3 {
 	mugshotShow
 		mugshot = 88
 	"""
-	Hey there, Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	Have you heard?
+	¿Te has enterado?
 	"""
 	msgClear
 	"""
-	The appearance of
-	Omega, who has the
-	same signature as
+	La aparición de
+	Omega, que tiene
+	la misma señal que
 	"""
 	msgClear
 	"""
-	the Dark Elf, has
-	caused a rift in
-	our world.
+	el Dark Elf, ha
+	causado una grieta
+	en nuestro mundo.
 	"""
 	msgClear
 	"""
-	The rift is called
-	Cyberspace.
+	La grieta se llama
+	Ciberespacio.
 	"""
 	msgClear
 	"""
-	A mysterious doorway
-	connects it to the
-	real world.
+	Una puerta misteriosa
+	lo conecta con el
+	mundo real.
 	"""
 	msgClear
 	"""
-	Inside Cyberspace,
-	Cyber-elf abilities
-	auto-activate.
+	Dentro del
+	Ciberespacio, las
+	habilidades de los
+	"""
+	msgClear
+	"""
+	Cyber-Elves se
+	activan
+	automáticamente.
 	"""
 	end
 }
@@ -1945,35 +2008,37 @@ script 109 mmz3 {
 	mugshotShow
 		mugshot = 88
 	"""
-	Oh, yes...
-	About Cyberspace...
+	Oh, sí...
+	Sobre el
+	Ciberespacio...
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Want to know more?
-	  Yes
-	  Not really...
+	¿Quieres saber más?
+	  Sí
+	  No realmente...
 	"""
 	msgClear
 	"""
-	Then let me explain.
+	Entonces déjame
+	explicarte.
 	"""
 	msgClear
 	"""
-	Some elves activate
-	when you go into
-	Cyberspace...
+	Algunos elfos se
+	activan cuando entras
+	al Ciberespacio...
 	"""
 	msgClear
 	"""
-	But not all elves
-	do.
+	Pero no todos lo
+	hacen.
 	"""
 	msgClear
 	"""
-	Only elves with the
+	Solo los elfos con
 	
 	"""
 	textColorRed
@@ -1982,53 +2047,67 @@ script 109 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 mark on the
-	lower left of the
+	 en la esquina
+	inferior izquierda
 	"""
 	msgClear
 	"""
-	icon activate.
+	del ícono se
+	activan.
 	"""
 	msgClear
 	"""
-	They activate even
-	when not grown, and
-	they also don't die.
+	Se activan incluso
+	sin haber crecido, y
+	tampoco mueren.
 	"""
 	msgClear
 	"""
-	There are also no
-	penalties for using
-	elves!
+	¡Además, no hay
+	penalización por
+	usarlos!
 	"""
 	msgClear
 	"""
-	But, when you enter
-	Cyberspace, you lose
-	five mission points.
+	Pero, cuando entras
+	al Ciberespacio,
+	pierdes cinco puntos
 	"""
 	msgClear
 	"""
-	Also, in Cyberspace
-	you get no Secret
-	Disks from foes.
+	de misión.
 	"""
 	msgClear
 	"""
-	And you can't fight
-	bosses while still
-	inside!
+	Además, en el
+	Ciberespacio no
+	obtienes Discos
+	"""
+	msgClear
+	"""
+	Secretos de los
+	enemigos.
+	"""
+	msgClear
+	"""
+	¡Y no puedes pelear
+	contra jefes
+	mientras sigas
+	"""
+	msgClear
+	"""
+	dentro!
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Oh, is that right?
+	Oh, ¿de verdad?
 	"""
 	msgClear
 	"""
-	That's fine, if you
-	already know.
+	Está bien, si ya lo
+	sabías.
 	"""
 	end
 }
@@ -2495,39 +2574,45 @@ script 115 mmz3 {
 	mugshotShow
 		mugshot = 87
 	"""
-	Hey, hey! How's the
-	new guy doing?
+	¡Hey, hey! ¿Cómo va
+	el chico nuevo?
 	"""
 	msgClear
 	"""
-	Oh, pardon me!
+	¡Oh, perdón!
 	"""
 	msgClear
 	"""
-	Can't keep calling
-	the legendary 'roid
-	the "new guy"!
+	No puedo seguir
+	llamando "chico
+	nuevo" al 
 	"""
 	msgClear
 	"""
-	It's been so boring
-	since that Elpizo
-	left here.
+	Reploide legendario.
 	"""
 	msgClear
 	"""
-	No one complains
-	when I skip work,
+	Desde que Elpizo se
+	fue de aquí, todo ha
+	sido tan aburrido.
 	"""
 	msgClear
 	"""
-	And I don't have any
-	stories to tell.
+	Nadie se queja
+	cuando falto al
+	trabajo,
 	"""
 	msgClear
 	"""
-	There's just no
-	excitement anymore.
+	y ya no tengo
+	historias que
+	contar.
+	"""
+	msgClear
+	"""
+	Ya no hay nada
+	emocionante.
 	"""
 	end
 }
@@ -2535,32 +2620,35 @@ script 116 mmz3 {
 	mugshotShow
 		mugshot = 87
 	"""
-	Did you take the
-	disk lying there?
+	¿Tomaste el disco
+	que estaba ahí?
 	"""
 	msgClear
 	"""
-	That disk is pretty
-	much just my
-	personal profile.
+	Ese disco es casi
+	solo mi perfil
+	personal.
 	"""
 	msgClear
 	"""
-	Wonder what would
-	possess someone to
-	write about me...
+	Me pregunto qué
+	habrá llevado a
 	"""
 	msgClear
 	"""
-	It was as accurate
-	as could be, but
-	surely there's
+	alguien a escribir
+	sobre mí...
 	"""
 	msgClear
 	"""
-	something more
-	interesting to write
-	about.
+	Es bastante exacto,
+	pero seguro que hay
+	"""
+	msgClear
+	"""
+	algo más interesante
+	sobre lo que
+	escribir.
 	"""
 	end
 }
@@ -2698,35 +2786,44 @@ script 121 mmz3 {
 	mugshotShow
 		mugshot = 76
 	"""
-	Nice to meet you, my
-	name is Perroquiet.
+	Mucho gusto, mi
+	nombre es Perroquiet.
 	"""
 	msgClear
 	"""
-	Oh, it's Mr. Zero!
+	Oh, ¡es el Sr. Zero!
 	"""
 	msgClear
 	"""
-	Sorry about that.
-	I have poor vision.
+	Disculpe eso.
+	Tengo mala vista.
 	"""
 	msgClear
 	"""
-	But that aside, Ms.
-	Ciel's research is
-	just incredible.
+	Pero dejando eso
+	de lado, la
+	investigación de la
 	"""
 	msgClear
 	"""
-	Incomplete as it is,
-	I think that the
-	miracle of undying
+	Srta. Ciel es
+	asombrosa.
 	"""
 	msgClear
 	"""
-	Cyber-elves shows
-	the fruits of her
-	labor.
+	Aunque aún esté
+	incompleta, creo
+	que el milagro de
+	"""
+	msgClear
+	"""
+	los Cyber-Elves
+	inmortales demuestra
+	"""
+	msgClear
+	"""
+	los frutos de su
+	trabajo.
 	"""
 	end
 }
@@ -2734,95 +2831,105 @@ script 122 mmz3 {
 	mugshotShow
 		mugshot = 76
 	"""
-	About Cyber-elves...
+	Sobre los
+	Cyber-Elves...
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Want to know more?
-	  Sure
-	  No thanks...
+	¿Quieres saber más?
+	  Claro
+	  No, gracias...
 	"""
 	msgClear
 	"""
-	Ms. Ciel's research
-	says that there are
-	2 types of elves:
+	La investigación de
+	la Srta. Ciel dice
 	"""
 	msgClear
 	"""
-	Fusion elves, and
-	Satellite elves.
+	que existen 2 tipos
+	de elves:
 	"""
 	msgClear
 	"""
-	Fusion elves perish,
-	as it has always
-	been.
+	Elves de Fusión y
+	Elves Satélite.
 	"""
 	msgClear
 	"""
-	For example, when
-	an elf turns in a
-	Sub Tank or destroys
+	Los Elves de Fusión
+	desaparecen, como
+	siempre ha sido.
 	"""
 	msgClear
 	"""
-	some enemy units.
+	Por ejemplo, cuando
+	un elf se convierte
+	en un Sub Tank o
 	"""
 	msgClear
 	"""
-	Then, there's the
-	newer type, the
-	Satellite elves.
+	destruye a ciertos
+	enemigos.
 	"""
 	msgClear
 	"""
-	These elves can be
-	equipped and removed
-	freely, and they
+	Luego están los del
+	nuevo tipo: 
+	los Elves Satélite.
 	"""
 	msgClear
 	"""
-	won't perish. But,
-	you can only equip
-	two at a time.
+	Estos elves pueden
+	equiparse y quitarse
+	libremente, y no
 	"""
 	msgClear
 	"""
-	One each in
-	Satellite 1 and
-	Satellite 2.
+	desaparecen. Pero
+	solo puedes equipar
+	dos a la vez.
 	"""
 	msgClear
 	"""
-	There is no penalty
-	for using Satellite
-	elves.
+	Uno en Satélite 1 y
+	otro en Satélite 2.
 	"""
 	msgClear
 	"""
-	Some Fusion elves
-	can be upgraded
-	into Satellites.
+	No hay penalización
+	por usar Elves
+	Satélite.
+	"""
+	msgClear
+	"""
+	Algunos Elves de
+	Fusión pueden
+	mejorarse y
+	"""
+	msgClear
+	"""
+	convertirse en
+	Satélite.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Is that so?
+	¿Ah, sí?
 	"""
 	msgClear
 	"""
-	I'm the type that
-	won't quit talking.
+	Soy del tipo que no
+	deja de hablar.
 	"""
 	msgClear
 	"""
-	So I can understand
-	if you don't really
-	want to listen.
+	Así que entiendo si
+	en realidad no
+	quieres escuchar.
 	"""
 	end
 }
@@ -2936,30 +3043,31 @@ script 127 mmz3 {
 	mugshotShow
 		mugshot = 80
 	"""
-	Hmm?
-	Oh, it's you Zero.
+	¿Hmm?
+	Oh, eres tú, Zero.
 	"""
 	msgClear
 	"""
-	Did you get your
-	new weapon from
+	¿Ya conseguiste tu
+	nueva arma de
 	Cerveau?
 	"""
 	msgClear
 	"""
-	If not, you should
-	go get it soon.
+	Si no, deberías ir
+	a buscarla pronto.
 	"""
 	msgClear
 	"""
-	Let me know how it
-	works when you do.
+	Dime qué tal
+	funciona cuando la
+	pruebes.
 	"""
 	msgClear
 	"""
-	I can't really test
-	its potential
-	in the lab...
+	No puedo probar
+	bien su potencial
+	en el laboratorio...
 	"""
 	end
 }
@@ -2967,20 +3075,20 @@ script 128 mmz3 {
 	mugshotShow
 		mugshot = 80
 	"""
-	The Recoil Rod is
-	strongest when
-	charged.
+	El Recoil Rod es
+	más fuerte cuando
+	se carga.
 	"""
 	msgClear
 	"""
-	It incorporates
-	features from Triple
-	and Chain Rods...
+	Incorpora funciones
+	del Triple Rod y el
+	Chain Rod...
 	"""
 	msgClear
 	"""
-	It will require some
-	effort to master it.
+	Requerirá algo de
+	práctica dominarlo.
 	"""
 	end
 }
@@ -3094,36 +3202,37 @@ script 134 mmz3 {
 	mugshotShow
 		mugshot = 84
 	"""
-	Hello, Mr. Zero.
+	Hola, Sr. Zero.
 	"""
 	msgClear
 	"""
-	I'm sure you've
-	forgotten my name.
-	I'm Autruche.
+	Seguro que ha
+	olvidado mi nombre.
+	Soy Autruche.
 	"""
 	msgClear
 	"""
-	I've been carrying
-	loads around here
-	for years.
+	He estado cargando
+	cosas aquí durante
+	años.
 	"""
 	msgClear
 	"""
-	Sometimes I wish I
-	could do something
-	else, but there just
+	A veces desearía
+	poder hacer algo
+	distinto, pero no
 	"""
 	msgClear
 	"""
-	isn't anything that
-	I'm good at...
+	hay nada en lo que
+	sea realmente
+	bueno...
 	"""
 	msgClear
 	"""
-	Sorry, I didn't mean
-	to gripe to you,
-	Mr. Zero.
+	Perdón, no quise
+	quejarme con usted,
+	Sr. Zero.
 	"""
 	end
 }
@@ -3131,13 +3240,13 @@ script 135 mmz3 {
 	mugshotShow
 		mugshot = 84
 	"""
-	Keep up the good
-	work, Mr. Zero.
+	Siga con el buen
+	trabajo, Sr. Zero.
 	"""
 	msgClear
 	"""
-	I'll be working hard
-	too...Yes indeed...
+	Yo también trabajaré
+	duro... sí, así es...
 	"""
 	end
 }
@@ -3249,57 +3358,57 @@ script 140 mmz3 {
 	option
 		secondAnswerIndex = 2
 	"""
-	Subject of interest?
+	¿Tema de interés?
 	  Omega
 	  Dr. Weil
 	"""
 	msgClear
 	"""
-	Omega is a giant Reploid
-	with the same energy
-	signature as the Dark Elf.
+	Omega es un Reploide gigante
+	con la misma señal
+	energética que el Dark Elf.
 	"""
 	msgClear
 	"""
-	Some say that Omega was
-	involved in the Elf
-	Wars.
+	Se dice que Omega
+	estuvo involucrado en
+	las Guerras Élficas.
 	"""
 	msgClear
 	"""
-	The records state that
-	a century ago, Omega was
-	ejected into Space...
+	Los registros dicen que hace
+	un siglo, Omega fue
+	expulsado al espacio...
 	"""
 	msgClear
 	"""
-	There is no other data
-	available on Omega.
+	No hay más datos disponibles
+	sobre Omega.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Ending session.
+	Finalizando sesión.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	Dr. Weil used the Dark Elf
-	a century ago, causing the
-	Elf Wars.
+	Dr. Weil usó al Dark Elf
+	hace un siglo, causando las
+	Guerras Élficas.
 	"""
 	msgClear
 	"""
-	He was banished from
+	Fue desterrado de
 	Neo Arcadia.
 	"""
 	msgClear
 	"""
-	He is a scientist who
-	excels at bringing dead
-	Reploids back to life.
+	Es un científico que se
+	destaca por traer Reploides
+	muertos a la vida.
 	"""
 	end
 }
@@ -3309,65 +3418,69 @@ script 141 mmz3 {
 	option
 		secondAnswerIndex = 2
 	"""
-	Subject of interest?
+	¿Tema de interés?
 	  Dark Elf
 	  Harpuia
 	"""
 	msgClear
 	"""
-	Dark Elf is a Cyber-elf
-	originally designed to
-	end the Maverick Wars.
+	El Dark Elf es un Cyber-Elf
+	diseñado originalmente para
 	"""
 	msgClear
 	"""
-	X used her to bring a
-	prompt end to the conflict.
+	poner fin a las Guerras
+	Maverick.
 	"""
 	msgClear
 	"""
-	Afterward, she was stolen
-	by Dr. Weil, subsequently
-	causing the Elf Wars.
+	X la usó para terminar
+	rápidamente el conflicto.
 	"""
 	msgClear
 	"""
-	There is no other data
-	available on the Dark Elf.
+	Después, fue robada
+	por el Dr. Weil, causando
+	las Guerras Élficas.
+	"""
+	msgClear
+	"""
+	No hay más datos disponibles
+	sobre el Dark Elf.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Ending session.
+	Finalizando sesión.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	The shrewd General Harpuia
-	is one of the Four
-	Guardians, and is a Reploid
+	El astuto General Harpuia
+	es uno de los Cuatro
+	Guardianes, y es un Reploide
 	"""
 	msgClear
 	"""
-	cloned from X's DNA.
+	clonado del ADN de X.
 	"""
 	msgClear
 	"""
-	Filling the void left by
-	the destruction of Copy X,
-	he became leader of
+	Al llenar el vacío dejado
+	por la destrucción de
+	Copy X, se convirtió en
 	"""
 	msgClear
 	"""
-	Neo Arcadia.
+	el líder de Neo Arcadia.
 	"""
 	msgClear
 	"""
-	He was rendered unconscious
-	by an attack from Omega,
-	and remains so today.
+	Fue dejado inconsciente
+	por un ataque de Omega,
+	y sigue así hasta hoy.
 	"""
 	end
 }
@@ -3377,29 +3490,20 @@ script 142 mmz3 {
 	option
 		secondAnswerIndex = 2
 	"""
-	Subject of interest?
+	¿Tema de interés?
 	  Menart
 	  Ciel
 	"""
 	msgClear
 	"""
-	Menart is the coolest
-	Reploid in the universe.
+	Menart es el Reploide
+	más genial del universo.
 	"""
 	msgClear
 	"""
-	He is the kindest,
-	smartest, and most hard-
-	working one of them all.
-	"""
-	msgClear
-	"""
-	...
-	"""
-	msgClear
-	"""
-	I do not recall entering
-	this data into my system...
+	Es el más amable,
+	inteligente y más
+	trabajador de todos.
 	"""
 	msgClear
 	"""
@@ -3407,30 +3511,40 @@ script 142 mmz3 {
 	"""
 	msgClear
 	"""
-	Commencing shutdown.
+	No recuerdo haber ingresado
+	estos datos en mi
+	sistema...
+	"""
+	msgClear
+	"""
+	...
+	"""
+	msgClear
+	"""
+	Iniciando apagado.
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 2
 	"""
-	Ciel is a human girl with
-	an empathic connection
-	to Cyber-elves.
+	Ciel es una chica humana
+	con una conexión empática
+	con los Cyber-elves.
 	"""
 	msgClear
 	"""
-	Also, she is a highly
-	talented scientist who has
-	devoted herself to
+	Además, es una científica
+	altamente talentosa que ha
+	dedicado su vida a la
 	"""
 	msgClear
 	"""
-	research on energies.
+	investigación energética.
 	"""
 	msgClear
 	"""
-	She recently completed
-	the Ciel System...
+	Recientemente completó
+	el Ciel System...
 	"""
 	end
 }
@@ -3438,18 +3552,22 @@ script 158 mmz3 {
 	mugshotShow
 		mugshot = 90
 	"""
-	Mr. Zero!
+	¡Sr. Zero!
 	"""
 	msgClear
 	"""
-	Before I worked here
-	I was a security
-	guard in the desert.
+	Antes de trabajar
+	aquí, yo era guardia
 	"""
 	msgClear
 	"""
-	Of course, that was
-	over a year ago.
+	de seguridad en el
+	desierto.
+	"""
+	msgClear
+	"""
+	Claro, eso fue hace
+	más de un año.
 	"""
 	end
 }
@@ -3568,33 +3686,37 @@ script 166 mmz3 {
 	mugshotShow
 		mugshot = 90
 	"""
-	Ah, Mr. Zero!
+	Ah, ¡Sr. Zero!
 	"""
 	msgClear
 	"""
-	Lately I've been so
-	bored...my trigger
-	finger is itching.
+	Últimamente he
+	estado tan aburrido...
 	"""
 	msgClear
 	"""
-	But I suppose that's
-	nothing to complain
-	about, right?
+	me pica el dedo del
+	gatillo.
 	"""
 	msgClear
 	"""
-	Oh, yes!
+	Pero supongo que no
+	es algo de lo que
+	deba quejarme, ¿no?
 	"""
 	msgClear
 	"""
-	I can't make out
-	what's on this
-	disk...
+	¡Oh, cierto!
 	"""
 	msgClear
 	"""
-	You can have it!
+	No logro entender
+	qué hay en este
+	disco...
+	"""
+	msgClear
+	"""
+	¡Puedes quedártelo!
 	"""
 	msgGotoSub
 		subindex = 9
@@ -3604,39 +3726,41 @@ script 167 mmz3 {
 	mugshotShow
 		mugshot = 90
 	"""
-	That disk I gave
-	you...
+	Ese disco que
+	te di...
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	Did you decode it?
-	  Yes
+	¿Ya lo descifraste?
+	  Sí
 	  No...
 	"""
 	msgClear
 	"""
-	Yup! I knew you
-	would, Mr. Zero!
+	¡Lo sabía!
+	¡Sabía que lo haría,
+	Sr. Zero!
 	"""
 	msgClear
 	"""
-	Your decisiveness is
-	such an inspiration!
+	¡Su determinación
+	es toda una
+	inspiración!
 	"""
 	msgSubEnd
 	msgSub
 		subindex = 1
 	"""
-	Oh, my!
-	Not yet?
+	¡Oh, vaya!
+	¿Todavía no?
 	"""
 	msgClear
 	"""
-	You really should
-	have Mr. Cerveau
-	take a look at it.
+	Deberías pedirle al
+	Sr. Cerveau que le
+	eche un vistazo.
 	"""
 	end
 }
@@ -3765,23 +3889,23 @@ script 173 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	Ah, Mr. Zero.
+	Ah, Sr. Zero.
 	"""
 	msgClear
 	"""
-	I was just cleaning
-	this room, and I
+	Estaba limpiando
+	esta habitación y
 	"""
 	msgClear
 	"""
-	came across a Secret
-	Disk. It must be
-	around somewhere.
+	encontré un Disco
+	Secreto. Debe estar
+	por aquí.
 	"""
 	msgClear
 	"""
-	If you find it, it's
-	yours.
+	Si lo encuentra, es
+	suyo.
 	"""
 	end
 }
@@ -3832,19 +3956,24 @@ script 176 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	Ah, Mr. Zero!
-	Good to see you!
+	Ah, ¡Sr. Zero!
+	¡Qué gusto verlo!
 	"""
 	msgClear
 	"""
-	I'm taking a break
-	after patrolling
-	the second floor.
+	Estoy tomando un
+	descanso después de
 	"""
 	msgClear
 	"""
-	So, don't think I'm
-	just slacking off.
+	patrullar el segundo
+	piso.
+	"""
+	msgClear
+	"""
+	Así que no piense
+	que solo estoy
+	holgazaneando.
 	"""
 	end
 }

@@ -168,28 +168,30 @@ script 6 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	Cerveau's room?
+	¿La habitación de
+	Cerveau?
 	"""
 	msgClear
 	"""
-	Go through the
-	commander's room to
-	the right, and it's
+	Pasa por la sala
+	del comandante a
+	la derecha, y es
 	"""
 	msgClear
 	"""
-	the room right in
-	front of you.
+	la habitación justo
+	enfrente de ti.
 	"""
 	msgClear
 	"""
-	It's convenient
-	that the base is so
-	big now, but it sure
+	Es conveniente que
+	la base sea tan
+	grande ahora, ¡pero
 	"""
 	msgClear
 	"""
-	is easy to get lost!
+	también es fácil
+	perderse!
 	"""
 	end
 }
@@ -197,24 +199,25 @@ script 7 mmz3 {
 	mugshotShow
 		mugshot = 67
 	"""
-	Hey, Zero! You're
-	all right!
+	¡Hey, Zero! ¡Estás
+	bien!
 	"""
 	msgClear
 	"""
-	I heard the news.
+	Me enteré de la
+	noticia.
 	"""
 	msgClear
 	"""
-	Despite the new
-	energy, the world is
-	still not at peace.
+	A pesar de la nueva
+	energía, el mundo
+	aún no está en paz.
 	"""
 	msgClear
 	"""
-	I never thought
-	peace would be easy,
-	but still...
+	Nunca pensé que la
+	paz sería fácil,
+	pero aun así...
 	"""
 	msgClear
 	"""
@@ -222,18 +225,18 @@ script 7 mmz3 {
 	"""
 	msgClear
 	"""
-	Anyway, I just
-	finished a new
-	weapon for you.
+	En fin, acabo de
+	terminar un arma
+	nueva para ti.
 	"""
 	msgClear
 	"""
-	I also fixed your
+	¡También arreglé tu
 	S.Boomerang!
 	"""
 	msgClear
 	"""
-	Here, take it!
+	¡Toma, es tuya!
 	"""
 	end
 }
@@ -241,32 +244,42 @@ script 8 mmz3 {
 	mugshotShow
 		mugshot = 67
 	"""
-	Oh, one more thing.
-	About Secret Disks.
+	Oh, una cosa más.
+	Sobre los Discos
+	Secretos.
 	"""
 	msgClear
 	"""
-	Secret Disks contain
-	things that you
-	can't decode, right?
+	Los Discos Secretos
+	contienen cosas que
 	"""
 	msgClear
 	"""
-	Well, I can analyze
-	them for you, so
-	stop by anytime.
+	no puedes
+	decodificar,
+	¿cierto?
 	"""
 	msgClear
 	"""
-	You can also talk to
-	me if you ever want
-	to look at the
+	Bueno, yo puedo
+	analizarlos por ti,
 	"""
 	msgClear
 	"""
-	contents of a disk
-	we've already
-	analyzed.
+	así que ven cuando
+	quieras.
+	"""
+	msgClear
+	"""
+	También puedes hablar
+	conmigo si alguna vez
+	quieres ver el
+	"""
+	msgClear
+	"""
+	contenido de un
+	disco que ya
+	hayamos analizado.
 	"""
 	end
 }
@@ -274,19 +287,19 @@ script 9 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Mr. Zero...
+	Operadora: Sr. Zero...
 	"""
 	msgClear
 	"""
-	Please come to the
+	Por favor, vaya a
 	"""
 	msgClear
 	"""
-	commander's room,
+	la sala del comandante,
 	"""
 	msgClear
 	"""
-	immediately.
+	de inmediato.
 	"""
 	end
 }
@@ -294,8 +307,8 @@ script 10 mmz3 {
 	mugshotShow
 		mugshot = 67
 	"""
-	Hmm? Zero, they're
-	asking for you.
+	¿Hmm? Zero, te están
+	llamando.
 	"""
 	end
 }
@@ -303,9 +316,9 @@ script 11 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	This Recoil Rod
-	looks easy to use.
-	Thanks.
+	Este Recoil Rod
+	parece fácil de
+	usar. Gracias.
 	"""
 	end
 }
@@ -313,14 +326,14 @@ script 12 mmz3 {
 	mugshotShow
 		mugshot = 67
 	"""
-	The world is too
-	much for Ciel to
-	bear alone...
+	El mundo es demasiado
+	pesado para que Ciel
+	lo enfrente sola...
 	"""
 	msgClear
 	"""
-	Take good care of
-	her, Zero...
+	Cuida bien de ella,
+	Zero...
 	"""
 	end
 }
@@ -328,45 +341,50 @@ script 13 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Sorry this took so
-	long, Zero.
-	Are you ready?
+	Perdón por tardar
+	tanto, Zero.
+	¿Estás listo?
 	"""
 	msgClear
 	"""
-	We've simulated our
-	options based on the
-	information at hand.
+	Hemos simulado
+	nuestras opciones
 	"""
 	msgClear
 	"""
-	I've had the results
-	prepared in the form
-	of missions.
+	según la información
+	actual.
 	"""
 	msgClear
 	"""
-	The first two are...
+	Preparé los
+	resultados en forma
+	de misiones.
 	"""
 	msgClear
 	"""
-	Missions to prevent
-	Neo Arcadia getting
-	the Dark Elf.
+	Las dos primeras
+	son...
 	"""
 	msgClear
 	"""
-	The other two are...
+	Misiones para evitar
+	que Neo Arcadia
+	obtenga al Dark Elf.
 	"""
 	msgClear
 	"""
-	Guerilla attacks
-	on Neo Arcadia.
+	Las otras dos son...
 	"""
 	msgClear
 	"""
-	to protect everyone
-	from its threat.
+	Ataques de guerrilla
+	contra Neo Arcadia
+	"""
+	msgClear
+	"""
+	para proteger a
+	todos de su amenaza.
 	"""
 	msgClear
 	"""
@@ -378,25 +396,25 @@ script 13 mmz3 {
 	"""
 	msgClear
 	"""
-	Zero...is fighting
-	our only option?
+	Zero... ¿luchar es
+	nuestra única opción?
 	"""
 	msgClear
 	"""
-	I mean, we've
-	developed this new
-	energy...
+	Quiero decir, hemos
+	desarrollado esta
+	nueva energía...
 	"""
 	msgClear
 	"""
-	I thought the world
-	would finally be at
-	peace...
+	Pensé que el mundo
+	al fin estaría en
+	paz...
 	"""
 	msgClear
 	"""
-	Do we really have to
-	keep fighting?
+	¿De verdad tenemos
+	que seguir luchando?
 	"""
 	msgClear
 	mugshotShow
@@ -406,18 +424,17 @@ script 13 mmz3 {
 	"""
 	msgClear
 	"""
-	You're already doing
-	the best you can.
+	Ya estás haciendo
+	lo mejor que puedes.
 	"""
 	msgClear
 	"""
-	And you're not
-	alone.
+	Y no estás sola.
 	"""
 	msgClear
 	"""
-	Leave the rest to
-	us.
+	Deja el resto en
+	nuestras manos.
 	"""
 	msgClear
 	mugshotShow
@@ -429,9 +446,9 @@ script 13 mmz3 {
 	mugshotShow
 		mugshot = 98
 	"""
-	Mr. Zero, we're
-	ready. You can leave
-	at any time.
+	Sr. Zero, estamos
+	listos. Puede partir
+	en cualquier momento.
 	"""
 	end
 }
@@ -439,8 +456,8 @@ script 14 mmz3 {
 	mugshotShow
 		mugshot = 98
 	"""
-	Select a mission?
-	  YES
+	¿Elegir una misión?
+	  SÍ
 	  NO
 	"""
 	end
@@ -450,9 +467,8 @@ script 15 mmz3 {
 		mugshot = 98
 	msgTop
 	"""
-	Whenever you're
-	ready, just let me
-	know.
+	Cuando esté listo,
+	hágamelo saber.
 	"""
 	end
 }

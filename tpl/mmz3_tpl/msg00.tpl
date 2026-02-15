@@ -5,7 +5,7 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Who will you talk with?
+	¿Con quién hablarás?
 	  Operator
 	  Ciel
 	"""
@@ -15,9 +15,9 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	What do you need?
-	  Manage data
-	  Talk
+	¿Qué necesitas?
+	  Gestionar datos
+	  Hablar
 	"""
 	end
 }
@@ -25,9 +25,9 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	  Save data
-	  Load data
-	  Erase data
+	  Guardar datos
+	  Cargar datos
+	  Borrar datos
 	"""
 	end
 }
@@ -35,7 +35,7 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Save data where?
+	¿Dónde guardar?
 	"""
 	end
 }
@@ -43,8 +43,8 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	 : OK to overwrite?
-	  YES
+	 : ¿Sobrescribir?
+	  SÍ
 	  NO
 	"""
 	end
@@ -53,7 +53,7 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Load which data?
+	¿Qué datos cargar?
 	"""
 	end
 }
@@ -61,8 +61,8 @@ script 6 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	 : OK to load?
-	  YES
+	 : ¿Cargar?
+	  SÍ
 	  NO
 	"""
 	end
@@ -71,7 +71,7 @@ script 7 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Erase which data?
+	¿Qué datos borrar?
 	"""
 	end
 }
@@ -79,8 +79,8 @@ script 8 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	 : OK to erase?
-	  YES
+	 : ¿Borrar?
+	  SÍ
 	  NO
 	"""
 	end
@@ -89,7 +89,7 @@ script 9 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Data saved.
+	Datos guardados.
 	"""
 	end
 }
@@ -97,7 +97,7 @@ script 10 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Data loaded.
+	Datos cargados.
 	"""
 	end
 }
@@ -105,7 +105,7 @@ script 11 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Data erased.
+	Datos borrados.
 	"""
 	end
 }
@@ -114,9 +114,9 @@ script 15 mmz3 {
 		mugshot = 98
 	msgTop
 	"""
-	Your orders, please.
-	  Select mission
-	  Transfer back
+	Órdenes, por favor.
+	  Elegir misión
+	  Trans. de vuelta
 	"""
 	end
 }
@@ -125,8 +125,8 @@ script 16 mmz3 {
 		mugshot = 98
 	msgTop
 	"""
-	Displaying the
-	available missions:
+	Mostrando misiones
+	disponibles:
 	"""
 	end
 }
@@ -135,9 +135,8 @@ script 17 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	All right, let's
-	look at something
-	else.
+	Bien, revisemos
+	otra opción.
 	"""
 	end
 }
@@ -146,9 +145,14 @@ script 18 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	These are the only
-	available missions.
-	Return when ready.
+	Estas son las
+	únicas misiones
+	disponibles.
+	"""
+	msgClear
+	"""
+	Regresa cuando
+	estés listo.
 	"""
 	end
 }
@@ -163,18 +167,18 @@ script 20 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	The Neo Arcadian
-	army is building up
-	at the base in Aegis
+	El ejército de
+	Neo Arcadia se está
+	reuniendo en la base
 	"""
 	msgClear
 	"""
-	Volcano.
+	de Aegis Volcano.
 	"""
 	msgClear
 	"""
-	We do not know what
-	their intention is.
+	No sabemos cuáles
+	son sus intenciones.
 	"""
 	end
 }
@@ -183,8 +187,8 @@ script 21 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Do some scouting?
-	  YES
+	¿Explorar la zona?
+	  SÍ
 	  NO
 	"""
 	end
@@ -194,44 +198,43 @@ script 22 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	We've verified a
-	reading similar to
-	the Dark Elf on the
+	Hemos detectado
+	una señal similar
+	al Dark Elf en las
 	"""
 	msgClear
 	"""
-	ruins of an inter-
-	continental oceanic
-	highway...
+	ruinas de una
+	autopista oceánica
+	intercontinental...
 	"""
 	msgClear
 	"""
-	We have verified
-	that Neo Arcadia
-	is pursuing this.
+	También confirmamos
+	que Neo Arcadia la
+	está siguiendo.
 	"""
 	msgClear
 	"""
-	We believe it will
-	take some time for
-	them to reach the
+	Creemos que tardarán
+	un tiempo en llegar
+	al origen de esta
 	"""
 	msgClear
 	"""
-	source of this
-	reading.
+	señal.
 	"""
 	msgClear
 	"""
-	If possible, you
-	should verify
-	this signal,
+	Si es posible,
+	deberías verificar
+	esta señal,
 	"""
 	msgClear
 	"""
-	and if it is indeed
-	the Dark Elf,
-	protect it.
+	y si realmente se
+	trata del Dark Elf,
+	protégelo.
 	"""
 	end
 }
@@ -240,8 +243,8 @@ script 23 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Do you accept?
-	  YES
+	¿Aceptas?
+	  SÍ
 	  NO
 	"""
 	end
@@ -251,33 +254,33 @@ script 24 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	We have discovered a
-	Neo Arcadian weapons
-	factory.
+	Hemos descubierto
+	una fábrica de armas
+	de Neo Arcadia.
 	"""
 	msgClear
 	"""
-	They are fixing and
-	refitting broken
-	weaponry.
+	Están reparando y
+	reacondicionando
+	armas dañadas.
 	"""
 	msgClear
 	"""
-	It seems this is
-	more efficient than
-	making new ones.
+	Parece más eficiente
+	que fabricar
+	armas nuevas.
 	"""
 	msgClear
 	"""
-	They have doubled
-	weapon production
-	recently.
+	Han duplicado su
+	producción de armas
+	recientemente
 	"""
 	msgClear
 	"""
-	Destroy this factory
-	to cut Neo Arcadia's
-	military power.
+	Destruye la fábrica
+	para debilitar su
+	poder militar.
 	"""
 	end
 }
@@ -286,8 +289,8 @@ script 25 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Do you accept?
-	  YES
+	¿Aceptas?
+	  SÍ
 	  NO
 	"""
 	end
@@ -297,32 +300,32 @@ script 26 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	This was a resi-
-	dential area where
-	humans once lived.
+	Esta era un área
+	residencial donde
+	vivían humanos.
 	"""
 	msgClear
 	"""
-	We sent some people
-	to investigate...
+	Enviamos gente a
+	investigar...
 	"""
 	msgClear
 	"""
-	And received news
-	that Dark Elf may
-	have been seen.
+	Y recibimos noticias
+	de que Dark Elf fue
+	visto allí.
 	"""
 	msgClear
 	"""
-	For some reason, we
-	are unable to scan
-	this area.
+	Por alguna razón,
+	no podemos escanear
+	esta área.
 	"""
 	msgClear
 	"""
-	We would like you to
-	go there to investi-
-	gate first-hand.
+	Queremos que vayas
+	allí para investi-
+	gar en persona.
 	"""
 	end
 }
@@ -331,8 +334,8 @@ script 27 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Can you investigate?
-	  YES
+	¿Puedes investigar?
+	  SÍ
 	  NO
 	"""
 	end
@@ -342,19 +345,20 @@ script 28 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	We have detected
-	Neo Arcadian units
-	moving through the
+	Hemos detectado
+	unidades de Neo
+	Arcadia moviéndose
 	"""
 	msgClear
 	"""
-	southern desert.
+	por el desierto
+	del sur.
 	"""
 	msgClear
 	"""
-	These forces must be
-	intercepted as
-	soon as possible.
+	Debemos intercep-
+	tarlas lo antes
+	posible.
 	"""
 	end
 }
@@ -363,8 +367,8 @@ script 29 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Can you intercept?
-	  YES
+	¿Puedes detenerlos?
+	  SÍ
 	  NO
 	"""
 	end
@@ -374,19 +378,20 @@ script 30 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	We have detected
-	Neo Arcadian units
-	moving through the
+	Hemos detectado
+	unidades de Neo
+	Arcadia moviéndose
 	"""
 	msgClear
 	"""
-	Forest of Anatre...
+	por el Bosque de
+	Anatre...
 	"""
 	msgClear
 	"""
-	These forces must be
-	intercepted as
-	soon as possible.
+	Estas fuerzas deben
+	ser interceptadas
+	cuanto antes.
 	"""
 	end
 }
@@ -395,8 +400,8 @@ script 31 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Can you intercept?
-	  YES
+	¿Puedes detenerlos?
+	  SÍ
 	  NO
 	"""
 	end
@@ -406,25 +411,26 @@ script 32 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	We have detected
-	Neo Arcadian units
-	moving through the
+	Hemos detectado
+	unidades de Neo
+	Arcadia moviéndose
 	"""
 	msgClear
 	"""
-	northern tundra...
+	por la tundra del
+	norte...
 	"""
 	msgClear
 	"""
-	The enemy is
-	constructing a
-	frontline base.
+	El enemigo está
+	construyendo una
+	base en el frente.
 	"""
 	msgClear
 	"""
-	There seems to be a
-	reasonable amount of
-	time left to act.
+	Parece que aún
+	tenemos bastante
+	tiempo para actuar.
 	"""
 	end
 }
@@ -433,8 +439,8 @@ script 33 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Can you intercept?
-	  YES
+	¿Puedes detenerlos?
+	  SÍ
 	  NO
 	"""
 	end
@@ -444,39 +450,45 @@ script 34 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	We have analyzed the
-	enemy's movements...
+	Hemos analizado los
+	movimientos del
+	enemigo...
 	"""
 	msgClear
 	"""
-	As a result, we have
-	succeeded in
-	determining the
+	Como resultado,
+	hemos logrado
+	determinar la
 	"""
 	msgClear
 	"""
-	location of the Neo
-	Arcadian HQ.
+	ubicación del
+	cuartel general
+	de Neo Arcadia.
 	"""
 	msgClear
 	"""
-	It seems that Copy X
-	and Weil are
-	commanding the
+	Parece que Copy X
+	y Weil están
+	dirigiendo a
 	"""
 	msgClear
 	"""
-	entire army from
-	this base.
+	todo el ejército
+	desde esta base.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	msgBottom
 	"""
-	If you strike here,
-	you may be able to
-	stop Neo Arcadia.
+	Si atacas aquí,
+	podrías ser capaz
+	de detener a
+	"""
+	msgClear
+	"""
+	Neo Arcadia.
 	"""
 	end
 }
@@ -485,8 +497,8 @@ script 35 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	Are you ready?
-	  YES
+	¿Estás listo?
+	  SÍ
 	  NO
 	"""
 	end
@@ -496,34 +508,34 @@ script 36 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	This is a Neo
-	Arcadian energy
-	plant. It is
+	Esta es una planta
+	de energía de Neo
+	Arcadia. Está
 	"""
 	msgClear
 	"""
-	currently shut.
+	actualmente cerrada.
 	"""
 	msgClear
 	"""
-	What is so important
-	that they had to
-	shut down the plant
+	¿Qué es tan
+	importante para
+	cerrar la planta
 	"""
 	msgClear
 	"""
-	in the middle of an
-	energy crisis?
+	en plena crisis
+	energética?
 	"""
 	msgClear
 	"""
-	The place was shut
-	down around the time
-	Weil appeared, so it
+	Fue cerrada cuando
+	apareció Weil, así
+	que merece
 	"""
 	msgClear
 	"""
-	bears investigation.
+	ser investigada.
 	"""
 	end
 }
@@ -532,8 +544,8 @@ script 37 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Can you investigate?
-	  YES
+	¿Puedes investigar?
+	  SÍ
 	  NO
 	"""
 	end
@@ -543,37 +555,39 @@ script 38 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	Containers have
-	fallen out of a
-	space ship,
+	Unos contenedores
+	cayeron de una
+	nave espacial,
 	"""
 	msgClear
 	"""
-	which fell onto
-	snowy plains.
+	y terminaron en
+	las llanuras
+	nevadas.
 	"""
 	msgClear
 	"""
-	It is possible that
-	they contain data
-	about Omega or Weil.
+	Es posible que
+	contengan datos
+	sobre Omega o Weil.
 	"""
 	msgClear
 	"""
-	We sent a scouting
-	party, but the
-	Neo Arcadian forces
+	Enviamos un grupo
+	de exploración,
+	pero las fuerzas de
 	"""
 	msgClear
 	"""
-	are too strong, and
-	they cannot pass.
+	Neo Arcadia son
+	demasiado fuertes,
+	y no pueden pasar.
 	"""
 	msgClear
 	"""
-	We would like you to
-	reinforce them, and
-	retrieve the data.
+	Queremos que los
+	refuerces y recuperes
+	los datos.
 	"""
 	end
 }
@@ -582,8 +596,8 @@ script 39 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Do you accept?
-	  YES
+	¿Aceptas?
+	  SÍ
 	  NO
 	"""
 	end
@@ -593,25 +607,26 @@ script 40 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	The ruins of an
-	ancient library have
-	been found.
+	Se han encontrado
+	las ruinas de una
+	biblioteca antigua.
 	"""
 	msgClear
 	"""
-	It's completely
-	soaked inside, but
-	there may still be
+	Está completamente
+	inundada por dentro,
+	pero aún podría
 	"""
 	msgClear
 	"""
-	some data around.
+	haber algunos
+	datos allí.
 	"""
 	msgClear
 	"""
-	We'd like you to
-	search for data on
-	Weil or Omega.
+	Queremos que
+	busques datos
+	sobre Weil u Omega.
 	"""
 	end
 }
@@ -620,8 +635,8 @@ script 41 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Do you accept?
-	  YES
+	¿Aceptas?
+	  SÍ
 	  NO
 	"""
 	end
@@ -631,20 +646,20 @@ script 42 mmz3 {
 		mugshot = 97
 	msgBottom
 	"""
-	Neo Arcadia has
-	completed a giant
-	elevator.
+	Neo Arcadia ha
+	completado un
+	elevador gigante.
 	"""
 	msgClear
 	"""
-	We do not know its
-	purpose.
+	No conocemos su
+	propósito.
 	"""
 	msgClear
 	"""
-	They are bringing
-	something up from
-	deep underground.
+	Están trayendo algo
+	desde muy profundo
+	bajo tierra.
 	"""
 	end
 }
@@ -653,8 +668,8 @@ script 43 mmz3 {
 		mugshot = 98
 	msgBottom
 	"""
-	Can you investigate?
-	  YES
+	¿Puedes investigar?
+	  SÍ
 	  NO
 	"""
 	end
@@ -663,13 +678,13 @@ script 44 mmz3 {
 	mugshotShow
 		mugshot = 97
 	"""
-	Commencing transfer
-	to the coordinates
-	obtained from
+	Iniciando transfe-
+	rencia a las coor-
+	denadas obtenidas
 	"""
 	msgClear
 	"""
-	Original X.
+	de X original.
 	"""
 	msgClear
 	mugshotShow
@@ -679,7 +694,8 @@ script 44 mmz3 {
 	"""
 	msgClear
 	"""
-	Please be careful.
+	Por favor, ten
+	cuidado.
 	"""
 	end
 }
@@ -687,8 +703,8 @@ script 45 mmz3 {
 	mugshotShow
 		mugshot = 98
 	"""
-	Are you ready?
-	  YES
+	¿Estás listo?
+	  SÍ
 	  NO
 	"""
 	end
@@ -697,7 +713,7 @@ script 50 mmz3 {
 	mugshotShow
 		mugshot = 98
 	"""
-	Where to transfer?
+	¿A dónde transferir?
 	"""
 	end
 }
@@ -711,7 +727,7 @@ script 51 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -726,7 +742,7 @@ script 52 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -741,7 +757,7 @@ script 53 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -756,7 +772,7 @@ script 54 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -771,7 +787,7 @@ script 55 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -786,7 +802,7 @@ script 56 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -801,7 +817,7 @@ script 57 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -816,7 +832,7 @@ script 58 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -831,7 +847,7 @@ script 59 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -846,7 +862,7 @@ script 60 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -861,7 +877,7 @@ script 61 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -876,7 +892,7 @@ script 62 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -891,7 +907,7 @@ script 63 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -906,7 +922,7 @@ script 64 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -921,7 +937,7 @@ script 65 mmz3 {
 	textColorWhite
 	"""
 	?
-	  YES
+	  SÍ
 	  NO
 	"""
 	end
@@ -930,9 +946,9 @@ script 70 mmz3 {
 	mugshotShow
 		mugshot = 97
 	"""
-	Mission assigned...
-	All personnel,
-	prepare to transfer.
+	Misión asignada...
+	Todos, prepárense
+	para el traslado.
 	"""
 	end
 }
@@ -940,8 +956,8 @@ script 71 mmz3 {
 	mugshotShow
 		mugshot = 98
 	"""
-	Preparations for
-	transfer complete.
+	Preparativos para
+	el traslado listos.
 	"""
 	end
 }
@@ -949,7 +965,8 @@ script 72 mmz3 {
 	mugshotShow
 		mugshot = 97
 	"""
-	Transfer!
+	¡Iniciando
+	transferencia!
 	"""
 	end
 }
@@ -957,7 +974,7 @@ script 74 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero... Be careful.
+	Zero... Ten cuidado.
 	"""
 	end
 }
@@ -977,8 +994,8 @@ script 76 mmz3 {
 	"""
 	msgClear
 	"""
-	Come back safely...
-	Okay?
+	Vuelve sano y
+	salvo... ¿sí?
 	"""
 	end
 }
@@ -986,8 +1003,8 @@ script 77 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Don't do anything
-	dangerous, Zero...
+	No hagas nada
+	peligroso, Zero...
 	"""
 	end
 }
@@ -999,7 +1016,8 @@ script 78 mmz3 {
 	"""
 	msgClear
 	"""
-	Come back safely...
+	Vuelve sano y
+	salvo...
 	"""
 	end
 }
@@ -1007,7 +1025,7 @@ script 79 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zerrroooo!
+	¡Zerrroooo!
 	"""
 	end
 }
@@ -1417,9 +1435,9 @@ script 102 mmz3 {
 	mugshotShow
 		mugshot = 67
 	"""
-	What will it be?
-	  Secret Disk
-	  Talk
+	¿Qué será?
+	  Disco Secreto
+	  Hablar
 	"""
 	end
 }
@@ -1427,7 +1445,8 @@ script 103 mmz3 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Boot completed.
+	Arranque
+	completado.
 	"""
 	end
 }

@@ -3,44 +3,44 @@
 
 script 0 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	printCodeName
 	textColorWhite
 	msgClear
 	"""
-	Secret Disk!
+	Disco Secreto!
 	"""
 	end
 }
 script 1 mmz3 {
 	textColorRed
 	"""
-	You cannot analyze this
+	No puedes analizar este
 	"""
 	textColorWhite
 	msgClear
 	textColorRed
 	"""
-	disk here.
+	disco aquí.
 	"""
 	textColorWhite
 	end
 }
 script 2 mmz3 {
 	"""
-	You got a Sub Tank!
+	¡Obtuviste un Sub Tank!
 	"""
 	end
 }
 script 3 mmz3 {
 	"""
-	The Cyber-elf converted to
+	El Cyber-elf se convirtió
 	"""
 	msgClear
 	"""
-	a Sub Tank!
+	en un Sub Tank!
 	"""
 	end
 }
@@ -541,7 +541,7 @@ script 30 mmz3 {
 }
 script 31 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -555,7 +555,7 @@ script 31 mmz3 {
 }
 script 32 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -569,7 +569,7 @@ script 32 mmz3 {
 }
 script 33 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -577,17 +577,17 @@ script 33 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 34 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -595,17 +595,17 @@ script 34 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 35 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -613,17 +613,17 @@ script 35 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 36 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -631,17 +631,17 @@ script 36 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 37 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -649,17 +649,17 @@ script 37 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 38 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -667,17 +667,17 @@ script 38 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 39 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -685,17 +685,17 @@ script 39 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 40 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -703,17 +703,17 @@ script 40 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 41 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -721,17 +721,17 @@ script 41 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 42 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -739,17 +739,17 @@ script 42 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 43 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -757,17 +757,17 @@ script 43 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 44 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -775,17 +775,17 @@ script 44 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 45 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -793,17 +793,17 @@ script 45 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 46 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -811,17 +811,17 @@ script 46 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 47 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -829,17 +829,17 @@ script 47 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 48 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -847,17 +847,17 @@ script 48 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 49 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -865,17 +865,17 @@ script 49 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 50 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -883,17 +883,17 @@ script 50 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 51 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -901,17 +901,17 @@ script 51 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 52 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -919,17 +919,17 @@ script 52 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 53 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -937,17 +937,17 @@ script 53 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 54 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -955,17 +955,17 @@ script 54 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 55 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -973,17 +973,17 @@ script 55 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 56 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -991,17 +991,17 @@ script 56 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 57 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1009,17 +1009,17 @@ script 57 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 58 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1027,17 +1027,17 @@ script 58 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 59 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1045,17 +1045,17 @@ script 59 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 60 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1063,17 +1063,17 @@ script 60 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 61 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1081,17 +1081,17 @@ script 61 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 62 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1099,17 +1099,17 @@ script 62 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 63 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1117,17 +1117,17 @@ script 63 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 64 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1135,17 +1135,17 @@ script 64 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 65 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1153,17 +1153,17 @@ script 65 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 66 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1171,17 +1171,17 @@ script 66 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 67 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1189,17 +1189,17 @@ script 67 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 68 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1207,17 +1207,17 @@ script 68 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 69 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1225,17 +1225,17 @@ script 69 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 70 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1243,17 +1243,17 @@ script 70 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 71 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1261,17 +1261,17 @@ script 71 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 72 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1279,17 +1279,17 @@ script 72 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 73 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1297,17 +1297,17 @@ script 73 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 74 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1315,17 +1315,17 @@ script 74 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 75 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1333,17 +1333,17 @@ script 75 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 76 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1351,17 +1351,17 @@ script 76 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 77 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1369,17 +1369,17 @@ script 77 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 78 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1387,17 +1387,17 @@ script 78 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 79 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1405,17 +1405,17 @@ script 79 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 80 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1423,17 +1423,17 @@ script 80 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 81 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1441,17 +1441,17 @@ script 81 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 82 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1459,17 +1459,17 @@ script 82 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 83 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1477,17 +1477,17 @@ script 83 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 84 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1495,17 +1495,17 @@ script 84 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 85 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1513,17 +1513,17 @@ script 85 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 86 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1531,17 +1531,17 @@ script 86 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 87 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1549,17 +1549,17 @@ script 87 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 88 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1567,17 +1567,17 @@ script 88 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 89 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1585,17 +1585,17 @@ script 89 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 90 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1603,17 +1603,17 @@ script 90 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 91 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1621,17 +1621,17 @@ script 91 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 92 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1639,17 +1639,17 @@ script 92 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 93 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1657,17 +1657,17 @@ script 93 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 94 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1675,17 +1675,17 @@ script 94 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 95 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1693,17 +1693,17 @@ script 95 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 96 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1711,17 +1711,17 @@ script 96 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 97 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1729,17 +1729,17 @@ script 97 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 98 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1747,17 +1747,17 @@ script 98 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 99 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1765,17 +1765,17 @@ script 99 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 100 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1783,17 +1783,17 @@ script 100 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 101 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1801,17 +1801,17 @@ script 101 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 102 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1819,17 +1819,17 @@ script 102 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 103 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1837,17 +1837,17 @@ script 103 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 104 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1855,17 +1855,17 @@ script 104 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 105 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1873,17 +1873,17 @@ script 105 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 106 mmz3 {
 	"""
-	Cyber-elf 
+	¡Cyber-elf 
 	"""
 	textColorRed
 	"""
@@ -1891,17 +1891,17 @@ script 106 mmz3 {
 	"""
 	textColorWhite
 	"""
-	 was
+	 estaba
 	"""
 	msgClear
 	"""
-	inside!
+	dentro!
 	"""
 	end
 }
 script 107 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -1915,7 +1915,7 @@ script 107 mmz3 {
 }
 script 108 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -1929,7 +1929,7 @@ script 108 mmz3 {
 }
 script 109 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -1943,7 +1943,7 @@ script 109 mmz3 {
 }
 script 110 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -1957,7 +1957,7 @@ script 110 mmz3 {
 }
 script 111 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -1971,7 +1971,7 @@ script 111 mmz3 {
 }
 script 112 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -1985,7 +1985,7 @@ script 112 mmz3 {
 }
 script 113 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -1999,7 +1999,7 @@ script 113 mmz3 {
 }
 script 114 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -2013,7 +2013,7 @@ script 114 mmz3 {
 }
 script 115 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -2027,7 +2027,7 @@ script 115 mmz3 {
 }
 script 116 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -2041,7 +2041,7 @@ script 116 mmz3 {
 }
 script 117 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -2055,7 +2055,7 @@ script 117 mmz3 {
 }
 script 118 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -2069,7 +2069,7 @@ script 118 mmz3 {
 }
 script 119 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -2083,7 +2083,7 @@ script 119 mmz3 {
 }
 script 120 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -2097,7 +2097,7 @@ script 120 mmz3 {
 }
 script 121 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -2111,7 +2111,7 @@ script 121 mmz3 {
 }
 script 122 mmz3 {
 	"""
-	You got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""

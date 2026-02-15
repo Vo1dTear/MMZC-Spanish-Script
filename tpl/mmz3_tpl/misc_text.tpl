@@ -9,13 +9,13 @@ script 0 mmz3 {
 }
 script 1 mmz3 {
 	"""
-	NO DATA
+	SIN DATOS
 	"""
 	end
 }
 script 2 mmz3 {
 	"""
-	CANCEL
+	CANCELAR
 	"""
 	end
 }
@@ -337,103 +337,103 @@ script 61 mmz3 {
 }
 script 63 mmz3 {
 	"""
-	AREA: AEGIS VOLCANO BASE
-	BOSS: BLAZIN' FLIZARD
-	MISSION: N.A. ARMY RECON
+	ÁREA: AEGIS VOLCANO BASE
+	JEFE: BLAZIN' FLIZARD
+	MISIÓN: REC. EJÉRC. N.A.
 	"""
 	end
 }
 script 64 mmz3 {
 	"""
-	AREA: OCEANIC HWY RUINS
-	BOSS: CHILDRE INARABITTA
-	MISSION: TRACK D.E. SIGNAL
+	ÁREA: OCEANIC HWY RUINS
+	JEFE: CHILDRE INARABITTA
+	MISIÓN: RASTREAR SEÑAL D.E.
 	"""
 	end
 }
 script 65 mmz3 {
 	"""
-	AREA: W.R. FACTORY
-	BOSS: DEVILBAT SCHILT
-	MISSION: DESTROY FACTORY
+	ÁREA: W.R. FACTORY
+	JEFE: DEVILBAT SCHILT
+	MISIÓN: DESTRUIR FÁBRICA
 	"""
 	end
 }
 script 66 mmz3 {
 	"""
-	AREA: OLD RESIDENTIAL
-	BOSS: DEATHTANZ MANTISK
-	MISSION: FIND DARK ELF
+	ÁREA: OLD RESIDENTIAL
+	JEFE: DEATHTANZ MANTISK
+	MISIÓN: BUSCAR DARK ELF
 	"""
 	end
 }
 script 67 mmz3 {
 	"""
-	AREA: TWILIGHT DESERT
-	BOSS: ANUBIS NECROMANCESS V
-	MISSION: ENGAGE N.A. ARMY
+	ÁREA: TWILIGHT DESERT
+	JEFE: ANUBIS NECROMANCESS V
+	MISIÓN: COMBATIR EJÉR. N.A.
 	"""
 	end
 }
 script 68 mmz3 {
 	"""
-	AREA: FOREST OF ANATRE
-	BOSS: HANUMACHINE R
-	MISSION: ENGAGE N.A. ARMY
+	ÁREA: FOREST OF ANATRE
+	JEFE: HANUMACHINE R
+	MISIÓN: COMBATIR EJÉR. N.A.
 	"""
 	end
 }
 script 69 mmz3 {
 	"""
-	AREA: FRONTLINE ICE BASE
-	BOSS: BLIZZACK STAGGROFF R
-	MISSION: ENGAGE N.A. ARMY
+	ÁREA: FRONTLINE ICE BASE
+	JEFE: BLIZZACK STAGGROFF R
+	MISIÓN: COMBATIR EJÉR. N.A.
 	"""
 	end
 }
 script 70 mmz3 {
 	"""
-	AREA: AREA X-2
-	BOSS: COPY X MARK II
-	MISSION: INFILTRATE N.A.
+	ÁREA: AREA X-2
+	JEFE: COPY X MARK II
+	MISIÓN: INFILTRAR N.A.
 	"""
 	end
 }
 script 71 mmz3 {
 	"""
-	AREA: ENERGY FACILITY
-	BOSS: CUBIT FOXTAR
-	MISSION: SEARCH FACILITY
+	ÁREA: ENERGY FACILITY
+	JEFE: CUBIT FOXTAR
+	MISIÓN: REGISTRAR INSTAL.
 	"""
 	end
 }
 script 72 mmz3 {
 	"""
-	AREA: SNOWY PLAINS
-	BOSS: GLACIER LE CACTANK
-	MISSION: RETRIEVE DATA
+	ÁREA: SNOWY PLAINS
+	JEFE: GLACIER LE CACTANK
+	MISIÓN: RECUPERAR DATOS
 	"""
 	end
 }
 script 73 mmz3 {
 	"""
-	AREA: SUNKEN LIBRARY
-	BOSS: VOLTEEL BIBLIO
-	MISSION: RETRIEVE DATA FILE
+	ÁREA: SUNKEN LIBRARY
+	JEFE: VOLTEEL BIBLIO
+	MISIÓN: RECUPERAR ARCHIVO
 	"""
 	end
 }
 script 74 mmz3 {
 	"""
-	AREA: GIANT ELEVATOR
-	BOSS: TRETISTA KELVERIAN
-	MISSION: SEARCH FACILITY
+	ÁREA: GIANT ELEVATOR
+	JEFE: TRETISTA KELVERIAN
+	MISIÓN: REGISTRAR INSTAL.
 	"""
 	end
 }
 script 75 mmz3 {
 	"""
-	Mission already completed.
+	Misión ya completada.
 	"""
 	end
 }
@@ -5492,17 +5492,17 @@ script 1095 mmz3 {
 }
 script 1096 mmz3 {
 	"""
-	Exit game & return to
-	the title screen.Game
-	progress will be lost.
+	Salir del juego y volver
+	a la pantalla de título.
+	El progreso se perderá.
 	"""
 	end
 }
 script 1097 mmz3 {
 	"""
-	Exit to main title
-	screen.Unsaved game
-	progress will be lost.
+	Salir a la pantalla
+	principal. El progreso
+	no guardado se perderá.
 	"""
 	end
 }
