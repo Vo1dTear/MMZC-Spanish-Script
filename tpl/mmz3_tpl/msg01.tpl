@@ -46,11 +46,11 @@ script 3 mmz3 {
 }
 script 10 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -62,7 +62,7 @@ script 10 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -76,11 +76,11 @@ script 10 mmz3 {
 }
 script 11 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -92,7 +92,7 @@ script 11 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -106,11 +106,11 @@ script 11 mmz3 {
 }
 script 12 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -122,7 +122,7 @@ script 12 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -136,11 +136,11 @@ script 12 mmz3 {
 }
 script 13 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -152,7 +152,7 @@ script 13 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -166,11 +166,11 @@ script 13 mmz3 {
 }
 script 14 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -182,7 +182,7 @@ script 14 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -196,11 +196,11 @@ script 14 mmz3 {
 }
 script 15 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -212,7 +212,7 @@ script 15 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -226,11 +226,11 @@ script 15 mmz3 {
 }
 script 16 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -242,7 +242,7 @@ script 16 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -256,11 +256,11 @@ script 16 mmz3 {
 }
 script 17 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -272,7 +272,7 @@ script 17 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -286,11 +286,11 @@ script 17 mmz3 {
 }
 script 18 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -302,7 +302,7 @@ script 18 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -316,11 +316,11 @@ script 18 mmz3 {
 }
 script 19 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -332,7 +332,7 @@ script 19 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -346,11 +346,11 @@ script 19 mmz3 {
 }
 script 20 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -362,7 +362,7 @@ script 20 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -376,11 +376,11 @@ script 20 mmz3 {
 }
 script 21 mmz3 {
 	"""
-	You captured the EX skill
+	¡Capturaste la EX skill
 	"""
 	msgClear
 	"""
-	of 
+	de 
 	"""
 	textColorRed
 	"""
@@ -392,7 +392,7 @@ script 21 mmz3 {
 	"""
 	msgClear
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -406,7 +406,7 @@ script 21 mmz3 {
 }
 script 22 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -421,7 +421,7 @@ script 22 mmz3 {
 }
 script 23 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -436,7 +436,7 @@ script 23 mmz3 {
 }
 script 24 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -451,7 +451,7 @@ script 24 mmz3 {
 }
 script 25 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -466,7 +466,7 @@ script 25 mmz3 {
 }
 script 26 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -481,7 +481,7 @@ script 26 mmz3 {
 }
 script 27 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -496,7 +496,7 @@ script 27 mmz3 {
 }
 script 28 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -511,7 +511,7 @@ script 28 mmz3 {
 }
 script 29 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -526,7 +526,7 @@ script 29 mmz3 {
 }
 script 30 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -2125,7 +2125,7 @@ script 122 mmz3 {
 }
 script 123 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -2140,7 +2140,7 @@ script 123 mmz3 {
 }
 script 124 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -2155,7 +2155,7 @@ script 124 mmz3 {
 }
 script 125 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -2170,7 +2170,7 @@ script 125 mmz3 {
 }
 script 126 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -2185,7 +2185,7 @@ script 126 mmz3 {
 }
 script 127 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""
@@ -2200,7 +2200,7 @@ script 127 mmz3 {
 }
 script 128 mmz3 {
 	"""
-	You got the 
+	¡Obtuviste el 
 	"""
 	textColorRed
 	"""

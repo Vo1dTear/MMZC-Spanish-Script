@@ -6,15 +6,16 @@ script 0 mmz3 {
 		mugshot = 100
 	"""
 	Ciel:
-	Zero! We've just
-	got a reading!
+	¡Zero! ¡Acabamos de
+	obtener una lectura!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Dark Elf detected.
-	Beginning pursuit.
+	Dark Elf detectado.
+	Iniciando
+	persecución.
 	"""
 	end
 }
@@ -22,18 +23,19 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 9
 	"""
-	Who the heck're you?
+	¿Y tú quién
+	demonios eres?
 	"""
 	msgClear
 	"""
-	Heh, you must be
-	after that Dark Elf,
-	too. Am I right?
+	Je, así que tú
+	también vas tras
+	ese Dark Elf, ¿no?
 	"""
 	msgClear
 	"""
-	You'll have to get
-	past me, first!
+	¡Primero tendrás
+	que pasar por mí!
 	"""
 	end
 }
@@ -41,23 +43,23 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: Can you hear me,
+	Ciel: ¿Puedes oírme?
 	"""
 	msgClear
 	"""
-	Zero?! There's a switch
+	¡Zero! Hay un interruptor
 	"""
 	msgClear
 	"""
-	up ahead that lowers the
+	más adelante que baja
 	"""
 	msgClear
 	"""
-	ocean's water level. Hit
+	el nivel del océano.
 	"""
 	msgClear
 	"""
-	it and slow the mech down!
+	¡Actívalo y frena al mecha!
 	"""
 	end
 }
@@ -73,7 +75,7 @@ script 8 mmz3 {
 		mugshot = 4
 	msgBottom
 	"""
-	Dark Elf!
+	¡Dark Elf!
 	"""
 	end
 }
@@ -82,7 +84,7 @@ script 9 mmz3 {
 		mugshot = 57
 	msgBottom
 	"""
-	Stoooooop iiiiiit!
+	¡Detééééénloooo!
 	"""
 	end
 }
@@ -100,9 +102,9 @@ script 11 mmz3 {
 		mugshot = 4
 	msgBottom
 	"""
-	I'll have to take
-	care of this guy
-	first...
+	Tendré que ocuparme
+	de este tipo
+	primero...
 	"""
 	end
 }
@@ -110,25 +112,31 @@ script 12 mmz3 {
 	mugshotShow
 		mugshot = 9
 	"""
-	What a pain you are!
+	¡Qué fastidio
+	eres!
 	"""
 	msgClear
 	"""
-	I thought you'd be
-	easier to scare off
-	than that!
+	¡Pensé que sería
+	más fácil
+	asustarte!
 	"""
 	msgClear
 	"""
-	No more games. I'm
+	Se acabaron los
+	juegos. ¡Soy
 	Childre Inarabitta,
-	of Weil's Numbers!
 	"""
 	msgClear
 	"""
-	I'll see that smug
-	face of yours
-	frozen with fear!
+	de los Numbers
+	de Weil!
+	"""
+	msgClear
+	"""
+	¡Haré que esa cara
+	tuya tan confiada se
+	congele de terror!
 	"""
 	end
 }
@@ -136,13 +144,13 @@ script 13 mmz3 {
 	mugshotShow
 		mugshot = 8
 	"""
-	You're shark food,
-	now!
+	¡Ahora eres comida
+	para tiburones!
 	"""
 	msgClear
 	"""
-	Now, time to go
-	after that Dark Elf!
+	¡Es hora de ir
+	por ese Dark Elf!
 	"""
 	end
 }
@@ -150,12 +158,13 @@ script 14 mmz3 {
 	mugshotShow
 		mugshot = 8
 	"""
-	You're kidding me...
+	No puede ser...
 	"""
 	msgClear
 	"""
-	Why is this...
-	happening...to me?!
+	¡¿Por qué esto...
+	me está pasando...
+	a mí?!
 	"""
 	end
 }

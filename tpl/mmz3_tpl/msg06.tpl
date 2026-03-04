@@ -5,20 +5,28 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 100
 	"""
-	Operator:
-	Ahead is the factory
-	control unit.
+	Operadora:
+	Adelante está la
+	unidad de control
 	"""
 	msgClear
 	"""
-	Data from cameras
-	in the factory is
-	sent to this unit.
+	de la fábrica.
 	"""
 	msgClear
 	"""
-	Destroy the cameras
-	as you proceed.
+	Los datos de las
+	cámaras de la
+	fábrica se envían
+	"""
+	msgClear
+	"""
+	a esta unidad.
+	"""
+	msgClear
+	"""
+	Destruye las cámaras
+	mientras avanzas.
 	"""
 	end
 }
@@ -26,36 +34,42 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Well, if it isn't
-	the legendary hero.
+	Vaya, si no es
+	el héroe legendario.
 	"""
 	msgClear
 	"""
-	The Mechaniloids
-	do all the repairs
-	on their own.
+	Los Mecaniloides
+	hacen todas las
+	reparaciones solos.
 	"""
 	msgClear
 	"""
-	So I was just
-	trying to enjoy a
-	little tea break.
+	Así que solo estaba
+	disfrutando de un
+	pequeño descanso.
 	"""
 	msgClear
 	"""
-	How dare you disturb
-	my peace and quiet!
+	¡Cómo te atreves a
+	interrumpir mi paz
+	y tranquilidad!
 	"""
 	msgClear
 	"""
-	Where are your
-	manners, sir hero?
+	¿Dónde están tus
+	modales, señor
+	héroe?
 	"""
 	msgClear
 	"""
-	I, Devilbat Schilt,
-	of Weil's Numbers,
-	shall educate you.
+	Yo, Devilbat Schilt,
+	de los Numbers de
+	"""
+	msgClear
+	"""
+	Weil, te daré una
+	lección.
 	"""
 	end
 }
@@ -63,18 +77,23 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 11
 	"""
-	Kekeke!
+	¡Kekeke!
 	"""
 	msgClear
 	"""
-	The first lesson a
-	gentleman must learn
-	in refinement is...
+	La primera lección
+	que un caballero
+	debe aprender sobre
 	"""
 	msgClear
 	"""
-	Intruders are to die
-	without a fuss!
+	refinamiento es...
+	"""
+	msgClear
+	"""
+	¡Que los intrusos
+	deben morir sin
+	hacer escándalo!
 	"""
 	end
 }
@@ -82,13 +101,17 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Keke!
+	¡Keke!
 	"""
 	msgClear
 	"""
-	The blood of a
-	century-old hero has
-	such a lovely odor!
+	¡La sangre de un
+	héroe de hace un
+	siglo tiene un aroma
+	"""
+	msgClear
+	"""
+	tan delicioso!
 	"""
 	end
 }
@@ -96,22 +119,23 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Ke...keke!
+	¡Ke...keke!
 	"""
 	msgClear
 	"""
-	No manners...
-	No manners at all!
+	Sin modales...
+	¡Sin modales en
+	absoluto!
 	"""
 	msgClear
 	"""
-	Trying to defy Lord
-	Weil, what dismal
-	behavior!
+	¡Intentar desafiar
+	al Lord Weil, qué
+	conducta tan triste!
 	"""
 	msgClear
 	"""
-	Ke...kekekekeeee!
+	¡Ke...kekekekeeee!
 	"""
 	end
 }

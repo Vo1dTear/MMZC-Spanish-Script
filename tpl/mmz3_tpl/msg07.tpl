@@ -5,24 +5,24 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 100
 	"""
-	Operator:
-	Mr. Zero!
+	Operadora:
+	¡Sr. Zero!
 	"""
 	msgClear
 	"""
-	You can burn away
-	the ivy with Flame-
-	based attacks.
+	Puede quemar la
+	hiedra con ataques
+	basados en fuego.
 	"""
 	msgClear
 	"""
-	The Recoil Rod's
-	charge attack can
-	destroy things too.
+	El ataque cargado de
+	la Recoil Rod también
+	puede destruir cosas.
 	"""
 	msgClear
 	"""
-	Keep that in mind.
+	Téngalo en cuenta.
 	"""
 	end
 }
@@ -30,13 +30,13 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 13
 	"""
-	I can cut anything
-	with my beautiful
-	scythe!
+	¡Puedo cortar cual-
+	quier cosa con mi
+	hermosa guadaña!
 	"""
 	msgClear
 	"""
-	Chikachikachika!
+	¡Chikachikachika!
 	"""
 	end
 }
@@ -48,20 +48,24 @@ script 2 mmz3 {
 	"""
 	msgClear
 	"""
-	Even if you defeat
-	me here...
+	Aunque me derrotes
+	aquí...
 	"""
 	msgClear
 	"""
-	My associates will
-	cut the old chains
-	that bind the world.
+	Mis camaradas
+	cortarán las viejas
+	cadenas que atan
 	"""
 	msgClear
 	"""
-	And build...
-	A new order...
-	Lord Weeeeiil!!!
+	al mundo.
+	"""
+	msgClear
+	"""
+	Y construirán...
+	un nuevo orden...
+	¡¡¡Lord Weeeeiil!!!
 	"""
 	end
 }
@@ -69,8 +73,8 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Maaama.
-	Maaama.
+	Maaamá.
+	Maaamá.
 	"""
 	end
 }
@@ -78,8 +82,8 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Hey, Prea.
-	Mama's not here.
+	Oye, Prea.
+	Mamá no está aquí.
 	"""
 	end
 }
@@ -87,8 +91,8 @@ script 6 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	That's right, Crea.
-	Mama's not here.
+	Así es, Crea.
+	Mamá no está aquí.
 	"""
 	end
 }
@@ -96,9 +100,9 @@ script 7 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Hey, Prea.
-	Let's look a little
-	farther inside.
+	Oye, Prea.
+	Miremos un poco
+	más adentro.
 	"""
 	end
 }
@@ -106,9 +110,9 @@ script 8 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	That's right, Crea.
-	Let's look a little
-	farther inside.
+	Así es, Crea.
+	Miremos un poco
+	más adentro.
 	"""
 	end
 }
@@ -120,7 +124,7 @@ script 9 mmz3 {
 	"""
 	msgClear
 	"""
-	Those must be...
+	Esos deben ser...
 	"""
 	end
 }
@@ -128,23 +132,23 @@ script 10 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: Zero! I've picked
+	Ciel: ¡Zero! ¡He detectado
 	"""
 	msgClear
 	"""
-	up some Baby Elf readings
+	lecturas de Baby Elf en el
 	"""
 	msgClear
 	"""
-	on that portable scanner
+	escáner portátil que te di!
 	"""
 	msgClear
 	"""
-	I gave you! They may be the
+	Puede que sean los mismos
 	"""
 	msgClear
 	"""
-	same ones I was studying...
+	que estaba investigando...
 	"""
 	end
 }
@@ -152,12 +156,12 @@ script 11 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Their mother...
+	Su madre...
 	"""
 	msgClear
 	"""
-	They must be looking
-	for the Dark Elf.
+	Deben estar buscando
+	al Dark Elf.
 	"""
 	end
 }
@@ -165,11 +169,11 @@ script 12 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: Hey Zero, can you
+	Ciel: Oye Zero, ¿puedes
 	"""
 	msgClear
 	"""
-	protect those babies?
+	proteger a esos bebés?
 	"""
 	end
 }
@@ -177,11 +181,11 @@ script 13 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Alright.
+	De acuerdo.
 	"""
 	msgClear
 	"""
-	I'll find them.
+	Los encontraré.
 	"""
 	end
 }
@@ -189,7 +193,7 @@ script 14 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: Thank you, Zero...
+	Ciel: Gracias, Zero...
 	"""
 	end
 }
@@ -197,11 +201,11 @@ script 15 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Who are you?
+	¿Quién eres?
 	"""
 	msgClear
 	"""
-	You smell like Mama.
+	Hueles como mamá.
 	"""
 	end
 }
@@ -209,11 +213,12 @@ script 16 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	Who are you?
+	¿Quién eres?
 	"""
 	msgClear
 	"""
-	You smell like us.
+	Hueles como
+	nosotros.
 	"""
 	end
 }
@@ -225,19 +230,19 @@ script 17 mmz3 {
 	"""
 	msgClear
 	"""
-	So these are Baby
-	Elves?
+	¿Así que estos son
+	los Baby Elf?
 	"""
 	msgClear
 	"""
-	Lord Weil ordered me
-	to find them.
+	Lord Weil me ordenó
+	encontrarlos.
 	"""
 	msgClear
 	"""
-	They really are just
-	little elves. Are
-	they useful?
+	De verdad solo son
+	pequeños elfos.
+	¿Son útiles?
 	"""
 	end
 }
@@ -245,8 +250,8 @@ script 18 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Hand over the
-	Baby Elves.
+	Entrégame a los
+	Baby Elf.
 	"""
 	end
 }
@@ -254,12 +259,12 @@ script 19 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Oh, I know him!
+	¡Oh, lo conozco!
 	"""
 	msgClear
 	"""
-	He pushed Mama
-	around!
+	¡Él empujó a
+	mamá!
 	"""
 	end
 }
@@ -267,13 +272,14 @@ script 20 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	I know him, too!
+	¡Yo también lo
+	conozco!
 	"""
 	msgClear
 	"""
-	That's the guy who
-	pushed Mama around
-	a century ago!
+	¡Es el tipo que
+	empujó a mamá hace
+	un siglo!
 	"""
 	end
 }
@@ -281,7 +287,7 @@ script 21 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	You faker!
+	¡Farsante!
 	"""
 	end
 }
@@ -289,7 +295,7 @@ script 22 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	You faker!
+	¡Farsante!
 	"""
 	end
 }
@@ -297,21 +303,21 @@ script 23 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Hmm?
+	¿Hmm?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 29
 	"""
 	Chikachika...
-	Shut up, you Baby
+	¡Cállense, Baby
 	Elves!
 	"""
 	msgClear
 	"""
-	If you don't wanna
-	get chopped up, go
-	into that room!
+	¡Si no quieren que
+	los hagan pedazos,
+	vayan a esa sala!
 	"""
 	end
 }
@@ -319,7 +325,7 @@ script 24 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Waaaaaah!
+	¡Waaaaaah!
 	"""
 	end
 }
@@ -327,7 +333,7 @@ script 25 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	Waaaaaah!
+	¡Waaaaaah!
 	"""
 	end
 }
@@ -335,9 +341,13 @@ script 26 mmz3 {
 	mugshotShow
 		mugshot = 29
 	"""
-	Those two belong
-	to Lord Weil. You
-	can't have them.
+	Esos dos le
+	pertenecen a
+	Lord Weil.
+	"""
+	msgClear
+	"""
+	No puedes tenerlos.
 	"""
 	end
 }
@@ -345,14 +355,14 @@ script 27 mmz3 {
 	mugshotShow
 		mugshot = 13
 	"""
-	I'm Deathtanz
-	Mantisk, one of
-	Weil's Numbers.
+	Soy Deathtanz
+	Mantisk, uno de
+	los Numbers de Weil.
 	"""
 	msgClear
 	"""
-	Now, time to slice
-	you into ribbons!
+	Ahora, ¡es hora de
+	cortarte en tiras!
 	"""
 	end
 }
@@ -360,12 +370,12 @@ script 28 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Who are you, mister?
+	¿Quién eres, señor?
 	"""
 	msgClear
 	"""
-	I've seen you
-	somewhere before.
+	Te he visto en
+	algún lado antes.
 	"""
 	end
 }
@@ -373,13 +383,13 @@ script 29 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	Who are you, mister?
+	¿Quién eres, señor?
 	"""
 	msgClear
 	"""
-	I've seen him
-	somewhere before,
-	too.
+	Yo también lo he
+	visto en algún
+	lado antes.
 	"""
 	end
 }
@@ -387,19 +397,19 @@ script 30 mmz3 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Heheheheheee...
-	My name is Weil.
+	Jejejejejeee...
+	Mi nombre es Weil.
 	"""
 	msgClear
 	"""
-	I'm the one who
-	made your mother,
-	the Dark Elf.
+	Soy quien creó a
+	su madre, el
+	Dark Elf.
 	"""
 	msgClear
 	"""
-	You might think of
-	me as your Grandpa.
+	Pueden pensar en
+	mí como su abuelo.
 	"""
 	end
 }
@@ -407,12 +417,12 @@ script 31 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Prea, did you hear
-	that?
+	Prea, ¿escuchaste
+	eso?
 	"""
 	msgClear
 	"""
-	He's our Grandpa!
+	¡Es nuestro abuelo!
 	"""
 	end
 }
@@ -420,11 +430,11 @@ script 32 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	I heard, Crea!
+	¡Lo escuché, Crea!
 	"""
 	msgClear
 	"""
-	He's our Grandpa!
+	¡Es nuestro abuelo!
 	"""
 	end
 }
@@ -432,23 +442,24 @@ script 33 mmz3 {
 	mugshotShow
 		mugshot = 59
 	"""
-	I'm looking for the
-	Dark Elf, too.
+	Yo también estoy
+	buscando al
+	Dark Elf.
 	"""
 	msgClear
 	"""
-	I need your help.
+	Necesito su ayuda.
 	"""
 	msgClear
 	"""
-	You should come with
-	me to Neo Arcadia.
+	Deben venir conmigo
+	a Neo Arcadia.
 	"""
 	msgClear
 	"""
-	I'll give you new
-	powers, and a new
-	body...
+	Les daré nuevos
+	poderes y un nuevo
+	cuerpo...
 	"""
 	end
 }
@@ -456,7 +467,7 @@ script 34 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Okay! Let's go,
+	¡Está bien! ¡Vamos,
 	Prea!
 	"""
 	end
@@ -465,7 +476,7 @@ script 35 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	Okay! Let's go,
+	¡Está bien! ¡Vamos,
 	Crea!
 	"""
 	end
@@ -474,7 +485,7 @@ script 36 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Wait!
+	¡Esperen!
 	"""
 	end
 }
@@ -482,12 +493,12 @@ script 37 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Darn...
+	¡Maldición...
 	"""
 	msgClear
 	"""
-	Ciel, can you follow
-	their readings?
+	Ciel, ¿puedes seguir
+	sus lecturas?
 	"""
 	end
 }
@@ -495,15 +506,15 @@ script 38 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: I'm sorry, Zero.
+	Ciel: Lo siento, Zero.
 	"""
 	msgClear
 	"""
-	That won't be possible
+	Eso no será posible
 	"""
 	msgClear
 	"""
-	with your scanner.
+	con tu escáner.
 	"""
 	end
 }
@@ -519,15 +530,19 @@ script 40 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Mr. Zero,
+	Operadora: Sr. Zero,
 	"""
 	msgClear
 	"""
-	please return to base.
+	por favor, regrese
 	"""
 	msgClear
 	"""
-	Commencing transfer.
+	a la base.
+	"""
+	msgClear
+	"""
+	Iniciando transferencia.
 	"""
 	end
 }

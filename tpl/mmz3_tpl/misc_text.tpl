@@ -65,7 +65,7 @@ script 9 mmz3 {
 }
 script 10 mmz3 {
 	"""
-	 El legendario Reploid Zero
+	 El legendario Reploide Zero
 	    despertó de un largo
 	          sueño...
 	
@@ -979,39 +979,39 @@ script 186 mmz3 {
 }
 script 187 mmz3 {
 	"""
-	EC:Need/Hold
+	EC:Req/Disp
 	"""
 	end
 }
 script 188 mmz3 {
 	"""
-	Upgrade one
-	level?
-	  Yes   No
+	¿Mejorar un
+	nivel?
+	  Sí   No
 	"""
 	end
 }
 script 189 mmz3 {
 	"""
-	Upgrade to
-	Satellite?
-	  Yes   No
+	¿Mejorar a
+	Satélite?
+	  Sí   No
 	"""
 	end
 }
 script 190 mmz3 {
 	"""
-	Upgrade to
-	Fusion type?
-	  Yes   No
+	¿Mejorar a
+	tipo Fusión?
+	  Sí   No
 	"""
 	end
 }
 script 191 mmz3 {
 	"""
-	Upgrade to
-	new version?
-	  Yes   No
+	¿Mejorar a
+	nueva ver.?
+	  Sí   No
 	"""
 	end
 }
@@ -1891,7 +1891,7 @@ script 305 mmz3 {
 }
 script 306 mmz3 {
 	"""
-	Abort completed missions.
+	Abortar misión completada.
 	"""
 	end
 }
@@ -1903,7 +1903,7 @@ script 307 mmz3 {
 }
 script 308 mmz3 {
 	"""
-	You can't escape now!
+	¡No puedes escapar ahora!
 	"""
 	end
 }
@@ -2370,8 +2370,9 @@ script 478 mmz3 {
 }
 script 479 mmz3 {
 	"""
-	This disk
-	is unread.
+	Este disco
+	no ha sido
+	leído.
 	"""
 	end
 }

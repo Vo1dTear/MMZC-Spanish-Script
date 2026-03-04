@@ -6,7 +6,7 @@ script 0 mmz3 {
 		mugshot = 2
 	"""
 	¿Con quién hablarás?
-	  Operator
+	  Operadora
 	  Ciel
 	"""
 	end
@@ -274,7 +274,7 @@ script 24 mmz3 {
 	"""
 	Han duplicado su
 	producción de armas
-	recientemente
+	recientemente.
 	"""
 	msgClear
 	"""
@@ -324,8 +324,8 @@ script 26 mmz3 {
 	msgClear
 	"""
 	Queremos que vayas
-	allí para investi-
-	gar en persona.
+	allí para investigar
+	en persona.
 	"""
 	end
 }
@@ -720,6 +720,10 @@ script 50 mmz3 {
 script 51 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	DERELICT SPACECRAFT
@@ -735,6 +739,10 @@ script 51 mmz3 {
 script 52 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	AEGIS VOLCANO BASE
@@ -750,6 +758,10 @@ script 52 mmz3 {
 script 53 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	OCEANIC HWY RUINS
@@ -765,6 +777,10 @@ script 53 mmz3 {
 script 54 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	W.R. FACTORY
@@ -780,6 +796,10 @@ script 54 mmz3 {
 script 55 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	OLD RESIDENTIAL
@@ -795,6 +815,10 @@ script 55 mmz3 {
 script 56 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	MISSILE FACTORY
@@ -810,6 +834,10 @@ script 56 mmz3 {
 script 57 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	TWILIGHT DESERT
@@ -825,6 +853,10 @@ script 57 mmz3 {
 script 58 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	FOREST OF ANATRE
@@ -840,6 +872,10 @@ script 58 mmz3 {
 script 59 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	FRONTLINE ICE BASE
@@ -855,6 +891,10 @@ script 59 mmz3 {
 script 60 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	AREA X-2
@@ -870,6 +910,10 @@ script 60 mmz3 {
 script 61 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	ENERGY FACILITY
@@ -885,6 +929,10 @@ script 61 mmz3 {
 script 62 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	SNOWY PLAINS
@@ -900,6 +948,10 @@ script 62 mmz3 {
 script 63 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	SUNKEN LIBRARY
@@ -915,6 +967,10 @@ script 63 mmz3 {
 script 64 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	GIANT ELEVATOR
@@ -930,6 +986,10 @@ script 64 mmz3 {
 script 65 mmz3 {
 	mugshotShow
 		mugshot = 98
+	textColorWhite
+	"""
+	¿
+	"""
 	textColorRed
 	"""
 	SUB ARCADIA
@@ -1035,7 +1095,7 @@ script 80 mmz3 {
 	"""
 	Transfiriendo...
 	Dos...
-	One...
+	Uno...
 	"""
 	end
 }
@@ -1099,37 +1159,34 @@ script 90 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Thank you, Zero.
+	Gracias, Zero.
 	"""
 	msgClear
 	"""
-	We failed to destroy
-	the missile,
+	No logramos destruir
+	el misil,
 	"""
 	msgClear
 	"""
-	but I believe we
-	succeeded in
-	delaying its
+	pero creo que sí
+	logramos retrasar
+	su construcción.
 	"""
 	msgClear
 	"""
-	construction.
+	Analizaré la ruta
+	hacia la fábrica
+	de misiles lo
 	"""
 	msgClear
 	"""
-	I will analyze the
-	route to the missile
-	factory as quickly
+	antes posible.
 	"""
 	msgClear
 	"""
-	as possible.
-	"""
-	msgClear
-	"""
-	Please wait a bit
-	longer, okay?
+	Por favor, espera
+	un poco más,
+	¿de acuerdo?
 	"""
 	end
 }
@@ -1137,36 +1194,44 @@ script 91 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero, I'm sorry.
+	Zero, lo siento.
 	"""
 	msgClear
 	"""
-	You risked your life
-	to go after the Dark
-	Elf...
+	Arriesgaste tu vida
+	para ir tras el
+	Dark Elf...
 	"""
 	msgClear
 	"""
-	But the Dark Elf was
-	too fast, and we
-	lost sight of it.
+	Pero el Dark Elf
+	fue demasiado rápido
+	y lo perdimos
 	"""
 	msgClear
 	"""
-	I scanned that area
-	again,
+	de vista.
 	"""
 	msgClear
 	"""
-	but there's no
-	reading anywhere
-	in the vicinity.
+	Volví a escanear
+	esa área,
 	"""
 	msgClear
 	"""
-	I know an apology is
-	not enough, but I am
-	truly sorry, Zero.
+	pero no hay lecturas
+	en ningún lugar
+	cercano.
+	"""
+	msgClear
+	"""
+	Sé que una disculpa
+	no es suficiente,
+	pero de verdad
+	"""
+	msgClear
+	"""
+	lo siento, Zero.
 	"""
 	end
 }
@@ -1174,21 +1239,22 @@ script 92 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero... Thank you.
+	Zero... gracias.
 	"""
 	msgClear
 	"""
-	That recycling plant
-	will be out of
-	operation for some
+	Esa planta de
+	reciclaje estará
+	fuera de servicio
 	"""
 	msgClear
 	"""
-	time, I think.
+	por un tiempo,
+	creo.
 	"""
 	msgClear
 	"""
-	Thank you so much...
+	Muchas gracias...
 	"""
 	end
 }
@@ -1196,23 +1262,24 @@ script 93 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero... Thank you.
+	Zero... gracias.
 	"""
 	msgClear
 	"""
-	The reports of the
+	Los informes del
 	Dark Elf...
 	"""
 	msgClear
 	"""
-	They were really
-	Baby Elf sitings...
+	en realidad eran
+	avistamientos de
+	Baby Elf...
 	"""
 	msgClear
 	"""
-	I wonder what Neo
-	Arcadia is planning
-	on doing with them.
+	Me pregunto qué
+	planea hacer Neo
+	Arcadia con ellos.
 	"""
 	end
 }
@@ -1220,22 +1287,22 @@ script 94 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Thank you, Zero.
+	Gracias, Zero.
 	"""
 	msgClear
 	"""
-	Now that they are
-	without a leader,
-	the Neo Arcadians in
+	Ahora que se queda-
+	ron sin un líder,
+	los neoarcadianos
 	"""
 	msgClear
 	"""
-	that area have
-	retreated.
+	de esa área se han
+	retirado.
 	"""
 	msgClear
 	"""
-	Thank you so much...
+	Muchas gracias...
 	"""
 	end
 }
