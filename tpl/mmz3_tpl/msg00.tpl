@@ -1273,7 +1273,7 @@ script 93 mmz3 {
 	"""
 	en realidad eran
 	avistamientos de
-	Baby Elf...
+	Elfos Bebé...
 	"""
 	msgClear
 	"""

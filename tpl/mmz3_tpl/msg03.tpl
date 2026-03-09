@@ -238,7 +238,7 @@ script 8 mmz3 {
 	"""
 	msgClear
 	"""
-	¿Por qué el Elf
+	¿Por qué el Elfo
 	que casi destruyó
 	el mundo me conoce?
 	"""

@@ -136,7 +136,7 @@ script 10 mmz3 {
 	"""
 	msgClear
 	"""
-	lecturas de Baby Elf en el
+	lecturas de Elfos Bebé en el
 	"""
 	msgClear
 	"""
@@ -156,7 +156,7 @@ script 11 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Su madre...
+	Su mamá...
 	"""
 	msgClear
 	"""
@@ -231,7 +231,7 @@ script 17 mmz3 {
 	msgClear
 	"""
 	¿Así que estos son
-	los Baby Elf?
+	los Elfos Bebé?
 	"""
 	msgClear
 	"""
@@ -251,7 +251,7 @@ script 18 mmz3 {
 		mugshot = 4
 	"""
 	Entrégame a los
-	Baby Elf.
+	Elfos Bebé.
 	"""
 	end
 }
@@ -310,8 +310,8 @@ script 23 mmz3 {
 		mugshot = 29
 	"""
 	Chikachika...
-	¡Cállense, Baby
-	Elves!
+	¡Cállense, Elfos
+	Bebé!
 	"""
 	msgClear
 	"""

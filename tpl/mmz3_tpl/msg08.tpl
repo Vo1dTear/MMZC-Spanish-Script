@@ -99,7 +99,7 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	¡¿Baby Elves?!
+	¡¿Elfos Bebé?!
 	"""
 	end
 }
