@@ -1088,7 +1088,7 @@ script 65 mmz3 {
 	msgClear
 	"""
 	¡Está claro que no
-	prestabes atención!
+	prestabas atención!
 	"""
 	msgSubEnd
 	msgSub
@@ -2715,8 +2715,8 @@ script 117 mmz3 {
 	"""
 	msgClear
 	"""
-	¡oh legendario
-	Reploide!
+	¡oh Reploide
+	legendario!
 	"""
 	msgClear
 	"""
@@ -3393,8 +3393,8 @@ script 137 mmz3 {
 		mugshot = 84
 	"""
 	Me pregunto si
-	trabajaré aquí
-	en almacén siempre.
+	trabajaré aquí en el
+	almacén por siempre.
 	"""
 	msgClear
 	"""
@@ -5685,7 +5685,7 @@ script 207 mmz3 {
 	msgClear
 	"""
 	¡Está claro que no
-	prestabes atención!
+	prestabas atención!
 	"""
 	msgSubEnd
 	msgSub
