@@ -160,8 +160,8 @@ script 4 mmz3 {
 	msgClear
 	"""
 	Si el Dr. Weil
-	toma control del
-	mundo...
+	toma el control
+	del mundo...
 	"""
 	msgClear
 	"""
@@ -512,14 +512,13 @@ script 13 mmz3 {
 	"""
 	msgClear
 	"""
-	No estaría exage-
-	rando si dijera
-	que el futuro
+	No estaría exagerando
+	si dijera que el
+	futuro descansa
 	"""
 	msgClear
 	"""
-	descansa en tus
-	manos.
+	en tus manos.
 	"""
 	msgClear
 	"""
@@ -3605,8 +3604,7 @@ script 142 mmz3 {
 	msgClear
 	"""
 	No recuerdo haber ingresado
-	estos datos en mi
-	sistema...
+	estos datos en mi sistema...
 	"""
 	msgClear
 	"""
@@ -3950,8 +3948,9 @@ script 171 mmz3 {
 	"""
 	msgClear
 	"""
-	Si es cierto, ¿tenemos
-	alguna oportunidad?
+	Si es cierto,
+	¿tenemos alguna
+	oportunidad?
 	"""
 	msgClear
 	"""

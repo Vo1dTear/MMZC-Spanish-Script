@@ -1291,13 +1291,13 @@ script 94 mmz3 {
 	"""
 	msgClear
 	"""
-	Ahora que se queda-
-	ron sin un líder,
-	los neoarcadianos
+	Ahora que se quedaron
+	sin un líder, los
+	neoarcadianos de
 	"""
 	msgClear
 	"""
-	de esa área se han
+	esa área se han
 	retirado.
 	"""
 	msgClear
@@ -1310,22 +1310,22 @@ script 95 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Thank you, Zero.
+	Gracias, Zero.
 	"""
 	msgClear
 	"""
-	Now that they are
-	without a leader,
-	the Neo Arcadians in
+	Ahora que se quedaron
+	sin un líder, los
+	neoarcadianos de
 	"""
 	msgClear
 	"""
-	that area have
-	retreated.
+	esa área se han
+	retirado.
 	"""
 	msgClear
 	"""
-	Thank you so much...
+	Muchas gracias...
 	"""
 	end
 }
@@ -1333,22 +1333,22 @@ script 96 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Thank you, Zero.
+	Gracias, Zero.
 	"""
 	msgClear
 	"""
-	Now that they are
-	without a leader,
-	the Neo Arcadians in
+	Ahora que se quedaron
+	sin un líder, los
+	neoarcadianos de
 	"""
 	msgClear
 	"""
-	that area have
-	retreated.
+	esa área se han
+	retirado.
 	"""
 	msgClear
 	"""
-	Thank you so much...
+	Muchas gracias...
 	"""
 	end
 }
@@ -1356,28 +1356,29 @@ script 97 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Welcome back, Zero.
+	Bienvenido de
+	vuelta, Zero.
 	"""
 	msgClear
 	"""
-	It appears that Weil
-	was attempting to
-	mass-produce Baby
+	Parece que Weil
+	intentaba producir
+	Elfos Bebé
 	"""
 	msgClear
 	"""
-	Elves at that
-	factory.
+	en masa en
+	esa fábrica.
 	"""
 	msgClear
 	"""
-	But I wonder...
+	Pero me pregunto...
 	"""
 	msgClear
 	"""
-	What was he planning
-	on doing with all
-	those Baby Elves?
+	¿Qué planeaba
+	hacer con todos
+	esos Elfos Bebé?
 	"""
 	end
 }
@@ -1385,28 +1386,29 @@ script 98 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero... Thank you.
+	Zero... Gracias.
 	"""
 	msgClear
 	"""
-	I'm analyzing all of
-	the data you
-	recovered for us.
+	Estoy analizando
+	todos los datos
+	que recuperaste.
 	"""
 	msgClear
 	"""
-	We may be able to
-	figure out what Weil
-	is attempting to do,
+	Quizá podamos
+	descubrir qué
+	intenta hacer
 	"""
 	msgClear
 	"""
-	by analyzing past
-	data.
+	Weil, analizando
+	datos del pasado.
 	"""
 	msgClear
 	"""
-	I'll do my best.
+	Haré lo mejor
+	que pueda.
 	"""
 	end
 }
@@ -1414,28 +1416,29 @@ script 99 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero... Thank you.
+	Zero... Gracias.
 	"""
 	msgClear
 	"""
-	I'm analyzing all of
-	the data you
-	recovered for us.
+	Estoy analizando
+	todos los datos
+	que recuperaste.
 	"""
 	msgClear
 	"""
-	We may be able to
-	figure out what Weil
-	is attempting to do,
+	Quizá podamos
+	descubrir qué
+	intenta hacer
 	"""
 	msgClear
 	"""
-	by analyzing past
-	data.
+	Weil, analizando
+	datos del pasado.
 	"""
 	msgClear
 	"""
-	I'll do my best.
+	Haré lo mejor
+	que pueda.
 	"""
 	end
 }
@@ -1443,28 +1446,28 @@ script 100 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Thank you, Zero.
+	Gracias, Zero.
 	"""
 	msgClear
 	"""
-	It looks like that
-	elevator was being
-	used to carry mass
+	Parece que ese
+	elevador se usaba
+	para transportar
 	"""
 	msgClear
 	"""
-	amounts of
-	E-Crystals.
+	grandes cantidades
+	de E-Crystals.
 	"""
 	msgClear
 	"""
-	But, I wonder...
+	Pero me pregunto...
 	"""
 	msgClear
 	"""
-	What was Weil up to
-	with all that
-	energy?
+	¿Qué planeaba
+	hacer Weil con
+	toda esa energía?
 	"""
 	end
 }
@@ -1472,29 +1475,31 @@ script 101 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero, it's great to
-	see you back safe.
+	Zero, me alegra
+	verte de vuelta
+	sano y salvo.
 	"""
 	msgClear
 	"""
-	X just sent us some
-	new coordinates.
+	X acaba de
+	enviarnos nuevas
+	coordenadas.
 	"""
 	msgClear
 	"""
-	Apparently, they
-	indicate where
-	Weil and Omega are.
+	Al parecer indican
+	dónde están Weil
+	y Omega.
 	"""
 	msgClear
 	"""
-	This may be the last
-	battle...
+	Esta podría ser
+	la última batalla...
 	"""
 	msgClear
 	"""
-	Come talk to me when
-	you are ready.
+	Habla conmigo cuando
+	estés listo.
 	"""
 	end
 }
