@@ -5,25 +5,29 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 39
 	"""
-	I have been summoned
-	by Lord Weil back
-	from the netherworld
+	He sido invocado
+	por Lord Weil desde
+	el inframundo
 	"""
 	msgClear
 	"""
-	to continue my reign
-	of terror.
+	para continuar mi
+	reinado de terror.
 	"""
 	msgClear
 	"""
-	Ancient One, it is
-	now your turn to lie
-	beneath the soil...
+	Antiguo guerrero,
+	ahora es tu
+	turno de yacer
 	"""
 	msgClear
 	"""
-	Back to the earth
-	with you!
+	bajo la tierra...
+	"""
+	msgClear
+	"""
+	¡Vuelve a la
+	tierra contigo!
 	"""
 	end
 }
@@ -31,13 +35,15 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 38
 	"""
-	There is no eternity
-	in this world.
+	No existe la
+	eternidad en
+	este mundo.
 	"""
 	msgClear
 	"""
-	Even your life must
-	come to an end!
+	¡Incluso tu vida
+	debe llegar
+	a su fin!
 	"""
 	end
 }
@@ -45,24 +51,24 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 38
 	"""
-	You, of the ancient
-	soul.
+	Tú, el de alma
+	antigua.
 	"""
 	msgClear
 	"""
-	You have no place in
-	the new world Lord
-	Weil is creating.
+	No tienes lugar en el
+	nuevo mundo que Lord
+	Weil está creando.
 	"""
 	msgClear
 	"""
-	I will enjoy viewing
-	your torment from
-	my grave below...
+	Disfrutaré ver
+	tu tormento
+	desde mi tumba...
 	"""
 	msgClear
 	"""
-	Hahahahaa!
+	¡Jajajajaa!
 	"""
 	end
 }

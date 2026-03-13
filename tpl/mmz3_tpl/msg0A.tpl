@@ -5,27 +5,29 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 41
 	"""
-	My body has returned
-	from decay...
+	Mi cuerpo
+	ha vuelto de
+	la ruina...
 	"""
 	msgClear
 	"""
-	For Lord Weil, who
-	gave me life...
+	Por Lord Weil,
+	quien me dio
+	vida...
 	"""
 	msgClear
 	"""
-	I have returned!
-	And now, I will take
-	your pitiful soul.
+	¡He regresado!
+	Y ahora tomaré tu
+	miserable alma.
 	"""
 	msgClear
 	"""
-	Let's see you fight
+	¡Veamos si peleas
 	"""
 	msgClear
 	"""
-	like a hero!
+	como un héroe!
 	"""
 	end
 }
@@ -33,9 +35,9 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 40
 	"""
-	Justice is on the
-	side of the Neo
-	Arcadians!
+	¡La justicia está
+	del lado de los
+	Neo Arcadianos!
 	"""
 	end
 }
@@ -43,25 +45,26 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 40
 	"""
-	An impressive fight!
-	However...
+	¡Fue una lucha
+	impresionante!
+	Pero...
 	"""
 	msgClear
 	"""
-	Evil must fail in
-	the end!
+	¡El mal siempre
+	fracasa al final!
 	"""
 	msgClear
 	"""
-	History will judge
-	who the true
-	winner was!
+	¡La historia
+	juzgará quién fue el
+	verdadero vencedor!
 	"""
 	msgClear
 	"""
-	May you perish,
-	O Ancient God of
-	Destruction!
+	¡Que perezcas,
+	oh antiguo Dios
+	de la Destrucción!
 	"""
 	end
 }

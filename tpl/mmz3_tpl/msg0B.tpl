@@ -5,24 +5,30 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hmph. I am impressed
-	you made it to this
-	base.
+	Hmph. Me impresiona
+	que hayas llegado
+	a esta base.
 	"""
 	msgClear
 	"""
-	Still...
+	Aun así...
 	"""
 	msgClear
 	"""
-	I cannot dishonor
-	Lord Weil, the man
-	who brought me back.
+	No puedo
+	deshonrar a
+	Lord Weil,
 	"""
 	msgClear
 	"""
-	I'll just have to
-	freeze you, now.
+	el hombre que
+	me devolvió
+	a la vida.
+	"""
+	msgClear
+	"""
+	Tendré que
+	congelarte ahora.
 	Hmph.
 	"""
 	end
@@ -35,9 +41,13 @@ script 1 mmz3 {
 	"""
 	msgClear
 	"""
-	A century is not
-	enough. This time,
-	sleep forever!
+	Un siglo no
+	es suficiente.
+	"""
+	msgClear
+	"""
+	¡Esta vez duerme
+	para siempre!
 	"""
 	end
 }
@@ -45,13 +55,13 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 42
 	"""
-	*groan*
-	Forgive me...
+	*gruñido*
+	Perdóneme...
 	Lord Weil...
 	"""
 	msgClear
 	"""
-	Hm...phahh!
+	Hm... ¡phahh!
 	"""
 	end
 }

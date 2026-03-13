@@ -1508,27 +1508,28 @@ script 52 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	So this is what it
-	has come to...
+	Así que esto
+	es en lo que
+	terminó todo...
 	"""
 	msgClear
 	"""
-	Dr. Weil as the
-	ruler of Neo
-	Arcadia...
+	Dr. Weil como
+	gobernante de
+	Neo Arcadia...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	Those humans haven't
-	been told a thing...
+	Esos humanos
+	no saben nada...
 	"""
 	msgClear
 	"""
-	No, that's not it.
-	They haven't tried
-	to learn a thing...
+	No, no es eso.
+	Nunca intentaron
+	aprender nada...
 	"""
 	end
 }
@@ -1536,80 +1537,82 @@ script 53 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Lives with plenty
-	of food and
-	comfort...
+	Vidas con comida
+	y comodidad
+	de sobra...
 	"""
 	msgClear
 	"""
-	People have stopped
-	bothering to think
-	with their heads...
+	La gente ha dejado
+	de molestarse en
+	pensar...
 	"""
 	msgClear
 	"""
-	There may still be
-	some people who want
-	to do something.
+	Aún puede haber
+	personas que
+	quieran actuar.
 	"""
 	msgClear
 	"""
-	If we could somehow
-	let those kinds of
-	people know what
+	Si pudiéramos
+	hacer que esas
+	personas sepan
 	"""
 	msgClear
 	"""
-	Dr. Weil is really
-	thinking...
+	lo que el Dr. Weil
+	realmente planea...
 	"""
 	msgClear
 	"""
-	We might be able to
-	change Neo Arcadia.
+	Quizá podamos
+	cambiar Neo Arcadia.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 97
 	"""
-	Who is this
-	Dr. Weil, anyway?
+	¿Quién es este
+	Dr. Weil, de
+	todos modos?
 	"""
 	msgClear
 	"""
-	What has he been
-	doing since he
-	reappeared?
+	¿Qué ha estado
+	haciendo desde
+	que reapareció?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 98
 	"""
-	If you can gather
-	some information...
+	Si puedes reunir
+	algo de
+	información...
 	"""
 	msgClear
 	"""
-	We might be able to
-	analyze it to
-	determine where he
+	podríamos
+	analizarla
+	para saber
 	"""
 	msgClear
 	"""
-	is presently, and
-	what he's been doing
-	until now.
+	dónde está ahora y
+	qué es lo que ha
+	hecho hasta ahora.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	Okay.
+	Está bien.
 	"""
 	msgClear
 	"""
-	Where do I need to
-	Go. Just tell me...
+	¿A dónde debo ir?
+	Solo dime...
 	"""
 	end
 }
@@ -1617,7 +1620,7 @@ script 54 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Yes, but first...
+	Sí, pero antes...
 	"""
 	end
 }
@@ -1625,9 +1628,9 @@ script 55 mmz3 {
 	mugshotShow
 		mugshot = 97
 	"""
-	We've isolated some
-	locations for you to
-	gather information.
+	Hemos aislado algunos
+	lugares para que
+	reúnas información.
 	"""
 	end
 }

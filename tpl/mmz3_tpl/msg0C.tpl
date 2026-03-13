@@ -8,83 +8,92 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 55
 	"""
-	So you've come,
+	Así que viniste,
 	Zero.
 	"""
 	msgClear
 	"""
-	D-do you know what
-	you are doing?
-	Doing?
+	¿S-sabes lo que
+	estás haciendo?
+	-endo?
 	"""
 	msgClear
 	"""
-	You are helping
-	extremists!
+	¡Estás ayudando
+	a extremistas!
 	"""
 	msgClear
 	"""
-	Why would a-a
-	legendary hero help
-	an evil army?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	So you're saying
-	that we're an
-	evil army...
+	¿Por qué u-un
+	héroe legendario
+	ayudaría a
 	"""
 	msgClear
 	"""
-	...and you people
-	are fighting for
-	justice?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 55
-	"""
-	Exactly right.
-	"""
-	msgClear
-	"""
-	Almost a-all
-	humans support our
-	cause.
-	"""
-	msgClear
-	"""
-	All humans dream of
-	defeating th-the
-	extremists.
+	un ejército
+	malvado?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	What value is there
-	in the justice that
+	¿Así que dices
+	que somos un
+	ejército malvado...
 	"""
 	msgClear
 	"""
-	complacent humans
-	seek?
+	...y que ustedes
+	luchan por la
+	justicia?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 55
 	"""
-	Wh-who cares about
-	value? Neo Arcadia's
-	doing what's right.
+	Exactamente.
 	"""
 	msgClear
 	"""
-	That i-is enough
-	proof that what we
-	do is j-just!
+	Casi t-todos los
+	humanos apoyan
+	nuestra causa.
+	"""
+	msgClear
+	"""
+	Todos los humanos
+	sueñan con vencer a
+	l-los extremistas.
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 4
+	"""
+	¿Qué valor tiene
+	la justicia que
+	"""
+	msgClear
+	"""
+	buscan humanos
+	conformistas?
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 55
+	"""
+	¿A q-quién le
+	importa el valor?
+	Neo Arcadia
+	"""
+	msgClear
+	"""
+	hace lo correcto.
+	"""
+	msgClear
+	"""
+	¡E-eso basta para
+	probar que lo
+	nuestro es j-justo!
 	"""
 	end
 }
@@ -92,12 +101,13 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 110
 	"""
-	Aha! Ahahahah!
+	¡Aja! ¡Ajajajaj!
 	"""
 	msgClear
 	"""
-	Did you s-see that?!
-	I am the true hero!
+	¿V-vieron eso?
+	¡Yo soy el verdadero
+	héroe!
 	"""
 	end
 }
@@ -105,23 +115,25 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 111
 	"""
-	N-no! Wh-why-why?!
+	¡N-no!
+	¡¿P-p-por qué?!
 	"""
 	msgClear
 	"""
-	I'm a hero! I
-	f-fight for justice!
+	¡Soy un héroe!
+	¡L-lucho por la
+	justicia!
 	"""
 	msgClear
 	"""
-	Weil!
-	Dr. Weil!
+	¡Weil!
+	¡Dr. Weil!
 	"""
 	msgClear
 	"""
-	Use Omeg-Omega!
-	Crush him in your
-	h-hand!
+	¡Usa a Omeg-Omega!
+	¡Aplástalo con
+	tu m-mano!
 	"""
 	end
 }
@@ -129,11 +141,11 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 52
 	"""
-	He is...
+	Él ya...
 	"""
 	msgClear
 	"""
-	...no longer here.
+	...no está aquí.
 	"""
 	end
 }
@@ -141,40 +153,41 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 111
 	"""
-	Who a-are you?!
+	¡¿Q-quién eres?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	X!
+	¡X!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 111
 	"""
-	X?!
+	¡¿X?!
 	"""
 	msgClear
 	"""
-	Y-you are my
-	original form?!
+	¡¿T-tú eres mi
+	forma original?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 52
 	"""
-	Weil has moved to
-	another base.
+	Weil se ha movido
+	a otra base.
 	"""
 	msgClear
 	"""
-	With Omega...
+	Con Omega...
 	"""
 	msgClear
 	"""
-	Weil was using you
-	for his own purpose.
+	Weil te usaba
+	para sus propios
+	fines.
 	"""
 	msgClear
 	mugshotShow
@@ -184,14 +197,15 @@ script 5 mmz3 {
 	"""
 	msgClear
 	"""
-	Everyone treats me
-	l-like a fool!
+	¡Todos me
+	tratan c-como
+	un tonto!
 	"""
 	msgClear
 	"""
-	I-I won't stand for
-	it! Let me show you
-	my true power!
+	¡N-no lo permitiré!
+	¡Verán mi verdadero
+	poder!
 	"""
 	end
 }
@@ -200,18 +214,19 @@ script 6 mmz3 {
 		mugshot = 111
 	msgBottom
 	"""
-	Haaaaah!!!
+	¡¡¡Haaaaah!!!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 52
 	"""
-	Oh no!
+	¡Oh no!
 	"""
 	msgClear
 	"""
-	Weil has placed a
-	trap on your body!
+	¡Weil colocó
+	una trampa en
+	tu cuerpo!
 	"""
 	end
 }
@@ -220,16 +235,16 @@ script 7 mmz3 {
 		mugshot = 111
 	msgBottom
 	"""
-	Gee...gagaga?!
+	Gee...¡¿gagaga?!
 	"""
 	msgClear
 	"""
-	I...can't...
-	can't move...
+	Y-yo... no...
+	no puedo moverme...
 	"""
 	msgClear
 	"""
-	Gagagaaa...
+	¡Gagagaaa...
 	Aaaaaaarggh!
 	"""
 	end
@@ -244,20 +259,21 @@ script 8 mmz3 {
 	mugshotShow
 		mugshot = 53
 	"""
-	Weil knew from the
-	start how things
-	would turn out,
+	Weil sabía
+	desde un inicio
+	cómo acabaría
 	"""
 	msgClear
 	"""
-	so he must have
-	rigged a trap on
-	him...
+	todo, así que
+	debió ponerle
+	una trampa...
 	"""
 	msgClear
 	"""
-	To fulfill his
-	true ambition...
+	Para cumplir
+	su verdadera
+	ambición...
 	"""
 	end
 }
@@ -265,14 +281,15 @@ script 9 mmz3 {
 	mugshotShow
 		mugshot = 82
 	"""
-	Hear me, citizens of
-	the great land of
+	Escuchen, ciudadanos
+	de la gran tierra de
 	Neo Arcadia...
 	"""
 	msgClear
 	"""
-	I must inform you of
-	sorrowful news.
+	Debo informarles
+	de una triste
+	noticia.
 	"""
 	end
 }
@@ -289,35 +306,40 @@ script 11 mmz3 {
 		mugshot = 58
 	msgBottom
 	"""
-	Just now...
+	Hace instantes...
 	"""
 	msgClear
 	"""
-	Our hero Master X
-	was taken by blood-
-	thirsty extremists,
+	Nuestro héroe,
+	el Maestro X, nos
+	fue arrebatado
 	"""
 	msgClear
 	"""
-	and he has sadly
-	passed away...
+	por extremistas
+	sedientos de sangre,
 	"""
 	msgClear
 	"""
-	So, in accordance
-	with Ordinance #8,
+	y tristemente
+	ha fallecido...
 	"""
 	msgClear
 	"""
-	I, Dr. Weil, will
-	become your new
-	leader...
+	Así que, según
+	la Ordenanza #8,
 	"""
 	msgClear
 	"""
-	It is time to put
-	a stop to these
-	extremists!
+	yo, Dr. Weil,
+	seré su nuevo
+	líder...
+	"""
+	msgClear
+	"""
+	¡Es hora de
+	detener a estos
+	extremistas!
 	"""
 	end
 }
@@ -329,43 +351,44 @@ script 12 mmz3 {
 	"""
 	msgClear
 	"""
-	Thank you all. I
-	have just confirmed
-	your approval.
+	Gracias a todos.
+	Acabo de confirmar
+	su aprobación.
 	"""
 	msgClear
 	"""
-	I will have to ask
-	you all to do a
-	number of things...
+	Tendré que pedirles
+	que hagan varias
+	cosas...
 	"""
 	msgClear
 	"""
-	Neo Arcadia cannot
-	know true peace,
-	until the extremists
+	¡Neo Arcadia no
+	conocerá la verdadera
+	paz mientras los
 	"""
 	msgClear
 	"""
-	are eradicated!
+	extremistas no
+	sean erradicados!
 	"""
 	msgClear
 	"""
-	Let us all fight
-	together, until they
-	are wiped out!
+	¡Luchemos juntos
+	hasta que sean
+	eliminados!
 	"""
 	msgClear
 	"""
-	He...
+	Je...
 	"""
 	msgClear
 	"""
-	Hehehehe...
+	Jejejeje...
 	"""
 	msgClear
 	"""
-	Heheheheheee...
+	¡Jejejejejeee...
 	Bwahahahahah!
 	"""
 	end
@@ -378,9 +401,9 @@ script 13 mmz3 {
 	"""
 	msgClear
 	"""
-	It's all going
-	according to his
-	plans.
+	Todo va
+	según sus
+	planes.
 	"""
 	msgClear
 	mugshotShow
@@ -390,40 +413,42 @@ script 13 mmz3 {
 	"""
 	msgClear
 	"""
-	Will he try to
-	repeat the tragedy
-	of the Elf Wars,
+	¿Intentará
+	repetir la
+	tragedia de
 	"""
 	msgClear
 	"""
-	that ended a
-	century ago...
+	las Guerras Élficas,
+	que terminaron
+	hace un siglo...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I'll look for Weil.
+	Buscaré a Weil.
 	"""
 	msgClear
 	"""
-	I need you to help.
+	Necesito
+	tu ayuda.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 53
 	"""
-	Okay.
+	Está bien.
 	"""
 	msgClear
 	"""
-	I'll look for him,
-	too...
+	Yo también
+	lo buscaré...
 	"""
 	msgClear
 	"""
-	I wanted to say
-	something. About
+	Quería decir
+	algo. Sobre
 	Omega...
 	"""
 	msgClear
@@ -436,25 +461,25 @@ script 14 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	What is it?
+	¿Qué sucede?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 53
 	"""
-	Well...never mind.
+	Bueno... olvídalo.
 	"""
 	msgClear
 	"""
-	I'll bring it up
-	again when the time
-	comes.
+	Lo mencionaré
+	de nuevo cuando
+	llegue el momento.
 	"""
 	msgClear
 	"""
-	The heart is what
-	counts. Not the
-	body...
+	Lo que importa
+	es el corazón.
+	No el cuerpo...
 	"""
 	end
 }
@@ -462,7 +487,7 @@ script 15 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	The heart?
+	¿El corazón?
 	"""
 	msgClear
 	"""
