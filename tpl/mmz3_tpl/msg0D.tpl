@@ -5,25 +5,26 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 100
 	"""
-	Operator:
-	The facility's core
-	has not yet been
+	Operadora:
+	El núcleo de la
+	instalación
 	"""
 	msgClear
 	"""
-	activated.
+	aún no ha sido
+	activado.
 	"""
 	msgClear
 	"""
-	We'll need to
-	activate the core
-	and reestablish
+	Tendremos que
+	activar el núcleo
+	y restablecer
 	"""
 	msgClear
 	"""
-	facility opera-
-	tions to get into
-	the deeper areas.
+	las operaciones
+	para entrar a las
+	áreas profundas.
 	"""
 	end
 }
@@ -31,7 +32,7 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	What's this?
+	¿Qué es esto?
 	"""
 	end
 }
@@ -39,13 +40,13 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Teeheehee...
+	Tejejej...
 	"""
 	msgClear
 	"""
-	Hey! You weren't
-	supposed to see
-	this place.
+	¡Oye! No se suponía
+	que vieras este
+	lugar.
 	"""
 	msgClear
 	mugshotShow
@@ -57,40 +58,46 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 31
 	"""
-	This is a Dark Elf
-	copy factory.
+	Esta es una
+	fábrica de copias
+	del Dark Elf.
 	"""
 	msgClear
 	"""
-	We've got copies of
-	the Dark Elf
-	sleeping here.
+	Tenemos copias
+	del Dark Elf
+	durmiendo aquí.
 	"""
 	msgClear
 	"""
-	In other words,
-	Baby Elves.
+	En otras palabras,
+	Elfos Bebés.
 	"""
 	msgClear
 	"""
-	We had the factory
-	sealed off so
-	nobody'd get
+	Sellamos la fabrica
+	para que nadie
+	sospechara.
 	"""
 	msgClear
 	"""
-	suspicious. Now
-	you've done it!
+	¡Ahora sí que
+	lo arruinaste!
 	"""
 	msgClear
 	"""
-	I'll have to ensure
-	you remain silent
-	about this...
+	Tendré que
+	asegurarme de
+	que guardes
 	"""
 	msgClear
 	"""
-	...For-e-ver!
+	silencio sobre
+	esto...
+	"""
+	msgClear
+	"""
+	...¡Para siem-pre!
 	"""
 	end
 }
@@ -98,14 +105,15 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 15
 	"""
-	I am Cubit Foxtar,
-	member of Weil's
-	Numbers!
+	Soy Cubit Foxtar,
+	miembro de los
+	Numbers de Weil.
 	"""
 	msgClear
 	"""
-	I'll make sure you
-	never talk again!
+	¡Me aseguraré
+	de que nunca
+	vuelvas a hablar!
 	"""
 	end
 }
@@ -113,15 +121,15 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 14
 	"""
-	Teehee! That's it!
-	See what happens
-	to nosy people!
+	¡Tejej! ¡Eso es!
+	¡Mira lo que les
+	pasa a los curiosos!
 	"""
 	msgClear
 	"""
-	Relax! I'll show you
-	the way to the
-	afterlife.
+	¡Tranquilo! Te
+	mostraré el
+	camino al más allá.
 	"""
 	end
 }
@@ -129,57 +137,67 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 14
 	"""
-	If I am defeated,
-	this room will cease
-	functioning,
+	Si soy derrotado,
+	esta sala dejará
+	de funcionar,
 	"""
 	msgClear
 	"""
-	and the copies will
-	all die...
+	y todas las
+	copias morirán...
 	"""
 	msgClear
 	"""
-	There will be no
-	proof. Nobody will
-	know the truth.
+	No habrá
+	pruebas. Nadie
+	sabrá la verdad.
 	"""
 	msgClear
 	"""
-	And anyway...
+	Y además...
 	"""
 	msgClear
 	"""
-	We don't actually
-	need the Baby Elves.
-	The Dark Elf alone
+	En realidad no
+	necesitamos a
+	los Elfos Bebé.
 	"""
 	msgClear
 	"""
-	will be enough to
-	take care of the
-	Reploids...
+	Solo el Dark Elf
+	bastará para
+	encargarse de
 	"""
 	msgClear
 	"""
-	I can already see
-	it... The shining
-	future, the new
+	los Reploides...
 	"""
 	msgClear
 	"""
-	world Lord Weil is
-	about to create...
+	Ya puedo verlo...
+	El brillante
+	futuro, el nuevo
 	"""
 	msgClear
 	"""
-	And I see...you,
-	wallowing in the
-	depths of despair!
+	mundo que
+	Lord Weil está
+	por crear...
 	"""
 	msgClear
 	"""
-	Teeheeheeeeeee!
+	Y también te
+	veo a ti,
+	hundiéndote en
+	"""
+	msgClear
+	"""
+	las profundidades
+	de la desesperación.
+	"""
+	msgClear
+	"""
+	¡Tejejeeeee!
 	"""
 	end
 }

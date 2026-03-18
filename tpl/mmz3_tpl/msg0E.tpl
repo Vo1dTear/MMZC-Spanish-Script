@@ -5,24 +5,25 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 109
 	"""
-	Ah, Mr. Zero!
+	¡Ah, Sr. Zero!
 	"""
 	msgClear
 	"""
-	The enemy is
-	waiting in ambush up
-	ahead...
+	El enemigo está
+	esperando en una
+	emboscada adelante...
 	"""
 	msgClear
 	"""
-	There's no way we
-	can break through.
+	No hay forma de
+	que podamos
+	abrirnos paso.
 	"""
 	msgClear
 	"""
-	Mr. Zero, if you can
-	make an opening,
-	we'll follow you.
+	Sr. Zero, si puede
+	abrirnos paso,
+	lo seguiremos.
 	"""
 	end
 }
@@ -30,7 +31,7 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Is that it?
+	¿Eso es todo?
 	"""
 	end
 }
@@ -38,29 +39,34 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 33
 	"""
-	Hah!
+	¡Ja!
 	"""
 	msgClear
 	"""
-	That container was
-	on Omega's ship. So
-	you see, it's ours.
+	Ese contenedor
+	estaba en la nave
+	de Omega. Así que
 	"""
 	msgClear
 	"""
-	Has the legendary
-	hero stooped to
-	thievery?
+	ya ves, nos
+	pertenece.
 	"""
 	msgClear
 	"""
-	How deplorable.
+	¿El héroe
+	legendario ha
+	caído en el robo?
 	"""
 	msgClear
 	"""
-	As king of the Snow
-	Plains, I do hereby
-	judge your crime.
+	Qué deplorable.
+	"""
+	msgClear
+	"""
+	Como rey de las
+	Llanuras Nevadas,
+	yo juzgo tu crimen.
 	"""
 	end
 }
@@ -68,19 +74,19 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 17
 	"""
-	I, Glacier Le
-	Cactank, of
-	Weil's Numbers,
+	Yo, Glacier Le
+	Cactank, de los
+	Numbers de Weil,
 	"""
 	msgClear
 	"""
-	have reached a
-	verdict.
+	he llegado a
+	un veredicto.
 	"""
 	msgClear
 	"""
-	The punishment for
-	thievery is death!
+	¡El castigo por
+	robar es la muerte!
 	"""
 	end
 }
@@ -88,13 +94,13 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 16
 	"""
-	Hah!
+	¡Ja!
 	"""
 	msgClear
 	"""
-	Consider your sins
-	from deep beneath
-	the silent snow!
+	¡Reflexiona sobre tus
+	pecados bajo la nieve
+	silenciosa!
 	"""
 	end
 }
@@ -102,23 +108,27 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 16
 	"""
-	Oh...my...
+	Oh... por...
 	"""
 	msgClear
 	"""
-	Not stopping at
-	thievery, you also
-	defy Lord Weil!?
+	No te basta con
+	robar, ¿¡también
+	desafías a
 	"""
 	msgClear
 	"""
-	Lord Weil's new
-	order will issue
-	judgment upon you!
+	Lord Weil!?
 	"""
 	msgClear
 	"""
-	Arrrrgh!
+	¡El nuevo orden de
+	Lord Weil dictará
+	sentencia sobre ti!
+	"""
+	msgClear
+	"""
+	¡Arrrrgh!
 	"""
 	end
 }
@@ -126,21 +136,20 @@ script 6 mmz3 {
 	mugshotShow
 		mugshot = 109
 	"""
-	We've discovered
-	data inside the
-	container!
+	¡Hemos encontrado
+	datos dentro
+	del contenedor!
 	"""
 	msgClear
 	"""
-	Mr. Zero!
-	We've recovered all
-	of the data!
+	¡Sr. Zero!
+	¡Recuperamos
+	todos los datos!
 	"""
 	msgClear
 	"""
-	I will continue
-	searching for more
-	data.
+	Continuaré buscando
+	más datos.
 	"""
 	end
 }
@@ -148,11 +157,11 @@ script 7 mmz3 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: Mission completed.
+	Operadora: Misión cumplida.
 	"""
 	msgClear
 	"""
-	Commencing transfer.
+	Iniciando transferencia.
 	"""
 	end
 }

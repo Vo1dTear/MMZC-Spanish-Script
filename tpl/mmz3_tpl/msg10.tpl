@@ -8,30 +8,34 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 21
 	"""
-	Grrr... So you're
-	Zerrooo?
+	Grrr... ¿Así que
+	eres Zero?
 	"""
 	msgClear
 	"""
-	You're so tiny, I
-	almost stepped on
-	yah!
+	¡Eres tan pequeño
+	que casi te
+	pisoteo!
 	"""
 	msgClear
 	"""
-	My name is Tretista
-	Kelverian, of Weil's
-	Numbers.
+	Mi nombre es Tretista
+	Kelverian, de los
+	Numbers de Weil.
 	"""
 	msgClear
 	"""
-	Your neck is so
-	tiny... I'll snap it
-	with one chomp!
+	Tu cuello es tan
+	pequeño... ¡te
+	lo romperé de
 	"""
 	msgClear
 	"""
-	Grrrrrrr!
+	un solo mordisco!
+	"""
+	msgClear
+	"""
+	¡Grrrrrrr!
 	"""
 	end
 }
@@ -39,18 +43,18 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 20
 	"""
-	What's this?
+	¿Qué es esto?
 	"""
 	msgClear
 	"""
-	Ahh, I must've
-	stepped on you.
+	Ahh, debo haberte
+	pisado.
 	"""
 	msgClear
 	"""
-	You're so tiny, I
-	didn't even realize
-	it!
+	¡Eres tan pequeño
+	que ni siquiera
+	me di cuenta!
 	"""
 	end
 }
@@ -58,23 +62,23 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 20
 	"""
-	Huh?
-	Zero... Where did
-	you go? I don't
+	¿Eh?
+	Zero... ¿Dónde
+	fuiste? No te
 	"""
 	msgClear
 	"""
-	see you...
+	veo...
 	"""
 	msgClear
 	"""
-	And my whole body
-	hurts... Ouch...
-	Oouuuch!
+	¡Y todo mi cuerpo
+	duele... Ay...
+	Aaaay!
 	"""
 	msgClear
 	"""
-	Gaarrrwwwrrr!
+	¡Gaarrrwwwrrr!
 	"""
 	end
 }
