@@ -1402,8 +1402,8 @@ script 98 mmz3 {
 	"""
 	msgClear
 	"""
-	Weil, analizando
-	datos del pasado.
+	Weil, analizando los
+	datos previos.
 	"""
 	msgClear
 	"""
@@ -1432,8 +1432,8 @@ script 99 mmz3 {
 	"""
 	msgClear
 	"""
-	Weil, analizando
-	datos del pasado.
+	Weil, analizando los
+	datos previos.
 	"""
 	msgClear
 	"""

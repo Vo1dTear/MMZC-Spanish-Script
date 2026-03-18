@@ -5398,7 +5398,7 @@ script 992 mmz3 {
 }
 script 993 mmz3 {
 	"""
-	Elf Wars
+	Guerras Élficas
 	"""
 	end
 }

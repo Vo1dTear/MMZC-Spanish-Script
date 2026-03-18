@@ -465,7 +465,7 @@ script 11 mmz3 {
 	msgClear
 	"""
 	Por suerte, la
-	lesión no es
+	herida no es
 	profunda, así que
 	"""
 	msgClear
@@ -1974,7 +1974,7 @@ script 94 mmz3 {
 	msgClear
 	"""
 	He ayudado a muchos
-	Reploides lesionados,
+	Reploides heridos,
 	pero...
 	"""
 	msgClear
@@ -2726,7 +2726,7 @@ script 117 mmz3 {
 	msgClear
 	"""
 	Harpuia está
-	lesionado y
+	herido y
 	durmiendo en
 	"""
 	msgClear
@@ -4509,7 +4509,7 @@ script 186 mmz3 {
 	msgClear
 	"""
 	Gracias por
-	salvarme	aquella
+	salvarme aquella
 	vez.
 	"""
 	msgClear
