@@ -12,12 +12,12 @@ BUILD_DIR="build"
 FINAL_PATH="$BUILD_DIR/$OUTPUT_NAME"
 
 # --- Compiler optimization flags ---
-CXXFLAGS="-std=c++17 -O3 -flto -ffunction-sections -fdata-sections -fomit-frame-pointer -Wall"
-LDFLAGS="-shared -flto -Wl,--gc-sections"
+CXXFLAGS="-std=c++17 -Oz -flto -ffunction-sections -fdata-sections -fomit-frame-pointer -fvisibility=hidden -fno-exceptions -fno-rtti -fno-unwind-tables -fno-asynchronous-unwind-tables -march=x86-64 -mtune=generic -Wall"
+LDFLAGS="-shared -flto -fuse-ld=lld -Wl,--gc-sections -Wl,--icf=all -Wl,--build-id=none"
 
 # --- Toolchain binaries ---
-CXX="x86_64-w64-mingw32-g++"
-STRIP="x86_64-w64-mingw32-strip"
+CXX="clang++"
+STRIP="llvm-strip"
 
 # --- Color helpers ---
 green="\033[1;32m"
@@ -33,11 +33,9 @@ if [[ "$1" == "--help" || "$1" == "-h" ]]; then
     echo
     echo -e "Options:"
     echo -e "  ${yellow}clean${reset}   Remove all build files and generated headers."
-    echo -e "  ${yellow}fast${reset}    Compile directly with g++ (no CMake, quick build)."
     echo -e "  ${yellow}[none]${reset}  Perform a full CMake build (default)."
     echo
     echo -e "Example:"
-    echo -e "  ./build.sh fast"
     echo -e "  ./build.sh clean"
     echo
     exit 0
@@ -64,29 +62,15 @@ if [[ "$1" == "clean" ]]; then
     exit 0
 fi
 
-# --- Fast build mode (direct g++ compile, no CMake) ---
-if [[ "$1" == "fast" ]]; then
-    echo -e "${cyan}[*] Building with g++ (fast mode, Release)...${reset}"
-    mkdir -p "$BUILD_DIR"
-    $CXX $CXXFLAGS $LDFLAGS -o "$FINAL_PATH" dllmain.cpp pch.cpp
-
-    echo -e "${cyan}[*] Stripping debug symbols...${reset}"
-    $STRIP "$FINAL_PATH"
-
-    SIZE=$(du -h "$FINAL_PATH" | cut -f1)
-    echo -e "${green}[✔] Build complete: $FINAL_PATH (${SIZE})${reset}"
-    exit 0
-fi
-
 # --- Full CMake build mode ---
 echo -e "${cyan}[*] Building with CMake (full mode, Release)...${reset}"
 rm -rf "$BUILD_DIR"
 mkdir -p "$BUILD_DIR" && cd "$BUILD_DIR"
 
-cmake .. -DCMAKE_TOOLCHAIN_FILE=../toolchain-mingw.cmake \
+cmake .. -DCMAKE_TOOLCHAIN_FILE=../toolchain-clang.cmake \
          -DCMAKE_BUILD_TYPE=Release \
          -DCMAKE_CXX_FLAGS_RELEASE="$CXXFLAGS" \
-         -DCMAKE_EXE_LINKER_FLAGS_RELEASE="$LDFLAGS"
+         -DCMAKE_SHARED_LINKER_FLAGS_RELEASE="$LDFLAGS"
 
 make -j"$(nproc)"
 cd ..
