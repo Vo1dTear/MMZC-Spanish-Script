@@ -55,7 +55,7 @@ Loading Mod DLL: mods\MMZC Spanish Script\MMZC Spanish Script.dll
 ### Linux Build
 
 Requirements:
-- MinGW (cross-compilation toolchain)
+- Clang/LLVM (cross-compilation toolchain for Windows)
 - Python 3.6+
 - CMake ≥ 3.10
 - Wine — required to run **TextPet.exe** and **EncodeFont.exe**
