@@ -40,7 +40,7 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Tejejej...
+	Tijijij...
 	"""
 	msgClear
 	"""
@@ -121,15 +121,15 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 14
 	"""
-	¡Tejej! ¡Eso es!
+	¡Tijij! ¡Eso es!
 	¡Mira lo que les
 	pasa a los curiosos!
 	"""
 	msgClear
 	"""
 	¡Tranquilo! Te
-	mostraré el
-	camino al más allá.
+	mostraré el camino
+	al más allá.
 	"""
 	end
 }
@@ -197,7 +197,7 @@ script 5 mmz3 {
 	"""
 	msgClear
 	"""
-	¡Tejejeeeee!
+	¡Tijijiiii!
 	"""
 	end
 }
