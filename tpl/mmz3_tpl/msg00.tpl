@@ -720,7 +720,6 @@ script 50 mmz3 {
 script 51 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -739,7 +738,6 @@ script 51 mmz3 {
 script 52 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -758,7 +756,6 @@ script 52 mmz3 {
 script 53 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -777,7 +774,6 @@ script 53 mmz3 {
 script 54 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -796,7 +792,6 @@ script 54 mmz3 {
 script 55 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -815,7 +810,6 @@ script 55 mmz3 {
 script 56 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -834,7 +828,6 @@ script 56 mmz3 {
 script 57 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -853,7 +846,6 @@ script 57 mmz3 {
 script 58 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -872,7 +864,6 @@ script 58 mmz3 {
 script 59 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -891,7 +882,6 @@ script 59 mmz3 {
 script 60 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -910,7 +900,6 @@ script 60 mmz3 {
 script 61 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -929,7 +918,6 @@ script 61 mmz3 {
 script 62 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -948,7 +936,6 @@ script 62 mmz3 {
 script 63 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -967,7 +954,6 @@ script 63 mmz3 {
 script 64 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -986,7 +972,6 @@ script 64 mmz3 {
 script 65 mmz3 {
 	mugshotShow
 		mugshot = 98
-	textColorWhite
 	"""
 	¿
 	"""
@@ -2973,14 +2958,17 @@ script 210 mmz3 {
 	mugshotShow
 		mugshot = 2
 	msgBottom
+	"""
+	¡
+	"""
 	textColorRed
 	"""
-	Zero's
+	Zero
 	"""
 	textColorWhite
 	"""
 	 mini game
-	added!
+	añadido!
 	"""
 	end
 }
@@ -2988,14 +2976,17 @@ script 211 mmz3 {
 	mugshotShow
 		mugshot = 2
 	msgBottom
+	"""
+	¡
+	"""
 	textColorRed
 	"""
-	Ciel's
+	Ciel
 	"""
 	textColorWhite
 	"""
 	 mini game
-	added!
+	añadido!
 	"""
 	end
 }
@@ -3003,14 +2994,17 @@ script 212 mmz3 {
 	mugshotShow
 		mugshot = 2
 	msgBottom
+	"""
+	¡
+	"""
 	textColorRed
 	"""
-	Copy X's
+	Copy X
 	"""
 	textColorWhite
 	"""
 	 mini game
-	added!
+	añadido!
 	"""
 	end
 }
@@ -3018,14 +3012,17 @@ script 213 mmz3 {
 	mugshotShow
 		mugshot = 2
 	msgBottom
+	"""
+	¡
+	"""
 	textColorRed
 	"""
-	Harpuia's
+	Harpuia
 	"""
 	textColorWhite
 	"""
 	 mini game
-	added!
+	añadido!
 	"""
 	end
 }
@@ -3033,14 +3030,17 @@ script 214 mmz3 {
 	mugshotShow
 		mugshot = 2
 	msgBottom
+	"""
+	¡
+	"""
 	textColorRed
 	"""
-	Fefnir's
+	Fefnir
 	"""
 	textColorWhite
 	"""
 	 mini game
-	added!
+	añadido!
 	"""
 	end
 }
@@ -3048,14 +3048,17 @@ script 215 mmz3 {
 	mugshotShow
 		mugshot = 2
 	msgBottom
+	"""
+	¡
+	"""
 	textColorRed
 	"""
-	Leviathan's
+	Leviathan
 	"""
 	textColorWhite
 	"""
 	 mini game
-	added!
+	añadido!
 	"""
 	end
 }
@@ -3063,14 +3066,17 @@ script 216 mmz3 {
 	mugshotShow
 		mugshot = 2
 	msgBottom
+	"""
+	¡
+	"""
 	textColorRed
 	"""
-	Phantom's
+	Phantom
 	"""
 	textColorWhite
 	"""
 	 mini game
-	added!
+	añadido!
 	"""
 	end
 }
@@ -3078,19 +3084,22 @@ script 217 mmz3 {
 	mugshotShow
 		mugshot = 2
 	msgBottom
+	"""
+	¡
+	"""
 	textColorRed
 	"""
 	Hard Mode
 	"""
 	textColorWhite
 	"""
-	 added!
+	 añadido!
 	"""
 	msgClear
 	"""
-	Play in Hard Mode by
-	holding the L BUTTON down
-	while selecting NEW GAME.
+	Juega en Hard Mode
+	manteniendo L BUTTON
+	al elegir NEW GAME
 	"""
 	end
 }
@@ -3098,19 +3107,22 @@ script 218 mmz3 {
 	mugshotShow
 		mugshot = 2
 	msgBottom
+	"""
+	¡
+	"""
 	textColorRed
 	"""
 	Ultimate Mode
 	"""
 	textColorWhite
 	"""
-	 added!
+	 añadido!
 	"""
 	msgClear
 	"""
-	Play in Ultimate Mode by
-	holding the R BUTTON down
-	while selecting NEW GAME.
+	Juega en Ultimate Mode
+	manteniendo R BUTTON
+	al elegir NEW GAME
 	"""
 	end
 }
