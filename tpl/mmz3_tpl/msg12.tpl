@@ -8,18 +8,19 @@ script 1 mmz3 {
 	mugshotShow
 		mugshot = 23
 	"""
-	Yaaaaah!
+	¡Yaaaaah!
 	"""
 	msgClear
 	"""
-	I love Lord Weil's
-	new world! So hot!
+	¡Me encanta el nuevo
+	mundo del Lord Weil!
+	¡Es tan caliente!
 	"""
 	msgClear
 	"""
-	I won't let you get
-	in the way! I'll
-	turn you to ashes!
+	¡No dejaré que te
+	interpongas! ¡Te
+	reduciré a cenizas!
 	"""
 	end
 }
@@ -27,13 +28,17 @@ script 2 mmz3 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Yaaaaaaah!
+	¡Yaaaaaaah!
 	"""
 	msgClear
 	"""
-	Inscribe his name
-	on the world! Our
-	ruler, Dr. Weeeeiil!
+	¡Graben su nombre
+	en el mundo!
+	¡Nuestro gobernante,
+	"""
+	msgClear
+	"""
+	el Dr. Weeeeil!
 	"""
 	end
 }
@@ -41,17 +46,22 @@ script 3 mmz3 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Yaah...hot...so hot!
+	Yaaah... caliente...
+	¡tan caliente!
 	"""
 	msgClear
 	"""
-	I hope you writhe in
-	pain, alone in the
-	new world!
+	¡Espero que te
+	retuerzas de dolor,
+	solo en este
 	"""
 	msgClear
 	"""
-	Yaahaaah!
+	nuevo mundo!
+	"""
+	msgClear
+	"""
+	¡Yaahaaah!
 	"""
 	end
 }
@@ -59,24 +69,28 @@ script 4 mmz3 {
 	mugshotShow
 		mugshot = 25
 	"""
-	You dunderhead!
+	¡Cabeza hueca!
 	"""
 	msgClear
 	"""
-	Lord Weil's ideals
-	were set in motion a
-	century ago!
+	¡Los ideales del
+	Lord Weil se pusieron
+	en marcha hace un
 	"""
 	msgClear
 	"""
-	Who are you to
-	complain now! Get
-	with the times!
+	siglo!
 	"""
 	msgClear
 	"""
-	Do you wanna get left
-	behind?
+	¿Y tú quién eres
+	para quejarte ahora?
+	¡Ponte al día!
+	"""
+	msgClear
+	"""
+	¿Quieres quedarte
+	atrás?
 	"""
 	end
 }
@@ -84,13 +98,13 @@ script 5 mmz3 {
 	mugshotShow
 		mugshot = 8
 	"""
-	You sure are slow-
-	witted!
+	¡Sí que eres
+	lento de mente!
 	"""
 	msgClear
 	"""
-	The times have past
-	you by!
+	¡Los tiempos ya
+	te han dejado atrás!
 	"""
 	end
 }
@@ -98,33 +112,33 @@ script 6 mmz3 {
 	mugshotShow
 		mugshot = 8
 	"""
-	*ooph!*
+	*¡ugh!*
 	"""
 	msgClear
 	"""
-	You can hurry as
-	fast as you want...
+	Puedes apresurarte
+	todo lo que
+	quieras...
 	"""
 	msgClear
 	"""
-	But you'll never
-	catch up with a
-	history that has
+	Pero jamás
+	alcanzarás una
+	historia que ya
 	"""
 	msgClear
 	"""
-	already passed you
-	by...
+	te ha dejado atrás...
 	"""
 	msgClear
 	"""
-	You'll be trailing
-	behind Lord Weil
-	forever!
+	¡Siempre irás
+	detrás de
+	Lord Weil!
 	"""
 	msgClear
 	"""
-	*grimace* Arrrggh!
+	*mueca* ¡Arrrggh!
 	"""
 	end
 }
@@ -132,25 +146,29 @@ script 7 mmz3 {
 	mugshotShow
 		mugshot = 27
 	"""
-	You sure are a
-	boisterous lout.
+	Vaya, qué
+	alborotador eres.
 	"""
 	msgClear
 	"""
-	Knock quietly next
-	time. Where are your
-	manners?
+	La próxima vez, llama
+	con más discreción.
+	¿Dónde están tus
 	"""
 	msgClear
 	"""
-	You have no right
-	to live in this new
-	world.
+	modales?
 	"""
 	msgClear
 	"""
-	So I'll see that
-	you don't!
+	No tienes derecho
+	a vivir en este
+	nuevo mundo.
+	"""
+	msgClear
+	"""
+	Así que me aseguraré
+	de que no lo hagas.
 	"""
 	end
 }
@@ -158,13 +176,17 @@ script 8 mmz3 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Go back home.
+	Regresa a casa.
 	"""
 	msgClear
 	"""
-	Back to the depths,
-	where you slept all
-	those years away!
+	¡Vuelve a las
+	profundidades,
+	donde dormiste
+	"""
+	msgClear
+	"""
+	todos esos años!
 	"""
 	end
 }
@@ -176,19 +198,23 @@ script 9 mmz3 {
 	"""
 	msgClear
 	"""
-	You silly...
-	...inconsiderate..
-	barbarian!
+	Eres un necio...
+	...incivilizado...
+	¡bárbaro!
 	"""
 	msgClear
 	"""
-	Your type won't
-	survive in the new
-	world that's coming!
+	Los de tu clase
+	no sobrevivirán
+	en el nuevo mundo
 	"""
 	msgClear
 	"""
-	Kekeke...kekeeee!
+	que se acerca.
+	"""
+	msgClear
+	"""
+	¡Kekeke...kekeeee!
 	"""
 	end
 }
@@ -196,19 +222,23 @@ script 10 mmz3 {
 	mugshotShow
 		mugshot = 29
 	"""
-	What's the use of
-	century-old junk
-	in this new world?
+	¿De qué sirve
+	chatarra de hace un
+	siglo en este nuevo
 	"""
 	msgClear
 	"""
-	I'll cut you down
-	and send you off to
-	the deadlands!
+	mundo?
 	"""
 	msgClear
 	"""
-	Chikachikachika!
+	¡Te despedazaré y
+	te enviaré al reino
+	de los muertos!
+	"""
+	msgClear
+	"""
+	¡Chikachikachika!
 	"""
 	end
 }
@@ -216,17 +246,17 @@ script 11 mmz3 {
 	mugshotShow
 		mugshot = 12
 	"""
-	Chika! Chikachika!
+	¡Chika! ¡Chikachika!
 	"""
 	msgClear
 	"""
-	Watch as I slice
-	your old world and
-	all your friends to
+	¡Mira cómo hago tiras
+	tu viejo mundo y a
+	todos tus amigos!
 	"""
 	msgClear
 	"""
-	ribbons! Chikaka!
+	¡Chikaka!
 	"""
 	end
 }
@@ -234,23 +264,24 @@ script 12 mmz3 {
 	mugshotShow
 		mugshot = 12
 	"""
-	How could I, the
-	newest and greatest,
-	lose to a century-
+	¡¿Cómo pude yo, el
+	más nuevo y el mejor,
+	perder contra un
 	"""
 	msgClear
 	"""
-	old piece of junk?!
+	montón de chatarra
+	de hace un siglo?!
 	"""
 	msgClear
 	"""
-	Impossible... No,
-	I don't want to die.
-	I don't want to die!
+	Imposible... No...
+	No quiero morir.
+	¡No quiero morir!
 	"""
 	msgClear
 	"""
-	Chikachikaaaaa!
+	¡Chikachikaaaaa!
 	"""
 	end
 }
@@ -258,24 +289,26 @@ script 13 mmz3 {
 	mugshotShow
 		mugshot = 31
 	"""
-	What are you doing
-	in a place like
-	this, little boy?
+	¿Qué haces en un
+	lugar como este,
+	niñito?
 	"""
 	msgClear
 	"""
-	It's your bedtime...
+	Ya es hora de
+	que te vayas
+	a dormir...
 	"""
 	msgClear
 	"""
-	You mustn't see the
-	world that lies
-	ahead, little boy.
+	No debes ver el
+	mundo que vendrá,
+	niñito.
 	"""
 	msgClear
 	"""
-	You mustn't survive
-	to see it!
+	¡No debes vivir
+	para verlo!
 	"""
 	end
 }
@@ -283,17 +316,18 @@ script 14 mmz3 {
 	mugshotShow
 		mugshot = 14
 	"""
-	Good night, little
-	boy.
+	Buenas noches,
+	niñito.
 	"""
 	msgClear
 	"""
-	I don't expect
-	you'll wake again!
+	¡No creo que
+	vuelvas a
+	despertar!
 	"""
 	msgClear
 	"""
-	Teeheehee!
+	¡Tijijij!
 	"""
 	end
 }
@@ -302,29 +336,37 @@ script 15 mmz3 {
 		mugshot = 14
 	"""
 	Arrgh...
-	No need to throw
-	a temper tantrum...
+	No hace falta
+	que te alteres...
 	"""
 	msgClear
 	"""
-	All your struggles
-	will be in vain.
+	Todos tus esfuerzos
+	serán en vano.
 	"""
 	msgClear
 	"""
-	That's right.
+	Así es.
 	"""
 	msgClear
 	"""
-	You're no hero. And
-	you're no God of
-	Destruction, either.
+	No eres un héroe.
+	Y tampoco eres un
+	Dios de la
 	"""
 	msgClear
 	"""
-	There's...nothing...
-	you...can...do...
-	Arrrrrgh!
+	Destrucción.
+	"""
+	msgClear
+	"""
+	No hay... nada...
+	que... puedas...
+	hacer...
+	"""
+	msgClear
+	"""
+	¡Arrrrgh!
 	"""
 	end
 }
@@ -332,24 +374,24 @@ script 16 mmz3 {
 	mugshotShow
 		mugshot = 33
 	"""
-	Hah!
+	¡Ja!
 	"""
 	msgClear
 	"""
-	First thievery, and
-	now unlawful entry!
-	How outrageous!
+	¡Primero robo, y
+	ahora allanamiento!
+	¡Qué indignante!
 	"""
 	msgClear
 	"""
-	There is no mercy
-	for those who
-	disrupt the order!
+	¡No hay piedad
+	para quienes
+	alteran el orden!
 	"""
 	msgClear
 	"""
-	I sentence you...
-	to death!
+	Te condeno...
+	¡a muerte!
 	"""
 	end
 }
@@ -357,13 +399,13 @@ script 17 mmz3 {
 	mugshotShow
 		mugshot = 16
 	"""
-	Hah!
+	¡Ja!
 	"""
 	msgClear
 	"""
-	Those who disrupt
-	Lord Weil's world
-	must face my wrath!
+	¡Quienes alteren el
+	mundo del Lord Weil
+	enfrentarán mi ira!
 	"""
 	end
 }
@@ -371,19 +413,19 @@ script 18 mmz3 {
 	mugshotShow
 		mugshot = 16
 	"""
-	What is this? You
-	dare to defy my
-	judgment?!
+	¿Qué es esto? ¿Te
+	atreves a desafiar
+	mi juicio?
 	"""
 	msgClear
 	"""
-	Lord Weil...strike
-	down this foolish
-	one!
+	Lord Weil...
+	¡castiga a este
+	insensato!
 	"""
 	msgClear
 	"""
-	Ugghhh!!!
+	¡Ugghhh!!!
 	"""
 	end
 }
@@ -391,18 +433,18 @@ script 19 mmz3 {
 	mugshotShow
 		mugshot = 35
 	"""
-	Hehehehe!
+	¡Jejejeje!
 	"""
 	msgClear
 	"""
-	So you're back!
-	Back again, ready to
-	be broken!
+	¡Así que volviste!
+	Otra vez, listo
+	para ser destrozado!
 	"""
 	msgClear
 	"""
-	Hehehe! I'll do it,
-	I don't mind!
+	¡Jejeje! ¡Yo lo haré,
+	no me molesta!
 	"""
 	end
 }
@@ -410,13 +452,13 @@ script 20 mmz3 {
 	mugshotShow
 		mugshot = 18
 	"""
-	Hehehehehehe!
+	¡Jejejejejeje!
 	"""
 	msgClear
 	"""
-	Look at you!
-	You're broken now!
-	hehehe!
+	¡Mírate! ¡Ahora
+	estás destrozado!
+	¡Jejeje!
 	"""
 	end
 }
@@ -424,19 +466,19 @@ script 21 mmz3 {
 	mugshotShow
 		mugshot = 18
 	"""
-	Hehe...he...
-	You broke me!
+	Jeje...je...
+	¡Me rompiste!
 	"""
 	msgClear
 	"""
-	But you won't be
-	able to break Omega!
-	I guarantee that!
+	¡Pero no podrás
+	romper a Omega!
+	¡Te lo aseguro!
 	"""
 	msgClear
 	"""
-	Heheheheheheeee!
-	*groan*
+	¡Jejejejejejeeee!
+	*quejido*
 	"""
 	end
 }
@@ -444,20 +486,18 @@ script 22 mmz3 {
 	mugshotShow
 		mugshot = 37
 	"""
-	I am the guard dog
-	of Hades!
+	¡Soy el perro
+	guardián del Hades!
 	"""
 	msgClear
 	"""
-	Lord Weil instructed
-	me not to let you
-	in.
+	Lord Weil me ordenó
+	no dejarte pasar.
 	"""
 	msgClear
 	"""
-	I'll bite you to
-	chunks! Come and get
-	it!
+	¡Te despedazaré a
+	mordidas! ¡Ven!
 	"""
 	end
 }
@@ -465,13 +505,13 @@ script 23 mmz3 {
 	mugshotShow
 		mugshot = 20
 	"""
-	Grrarwooorrr!
+	¡Grrarwooorrr!
 	"""
 	msgClear
 	"""
-	There's not enough
-	meat on your bones!
-	I'm still hungry!
+	¡Te falta carne
+	en los huesos!
+	¡Sigo hambriento!
 	"""
 	end
 }
@@ -479,19 +519,19 @@ script 24 mmz3 {
 	mugshotShow
 		mugshot = 20
 	"""
-	H-how did this
-	happen? Why can't I
-	bite you to chunks?
+	¿C-cómo pasó
+	esto? ¿Por qué no
+	puedo despedazarte?
 	"""
 	msgClear
 	"""
-	Why do I hurt all
-	over again? Ouch.
-	Ouch. Ouuuuuch!!!
+	¿Por qué me duele
+	todo otra vez?
+	Ay... Ay... ¡Aaay!
 	"""
 	msgClear
 	"""
-	Grrauwruurrrr!
+	¡Grrauwruurrrr!
 	"""
 	end
 }
@@ -499,60 +539,61 @@ script 25 mmz3 {
 	mugshotShow
 		mugshot = 83
 	"""
-	Hehehehe...
+	Jejejeje...
 	"""
 	msgClear
 	"""
-	Having fun playing
-	the hero, Zero?
-	Hmmm?
+	¿Te diviertes
+	haciendo de héroe,
+	Zero? ¿Hmmm?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	You do understand,
-	don't you, that I
-	have no time for
+	¿Sabes, verdad,
+	que no tengo tiempo
+	para tus juegos
 	"""
 	msgClear
 	"""
-	your petty games?
+	insignificantes?
 	"""
 	msgClear
 	"""
-	So let's finish this
-	for once and for
-	all, shall we?
+	Así que acabemos
+	con esto de una vez
+	por todas, ¿sí?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 83
 	"""
-	Hehehehe...
-	How pitiful.
+	Jejejeje...
+	Qué patético.
 	"""
 	msgClear
 	"""
-	Of course, a Reploid
-	like you would never
-	understand.
+	Claro, un Reploide
+	como tú jamás
+	entendería.
 	"""
 	msgClear
 	"""
-	The joy of ruling
-	all that you see...
+	El placer de
+	gobernar todo lo
+	que ves...
 	"""
 	msgClear
 	"""
-	Only a human could
-	possibly understand!
+	¡Solo un humano
+	podría entenderlo!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	A...human?
+	¿Un...humano?
 	"""
 	end
 }
@@ -561,18 +602,18 @@ script 26 mmz3 {
 		mugshot = 83
 	msgBottom
 	"""
-	That's right!
-	I'm a bona fide
-	human.
+	¡Así es!
+	Soy un auténtico
+	humano.
 	"""
 	msgClear
 	"""
-	The creator of
-	Reploids...
+	El creador de los
+	Reploides...
 	"""
 	msgClear
 	"""
-	A human being!
+	¡Un ser humano!
 	"""
 	msgClear
 	mugshotShow
@@ -586,27 +627,27 @@ script 26 mmz3 {
 		mugshot = 83
 	msgBottom
 	"""
-	The desire for
-	power. The joy of
-	making everything
+	El deseo de poder.
+	El placer de hacer
+	que todo funcione
 	"""
 	msgClear
 	"""
-	work for you.
-	You have no way of
-	experiencing this
+	para ti.
+	No tienes forma de
+	experimentar esto
 	"""
 	msgClear
 	"""
-	without a human
-	brain. It's the
-	ultimate joy!
+	sin un cerebro
+	humano. ¡Es el
+	placer supremo!
 	"""
 	msgClear
 	"""
-	No mere Reploid
-	could ever
-	understand!
+	¡Ningún simple
+	Reploide podría
+	entenderlo!
 	"""
 	end
 }
@@ -614,37 +655,41 @@ script 27 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I bet most decent
-	humans wouldn't
-	understand, either.
+	Apuesto a que la
+	mayoría de humanos
+	decentes tampoco
 	"""
 	msgClear
 	"""
-	You look like just
-	another Maverick,
-	to me.
+	lo entendería.
 	"""
 	msgClear
 	"""
-	All I gotta do is
-	dispose of you like
-	any other Maverick.
+	Para mí, no eres más
+	que otro Maverick.
+	Solo debo acabar
+	"""
+	msgClear
+	"""
+	contigo como con
+	cualquier otro
+	Maverick.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 83
 	"""
-	Hehehehe...
+	Jejejeje...
 	"""
 	msgClear
 	"""
-	Good, good!
+	¡Bien, bien!
 	"""
 	msgClear
 	"""
-	An excellent speech,
-	Zero! You must feel
-	great, right?!
+	¡Excelente discurso,
+	Zero! Te sientes
+	genial, ¿verdad?
 	"""
 	end
 }
@@ -652,31 +697,31 @@ script 28 mmz3 {
 	mugshotShow
 		mugshot = 63
 	"""
-	Oh, oh ho, Zeeerroo!
+	Oh, oh ho, ¡Zeeerroo!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 83
 	"""
-	You were a fun guy,
-	Zero!
+	Eras divertido,
+	Zero.
 	"""
 	msgClear
 	"""
-	I'd like to play
-	some more, but it's
-	time we parted.
+	Me gustaría seguir
+	jugando, pero ya es
+	hora de separarnos.
 	"""
 	msgClear
 	"""
-	I have some more fun
-	surprises left in
-	store for you...
+	Aún tengo algunas
+	sorpresas divertidas
+	para ti...
 	"""
 	msgClear
 	"""
-	Enjoy them to the
-	last, Zero!
+	¡Disfrútalas hasta
+	el final, Zero!
 	"""
 	end
 }
@@ -684,33 +729,34 @@ script 29 mmz3 {
 	mugshotShow
 		mugshot = 63
 	"""
-	Grrr... Rarwrarr!
+	¡Grrr... Rarwrarr!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 83
 	"""
-	Hehehe...
-	Not bad, Zero.
+	Jejeje...
+	No está mal, Zero.
 	"""
 	msgClear
 	"""
-	But Omega's true
-	power is much
-	greater than you've
+	Pero el verdadero
+	poder de Omega es
+	mucho mayor de lo
 	"""
 	msgClear
 	"""
-	been led to expect.
+	que te han hecho
+	creer.
 	"""
 	msgClear
 	"""
-	Go get him, Omega!
+	¡Ve por él, Omega!
 	"""
 	msgClear
 	"""
-	Release the power of
-	the Dark Elf!!!
+	¡¡¡Libera el poder
+	del Dark Elf!!!
 	"""
 	end
 }
@@ -718,7 +764,7 @@ script 30 mmz3 {
 	mugshotShow
 		mugshot = 63
 	"""
-	GrrrrrrRRRRRAAWRR!!!
+	¡¡GrrrrrrRRRRRAAWRR!!
 	"""
 	end
 }
@@ -726,7 +772,7 @@ script 31 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	What is this place?
+	¿Qué es este lugar?
 	"""
 	end
 }
@@ -734,8 +780,8 @@ script 32 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	This is where I was
-	sleeping...
+	Este es el lugar
+	donde yo dormía...
 	"""
 	end
 }
@@ -743,20 +789,20 @@ script 33 mmz3 {
 	mugshotShow
 		mugshot = 83
 	"""
-	Hehehehehe!
-	Excellent, Zero!
+	¡Jejejejeje!
+	¡Excelente, Zero!
 	"""
 	msgClear
 	"""
-	Your power is extra-
-	ordinary, for a
-	mere fake.
+	Tu poder es extra-
+	ordinario, para ser
+	un simple falso.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Fake?!
+	¿¡Falso!?
 	"""
 	end
 }
@@ -764,33 +810,41 @@ script 34 mmz3 {
 	mugshotShow
 		mugshot = 83
 	"""
-	Hehehehe...
-	You, the legendary
-	Reploid? You fool!
+	Jejejeje...
+	¿Tú, el legendario
+	Reploide? ¡Idiota!
 	"""
 	msgClear
 	"""
-	Those Resistance
-	losers just decided
-	to call the Reploid
+	Esos perdedores de
+	la Resistencia solo
+	decidieron llamar
 	"""
 	msgClear
 	"""
-	they found here
-	"Zero" for some
-	reason...
+	"Zero" al Reploide
+	que encontraron aquí
+	por alguna razón...
 	"""
 	msgClear
 	"""
-	You may be Zero, in
-	a way, but you are
-	still merely a copy.
+	Puede que seas Zero,
+	en cierto modo,
+	pero sigues siendo
 	"""
 	msgClear
 	"""
-	You're no legendary
-	hero at all. You're
-	just a reproduction!
+	solo una copia.
+	"""
+	msgClear
+	"""
+	No eres ningún
+	héroe legendario.
+	"""
+	msgClear
+	"""
+	¡Solo eres una
+	reproducción!
 	"""
 	end
 }
@@ -798,67 +852,71 @@ script 35 mmz3 {
 	mugshotShow
 		mugshot = 83
 	"""
-	Hehehehe...
+	Jejejeje...
 	"""
 	msgClear
 	"""
-	You thought you were
-	a hero all along,
-	didn't you! Never
+	Creías que eras un
+	héroe todo este
+	tiempo, ¿verdad?
 	"""
 	msgClear
 	"""
-	suspecting that you
-	were a mere copy.
-	What a joke!
+	Sin sospechar que
+	eras solo una copia.
+	¡Qué ridículo!
 	"""
 	msgClear
 	"""
-	Omega himself is the
-	one and only,
-	original Zero!
+	¡El propio Omega es
+	el único y original
+	Zero!
 	"""
 	msgClear
 	"""
-	You're just a copy
-	of him!
+	¡Tú solo eres una
+	copia de él!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	The original Zero...
+	El Zero original...
 	"""
 	msgClear
 	"""
-	Why is he your
-	slave, then?
+	Entonces, ¿por qué
+	es tu esclavo?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 83
 	"""
-	Hmph!
-	He's a bloodthirsty
-	God of Destruction,
+	¡Hmph! Es un sangui-
+	nario Dios de la
+	Destrucción,
 	"""
 	msgClear
 	"""
-	All I did was
-	upgrade him to draw
-	out all his power!
+	Solo lo mejoré para
+	extraer todo su
+	poder.
 	"""
 	msgClear
 	"""
-	All right, Omega...
-	...or should I say
-	"Original Zero"!
+	Muy bien, Omega...
+	...¿o debería decir
+	"Zero original"?
 	"""
 	msgClear
 	"""
-	Time to wake this
-	pitiful fake from a
-	century-long dream!
+	¡Hora de despertar a
+	este patético falso
+	de su sueño de un
+	"""
+	msgClear
+	"""
+	siglo!
 	"""
 	end
 }
@@ -866,8 +924,8 @@ script 36 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	You plan to...
-	reactivate Omega?
+	¿Planeas...
+	reactivar a Omega?
 	"""
 	end
 }
@@ -875,31 +933,35 @@ script 37 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	*gulp!*
+	*¡gulp!*
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 83
 	"""
-	Hehehe...
-	Watch, but don't
-	interfere.
+	Jejeje...
+	Mira, pero no
+	interfieras.
 	"""
 	msgClear
 	"""
-	Don't forget...
+	No lo olvides...
 	"""
 	msgClear
 	"""
-	I hold the lives of
-	all humans and
-	Reploids in my hand!
+	¡Tengo las vidas de
+	todos los humanos y
+	Reploides en
+	"""
+	msgClear
+	"""
+	mis manos!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Erk!
+	¡Erk!
 	"""
 	end
 }
@@ -907,9 +969,9 @@ script 38 mmz3 {
 	mugshotShow
 		mugshot = 44
 	"""
-	Zero!
-	What are you doing?!
-	Hurry, stand up!!!
+	¡Zero!
+	¡¿Qué haces?!
+	¡Rápido, levántate!
 	"""
 	end
 }
@@ -917,13 +979,12 @@ script 39 mmz3 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Hey!
+	¡Oye!
 	"""
 	msgClear
 	"""
-	I'm here to get a
-	little payback,
-	Omega!
+	¡Vine a ajustar
+	cuentas, Omega!
 	"""
 	end
 }
@@ -931,8 +992,8 @@ script 40 mmz3 {
 	mugshotShow
 		mugshot = 46
 	"""
-	Time to straighten
-	the record!
+	¡Es hora de
+	aclarar esto!
 	"""
 	end
 }
@@ -940,31 +1001,31 @@ script 41 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	You guys!
+	¡Chicos!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 44
 	"""
-	Weil is trying to
-	bluff you...
+	Weil intenta
+	engañarte...
 	"""
 	msgClear
 	"""
-	He can't do anything
-	in his current
-	state.
+	No puede hacer nada
+	en su estado
+	actual.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 83
 	"""
-	Argh!
-	Dark Elf!
+	¡Argh!
+	¡Dark Elf!
 	"""
 	msgClear
 	"""
-	Shut them up!
+	¡Hazlos callar!
 	"""
 	end
 }
@@ -972,13 +1033,13 @@ script 42 mmz3 {
 	mugshotShow
 		mugshot = 57
 	"""
-	Zeeeerroooo!
+	¡Zeeeerroooo!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 115
 	"""
-	What is it, Dark
+	¡¿Qué ocurre, Dark
 	Elf?!
 	"""
 	end
@@ -987,79 +1048,84 @@ script 43 mmz3 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Her...
+	Ella...
 	"""
 	msgClear
 	"""
-	The Dark Elf's
-	curse is fading...
+	La maldición del
+	Dark Elf se está
+	desvaneciendo...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 83
 	"""
-	Who's that! X?!
+	¿Quién es ese? ¡¿X?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 52
 	"""
-	That's right, Weil.
-	Just like a century
-	ago...
+	Así es, Weil.
+	Como hace un siglo...
 	"""
 	msgClear
 	"""
-	I worked with Zero
-	to defeat this
-	Omega then...
+	Trabajé con Zero
+	para derrotar a
+	Omega entonces...
 	"""
 	msgClear
 	"""
-	And we saved the
-	world from your
-	greedy clutches.
+	Y salvamos al mundo
+	de tus garras
+	avaras.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Just like...a
-	century ago?
+	¿Como hace... un
+	siglo?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 52
 	"""
-	The defeated Omega
-	is using your
-	original body.
+	El Omega derrotado
+	usa tu cuerpo
+	original.
 	"""
 	msgClear
 	"""
-	That's all...
+	Es así de simple...
 	"""
 	msgClear
 	"""
-	Your current body
-	may be a copy...
+	Tu cuerpo actual
+	puede ser una
+	copia...
 	"""
 	msgClear
 	"""
-	But your heart is
-	the real thing.
+	Pero tu corazón
+	es el verdadero.
 	"""
 	msgClear
 	"""
-	All right, now's the
-	time. While the Dark
-	Elf's power is weak.
+	Bien, ahora es el
+	momento. Mientras el
+	poder del Dark Elf
 	"""
 	msgClear
 	"""
-	Time to finish what
-	you started a
-	century ago, Zero!
+	es débil.
+	"""
+	msgClear
+	"""
+	¡Hora de terminar
+	lo que empezaste
+	hace un siglo, Zero!
 	"""
 	end
 }
@@ -1067,39 +1133,39 @@ script 44 mmz3 {
 	mugshotShow
 		mugshot = 83
 	"""
-	Zero, don't do it!!!
+	¡Zero, no lo hagas!
 	"""
 	msgClear
 	"""
-	That's your original
-	body! Don't you feel
-	any attachment?!
+	¡Ese es tu cuerpo
+	original! ¿No sientes
+	ningún apego?
 	"""
 	msgClear
 	"""
-	Are you really
-	prepared to spend
-	the rest of your
+	¿De verdad estás
+	dispuesto a pasar
+	el resto de tu vida
 	"""
 	msgClear
 	"""
-	life in that cheap
-	fake?!
+	en esa copia
+	barata?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 52
 	"""
-	You can do it.
+	Puedes hacerlo.
 	"""
 	msgClear
 	"""
-	You know what's
-	truly important.
+	Sabes qué es lo
+	realmente importante.
 	"""
 	msgClear
 	"""
-	Go on, Zero!
+	¡Adelante, Zero!
 	"""
 	end
 }
@@ -1112,7 +1178,7 @@ script 45 mmz3 {
 	"""
 	msgClear
 	"""
-	Wake up...
+	Despierta...
 	Zero...
 	"""
 	end
@@ -1121,19 +1187,19 @@ script 46 mmz3 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Can you hear me,
+	¿Puedes oírme,
 	Zero?
 	"""
 	msgClear
 	"""
-	My energy is almost
-	all spent.
+	Mi energía está
+	casi agotada.
 	"""
 	msgClear
 	"""
-	I can't...stay in
-	this world...much
-	longer.
+	No puedo...
+	quedarme en este
+	mundo... mucho más.
 	"""
 	msgClear
 	"""
@@ -1141,26 +1207,26 @@ script 46 mmz3 {
 	"""
 	msgClear
 	"""
-	I want to leave this
-	world in your care.
+	Quiero dejar este
+	mundo en tus manos.
 	"""
 	msgClear
 	"""
-	The threat Weil
-	represents has not
-	left this world.
+	La amenaza que
+	representa Weil
+	no ha desaparecido.
 	"""
 	msgClear
 	"""
-	I want you...to
-	protect humans and
-	Reploids.
+	Quiero que...
+	protejas a humanos
+	y Reploides.
 	"""
 	msgClear
 	"""
 	Ze...ro...
-	You can do it...
-	You...can...
+	Puedes hacerlo...
+	Tú... puedes...
 	"""
 	end
 }
@@ -1168,7 +1234,7 @@ script 47 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero, wake up!
+	¡Zero, despierta!
 	"""
 	end
 }
@@ -1176,25 +1242,25 @@ script 48 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	Zero!
+	¡Zero!
 	"""
 	msgClear
 	"""
-	Ah, what a relief!
-	I was so worried
-	about you...
+	¡Ah, qué alivio!
+	Estaba tan preocupada
+	por ti...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 108
 	"""
-	Mr. Zero! You've
-	regained
-	consciousness!
+	¡Sr. Zero! Ha
+	recuperado la
+	consciencia.
 	"""
 	msgClear
 	"""
-	What a relief...
+	Qué alivio...
 	"""
 	end
 }
@@ -1202,13 +1268,13 @@ script 49 mmz3 {
 	mugshotShow
 		mugshot = 108
 	"""
-	Hey! Everyone!
+	¡Oigan! ¡Todos!
 	"""
 	msgClear
 	"""
-	Mr. Zero is awake!
-	He's all right!
-	Yahooo!!!
+	¡El Sr. Zero está
+	despierto! ¡Está
+	bien! ¡Yujuu!
 	"""
 	end
 }
@@ -1216,12 +1282,13 @@ script 50 mmz3 {
 	mugshotShow
 		mugshot = 5
 	"""
-	Where is this...the
-	Resistance Base?
+	¿Dónde estoy...
+	la Base de la
+	Resistencia?
 	"""
 	msgClear
 	"""
-	Who could have...?
+	¿Quién pudo haber...?
 	"""
 	end
 }
@@ -1238,18 +1305,19 @@ script 52 mmz3 {
 		mugshot = 5
 	msgBottom
 	"""
-	Dark Elf?
+	¿Dark Elf?
 	"""
 	msgClear
 	"""
-	Wait, no. You are...
+	Espera... no.
+	Tú eres...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 67
 	"""
-	She brought you back
-	here.
+	Ella te trajo
+	de vuelta aquí.
 	"""
 	msgClear
 	mugshotShow
@@ -1261,8 +1329,8 @@ script 52 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	What a warm, gentle
-	light...
+	Qué luz tan cálida
+	y suave...
 	"""
 	msgClear
 	mugshotShow
@@ -1272,8 +1340,8 @@ script 52 mmz3 {
 	"""
 	msgClear
 	"""
-	Has Weil's curse
-	been broken?
+	¿Se ha roto la
+	maldición de Weil?
 	"""
 	end
 }
@@ -1282,20 +1350,20 @@ script 53 mmz3 {
 		mugshot = 5
 	msgBottom
 	"""
-	Shouldn't we follow
-	her?
+	¿No deberíamos
+	seguirla?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 64
 	"""
-	She's finally free.
+	Por fin es libre.
 	"""
 	msgClear
 	"""
-	There's still Weil,
-	but let's let her go
-	in peace for now.
+	Aún está Weil,
+	pero dejémosla ir
+	en paz por ahora.
 	"""
 	end
 }
@@ -1303,46 +1371,46 @@ script 54 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	X told me about you,
+	X me habló de ti,
 	Zero.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	Really...
+	Ya veo...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 64
 	"""
-	I know you're not
-	worried about a
-	thing, but...
+	Sé que no te
+	preocupa nada,
+	pero...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	?
+	¿?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 64
 	"""
-	Even if your body is
-	a copy...
+	Aunque tu cuerpo
+	sea una copia...
 	"""
 	msgClear
 	"""
-	As long as your
-	heart is your own,
-	you are Zero.
+	Mientras tu corazón
+	sea tuyo, eres
+	Zero.
 	"""
 	msgClear
 	"""
-	The one and only,
-	Zero...
+	El único,
+	el verdadero Zero...
 	"""
 	end
 }
@@ -1354,13 +1422,13 @@ script 55 mmz3 {
 	"""
 	msgClear
 	"""
-	Thank you.
+	Gracias.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 65
 	"""
-	Ze-Zero!
+	¡Ze-Zero!
 	"""
 	end
 }
@@ -1369,11 +1437,11 @@ script 56 mmz3 {
 		mugshot = 4
 	msgBottom
 	"""
-	It's just me...
+	Solo soy yo...
 	"""
 	msgClear
 	"""
-	I am...
+	Yo soy...
 	"""
 	msgClear
 	"""
