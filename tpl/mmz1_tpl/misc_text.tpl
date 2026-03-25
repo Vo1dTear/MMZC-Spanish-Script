@@ -1911,7 +1911,7 @@ script 300 mmz1 {
 }
 script 301 mmz1 {
 	"""
-	Tu sub-arma.
+	Tu arma secundaria.
 	"""
 	end
 }
