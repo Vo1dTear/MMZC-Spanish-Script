@@ -905,75 +905,78 @@ script 176 mmz3 {
 }
 script 177 mmz3 {
 	"""
-	Fusion elves
-	will die
-	when used.
+	Elfos de
+	Fusion
+	morirán al
+	ser usados.
 	"""
 	end
 }
 script 178 mmz3 {
 	"""
-	Raise and
-	upgrade your
-	Cyber-elves.
+	Cría y
+	mejora tus
+	Cyber-elfos.
 	"""
 	end
 }
 script 179 mmz3 {
 	"""
-	You can see
-	a list of
-	Cyber-elves.
+	Puedes ver
+	una lista de
+	Cyber-elfos.
 	"""
 	end
 }
 script 180 mmz3 {
 	"""
-	Select and press A BUTTON.
+	Elige y pulsa A BUTTON.
 	"""
 	end
 }
 script 181 mmz3 {
 	"""
-	Elves that
-	boost
-	vitality.
+	Elfos que
+	aumentan
+	vitalidad.
 	"""
 	end
 }
 script 182 mmz3 {
 	"""
-	Elves that
-	boost
-	movement or
-	help attack.
+	Elfos que
+	mejoran
+	movimiento
+	o ayudan
+	con ataque.
 	"""
 	end
 }
 script 183 mmz3 {
 	"""
-	Elves that
-	assist with
-	mission data
-	and weapons.
+	Elfos que
+	asisten con
+	datos de
+	misión y
+	armas.
 	"""
 	end
 }
 script 184 mmz3 {
 	"""
-	Left or Right chooses a tag.
+	Left or Right elije una etiqueta.
 	"""
 	end
 }
 script 185 mmz3 {
 	"""
-	Select and press A BUTTON.
+	Elige y pulsa A BUTTON.
 	"""
 	end
 }
 script 186 mmz3 {
 	"""
-	Select and press A BUTTON.
+	Elige y pulsa A BUTTON.
 	"""
 	end
 }
@@ -1017,13 +1020,13 @@ script 191 mmz3 {
 }
 script 192 mmz3 {
 	"""
-	Select and press A BUTTON.
+	Elige y pulsa A BUTTON.
 	"""
 	end
 }
 script 193 mmz3 {
 	"""
-	Select and press A BUTTON.
+	Elige y pulsa A BUTTON.
 	"""
 	end
 }
@@ -1035,395 +1038,398 @@ script 194 mmz3 {
 }
 script 195 mmz3 {
 	"""
-	Satellite 1
-	not equipped
-	with an Elf.
+	Satélite 1
+	no equipado
+	con un Elfo.
 	"""
 	end
 }
 script 196 mmz3 {
 	"""
-	Satellite 2
-	not equipped
-	with an Elf.
+	Satélite 2
+	no equipado
+	con un Elfo.
 	"""
 	end
 }
 script 197 mmz3 {
 	"""
-	Insufficient E-Crystals.
+	E-Crystals insuficientes.
 	"""
 	end
 }
 script 198 mmz3 {
 	"""
-	Can't upgrade when equipped.
+	No mejora al estar equipado.
 	"""
 	end
 }
 script 199 mmz3 {
 	"""
-	Elf converted to Sub Tank!
+	¡Elfo convertido a Sub Tank!
 	"""
 	end
 }
 script 200 mmz3 {
 	"""
-	I double
-	your
-	vitality.
+	Doblo tu
+	energía.
 	"""
 	end
 }
 script 201 mmz3 {
 	"""
-	I increase
-	vitality
-	slightly.
+	Aumento
+	energía
+	un poco.
 	"""
 	end
 }
 script 202 mmz3 {
 	"""
-	I can raise
-	vitality
-	a tiny bit.
+	Puedo subir
+	energía
+	un poco.
 	"""
 	end
 }
 script 203 mmz3 {
 	"""
-	Use my power
-	to boost
-	vitality!
+	¡Usa mi
+	poder para
+	subir
+	energía!
 	"""
 	end
 }
 script 204 mmz3 {
 	"""
-	Let me boost
-	your
-	vitality!
+	¡Deja que
+	mejore tu
+	energía!
 	"""
 	end
 }
 script 205 mmz3 {
 	"""
-	I become
-	a Sub Tank
-	to help you.
+	Me vuelvo
+	un Sub Tank
+	para ti.
 	"""
 	end
 }
 script 206 mmz3 {
 	"""
-	If you need
-	a Sub Tank,
-	I can help!
+	¡Si quieres
+	un Sub Tank,
+	ayudo!
 	"""
 	end
 }
 script 207 mmz3 {
 	"""
-	Use my power
-	to increase
-	lives by 3!
+	¡Usa mi
+	poder para
+	+3 vidas!
 	"""
 	end
 }
 script 208 mmz3 {
 	"""
-	If you want
-	3 more lives
-	call on me!
+	¡Si quieres
+	3 vidas más
+	llámame!
 	"""
 	end
 }
 script 209 mmz3 {
 	"""
-	My energy
-	can heal
-	8 vitality.
+	Mi energía
+	cura 8
+	energía.
 	"""
 	end
 }
 script 210 mmz3 {
 	"""
-	I heal 8
-	vitality
-	for you.
+	Curo 8
+	energía
+	por ti.
 	"""
 	end
 }
 script 211 mmz3 {
 	"""
-	Let me heal
-	8 vitality
-	for you.
+	Deja que
+	cure 8
+	energía.
 	"""
 	end
 }
 script 212 mmz3 {
 	"""
-	Wounded?
-	I can heal
-	8 vitality.
+	¿Herido?
+	Curo 8
+	energía.
 	"""
 	end
 }
 script 213 mmz3 {
 	"""
-	If you get
-	hurt, I heal
-	8 vitality.
+	Si te dañan,
+	curo 8 de
+	energía.
 	"""
 	end
 }
 script 214 mmz3 {
 	"""
-	Use me when
-	you need
-	8 vitality!
+	¡Úsame
+	cuando
+	necesites
+	8 energía!
 	"""
 	end
 }
 script 215 mmz3 {
 	"""
-	My powers
-	can heal
-	8 vitality.
+	Mi poder
+	cura 8
+	energía.
 	"""
 	end
 }
 script 216 mmz3 {
 	"""
-	Just for
-	you, I heal
-	8 vitality.
+	Solo para
+	ti, curo
+	8 energía.
 	"""
 	end
 }
 script 217 mmz3 {
 	"""
-	I can heal
-	all of your
-	vitality!
+	¡Puedo curar
+	toda tu
+	energía!
 	"""
 	end
 }
 script 218 mmz3 {
 	"""
-	I can heal
-	vitality
-	completely!
+	¡Curo toda
+	la energía
+	total!
 	"""
 	end
 }
 script 219 mmz3 {
 	"""
-	Let me heal
-	all of your
-	vitality.
+	Deja que
+	cure toda
+	energía.
 	"""
 	end
 }
 script 220 mmz3 {
 	"""
-	Let me help!
-	I heal all
-	vitality!
+	¡Te ayudo!
+	¡Curo toda
+	energía!
 	"""
 	end
 }
 script 221 mmz3 {
 	"""
-	It's my job
-	to heal you
-	completely!
+	¡Es mi
+	tarea
+	curarte
+	totalmente!
 	"""
 	end
 }
 script 222 mmz3 {
 	"""
-	My powers
-	can heal you
-	completely.
+	Mi poder
+	te cura
+	totalmente.
 	"""
 	end
 }
 script 223 mmz3 {
 	"""
-	Damage down.
-	Bullets into
-	1 vitality.
+	Daño bajo.
+	Balas dan
+	1 energía.
 	"""
 	end
 }
 script 224 mmz3 {
 	"""
-	Damage down.
-	Bullets into
-	1 vitality.
+	Daño bajo.
+	Balas dan
+	1 energía.
 	"""
 	end
 }
 script 225 mmz3 {
 	"""
-	I drop Life
-	Energy (S)
-	around you!
+	¡Suelto
+	Energía (S)
+	a tu lado!
 	"""
 	end
 }
 script 226 mmz3 {
 	"""
-	I scatter
-	Life Energy
+	¡Esparzo
+	Energía
 	(S)!
 	"""
 	end
 }
 script 227 mmz3 {
 	"""
-	I'll make
-	deadly traps
-	non-lethal.
+	Trampas ya
+	no serán
+	letales.
 	"""
 	end
 }
 script 228 mmz3 {
 	"""
-	I can make
-	you run
-	faster!
+	¡Puedo
+	hacerte
+	más veloz!
 	"""
 	end
 }
 script 229 mmz3 {
 	"""
-	I can boost
-	your speed
-	up ladders!
+	¡Subes
+	escaleras
+	más rápido!
 	"""
 	end
 }
 script 230 mmz3 {
 	"""
-	I'll help
-	you defy
-	gravity!
+	¡Te ayudo a
+	desafiar la
+	gravedad!
 	"""
 	end
 }
 script 231 mmz3 {
 	"""
-	You won't
-	slide back
-	from hits!
+	¡No retro-
+	cedes al
+	recibir
+	daño!
 	"""
 	end
 }
 script 232 mmz3 {
 	"""
-	I save you
-	if you fall
-	down a pit!
+	¡Te salvo
+	si caes en
+	un pozo!
 	"""
 	end
 }
 script 233 mmz3 {
 	"""
-	I won't let
-	you fall
-	down pits!
+	¡No te dejo
+	caer en
+	pozos!
 	"""
 	end
 }
 script 234 mmz3 {
 	"""
-	I cling to
-	and stop
-	certain
-	enemies.
+	Me aferro y
+	freno
+	algunos
+	enemigos.
 	"""
 	end
 }
 script 235 mmz3 {
 	"""
-	I grab and
-	stop certain
-	enemies.
+	Agarro y
+	freno
+	enemigos.
 	"""
 	end
 }
 script 236 mmz3 {
 	"""
-	I'll shoot
-	ahead
-	to help you!
+	¡Disparo al
+	frente para
+	ayudarte!
 	"""
 	end
 }
 script 237 mmz3 {
 	"""
-	My bullets
-	will give
-	cover fire!
+	¡Mis balas
+	dan fuego
+	de apoyo!
 	"""
 	end
 }
 script 238 mmz3 {
 	"""
-	My shots
-	head toward
-	the ground!
+	¡Mis tiros
+	van al
+	suelo!
 	"""
 	end
 }
 script 239 mmz3 {
 	"""
-	My shots
-	hit the
-	ground!
+	¡Mis tiros
+	golpean el
+	suelo!
 	"""
 	end
 }
 script 240 mmz3 {
 	"""
-	I double
-	the items
-	you get!
+	¡Doblo los
+	objetos
+	que tomas!
 	"""
 	end
 }
 script 241 mmz3 {
 	"""
-	Enemies will
-	drop more
-	items!
+	¡Enemigos
+	sueltan más
+	objetos!
 	"""
 	end
 }
 script 242 mmz3 {
 	"""
-	Press Up
-	during 
+	Presiona Up
+	durante
 	TRIPLE ATK.
 	"""
 	end
 }
 script 243 mmz3 {
 	"""
-	Press Down
-	during
+	Presiona Down
+	durante
 	TRIPLE ATK.
 	"""
 	end
 }
 script 244 mmz3 {
 	"""
-	Four shots
-	for your
+	¡Cuatro
+	tiros para
 	Buster Shot!
 	"""
 	end
@@ -1431,419 +1437,428 @@ script 244 mmz3 {
 script 245 mmz3 {
 	"""
 	Dash + Up/
-	Down or jump
-	+ Up: spin.
+	Down o salto
+	+ Up: giro.
 	"""
 	end
 }
 script 246 mmz3 {
 	"""
-	Slash at
-	bullets to
-	stop them.
+	Corta
+	balas para
+	frenarlas.
 	"""
 	end
 }
 script 247 mmz3 {
 	"""
-	Block shots
-	and you'll
-	get EC (S).
+	Bloquea
+	tiros y
+	obtén
+	EC (S).
 	"""
 	end
 }
 script 248 mmz3 {
 	"""
-	+1 to your
+	+1 a tu
 	Buster Shot.
 	"""
 	end
 }
 script 249 mmz3 {
 	"""
-	+1 to your
+	+1 a tu
 	Z Saber.
 	"""
 	end
 }
 script 250 mmz3 {
 	"""
-	+1 to your
+	+1 a tu
 	Rod.
 	"""
 	end
 }
 script 251 mmz3 {
 	"""
-	+1 to your
+	+1 a tu
 	Shield.
 	"""
 	end
 }
 script 252 mmz3 {
 	"""
-	Speed up
-	your weapon
-	charge.
+	Acelera
+	carga de
+	arma.
 	"""
 	end
 }
 script 253 mmz3 {
 	"""
-	Certain foes
-	become
+	Algunos
+	enemigos
+	se vuelven
 	Mettaurs.
 	"""
 	end
 }
 script 254 mmz3 {
 	"""
-	I can turn
-	foes into
+	Puedo volver
+	enemigos en
 	Mettaurs.
 	"""
 	end
 }
 script 255 mmz3 {
 	"""
-	I'll turn
-	foes into
+	Vuelvo
+	enemigos en
 	Mettaurs.
 	"""
 	end
 }
 script 256 mmz3 {
 	"""
-	I turn foes
-	into
+	Vuelvo
+	enemigos en
 	Mettaurs.
 	"""
 	end
 }
 script 257 mmz3 {
 	"""
-	Enemies
-	will become
+	Enemigos
+	serán
 	Mettaurs.
 	"""
 	end
 }
 script 258 mmz3 {
 	"""
-	I destroy
-	all small
-	enemies!
+	¡Destruyo
+	a todos los
+	enemigos
+	pequeños!
 	"""
 	end
 }
 script 259 mmz3 {
 	"""
-	Use me to
-	wipe out
-	small foes!
+	¡Úsame para
+	borrar
+	enemigos
+	pequeños!
 	"""
 	end
 }
 script 260 mmz3 {
 	"""
-	Knock out
-	small foes
-	instantly!
+	¡Derroto
+	enemigos
+	pequeños
+	al instante!
 	"""
 	end
 }
 script 261 mmz3 {
 	"""
-	Certain 
-	enemies
-	get stunned.
+	Ciertos
+	enemigos
+	quedan
+	aturdidos.
 	"""
 	end
 }
 script 262 mmz3 {
 	"""
-	I can stun
-	certain
-	foes.
+	Puedo
+	aturdir
+	ciertos
+	enemigos.
 	"""
 	end
 }
 script 263 mmz3 {
 	"""
-	Some foes
-	will get
-	stunned!
+	¡Algunos
+	enemigos
+	quedarán
+	aturdidos!
 	"""
 	end
 }
 script 264 mmz3 {
 	"""
-	My job is to
-	stun certain
-	enemies!
+	¡Mi tarea
+	es aturdir
+	ciertos
+	enemigos!
 	"""
 	end
 }
 script 265 mmz3 {
 	"""
-	It's my duty
-	to stun
-	some foes.
+	Mi deber
+	es aturdir
+	algunos
+	enemigos.
 	"""
 	end
 }
 script 266 mmz3 {
 	"""
-	My job is to
-	cut a boss's
-	vitality!
+	¡Mi tarea es
+	cortar la
+	vida del
+	jefe!
 	"""
 	end
 }
 script 267 mmz3 {
 	"""
-	I halve
-	a boss's
-	vitality!
+	¡Reduzco
+	vida de jefe
+	a la mitad!
 	"""
 	end
 }
 script 268 mmz3 {
 	"""
-	I will cut
-	a boss's
-	vitality!
+	¡Cortaré
+	vida del
+	jefe!
 	"""
 	end
 }
 script 269 mmz3 {
 	"""
-	Become Lv.A
-	during the
-	mission.
+	Llega a Lv.A
+	durante la
+	misión.
 	"""
 	end
 }
 script 270 mmz3 {
 	"""
-	Use me to
-	boost you to
+	Úsame para
+	llegar a
 	Lv.A.
 	"""
 	end
 }
 script 271 mmz3 {
 	"""
-	I'll boost
-	you to
-	level A.
+	Te subo a
+	nivel A.
 	"""
 	end
 }
 script 272 mmz3 {
 	"""
-	My energies
-	will boost
-	you to Lv.A.
+	Mi energía
+	te lleva a
+	Lv.A.
 	"""
 	end
 }
 script 273 mmz3 {
 	"""
-	Lv.A? Sure,
-	but it will
-	only last
-	the mission!
+	¿Lv.A?
+	Pero solo
+	durante
+	la misión.
 	"""
 	end
 }
 script 274 mmz3 {
 	"""
-	Use my power
-	to increase
-	lives by 5!
+	¡Usa mi
+	poder para
+	+5 vidas!
 	"""
 	end
 }
 script 275 mmz3 {
 	"""
-	If you want
-	5 more lives
-	call on me!
+	¡Si quieres
+	5 vidas más
+	llámame!
 	"""
 	end
 }
 script 276 mmz3 {
 	"""
-	My energy
-	can heal
-	16 vitality.
+	Mi energía
+	cura 16
+	energía.
 	"""
 	end
 }
 script 277 mmz3 {
 	"""
-	I heal 16
-	vitality
-	for you.
+	Curo 16
+	energía
+	por ti.
 	"""
 	end
 }
 script 278 mmz3 {
 	"""
-	Let me heal
-	16 vitality
-	for you.
+	Deja que
+	cure 16
+	energía.
 	"""
 	end
 }
 script 279 mmz3 {
 	"""
-	Wounded?
-	I can heal
-	16 vitality.
+	¿Herido?
+	Curo 16
+	energía.
 	"""
 	end
 }
 script 280 mmz3 {
 	"""
-	If you get
-	hurt, I heal
-	16 vitality.
+	Si te dañan,
+	curo 16
+	de energía.
 	"""
 	end
 }
 script 281 mmz3 {
 	"""
-	Use me when
-	you need
-	16 vitality!
+	¡Úsame
+	cuando
+	necesites
+	16 energía!
 	"""
 	end
 }
 script 282 mmz3 {
 	"""
-	My powers
-	can heal
-	16 vitality.
+	Mi poder
+	cura 16
+	energía.
 	"""
 	end
 }
 script 283 mmz3 {
 	"""
-	Just for
-	you, I heal
-	16 vitality.
+	Solo para
+	ti, curo
+	16 energía.
 	"""
 	end
 }
 script 284 mmz3 {
 	"""
-	I can heal
-	all of your
-	vitality
-	and 1 tank!
+	¡Curo toda
+	tu energía
+	y 1 tanque!
 	"""
 	end
 }
 script 285 mmz3 {
 	"""
-	I can heal
-	all vitality
-	and 1 tank!
+	¡Curo todo
+	y 1 tanque!
 	"""
 	end
 }
 script 286 mmz3 {
 	"""
-	Let me heal
-	all of your
-	vitality
-	and 1 tank.
+	Deja que
+	cure toda
+	tu energía
+	y 1 tanque.
 	"""
 	end
 }
 script 287 mmz3 {
 	"""
-	Let me help!
-	I heal all
-	vitality
-	and 1 tank!
+	¡Te ayudo!
+	¡Curo toda
+	tu energía
+	y 1 tanque!
 	"""
 	end
 }
 script 288 mmz3 {
 	"""
-	It's my job
-	to heal you
-	and 1 tank
-	completely!
+	¡Es mi tarea
+	curar todo
+	y 1 tanque
+	totalmente!
 	"""
 	end
 }
 script 289 mmz3 {
 	"""
-	My powers
-	can heal you
-	and 1 tank
-	completely.
+	Mi poder
+	cura todo
+	y 1 tanque
+	totalmente.
 	"""
 	end
 }
 script 290 mmz3 {
 	"""
-	Damage down.
-	Bullets into
-	2 vitality.
+	Daño bajo.
+	Balas dan
+	2 energía.
 	"""
 	end
 }
 script 291 mmz3 {
 	"""
-	Damage down.
-	Bullets into
-	2 vitality.
+	Daño bajo.
+	Balas dan
+	2 energía.
 	"""
 	end
 }
 script 292 mmz3 {
 	"""
-	I drop Life
-	Energy (S)
-	faster!
+	¡Suelto
+	Energía (S)
+	más rápido!
 	"""
 	end
 }
 script 293 mmz3 {
 	"""
-	I scatter
-	Life Energy
-	(S) faster!
+	¡Esparzo
+	Energía (S)
+	rápido!
 	"""
 	end
 }
 script 294 mmz3 {
 	"""
-	I'll shoot
-	your enemies
-	to help you!
+	¡Disparo a
+	tus enemigos
+	para ayudar!
 	"""
 	end
 }
 script 295 mmz3 {
 	"""
-	My bullets
-	will pick
-	off enemies!
+	¡Mis balas
+	eliminan
+	enemigos!
 	"""
 	end
 }
 script 296 mmz3 {
 	"""
-	Block shots
-	and you'll
-	get EC (L)
-	sometimes.
+	Bloquea y
+	obtén
+	EC (L)
+	a veces.
 	"""
 	end
 }
@@ -1855,37 +1870,37 @@ script 297 mmz3 {
 }
 script 300 mmz3 {
 	"""
-	Your main weapon.
+	Tu arma principal.
 	"""
 	end
 }
 script 301 mmz3 {
 	"""
-	Your sub weapon.
+	Tu arma secundaria.
 	"""
 	end
 }
 script 302 mmz3 {
 	"""
-	Tank for extra Life Energy.
+	Tanque de energía extra.
 	"""
 	end
 }
 script 303 mmz3 {
 	"""
-	Your Head Chip.
+	Tu Chip de Cabeza.
 	"""
 	end
 }
 script 304 mmz3 {
 	"""
-	Your Body Chip.
+	Tu Chip de Cuerpo.
 	"""
 	end
 }
 script 305 mmz3 {
 	"""
-	Your Foot Chip.
+	Tu Chip de Pies.
 	"""
 	end
 }
@@ -1933,115 +1948,115 @@ script 312 mmz3 {
 }
 script 313 mmz3 {
 	"""
-	Remaining energy:
+	Energía restante:
 	"""
 	end
 }
 script 314 mmz3 {
 	"""
-	A normal Head Chip.
+	Chip de Cabeza normal.
 	"""
 	end
 }
 script 315 mmz3 {
 	"""
-	Heals when standing still.
+	Cura al estar quieto.
 	"""
 	end
 }
 script 316 mmz3 {
 	"""
-	Auto-charges weapon.
+	Carga arma automáticamente.
 	"""
 	end
 }
 script 317 mmz3 {
 	"""
-	Boosts weapon charge speed.
+	Aumenta velocidad de carga.
 	"""
 	end
 }
 script 318 mmz3 {
 	"""
-	A normal Body Chip.
+	Chip de Cuerpo normal.
 	"""
 	end
 }
 script 319 mmz3 {
 	"""
-	Ignores crumbling terrain.
+	Ignora terreno inestable.
 	"""
 	end
 }
 script 320 mmz3 {
 	"""
-	No recoil when hit.
+	Sin retroceso al daño.
 	"""
 	end
 }
 script 321 mmz3 {
 	"""
-	Enables Thunder attack.
+	Activa ataque Trueno.
 	"""
 	end
 }
 script 322 mmz3 {
 	"""
-	Enables Flame attack.
+	Activa ataque Fuego.
 	"""
 	end
 }
 script 323 mmz3 {
 	"""
-	Enables Ice attack.
+	Activa ataque Hielo.
 	"""
 	end
 }
 script 324 mmz3 {
 	"""
-	A normal Foot Chip.
+	Chip de Pies normal.
 	"""
 	end
 }
 script 325 mmz3 {
 	"""
-	Can jump on water.
+	Puede saltar en agua.
 	"""
 	end
 }
 script 326 mmz3 {
 	"""
-	Can double jump.
+	Puede hacer doble salto.
 	"""
 	end
 }
 script 327 mmz3 {
 	"""
-	Can dash through some foes.
+	Atraviesa algunos enemigos.
 	"""
 	end
 }
 script 328 mmz3 {
 	"""
-	Boosts running speed.
+	Aumenta velocidad al correr.
 	"""
 	end
 }
 script 329 mmz3 {
 	"""
-	Ignores slippery terrain.
+	Ignora suelo resbaloso.
 	"""
 	end
 }
 script 330 mmz3 {
 	"""
-	Slower sliding down walls.
+	Desliza más lento en muro.
 	"""
 	end
 }
 script 331 mmz3 {
 	"""
-	All Foot Chip traits on.
+	Todos los efectos activados.
 	"""
 	end
 }
@@ -2055,35 +2070,35 @@ script 374 mmz3 {
 }
 script 395 mmz3 {
 	"""
-	OK to save the current data?
-	  YES
+	¿Guardar datos actuales?
+	  SÍ
 	  NO
 	"""
 	end
 }
 script 396 mmz3 {
 	"""
-	To which file?
+	¿A qué archivo?
 	"""
 	end
 }
 script 397 mmz3 {
 	"""
-	Data has been saved.
+	Datos guardados.
 	"""
 	end
 }
 script 398 mmz3 {
 	"""
-	Okay to overwrite?
-	  YES
+	¿Sobrescribir datos?
+	  SÍ
 	  NO
 	"""
 	end
 }
 script 399 mmz3 {
 	"""
-	Data has been overwriten.
+	Datos sobrescritos.
 	"""
 	end
 }
@@ -2173,8 +2188,8 @@ script 463 mmz3 {
 	textColorWhite
 	"""
 	
-	Reflects off
-	of walls.
+	Rebota
+	en muros.
 	"""
 	end
 }
@@ -2186,10 +2201,9 @@ script 464 mmz3 {
 	textColorWhite
 	"""
 	
-	Splits shot
-	when used
-	with Thunder
-	Body Chip.
+	Divide tiro
+	al usar
+	Chip Trueno.
 	"""
 	end
 }
@@ -2201,10 +2215,9 @@ script 465 mmz3 {
 	textColorWhite
 	"""
 	
-	Explodes
-	when used
-	with Flame
-	Body Chip.
+	Explota
+	al usar
+	Chip Fuego.
 	"""
 	end
 }
@@ -2216,10 +2229,10 @@ script 466 mmz3 {
 	textColorWhite
 	"""
 	
-	Shoots ice
-	when used
-	with Ice
-	Body Chip.
+	Dispara
+	hielo al
+	usar Chip
+	Hielo.
 	"""
 	end
 }
@@ -2231,9 +2244,11 @@ script 467 mmz3 {
 	textColorWhite
 	"""
 	
-	Skewer foes
-	by dashing
-	with saber.
+	Empala
+	enemigos
+	al hacer
+	dash con
+	Saber.
 	"""
 	end
 }
@@ -2245,12 +2260,12 @@ script 468 mmz3 {
 	textColorWhite
 	"""
 	
-	Press Down
-	and slash
-	during fall
-	or slide to
-	skewer foes
-	below.
+	Presiona Down
+	y slash
+	al caer o
+	deslizarte
+	para atacar
+	abajo.
 	"""
 	end
 }
@@ -2262,10 +2277,10 @@ script 469 mmz3 {
 	textColorWhite
 	"""
 	
-	Press Up and
-	use Saber
-	to slice
-	upward.
+	Presiona Up
+	y usa Saber
+	para cortar
+	arriba.
 	"""
 	end
 }
@@ -2277,10 +2292,11 @@ script 470 mmz3 {
 	textColorWhite
 	"""
 	
-	Press Down
-	and slash
-	to shoot a
-	blade ahead.
+	Presiona Down
+	y slash para
+	lanzar una
+	cuchilla
+	al frente.
 	"""
 	end
 }
@@ -2292,9 +2308,10 @@ script 471 mmz3 {
 	textColorWhite
 	"""
 	
-	Rapidly use
-	Rod for
-	multi atk.
+	Usa Rod
+	rápido para
+	ataques
+	multiples.
 	"""
 	end
 }
@@ -2306,10 +2323,11 @@ script 472 mmz3 {
 	textColorWhite
 	"""
 	
-	Press Up and
-	charge Rod
-	to shoot
-	above.
+	Presiona Up
+	y carga
+	Rod para
+	disparar
+	arriba.
 	"""
 	end
 }
@@ -2322,8 +2340,8 @@ script 473 mmz3 {
 	"""
 	
 	S.Boomerang
-	skims the
-	ground.
+	va por el
+	suelo.
 	"""
 	end
 }
@@ -2335,11 +2353,11 @@ script 474 mmz3 {
 	textColorWhite
 	"""
 	
-	Press Down
-	and use S.
+	Presiona Down
+	y usa S.
 	Boomerang
-	to form a 
-	shield.
+	para formar 
+	un escudo.
 	"""
 	end
 }
@@ -2352,13 +2370,13 @@ script 475 mmz3 {
 }
 script 476 mmz3 {
 	"""
-	Press A BUTTON to analyze.
+	Pulsa A BUTTON: analizar.
 	"""
 	end
 }
 script 477 mmz3 {
 	"""
-	Press B BUTTON to end.
+	Pulsa B BUTTON: salir.
 	"""
 	end
 }
@@ -2861,9 +2879,9 @@ script 700 mmz3 {
 	"""
 	
 	
-	Automatic
-	charge to
-	your weapon.
+	Carga auto.
+	para tus
+	armas.
 	"""
 	end
 }
@@ -2880,9 +2898,9 @@ script 701 mmz3 {
 	"""
 	
 	
-	Automatic
-	recovery of
-	vitality.
+	Cura auto.
+	de energía
+	vital.
 	"""
 	end
 }
@@ -2899,8 +2917,9 @@ script 702 mmz3 {
 	"""
 	
 	
-	Boosts your
-	charge spd.
+	Carga más
+	rápido tus
+	armas.
 	"""
 	end
 }
@@ -2917,8 +2936,9 @@ script 703 mmz3 {
 	"""
 	
 	
-	Slide slower
-	down walls.
+	Baja lento
+	en muros
+	altos.
 	"""
 	end
 }
@@ -2935,8 +2955,9 @@ script 704 mmz3 {
 	"""
 	
 	
-	Jump on
-	water.
+	Salta en
+	agua sin
+	hundirte.
 	"""
 	end
 }
@@ -2953,9 +2974,9 @@ script 705 mmz3 {
 	"""
 	
 	
-	Can use all
-	Foot Chip
-	traits.
+	Usa todos
+	los efectos
+	de chip.
 	"""
 	end
 }
@@ -2967,11 +2988,11 @@ script 706 mmz3 {
 	textColorWhite
 	"""
 	
-	The beast-
-	like Mutos
-	Reploids
-	defend the 
-	human race.
+	Reploides
+	Mutos tipo
+	bestia
+	defienden
+	a humanos.
 	"""
 	end
 }
@@ -2984,9 +3005,9 @@ script 707 mmz3 {
 	"""
 	
 	Neo Arcadia
-	is a utopia
-	of peace
-	without any
+	es una
+	utopía de
+	paz sin
 	Mavericks.
 	"""
 	end
@@ -2999,11 +3020,11 @@ script 708 mmz3 {
 	textColorWhite
 	"""
 	
-	Cyber-elves
-	are smart
-	programs for
-	helping man
-	and Reploid.
+	Cyber-elfos
+	son prog.
+	que ayudan
+	a humanos
+	y Reploides.
 	"""
 	end
 }
@@ -3015,10 +3036,11 @@ script 709 mmz3 {
 	textColorWhite
 	"""
 	
-	Weil altered
+	Weil alteró
 	Mother Elf,
-	starting the
-	Elf Wars.
+	iniciando
+	las Guerras
+	Élficas.
 	"""
 	end
 }
@@ -3030,11 +3052,11 @@ script 710 mmz3 {
 	textColorWhite
 	"""
 	
-	Pantheon are
-	degraded,
-	massproduced
-	Reploid
-	copies of X.
+	Pantheon son
+	Reploides
+	degradados,
+	copias masi-
+	vas de X.
 	"""
 	end
 }
@@ -3046,11 +3068,11 @@ script 711 mmz3 {
 	textColorWhite
 	"""
 	
-	Maverick
-	Reploids
-	fated to die
-	formed the
-	Resistance.
+	Reploides
+	Mavericks
+	condenados
+	formaron la
+	Resistencia.
 	"""
 	end
 }
@@ -3063,10 +3085,10 @@ script 712 mmz3 {
 	"""
 	
 	Cyber-elf X
-	was once the
-	original X,
-	but now he
-	has no body.
+	fue el X
+	original,
+	sin cuerpo
+	ahora.
 	"""
 	end
 }
@@ -3078,11 +3100,11 @@ script 713 mmz3 {
 	textColorWhite
 	"""
 	
-	The Four
-	Guardians
-	are Reploids
-	made from
-	DNA of X.
+	Los Cuatro
+	Guardianes
+	son hechos
+	con ADN
+	de X.
 	"""
 	end
 }
@@ -3094,11 +3116,11 @@ script 714 mmz3 {
 	textColorWhite
 	"""
 	
-	Elpizo was a
-	Neo Arcadian
-	Reploid that
-	was seduced
-	by Dark Elf.
+	Elpizo fue
+	un Reploide
+	de Neo Arc.
+	seducido por
+	el Dark Elf.
 	"""
 	end
 }
@@ -3110,11 +3132,11 @@ script 715 mmz3 {
 	textColorWhite
 	"""
 	
-	Dark Elf was
+	Dark Elf fue
 	Mother Elf
-	before Dr.
-	Weil altered
-	her.
+	antes que
+	Weil la
+	alterara.
 	"""
 	end
 }
@@ -3126,11 +3148,11 @@ script 716 mmz3 {
 	textColorWhite
 	"""
 	
-	Omega was
-	made by Dr.
-	Weil, but 
-	was banished
-	to space.
+	Omega fue
+	creado por
+	Weil, luego
+	desterrado
+	al espacio.
 	"""
 	end
 }
@@ -3142,11 +3164,11 @@ script 717 mmz3 {
 	textColorWhite
 	"""
 	
-	Use of Dark
-	Elf made the
-	Elf Wars
-	terribly
-	tragic.
+	El uso de
+	Dark Elf
+	hizo las
+	Guerras Élf.
+	trágicas.
 	"""
 	end
 }
@@ -3158,10 +3180,10 @@ script 718 mmz3 {
 	textColorWhite
 	"""
 	
-	A Maverick
-	now means
-	somebody who
-	fights Neo
+	Maverick
+	ahora es
+	quien lucha
+	contra Neo
 	Arcadia.
 	"""
 	end
@@ -3174,17 +3196,17 @@ script 719 mmz3 {
 	textColorWhite
 	"""
 	
-	The Sigma
-	virus turned
-	Reploids
-	into 
+	El virus
+	Sigma volvió
+	a los
+	Reploides en
 	Mavericks.
 	"""
 	end
 }
 script 720 mmz3 {
 	"""
-	A Cyber-elf
+	Cyber-elfo
 	"""
 	end
 }
@@ -3193,7 +3215,8 @@ script 721 mmz3 {
 }
 script 722 mmz3 {
 	"""
-	was inside.
+	estaba
+	dentro.
 	"""
 	end
 }
@@ -3208,7 +3231,8 @@ script 724 mmz3 {
 }
 script 725 mmz3 {
 	"""
-	were inside.
+	estaban
+	dentro.
 	"""
 	end
 }
@@ -3216,10 +3240,9 @@ script 726 mmz3 {
 	"""
 	Omega
 	
-	This Reploid
-	has a the
-	signature
-	of Dark Elf.
+	Reploide con
+	la señal del
+	Dark Elf.
 	"""
 	end
 }
@@ -3227,10 +3250,10 @@ script 727 mmz3 {
 	"""
 	D. Mantisk
 	
-	Uses scythes
-	to dispose
-	of old
-	Reploids.
+	Usa hoces
+	para elimi-
+	nar viejos
+	Reploides.
 	"""
 	end
 }
@@ -3238,9 +3261,10 @@ script 728 mmz3 {
 	"""
 	C. Inarbitta
 	
-	Can become
-	small to 
-	boost speed.
+	Puede
+	hacerse
+	pequeño para
+	ser veloz.
 	"""
 	end
 }
@@ -3248,10 +3272,9 @@ script 729 mmz3 {
 	"""
 	B. Flizard
 	
-	This lizard
-	can detach
-	his tail and
-	frill.
+	Lagarto que
+	separa cola
+	y cresta.
 	"""
 	end
 }
@@ -3259,10 +3282,10 @@ script 730 mmz3 {
 	"""
 	D. Schilt
 	
-	Attacks with
-	small bat
-	drones from
-	his cape.
+	Ataca con
+	drones
+	murciélago
+	de su capa.
 	"""
 	end
 }
@@ -3270,8 +3293,9 @@ script 731 mmz3 {
 	"""
 	Crea
 	
-	A blue Baby
-	Elf named by
+	Elfo Bebé
+	azul nom-
+	brado por
 	Alouette.
 	"""
 	end
@@ -3280,8 +3304,9 @@ script 732 mmz3 {
 	"""
 	Prea
 	
-	A red Baby
-	Elf named by
+	Elfo Bebé
+	rojo nom-
+	brado por
 	Alouette.
 	"""
 	end
@@ -3292,8 +3317,8 @@ script 733 mmz3 {
 	Necromncss V
 	
 	Jackal 'loid
-	revived by
-	Dr. Weil.
+	revivido por
+	el Dr. Weil.
 	"""
 	end
 }
@@ -3301,9 +3326,9 @@ script 734 mmz3 {
 	"""
 	Hanumachne R
 	
-	Monkey 'loid
-	revived by
-	Dr. Weil.
+	Mono 'loid
+	revivido por
+	el Dr. Weil.
 	"""
 	end
 }
@@ -3311,9 +3336,10 @@ script 735 mmz3 {
 	"""
 	B. Stagrff R
 	
-	Elk Reploid
-	revived by
-	Dr. Weil.
+	Reploide
+	alce revi-
+	vido por
+	el Dr. Weil.
 	"""
 	end
 }
@@ -3321,10 +3347,10 @@ script 736 mmz3 {
 	"""
 	Copy X MK.II
 	
-	A revised
+	Revisión de
 	Copy X
-	revived by
-	Dr. Weil.
+	revivida
+	por Weil.
 	"""
 	end
 }
@@ -3332,10 +3358,9 @@ script 737 mmz3 {
 	"""
 	T. Kelverian
 	
-	Can detach
-	the 2 heads
-	on his
-	shoulders.
+	Separa sus
+	dos cabezas
+	del hombro.
 	"""
 	end
 }
@@ -3344,9 +3369,9 @@ script 738 mmz3 {
 	Glacier
 	Le Cactank
 	
-	Swings
-	chained
-	arms around.
+	Brazo con
+	cadenas
+	giratorias.
 	"""
 	end
 }
@@ -3355,9 +3380,9 @@ script 739 mmz3 {
 	Cubit
 	Foxtar
 	
-	Fox Reploid
-	that uses 9
-	remotes.
+	Zorro con
+	9 controles
+	a distancia.
 	"""
 	end
 }
@@ -3366,9 +3391,9 @@ script 740 mmz3 {
 	Volteel
 	Biblio
 	
-	Eel Reploid
-	that uses
-	electricity.
+	Anguila
+	que usa
+	electric.
 	"""
 	end
 }
@@ -3376,8 +3401,8 @@ script 741 mmz3 {
 	"""
 	P. Hunter
 	
-	Carries a
-	3 shot gun.
+	Lleva arma
+	de 3 tiros.
 	"""
 	end
 }
@@ -3385,9 +3410,8 @@ script 742 mmz3 {
 	"""
 	P. Guardian
 	
-	Carries an
-	electric
-	club.
+	Usa garrote
+	eléctrico.
 	"""
 	end
 }
@@ -3395,10 +3419,9 @@ script 743 mmz3 {
 	"""
 	P. Aqua
 	
-	Shoots a
-	harpoon
-	from its
-	arm.
+	Dispara un
+	arpón desde
+	el brazo.
 	"""
 	end
 }
@@ -3406,8 +3429,8 @@ script 744 mmz3 {
 	"""
 	P. Fist
 	
-	Punches
-	when close.
+	Golpea al
+	acercarse.
 	"""
 	end
 }
@@ -3415,9 +3438,10 @@ script 745 mmz3 {
 	"""
 	P. Base
 	
-	Rides a
-	hovercraft,
-	uses hammer.
+	Vuela en un
+	aerodesliza-
+	dor y usa
+	un martillo.
 	"""
 	end
 }
@@ -3425,10 +3449,10 @@ script 746 mmz3 {
 	"""
 	Deathlock
 	
-	Mechaniloid
-	made from
-	old parts.
-	
+	Hecho con
+	partes
+	viejas de
+	máquinas.
 	"""
 	end
 }
@@ -3436,9 +3460,8 @@ script 747 mmz3 {
 	"""
 	Gyro Cannon
 	
-	Floats up
-	with a
-	propeller.
+	Flota con
+	hélice.
 	"""
 	end
 }
@@ -3446,10 +3469,9 @@ script 748 mmz3 {
 	"""
 	Grand Cannon
 	
-	A cannon
-	made for
-	frozen
-	terrain.
+	Cañón hecho
+	para zonas
+	frías.
 	"""
 	end
 }
@@ -3457,9 +3479,9 @@ script 749 mmz3 {
 	"""
 	Tile Cannon
 	
-	A cannon
-	that hides
-	in walls.
+	Cañón que se
+	oculta en
+	las paredes.
 	"""
 	end
 }
@@ -3467,9 +3489,9 @@ script 750 mmz3 {
 	"""
 	P. Cannon
 	
-	A cannon
-	that attacks
-	from poles.
+	Cañón que
+	ataca desde
+	postes.
 	"""
 	end
 }
@@ -3477,9 +3499,9 @@ script 751 mmz3 {
 	"""
 	Heavy Cannon
 	
-	Shoots a
-	one-ton
-	cannonball.
+	Dispara una
+	bola de una
+	tonelada.
 	"""
 	end
 }
@@ -3487,9 +3509,9 @@ script 752 mmz3 {
 	"""
 	C. Cannon
 	
-	Shoots 2
-	shots from
-	a capsule.
+	Dispara 2
+	tiros desde
+	una cápsula.
 	"""
 	end
 }
@@ -3497,9 +3519,9 @@ script 753 mmz3 {
 	"""
 	G. Cannon
 	
-	Creates
-	small Mech-
-	aniloids.
+	Crea
+	Mecaniloides
+	pequeños.
 	"""
 	end
 }
@@ -3507,9 +3529,9 @@ script 754 mmz3 {
 	"""
 	Eye Cannon
 	
-	Spots
-	intruders
-	and attacks.
+	Detecta y
+	ataca
+	intrusos.
 	"""
 	end
 }
@@ -3517,10 +3539,10 @@ script 755 mmz3 {
 	"""
 	Shrimpolin
 	
-	This foe can
-	move quickly
-	in sand or 
-	snow.
+	Se mueve
+	rápido en
+	arena o
+	nieve.
 	"""
 	end
 }
@@ -3528,10 +3550,9 @@ script 756 mmz3 {
 	"""
 	Volcaire
 	
-	Stores lava
-	inside body
-	then splits
-	mid-air.
+	Guarda lava
+	y se divide
+	en el aire.
 	"""
 	end
 }
@@ -3539,9 +3560,9 @@ script 757 mmz3 {
 	"""
 	Claveker
 	
-	This foe
-	shoots from
-	ceilings.
+	Dispara
+	desde el
+	techo.
 	"""
 	end
 }
@@ -3549,9 +3570,9 @@ script 758 mmz3 {
 	"""
 	Petatria
 	
-	Revives if
-	eye is not
-	attacked.
+	Revive si
+	no golpeas
+	su ojo.
 	"""
 	end
 }
@@ -3559,9 +3580,10 @@ script 759 mmz3 {
 	"""
 	Shotloid
 	
-	Shoots while
-	moving in
-	small steps.
+	Dispara al
+	moverse
+	en pasos
+	cortos.
 	"""
 	end
 }
@@ -3569,9 +3591,10 @@ script 760 mmz3 {
 	"""
 	Seimeran
 	
-	This plant
-	Mechaniloid
-	smells nice.
+	Planta
+	mecaniloide
+	con buen
+	aroma.
 	"""
 	end
 }
@@ -3579,9 +3602,9 @@ script 761 mmz3 {
 	"""
 	Lamplort
 	
-	Mechaniloid
-	made to cook
-	fish.
+	Mecaniloide
+	que cocina
+	peces.
 	"""
 	end
 }
@@ -3589,9 +3612,9 @@ script 762 mmz3 {
 	"""
 	Lemmingles
 	
-	4 mouse-like
-	Mechaniloids
-	in a group.
+	Grupo de 4
+	mecaniloides
+	tipo ratón.
 	"""
 	end
 }
@@ -3599,9 +3622,10 @@ script 763 mmz3 {
 	"""
 	Cattatank
 	
-	Guards with
-	shield then
-	punches.
+	Bloquea con
+	escudo y
+	luego da
+	golpes.
 	"""
 	end
 }
@@ -3609,9 +3633,9 @@ script 764 mmz3 {
 	"""
 	Top Gabyoall
 	
-	Patrols
-	floors and
-	walls.
+	Patrulla
+	suelos y
+	muros.
 	"""
 	end
 }
@@ -3619,10 +3643,10 @@ script 765 mmz3 {
 	"""
 	Snakecord
 	
-	Hangs from
-	ceilings and
-	bites when
-	separated.
+	Cuelga del
+	techo y
+	muerde al
+	separarse.
 	"""
 	end
 }
@@ -3630,9 +3654,9 @@ script 766 mmz3 {
 	"""
 	Gallisni
 	
-	Appears
-	when alarm
-	is tripped.
+	Aparece si
+	suena la
+	alarma.
 	"""
 	end
 }
@@ -3640,9 +3664,10 @@ script 767 mmz3 {
 	"""
 	Crossbyne
 	
-	Shoots 4-way
-	bullets and
-	warps.
+	Dispara en
+	4 direccio-
+	nes y se
+	teleporta.
 	"""
 	end
 }
@@ -3650,9 +3675,10 @@ script 768 mmz3 {
 	"""
 	Flopper
 	
-	Explodes,
-	damaging
-	close units.
+	Explota y
+	daña a
+	unidades
+	cercanas.
 	"""
 	end
 }
@@ -3660,9 +3686,9 @@ script 769 mmz3 {
 	"""
 	PurpleNerple
 	
-	This foe
-	has a bomb
-	underneath.
+	Este enemigo
+	tiene una
+	bomba abajo.
 	"""
 	end
 }
@@ -3670,8 +3696,9 @@ script 770 mmz3 {
 	"""
 	Mothjiro
 	
-	Congregates
-	near light.
+	Se reúne
+	cerca de
+	la luz.
 	"""
 	end
 }
@@ -3679,9 +3706,10 @@ script 771 mmz3 {
 	"""
 	Batring
 	
-	Repels any
-	attack when
-	wings close.
+	Bloquea
+	ataques si
+	cierra sus
+	alas.
 	"""
 	end
 }
@@ -3689,9 +3717,9 @@ script 772 mmz3 {
 	"""
 	Mellnet
 	
-	A bee-type
-	Mechaniloid
-	that stings.
+	Abeja
+	mecaniloide
+	que pica.
 	"""
 	end
 }
@@ -3699,9 +3727,10 @@ script 773 mmz3 {
 	"""
 	Shotcounter
 	
-	Can block
-	frontal
-	attacks.
+	Puede
+	bloquear
+	ataques
+	de frente.
 	"""
 	end
 }
@@ -3709,9 +3738,9 @@ script 774 mmz3 {
 	"""
 	Sharkseal X
 	
-	A shark-type
-	Mechaniloid
-	that bites.
+	Tiburón
+	mecaniloide
+	que muerde.
 	"""
 	end
 }
@@ -3719,9 +3748,10 @@ script 775 mmz3 {
 	"""
 	Shelluno
 	
-	Attacks from
-	behind its
-	target.
+	Ataca por
+	la espalda
+	de su
+	objetivo.
 	"""
 	end
 }
@@ -3729,8 +3759,8 @@ script 776 mmz3 {
 	"""
 	Icebon
 	
-	Produces ice
-	underwater.
+	Crea hielo
+	bajo agua.
 	"""
 	end
 }
@@ -3738,9 +3768,9 @@ script 777 mmz3 {
 	"""
 	Shellcrawler
 	
-	Runs when it
-	loses its
-	shell.
+	Huye cuando
+	pierde su
+	caparazón.
 	"""
 	end
 }
@@ -3748,9 +3778,9 @@ script 778 mmz3 {
 	"""
 	Cannonhopper
 	
-	Shoots from
-	ceilings and
-	floors.
+	Dispara en
+	techo y
+	suelo.
 	"""
 	end
 }
@@ -3758,9 +3788,9 @@ script 779 mmz3 {
 	"""
 	Weil
 	
-	Scientist 
-	who created
-	Reploids.
+	Científico
+	creador de
+	Reploides.
 	"""
 	end
 }
@@ -3768,9 +3798,9 @@ script 780 mmz3 {
 	"""
 	Ciel
 	
-	Researcher
-	specializing
-	in energy.
+	Científica
+	experta en
+	energía.
 	"""
 	end
 }
@@ -3778,9 +3808,10 @@ script 781 mmz3 {
 	"""
 	Cerveau
 	
-	Engineer who
-	makes Zero's
-	weapons.
+	Ingeniero
+	que crea
+	armas de
+	Zero.
 	"""
 	end
 }
@@ -3788,9 +3819,9 @@ script 782 mmz3 {
 	"""
 	Andrew
 	
-	Old Reploid
-	who likes to
-	talk a lot.
+	Reploide
+	viejo que
+	habla mucho.
 	"""
 	end
 }
@@ -3798,9 +3829,9 @@ script 783 mmz3 {
 	"""
 	Alouette
 	
-	Treasures
-	a doll Ciel
-	gave her.
+	Aprecia la
+	muñeca que
+	Ciel le dio.
 	"""
 	end
 }
@@ -3808,8 +3839,9 @@ script 784 mmz3 {
 	"""
 	Hibou
 	
-	This hungry
-	Reploid eats
+	Reploide
+	hambriento
+	que come
 	E-Crystals.
 	"""
 	end
@@ -3818,9 +3850,9 @@ script 785 mmz3 {
 	"""
 	Rocinolle
 	
-	Helps with
-	wounded
-	Reploids.
+	Ayuda a
+	Reploides
+	heridos.
 	"""
 	end
 }
@@ -3828,9 +3860,9 @@ script 786 mmz3 {
 	"""
 	Perroquiet
 	
-	A brilliant
-	assistant
-	to Ciel.
+	Asistente
+	brillante
+	de Ciel.
 	"""
 	end
 }
@@ -3838,10 +3870,10 @@ script 787 mmz3 {
 	"""
 	Autruche
 	
-	A tall Rep-
-	loid known
-	for his dull
-	speeches.
+	Reploide
+	alto con
+	charlas
+	aburridas.
 	"""
 	end
 }
@@ -3849,9 +3881,9 @@ script 788 mmz3 {
 	"""
 	Hirondelle
 	
-	Flies around
-	and gathers
-	information.
+	Vuela y
+	recolecta
+	información.
 	"""
 	end
 }
@@ -3859,9 +3891,10 @@ script 789 mmz3 {
 	"""
 	Doigt
 	
-	Cerveau's
-	helper and
-	weaponmaker.
+	Ayudante de
+	Cerveau en
+	la creación
+	de armas.
 	"""
 	end
 }
@@ -3869,9 +3902,9 @@ script 790 mmz3 {
 	"""
 	Menart
 	
-	A mischief-
-	maker who
-	plays hooky.
+	Travieso que
+	falta a
+	sus deberes.
 	"""
 	end
 }
@@ -3879,10 +3912,9 @@ script 791 mmz3 {
 	"""
 	Pic
 	
-	A cynical
-	Reploid who
-	makes snide
-	comments.
+	Reploide
+	sarcástico
+	y burlón.
 	"""
 	end
 }
@@ -3890,10 +3922,10 @@ script 792 mmz3 {
 	"""
 	Harpuia
 	
-	The shrewd
-	Green Lord
-	leads the
-	Rekku Army.
+	El astuto
+	líder verde
+	del ejército
+	Rekku.
 	"""
 	end
 }
@@ -3901,10 +3933,10 @@ script 793 mmz3 {
 	"""
 	Fefnir
 	
-	The fierce
-	Red Lord
-	leads the
-	Jin'en Army.
+	El feroz
+	líder rojo
+	del ejército
+	Jin'en.
 	"""
 	end
 }
@@ -3912,10 +3944,10 @@ script 794 mmz3 {
 	"""
 	Leviathan
 	
-	The sly
-	Blue Lord
-	leads the
-	Meikai Army.
+	La astuta
+	líder azul
+	del ejército
+	Meikai.
 	"""
 	end
 }
@@ -3923,10 +3955,10 @@ script 795 mmz3 {
 	"""
 	Phantom
 	
-	The evil
-	Dark Lord
-	Leads the
-	Zan'ei Army.
+	El malvado
+	líder oscuro
+	del ejército
+	Zan'ei.
 	"""
 	end
 }
@@ -5405,89 +5437,89 @@ script 993 mmz3 {
 script 1088 mmz3 {
 	textColorRed
 	"""
-	RULES
+	REGLAS
 	"""
 	textColorWhite
 	end
 }
 script 1089 mmz3 {
 	"""
-	Aim with +Control Pad and
-	use B BUTTON to hit
-	Mellnets with Recoil Rod.
-	Different colored Mellnets
-	are harder and require 2
-	shots or a charged shot.
-	3 misses = game over.
+	Apunta con +Control Pad y
+	usa B BUTTON para golpear
+	Mellnets con Recoil Rod.
+	Los Mellnets de colores
+	son mas duros y requieren
+	2 disparos o uno cargado.
+	3 fallos = fin del juego.
 	"""
 	end
 }
 script 1090 mmz3 {
 	"""
-	Guide 5 colored jewels to
-	the right colored beaker.
-	The jewels will take all
-	possible turns.
-	Use A BUTTON or B BUTTON
-	to open or close paths.
-	3 misses = game over.
+	Guia 5 joyas de color
+	al vaso del mismo color.
+	Las joyas tomaran todos
+	los giros posibles.
+	Usa A BUTTON o B BUTTON
+	para abrir o cerrar rutas.
+	3 fallos = fin del juego.
 	"""
 	end
 }
 script 1091 mmz3 {
 	"""
-	Using 3 elements, destroy
-	panels on a belt conveyor.
-	The L BUTTON and R BUTTON
-	change elements, B BUTTON
-	attacks. Thunder on Ice,
-	Ice on Fire, Fire on Thun-
-	der. 3 misses = game over.
+	Usa 3 elementos para
+	destruir paneles en cinta.
+	L BUTTON y R BUTTON
+	cambian elem., B BUTTON
+	ataca. Rayo vence Hielo,
+	Hielo vence Fuego, Fuego
+	vence Rayo. 3 fallos = fin
 	"""
 	end
 }
 script 1092 mmz3 {
 	"""
-	Riding Aztec Falcon jump
-	over obstacles and slash
-	foes. A BUTTON to jump;
-	B BUTTON to slash. Ends
-	when you get hit 3 times,
-	crash, or fall in a pit.
+	Monta a Aztec Falcon y
+	salta obstaculos y corta
+	enemigos. A BUTTON salta;
+	B BUTTON ataca. Termina
+	al recibir 3 golpes,
+	chocar o caer en un
+	hoyo.
 	"""
 	end
 }
 script 1093 mmz3 {
 	"""
-	Stop Carryarms from taking
-	the items. +Control Pad 
-	to move Fefnir; B BUTTON
-	to fire Meteor Rain. Score
-	bonus points when items
-	Drop.Game ends when an
-	item is taken.
+	Evita que Carryarms robe
+	los objetos. +Control Pad
+	mueve a Fefnir; B BUTTON
+	para lanzar Meteor Rain.
+	Gana bonus al caer items.
+	Fin si roban un objeto.
 	"""
 	end
 }
 script 1094 mmz3 {
 	"""
-	Move Leviathan w/ +Control
-	Pad; B BUTTON for spear.
-	Earn score and time by
-	hitting only Mechaniloids.
-	Consecutive hits score
-	bonus points. Game ends 
-	when time runs out.
+	Mueve a Leviathan
+	con +Control Pad;
+	B BUTTON para lanza.
+	Gana pts. y tiempo
+	golpeando solo
+	Mechaniloids; combos
+	dan bonus. Fin: tiempo.
 	"""
 	end
 }
 script 1095 mmz3 {
 	"""
-	Jump from one shuriken to
-	another. +Control Pad to
-	move; A BUTTON to jump. 
-	Ends when hit 3 times, or
-	you fall from a shuriken.
+	Salta de un shuriken a
+	otro. +Control Pad para
+	moverte; A BUTTON salta.
+	Termina si te golpean 3
+	veces o caes de uno.
 	"""
 	end
 }
