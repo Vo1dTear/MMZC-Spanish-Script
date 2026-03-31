@@ -5,8 +5,8 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Talk to who?
-	  Operator
+	¿Hablar con quién?
+	  Operadora
 	  Ciel
 	"""
 	end
@@ -15,9 +15,9 @@ script 1 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	What's up?
-	  Data storage
-	  Talk
+	¿Qué ocurre?
+	  Gestionar datos
+	  Hablar
 	"""
 	end
 }
@@ -25,9 +25,9 @@ script 2 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	  Save data
-	  Load data
-	  Delete data
+	  Guardar datos
+	  Cargar datos
+	  Borrar datos
 	"""
 	end
 }
@@ -35,7 +35,7 @@ script 3 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Oh, before that...
+	Ah, antes de eso...
 	"""
 	end
 }
@@ -43,8 +43,8 @@ script 4 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	I'll save your data!
-	  Yes
+	¡Guardaré tus datos!
+	  Sí
 	  No
 	"""
 	end
@@ -53,18 +53,18 @@ script 5 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	All saved!
+	¡Todo guardado!
 	"""
 	msgClear
 	"""
-	I'll be here in the
-	commander's room.
+	Estaré aquí en la
+	sala del comandante.
 	"""
 	msgClear
 	"""
-	If you ever want to
-	store your data,
-	just drop by.
+	Si quieres guardar
+	tus datos, solo
+	pasa por aquí.
 	"""
 	msgClear
 	"""
@@ -76,19 +76,20 @@ script 6 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	You sure?
-	Don't overdo it.
+	¿Seguro?
+	No te esfuerces
+	demasiado.
 	"""
 	msgClear
 	"""
-	I'll be here if you
-	change your mind.
+	Estaré aquí si
+	cambias de idea.
 	"""
 	msgClear
 	"""
-	I'm in charge of
-	data. Just drop by
-	if you need to save.
+	Me encargo de los
+	datos. Pasa por aquí
+	si necesitas guardar.
 	"""
 	msgClear
 	"""
@@ -101,46 +102,52 @@ script 7 mmz4 {
 		mugshot = 59
 	"""
 	Zero...
-	I...
+	Yo...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Worrying won't stop
-	Weil's army.
+	Preocuparse no
+	detendrá al ejército
+	de Weil.
 	"""
 	msgClear
 	"""
-	You can only do your
-	best and hope that's
-	enough.
+	Solo puedes hacer
+	tu mejor esfuerzo y
+	esperar que baste.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Alright then, let's
-	do what we can to
-	protect the nature
+	Está bien, hagamos
+	lo que podamos para
+	proteger la
 	"""
 	msgClear
 	"""
-	around Area Zero.
-	I hope the people in
-	the Settlement will
+	la naturaleza
+	alrededor del Área
+	Zero.
 	"""
 	msgClear
 	"""
-	come to realize
-	we're not trying
-	to hurt them.
+	Espero que la gente
+	del Asentamiento
+	entienda que no
+	"""
+	msgClear
+	"""
+	queremos hacerles
+	daño.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I'm sure they will.
+	Estoy seguro que sí.
 	"""
 	end
 }
@@ -148,16 +155,20 @@ script 8 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I've found signals
-	for Weil's army!
-	There are 8 units!
+	¡He detectado
+	señales del ejército
+	de Weil!
+	"""
+	msgClear
+	"""
+	¡Hay 8 unidades!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Ragnarok has
-	begun...
+	Ragnarok ha
+	comenzado...
 	"""
 	end
 }
@@ -165,8 +176,8 @@ script 9 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Feeding data to the
-	screen now.
+	Mostrando datos
+	en pantalla ahora.
 	"""
 	end
 }
@@ -174,8 +185,8 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Choose mission?
-	  Yes
+	¿Elegir misión?
+	  Sí
 	  No
 	"""
 	end
@@ -184,8 +195,8 @@ script 11 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Tell me when you're
-	ready to go!
+	¡Avísame cuando estés
+	listo para partir!
 	"""
 	end
 }
@@ -504,9 +515,9 @@ script 40 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Need something?
-	  Item recipes
-	  Talk
+	¿Necesitas algo?
+	  Recetas
+	  Hablar
 	"""
 	end
 }
@@ -514,9 +525,9 @@ script 41 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	What is it Zero?
-	  Elf
-	  Talk
+	¿Qué pasa, Zero?
+	  Elfo
+	  Hablar
 	"""
 	end
 }
@@ -524,8 +535,8 @@ script 42 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	These are the areas
-	you can go.
+	Estas son las áreas
+	a las que puedes ir.
 	"""
 	end
 }
@@ -544,8 +555,9 @@ script 48 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Alright...
-	Ready for transfer.
+	Está bien...
+	Listo para la
+	transferencia.
 	"""
 	end
 }
@@ -553,7 +565,7 @@ script 49 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Transfer!
+	¡Transfiriendo!
 	"""
 	end
 }
@@ -561,7 +573,7 @@ script 51 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Zero, be careful.
+	Zero, ten cuidado.
 	"""
 	end
 }
@@ -618,7 +630,7 @@ script 60 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Transferring in...
+	Transfiriendo...
 	2...
 	1...
 	"""
@@ -628,7 +640,8 @@ script 61 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Welcome back.
+	Bienvenido
+	de vuelta.
 	"""
 	end
 }
@@ -1561,9 +1574,8 @@ script 100 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Something about the
-	Caravan bothering
-	you?
+	¿Algo de la caravana
+	te molesta?
 	"""
 	end
 }
@@ -1571,98 +1583,96 @@ script 101 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Yeah...
+	Sí...
 	"""
 	msgClear
 	"""
-	I was shocked to
-	hear that all of the
-	humans at the
+	Me sorprendió
+	saber que todos
+	los humanos del
 	"""
 	msgClear
 	"""
-	Settlement hated
-	the Reploids...
+	asentamiento odiaban
+	a los Reploides...
 	"""
 	msgClear
 	"""
-	It's just I've...
-	we've fought so hard
-	for the Reploids,
+	Es que yo...
+	hemos luchado tanto
+	por los Reploides,
 	"""
 	msgClear
 	"""
-	that I didn't know
-	other humans felt
-	that way...
+	que no sabía que
+	otros humanos
+	pensaban así...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Didn't they say the
-	Settlement was in a
-	place called
+	¿No dijeron que el
+	asentamiento estaba
+	en un lugar llamado
 	"""
 	msgClear
 	"""
-	Area Zero?
+	Área Zero?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	That's where we
-	should be heading
-	too.
+	Ahí también
+	deberíamos ir.
 	"""
 	msgClear
 	"""
-	They're struggling
-	to maintain their
-	independence from
+	Luchan por mantener
+	su independencia de
+	Weil, y debemos
 	"""
 	msgClear
 	"""
-	Weil, and we have to
-	help them.
+	ayudarlos.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Do what you feel is
-	right.
+	Haz lo que creas
+	correcto.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Thanks Zero, I just
-	need a little more
-	time.
+	Gracias, Zero.
+	Solo necesito algo
+	más de tiempo.
 	"""
 	msgClear
 	"""
-	Now might be a good
-	time to drop by
-	Cerveau's for some
+	Quizá sea buen
+	momento para ir
+	donde Cerveau por
 	"""
 	msgClear
 	"""
-	maintenance. After
-	that come and see me
-	in the commander's
+	mantenimiento.
+	Luego ven a verme
+	a la sala del
 	"""
 	msgClear
 	"""
-	room.
+	comandante.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Oh, before that...
+	Ah, antes de eso...
 	"""
 	end
 }
@@ -1670,129 +1680,132 @@ script 102 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Welcome back Zero.
+	Bienvenido, Zero.
 	"""
 	msgClear
 	"""
-	It seems the
-	Reploids weren't
-	aware of the
+	Parece que los
+	Reploides no
+	sabían de la
 	"""
 	msgClear
 	"""
-	Settlement's
-	presence.
+	presencia del
+	asentamiento.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	I know Neige warned
-	us not to go to the
-	Settlement, but we
+	Sé que Neige dijo
+	que no fuéramos,
+	pero debemos
 	"""
 	msgClear
 	"""
-	need to tell them
-	about Ragnarok.
+	avisarles sobre
+	Ragnarok.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	With Weil's army so
-	close, we can't
-	afford to risk
+	Con el ejército de
+	Weil tan cerca,
+	no podemos
 	"""
 	msgClear
 	"""
-	alerting them to the
-	Settlement's
-	presence by
+	arriesgarnos a
+	delatar el
+	asentamiento
 	"""
 	msgClear
 	"""
-	transferring you
-	there. You'll have
-	to go on foot, just
+	transfiriéndote allí.
+	Tendrás que ir
+	a pie,
 	"""
 	msgClear
 	"""
-	exit the trailer and
-	keep going right. It
-	shouldn't take you
+	sal del tráiler y
+	sigue a la
+	derecha.
 	"""
 	msgClear
 	"""
-	long to reach it.
+	No deberías tardar
+	en llegar.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Oh, and Zero...
+	Ah, y Zero...
 	"""
 	msgClear
 	"""
-	We just received
-	data on an all new
-	Cyber-elf from the
+	Recibimos datos
+	de un nuevo
+	Cyber-elfo
 	"""
 	msgClear
 	"""
-	Resistance Base.
+	de la Base de la
+	Resistencia.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	New Cyber-elf?
+	¿Un nuevo
+	Cyber-elfo?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	They've been
-	conducting research
-	on Cyber-elves.
+	Han estado
+	investigando
+	Cyber-elfos.
 	"""
 	msgClear
 	"""
-	We've got one of the
-	new ones in the room
-	next door with
+	Tenemos uno de los
+	nuevos en el cuarto
+	de al lado con
 	"""
 	msgClear
 	"""
-	Alouette. Pick it up
-	from her. She also
-	has the operating
+	Alouette. Ve a
+	buscarlo con
+	ella.
 	"""
 	msgClear
 	"""
-	manual, so ask her
-	for more details
-	about it.
+	También tiene el
+	manual, así que
+	pídele detalles.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I will.
+	Lo haré.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	When you're ready,
-	head out to the
-	Settlement.
+	Cuando estés listo,
+	dirígete al
+	asentamiento.
 	"""
 	msgClear
 	"""
-	I'll catch up to
-	you later in the
-	trailer.
+	Luego iré a
+	reunirme contigo
+	en el tráiler.
 	"""
 	end
 }

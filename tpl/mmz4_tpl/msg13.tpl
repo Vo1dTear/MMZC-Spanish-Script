@@ -5,52 +5,56 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Did you find out
-	anything about
-	Area Zero?
+	¿Averiguaste algo
+	sobre el Área Zero?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Yes...
-	It's not far from
-	here.
+	Sí...
+	No está lejos de
+	aquí.
 	"""
 	msgClear
 	"""
-	Neige and the others
-	should arrive there
-	soon.
+	Neige y los demás
+	deberían llegar
+	pronto.
 	"""
 	msgClear
 	"""
-	Area Zero is the
-	site in the Maverick
-	Wars, where the
+	El Área Zero es el
+	lugar de las Guerras
+	Maverick, donde
 	"""
 	msgClear
 	"""
-	space colony
-	Eurasia crashed...
+	la colonia espacial
+	Eurasia se
+	estrelló...
 	"""
 	msgClear
 	"""
-	Many lives were lost
-	there...
+	Muchas vidas se
+	perdieron allí...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Area Zero is the
-	painful reminder of
-	a war long past...
+	El Área Zero es un
+	recordatorio doloroso
+	de una guerra
 	"""
 	msgClear
 	"""
-	Humans are living
-	there now?
+	pasada...
+	"""
+	msgClear
+	"""
+	¿Ahora viven
+	humanos allí?
 	"""
 	end
 }
@@ -58,75 +62,91 @@ script 1 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Data about Area Zero
-	has been sent from
-	the Resistance Base.
+	Se envió información
+	sobre el Área Zero
+	desde la Base de
 	"""
 	msgClear
 	"""
-	Since the crash of
-	the space colony,
-	the section has been
+	la Resistencia.
 	"""
 	msgClear
 	"""
-	sealed off, but
-	apparently the land
-	has been renewed in
+	Desde el accidente
+	de la colonia
+	espacial, la zona
 	"""
 	msgClear
 	"""
-	that time and nature
-	is becoming more and
-	more abundant.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Nature is coming
-	back to Area Zero!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	It's said to be due
-	to an environmental
-	system still left
+	estuvo cerrada, pero
+	al parecer la tierra
+	se ha renovado y
 	"""
 	msgClear
 	"""
-	active after the
-	crash.
-	"""
-	msgClear
-	"""
-	It's not much, but
-	it still means hope
-	for humanity.
+	la naturaleza se
+	vuelve más abundante
+	cada vez más.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Have you managed to
-	find the human
-	settlement?
+	¿¡La naturaleza
+	está regresando al
+	Área Zero!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	There was not enough
-	data to pinpoint an
-	exact location.
+	Se dice que es por
+	un sistema ambiental
+	activo desde el
 	"""
 	msgClear
 	"""
-	We need to conduct a
-	closer investigation
-	of Area Zero.
+	accidente.
+	"""
+	msgClear
+	"""
+	No es mucho, pero
+	aún representa
+	esperanza para
+	"""
+	msgClear
+	"""
+	la humanidad.
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 7
+	"""
+	¿Has logrado
+	encontrar el
+	asentamiento
+	"""
+	msgClear
+	"""
+	humano?
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 34
+	"""
+	No había suficiente
+	información para
+	localizarlo con
+	"""
+	msgClear
+	"""
+	precisión.
+	"""
+	msgClear
+	"""
+	Debemos investigar el
+	Área Zero más de
+	cerca.
 	"""
 	end
 }
@@ -134,14 +154,13 @@ script 2 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Zero, can you head
-	out there and check
-	it out?
+	Zero, ¿puedes salir
+	y revisar?
 	"""
 	msgClear
 	"""
-	We'll be following
-	in the trailer.
+	Te seguiremos en
+	el tráiler.
 	"""
 	end
 }
@@ -149,8 +168,8 @@ script 3 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Going to Area Zero?
-	  Yes
+	¿Vas al Área Zero?
+	  Sí
 	  No
 	"""
 	end
@@ -159,16 +178,17 @@ script 4 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Understood.
-	Operator,
-	transport me.
+	Entendido.
+	Operadora,
+	transpórtame.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	Alright.
-	Coordinates set...
+	De acuerdo.
+	Coordenadas
+	configuradas...
 	"""
 	end
 }
@@ -176,45 +196,45 @@ script 5 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	How could this be!?
+	¿¡Cómo puede ser!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	How could what be?
+	¿Cómo qué puede
+	ser?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	I'm detecting
-	multiple Reploid
-	signals!
+	¡Detecto varias
+	señales Reploide!
 	"""
 	msgClear
 	"""
-	I think they're Neo
-	Arcadian...
+	Creo que son de
+	Neo Arcadia...
 	"""
 	msgClear
 	"""
-	No, they're Weil's
-	Reploids!
+	¡No, son Reploides
+	de Weil!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	What are they doing
-	in Area Zero!?
+	¡¿Qué hacen en el
+	Área Zero!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Operator, get me
-	over there. Hurry!
+	Operadora, llévame
+	allí. ¡Rápido!
 	"""
 	end
 }
@@ -222,9 +242,9 @@ script 6 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Understood. I'm
-	ready when you
-	are...
+	Entendido.
+	Estoy lista
+	cuando quieras...
 	"""
 	end
 }
@@ -232,8 +252,8 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 51
 	"""
-	Hey you!
-	Stop!
+	¡Eh tú!
+	¡Alto!
 	"""
 	end
 }
@@ -241,21 +261,21 @@ script 11 mmz4 {
 	mugshotShow
 		mugshot = 51
 	"""
-	You're a Reploid.
-	This isn't the place
-	for you!
+	Eres un Reploide.
+	¡Este no es lugar
+	para ti!
 	"""
 	msgClear
 	"""
-	Get out of here!
+	¡Fuera de aquí!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 58
 	"""
-	Wait!
-	We have to tell you
-	something!
+	¡Espera!
+	¡Tenemos que decirte
+	algo!
 	"""
 	end
 }
@@ -263,8 +283,8 @@ script 12 mmz4 {
 	mugshotShow
 		mugshot = 61
 	"""
-	We told you to get
-	out...
+	Te dijimos que
+	salieras...
 	"""
 	end
 }
@@ -272,36 +292,42 @@ script 13 mmz4 {
 	mugshotShow
 		mugshot = 58
 	"""
-	Weil is going to
-	destroy this place.
+	Weil va a destruir
+	este lugar.
 	"""
 	msgClear
 	"""
-	If you leave now,
-	there's still time.
+	Si se van ahora,
+	aún hay tiempo.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 51
 	"""
 	Hmph...
-	Another Reploid War?
+	¿Otra guerra de
+	Reploides?
 	"""
 	msgClear
 	"""
-	First the Maverick
-	Wars, then the Elf
-	Wars, now Weil...
+	Primero las Guerras
+	Maverick, luego
+	las Guerras Élficas,
 	"""
 	msgClear
 	"""
-	How long does this
-	world have to suffer
-	while you carry out
+	y ahora Weil...
 	"""
 	msgClear
 	"""
-	your petty wars?
+	¿Cuánto tiempo
+	tendrá que sufrir
+	el mundo mientras
+	"""
+	msgClear
+	"""
+	llevas a cabo tus
+	pequeñas guerras?
 	"""
 	end
 }
@@ -309,59 +335,61 @@ script 14 mmz4 {
 	mugshotShow
 		mugshot = 58
 	"""
-	Huh?
+	¿Eh?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 51
 	"""
-	Just leave us alone.
+	Déjanos en paz.
 	"""
 	msgClear
 	"""
-	This settlement was
-	built by humans, for
-	humans, and we'll
+	Este asentamiento
+	fue construido por
+	humanos, 
 	"""
 	msgClear
 	"""
-	protect it by
-	ourselves.
+	para humanos,
+	y lo protegeremos
+	nosotros mismos.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 58
 	"""
-	But it's dangerous
-	for you to fight
-	Weil alone...
+	Pero es peligroso
+	que luchen contra
+	Weil solos...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 51
 	"""
-	So you'd like humans
-	and Reploids to join
-	forces?
+	¿Quieres que
+	humanos y Reploides
+	unamos fuerzas?
 	"""
 	msgClear
 	"""
-	Don't be a fool!
+	¡No seas tonta!
 	"""
 	msgClear
 	"""
-	It's you Reploids
-	and your wars that
-	got us into this
+	Ustedes, Reploides,
+	y sus guerras nos
+	metieron en este
 	"""
 	msgClear
 	"""
-	mess.
+	lío.
 	"""
 	msgClear
 	"""
-	We have no reason to
-	trust you.
+	No tenemos razón
+	para confiar en
+	ti.
 	"""
 	end
 }
@@ -369,64 +397,64 @@ script 15 mmz4 {
 	mugshotShow
 		mugshot = 58
 	"""
-	B-but... We were
-	just trying to
-	protect you!
+	¡P-pero... solo
+	estábamos tratando
+	de protegerlos!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Save your breath.
+	Ahorra tus fuerzas.
 	"""
 	msgClear
 	"""
-	Neige said we
-	wouldn't be
-	welcome...
+	Neige dijo que
+	no seríamos
+	bienvenidos...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 58
 	"""
-	B-but!
+	¡P-pero!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	We told them what we
-	know.
+	Les dijimos lo que
+	sabemos.
 	"""
 	msgClear
 	"""
-	It's up to them to
-	decide what to do
-	with that.
+	Depende de ellos
+	decidir qué hacer
+	con eso.
 	"""
 	msgClear
 	"""
-	Isn't that right
+	¿No es así,
 	Neige?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 61
 	"""
-	That's right...
+	Así es...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I'm going back to
-	the trailer.
+	Voy a volver al
+	tráiler.
 	"""
 	msgClear
 	"""
-	The enemy will be
-	making their final
-	move soon.
+	El enemigo hará
+	su movimiento final
+	pronto.
 	"""
 	end
 }

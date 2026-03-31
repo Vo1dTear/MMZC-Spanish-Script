@@ -9,13 +9,13 @@ script 0 mmz4 {
 }
 script 1 mmz4 {
 	"""
-	NO DATA
+	SIN DATOS
 	"""
 	end
 }
 script 2 mmz4 {
 	"""
-	CANCEL
+	CANCELAR
 	"""
 	end
 }
@@ -4682,7 +4682,7 @@ script 798 mmz4 {
 }
 script 799 mmz4 {
 	"""
-	Up/Down then A Button
+	Up/Down y luego A Button
 	"""
 	end
 }
@@ -4896,171 +4896,171 @@ script 823 mmz4 {
 }
 script 829 mmz4 {
 	"""
-	Failed to load data!
+	¡Error al cargar!
 	"""
 	end
 }
 script 830 mmz4 {
 	"""
-	Save data?
-	  Yes
+	¿Guardar datos?
+	  Sí
 	  No
 	"""
 	end
 }
 script 831 mmz4 {
 	"""
-	Saving sys.data
+	Guardando sys.data
 	"""
 	end
 }
 script 832 mmz4 {
 	"""
-	Saving sys.data.
+	Guardando sys.data.
 	"""
 	end
 }
 script 833 mmz4 {
 	"""
-	Saving sys.data..
+	Guardando sys.data..
 	"""
 	end
 }
 script 834 mmz4 {
 	"""
-	Saving sys.data...
+	Guardando sys.data...
 	"""
 	end
 }
 script 835 mmz4 {
 	"""
-	Do not turn off power
+	No apagues el equipo
 	"""
 	end
 }
 script 836 mmz4 {
 	"""
-	Data saved
+	Datos guardados
 	"""
 	end
 }
 script 837 mmz4 {
 	"""
-	Failed to save
+	Error al guardar
 	"""
 	end
 }
 script 838 mmz4 {
 	"""
-	Failed to save
+	Error al guardar
 	"""
 	end
 }
 script 839 mmz4 {
 	"""
-	Save data corrupted
+	Datos corruptos
 	"""
 	end
 }
 script 840 mmz4 {
 	"""
-	Up/Down then A Button
+	Up/Down y luego A Button
 	"""
 	end
 }
 script 841 mmz4 {
 	"""
-	Data saved
+	Datos guardados
 	"""
 	end
 }
 script 842 mmz4 {
 	"""
-	Overwrite data?
-	  Yes
+	¿Sobrescribir datos?
+	  Sí
 	  No
 	"""
 	end
 }
 script 843 mmz4 {
 	"""
-	Data overwritten
+	Datos sobrescritos
 	"""
 	end
 }
 script 844 mmz4 {
 	"""
-	Load data?
-	  Yes
+	¿Cargar datos?
+	  Sí
 	  No
 	"""
 	end
 }
 script 845 mmz4 {
 	"""
-	Data loaded
+	Datos cargados
 	"""
 	end
 }
 script 846 mmz4 {
 	"""
-	Delete data?
-	  Yes
+	¿Borrar datos?
+	  Sí
 	  No
 	"""
 	end
 }
 script 847 mmz4 {
 	"""
-	Data deleted
+	Datos borrados
 	"""
 	end
 }
 script 848 mmz4 {
 	"""
-	Saving
+	Guardando
 	"""
 	end
 }
 script 849 mmz4 {
 	"""
-	Saving.
+	Guardando.
 	"""
 	end
 }
 script 850 mmz4 {
 	"""
-	Saving..
+	Guardando..
 	"""
 	end
 }
 script 851 mmz4 {
 	"""
-	Saving...
+	Guardando...
 	"""
 	end
 }
 script 852 mmz4 {
 	"""
-	Loading
+	Cargando
 	"""
 	end
 }
 script 853 mmz4 {
 	"""
-	Loading.
+	Cargando.
 	"""
 	end
 }
 script 854 mmz4 {
 	"""
-	Loading..
+	Cargando..
 	"""
 	end
 }
 script 855 mmz4 {
 	"""
-	Loading...
+	Cargando...
 	"""
 	end
 }
@@ -5095,17 +5095,17 @@ script 861 mmz4 {
 }
 script 862 mmz4 {
 	"""
-	Exit game & return to
-	the title screen.Game
-	progress will be lost.
+	Salir del juego y volver
+	a la pantalla de título.
+	El progreso se perderá.
 	"""
 	end
 }
 script 863 mmz4 {
 	"""
-	Exit to main title
-	screen.Unsaved game
-	progress will be lost.
+	Salir a la pantalla
+	principal. El progreso
+	no guardado se perderá.
 	"""
 	end
 }

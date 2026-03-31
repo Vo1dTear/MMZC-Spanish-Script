@@ -5,20 +5,20 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	I'm gathering
-	intelligence on Area
-	Zero, but I'm going
+	Estoy reuniendo
+	información sobre
+	el Área Zero, pero
 	"""
 	msgClear
 	"""
-	to need a little
-	more time.
+	necesito un poco
+	más de tiempo.
 	"""
 	msgClear
 	"""
-	Drop by Cerveau's in
-	the meantime for
-	some maintenance.
+	Mientras tanto,
+	pásate por Cerveau
+	para mantenimiento.
 	"""
 	end
 }
@@ -26,20 +26,20 @@ script 1 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	I'm gathering
-	intelligence on Area
-	Zero, but I'm going
+	Estoy reuniendo
+	información sobre
+	el Área Zero, pero
 	"""
 	msgClear
 	"""
-	to need a little
-	more time.
+	necesito un poco
+	más de tiempo.
 	"""
 	msgClear
 	"""
-	Drop by Cerveau's in
-	the meantime for
-	some maintenance.
+	Mientras tanto,
+	pásate por Cerveau
+	para mantenimiento.
 	"""
 	end
 }
@@ -119,14 +119,18 @@ script 4 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	If nature really has
-	been revived, that
-	would be amazing.
+	Si la naturaleza
+	realmente ha
+	revivido,
 	"""
 	msgClear
 	"""
-	I have to see it to
-	believe it.
+	sería increíble.
+	"""
+	msgClear
+	"""
+	Tengo que verlo para
+	creerlo.
 	"""
 	end
 }
@@ -135,13 +139,13 @@ script 5 mmz4 {
 		mugshot = 7
 	"""
 	Zero...
-	Can you go on ahead
-	to Area Zero?
+	¿Puedes ir antes
+	al Área Zero?
 	"""
 	msgClear
 	"""
-	We'll be there
-	shortly.
+	Llegaremos en
+	seguida.
 	"""
 	end
 }
@@ -149,15 +153,15 @@ script 6 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	If Ragnarok is
-	carried out, this
-	world will become a
+	Si Ragnarok se
+	lleva a cabo,
+	este mundo se
 	"""
 	msgClear
 	"""
-	desolate graveyard
-	in a matter of
-	minutes...
+	se convertirá en un
+	cementerio desolado
+	en cosa de minutos...
 	"""
 	end
 }
@@ -169,14 +173,14 @@ script 7 mmz4 {
 	"""
 	msgClear
 	"""
-	Pick up the latest
-	Cyber-elf from
-	Alouette and go on
+	Recoge el último
+	Cyber-elfo de
+	Alouette y sigue
 	"""
 	msgClear
 	"""
-	ahead to the
-	Settlement.
+	hasta el
+	asentamiento.
 	"""
 	end
 }
@@ -184,20 +188,19 @@ script 8 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Zero, did you decide
-	on a name for the
-	Elf?
+	Zero, ¿ya decidiste
+	un nombre para
+	el Elfo?
 	"""
 	msgClear
 	"""
-	No, from the looks
-	of it...
+	No, por lo que veo...
 	"""
 	msgClear
 	"""
-	I feel bad for the
-	poor little thing
-	not having a name.
+	Me da pena el pobre
+	pequeñito sin
+	nombre.
 	"""
 	end
 }
@@ -205,9 +208,9 @@ script 9 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	How about Charite?
-	  I like it.
-	  I don't think so.
+	¿Qué tal Charite?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -215,9 +218,9 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	It's a gentle name
-	fit for a gentle
-	Elf.
+	Es un nombre dulce,
+	apto para un
+	Elfo dulce.
 	"""
 	end
 }
@@ -225,9 +228,9 @@ script 11 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	What was wrong with
-	it? Tough to
-	pronounce?
+	¿Qué tenía de malo?
+	¿Difícil de
+	pronunciar?
 	"""
 	end
 }
@@ -235,18 +238,18 @@ script 12 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	What's up Zero?
+	¿Qué pasa, Zero?
 	"""
 	msgClear
 	"""
-	Still haven't
-	decided on a name
-	for the Elf yet?
+	¿Aún no decides un
+	nombre para el
+	Elfo?
 	"""
 	msgClear
 	"""
-	If that's the case
-	then...
+	Si es así,
+	entonces...
 	"""
 	end
 }
@@ -254,9 +257,9 @@ script 13 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Charite's no good?
-	  I like it.
-	  I don't think so.
+	¿No te gusta Charite?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -264,9 +267,9 @@ script 14 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	It's a gentle name
-	fit for a gentle
-	Elf.
+	Es un nombre dulce,
+	apto para un
+	Elfo dulce.
 	"""
 	end
 }
@@ -274,16 +277,16 @@ script 15 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Too bad, I kind of
-	liked the name...
+	Qué pena, me gustaba
+	ese nombre...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Hurry up and pick
-	a name, don't keep
-	Alouette waiting.
+	Apúrate y elige un
+	nombre, no hagas
+	esperar a Alouette.
 	"""
 	end
 }
@@ -295,14 +298,13 @@ script 16 mmz4 {
 	"""
 	msgClear
 	"""
-	Alouette is dying to
-	tell you about
-	Elves.
+	Alouette muere por
+	contarte sobre
+	Elfos.
 	"""
 	msgClear
 	"""
-	You should go and
-	see her.
+	Deberías ir a verla.
 	"""
 	end
 }
@@ -310,12 +312,12 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Alouette's waiting.
+	Alouette te espera.
 	"""
 	msgClear
 	"""
-	You should see her
-	as soon as you can.
+	Deberías verla
+	lo antes posible.
 	"""
 	end
 }
@@ -323,15 +325,19 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	I just heard from
-	Faucon guarding
-	outside.
+	Acabo de recibir
+	noticias de Faucon,
+	que vigila afuera.
 	"""
 	msgClear
 	"""
-	Weil's troops have
-	left the road to
-	the Settlement.
+	Las tropas de Weil
+	han dejado el camino
+	hacia
+	"""
+	msgClear
+	"""
+	el Asentamiento.
 	"""
 	end
 }
@@ -343,13 +349,9 @@ script 19 mmz4 {
 	"""
 	msgClear
 	"""
-	Do you think you
-	could scout ahead
-	and check out the
-	"""
-	msgClear
-	"""
-	Settlement?
+	¿Crees que podrías
+	avanzar un poco y
+	ver el Asentamiento?
 	"""
 	end
 }
@@ -565,130 +567,121 @@ script 48 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Hey Zero, you
-	hanging in there?
+	Oye, Zero, ¿cómo
+	vas?
 	"""
 	msgClear
 	"""
-	Need a little work?
-	Those dust clouds
-	are something else.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	No, I'm fine.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 13
-	"""
-	Alright, but don't
-	overdo it.
-	"""
-	msgClear
-	"""
-	Did you try out your
-	Zero Knuckle yet?
-	"""
-	msgClear
-	"""
-	You probably already
-	know about it, but
-	it's a weapon
-	"""
-	msgClear
-	"""
-	onboard a chip
-	implanted into your
-	hand. It gives you a
-	"""
-	msgClear
-	"""
-	big strength boost
-	that comes in handy
-	when attacking
-	"""
-	msgClear
-	"""
-	enemies or stealing
-	their weapons. It
-	doesn't work for
-	"""
-	msgClear
-	"""
-	every enemy, but for
-	the ones it does,
-	just finish them off
-	"""
-	msgClear
-	"""
-	with the Zero
-	Knuckle to grab
-	their weapon.
-	"""
-	msgClear
-	"""
-	By the way, what's
-	your next move?
+	¿Necesitas un ajuste?
+	Esas nubes de polvo
+	son otra cosa.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Ciel is looking into
-	Area Zero.
-	"""
-	msgClear
-	"""
-	I think the humans
-	there need our
-	help...
+	No, estoy bien.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 13
 	"""
-	Looks like you've
-	got your work cut
-	out for you.
+	Bien, pero no te
+	esfuerces demasiado.
 	"""
 	msgClear
 	"""
-	If there's anything
-	I can do to help,
-	don't be afraid to
+	¿Ya probaste tu
+	Zero Knuckle?
 	"""
 	msgClear
 	"""
-	ask!
+	Quizá ya lo sepas,
+	pero es un arma
 	"""
 	msgClear
 	"""
-	Oh!
+	integrada en un chip
+	implantado en tu
+	mano. Te da un gran
 	"""
 	msgClear
 	"""
-	I almost forgot
-	something important.
+	aumento de fuerza
+	que sirve para atacar
 	"""
 	msgClear
 	"""
-	Enemies sometimes
-	drop parts.
+	enemigos o robar sus
+	armas. No funciona
+	con todos,
 	"""
 	msgClear
 	"""
-	You might be able to
-	use some of those
-	to make new chips.
+	pero con los que sí,
+	acábalos con el
 	"""
 	msgClear
 	"""
-	If you want to try
-	making one, just let
-	me know!
+	Zero Knuckle para
+	tomar su arma.
+	"""
+	msgClear
+	"""
+	Por cierto, ¿cuál es
+	tu siguiente paso?
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 4
+	"""
+	Ciel investiga el
+	Área Zero.
+	"""
+	msgClear
+	"""
+	Creo que los humanos
+	de allí necesitan
+	nuestra ayuda...
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 13
+	"""
+	Parece que tienes
+	mucho por hacer.
+	"""
+	msgClear
+	"""
+	Si puedo ayudar en
+	algo, no dudes
+	en pedirlo.
+	"""
+	msgClear
+	"""
+	¡Ah!
+	"""
+	msgClear
+	"""
+	Casi olvido algo
+	importante.
+	"""
+	msgClear
+	"""
+	A veces los enemigos
+	sueltan piezas.
+	"""
+	msgClear
+	"""
+	Puede que algunas
+	sirvan para crear
+	nuevos chips.
+	"""
+	msgClear
+	"""
+	¡Si quieres intentar
+	hacer uno, solo
+	avísame!
 	"""
 	end
 }
@@ -696,75 +689,67 @@ script 49 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Just some extra
-	info on the Zero
-	Knuckle... You
+	Un poco más de
+	info sobre el
+	Zero Knuckle...
 	"""
 	msgClear
 	"""
-	can push the Toss
-	Button or pick a
-	weapon from the sub
+	Puedes pulsar el
+	botón de lanzar o
+	elegir un arma en
 	"""
 	msgClear
 	"""
-	screen to throw away
-	one you've taken
-	from an enemy.
+	el submenú para
+	desechar la que
+	tomaste de un
 	"""
 	msgClear
 	"""
-	There's a limit to
-	the amount of times
-	you can use a
+	enemigo.
 	"""
 	msgClear
 	"""
-	weapon that was
-	taken, so keep that
-	in mind. Oh, and
+	Las armas tomadas
+	tienen un límite de
+	usos, tenlo en
 	"""
 	msgClear
 	"""
-	another thing, if
-	you're hanging down,
-	you don't need to go
+	cuenta. Ah, y otra
+	cosa, si estás
+	colgado, no hace
 	"""
 	msgClear
 	"""
-	to the sub screen to
-	equip the Zero
-	Knuckle, you can
+	falta ir al submenú
+	para equipar el
+	Zero Knuckle.
 	"""
 	msgClear
 	"""
-	just press Up while
-	jumping or falling.
-	Just remember that
+	Solo presiona arriba
+	al saltar o caer.
+	Pero recuerda que
 	"""
 	msgClear
 	"""
-	you can't use your
-	Zero Knuckle or any
-	of the weapons
+	no puedes usar el
+	Zero Knuckle ni las
+	armas tomadas
 	"""
 	msgClear
 	"""
-	you've taken while
-	hanging down. That's
-	because you're using
+	mientras estás
+	colgado, porque
+	usas su poder para
 	"""
 	msgClear
 	"""
-	the Zero Knuckle's
-	power to hang down.
-	If you need to
-	"""
-	msgClear
-	"""
-	practice, go ahead
-	and try it out in
-	this room.
+	sostenerte. Si
+	quieres practicar,
+	hazlo en esta sala.
 	"""
 	end
 }
@@ -772,21 +757,19 @@ script 50 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	If you want to make
-	chips, the easiest
-	way to go about it
+	Si quieres crear
+	chips, la manera
+	más fácil es buscar
 	"""
 	msgClear
 	"""
-	is by finding
-	recipes. The only
-	problem with that
+	recetas. El único
+	problema es que
+	algunos chips mejores
 	"""
 	msgClear
 	"""
-	is some of the
-	better chips don't
-	have recipes.
+	no tienen receta.
 	"""
 	end
 }
@@ -833,7 +816,8 @@ script 53 mmz4 {
 	"""
 	msgClear
 	"""
-	That Weil is a fool.
+	Ese Weil es un
+	tonto.
 	"""
 	end
 }
@@ -845,15 +829,19 @@ script 54 mmz4 {
 	"""
 	msgClear
 	"""
-	Even you don't stand
-	a chance if Ragnarok
-	is implemented...
+	Ni siquiera tú
+	tienes oportunidad
+	si se implementa
 	"""
 	msgClear
 	"""
-	You have to stop it
-	before it's
-	activated.
+	Ragnarok...
+	"""
+	msgClear
+	"""
+	Tienes que detenerlo
+	antes de que se
+	active.
 	"""
 	end
 }
@@ -861,17 +849,18 @@ script 55 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Hmm? What's up Zero?
+	¿Hmm? ¿Qué pasa,
+	Zero?
 	"""
 	msgClear
 	"""
-	Ah, you're making
-	the rounds trying to
-	figure out what to
+	Ah, estás recorriendo
+	a todos para ver
+	cómo llamar al
 	"""
 	msgClear
 	"""
-	call the Elf eh?
+	Elfo, ¿eh?
 	"""
 	msgClear
 	"""
@@ -883,9 +872,9 @@ script 56 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	How about Progress?
-	  I like it.
-	  I don't think so.
+	¿Qué tal Progress?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -893,9 +882,9 @@ script 57 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Progress is a great
-	name for a brand new
-	kind of Elf.
+	Progress es un gran
+	nombre para un tipo
+	nuevo de Elfo.
 	"""
 	end
 }
@@ -904,11 +893,12 @@ script 58 mmz4 {
 		mugshot = 13
 	"""
 	Hmm...
-	Not your thing?
+	¿No es lo tuyo?
 	"""
 	msgClear
 	"""
-	Naming is not easy.
+	Poner nombres no
+	es fácil.
 	"""
 	end
 }
@@ -920,14 +910,15 @@ script 59 mmz4 {
 	"""
 	msgClear
 	"""
-	Well, it doesn't
-	matter how many
-	times you ask,
+	Bueno, no importa
+	cuántas veces
+	preguntes,
 	"""
 	msgClear
 	"""
-	Progress is what
-	comes to my mind.
+	Progress es lo
+	que se me viene
+	a la mente.
 	"""
 	end
 }
@@ -935,9 +926,9 @@ script 60 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Well, how about it?
-	  I like it.
-	  I don't think so.
+	Bueno, ¿qué dices?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -945,13 +936,14 @@ script 61 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Then we agree!
+	¡Entonces estamos
+	de acuerdo!
 	"""
 	msgClear
 	"""
-	Progress is a great
-	name for a brand new
-	kind of Elf.
+	Progress es un gran
+	nombre para un tipo
+	nuevo de Elfo.
 	"""
 	end
 }
@@ -960,7 +952,7 @@ script 62 mmz4 {
 		mugshot = 13
 	"""
 	Hmm...
-	No good, huh?
+	No te gustó, ¿eh?
 	"""
 	end
 }
@@ -968,9 +960,9 @@ script 63 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Well, now that you
-	have a name, go tell
-	Alouette.
+	Bueno, ahora que
+	tienes un nombre,
+	díselo a Alouette.
 	"""
 	end
 }
@@ -978,12 +970,12 @@ script 64 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	What is it?
+	¿Qué pasa?
 	"""
 	msgClear
 	"""
-	Alouette's waiting,
-	you know.
+	Alouette te espera,
+	¿sabes?
 	"""
 	end
 }
@@ -991,29 +983,31 @@ script 65 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	Did you know there
-	are different
-	levels for chips?
+	¿Sabías que hay
+	diferentes niveles
+	para los chips?
 	"""
 	msgClear
 	"""
-	The different levels
-	have similar recipes.
+	Los distintos
+	niveles tienen
+	recetas similares.
 	"""
 	msgClear
 	"""
-	Just add a certain
-	something to a level
-	1 chip recipe and
+	Sólo agrega algo
+	específico a una
+	receta de nivel 1
 	"""
 	msgClear
 	"""
-	voila, it becomes a
-	level 2 chip.
+	y voilà, se
+	convierte en un
+	chip de nivel 2.
 	"""
 	end
 }
@@ -1021,15 +1015,15 @@ script 66 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	If you start to find
-	a lot of parts, just
-	come to me.
+	Si empiezas a
+	encontrar muchas
+	piezas, ven a mí.
 	"""
 	msgClear
 	"""
-	I'll make you some
-	great chips from
-	them!
+	¡Haré con ellas
+	algunos chips
+	geniales!
 	"""
 	end
 }
@@ -1472,28 +1466,28 @@ script 96 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Oh, Zero!
+	¡Oh, Zero!
 	"""
 	msgClear
 	"""
-	A new Elf is coming
-	soon!
+	¡Pronto llegará
+	un nuevo Elfo!
 	"""
 	msgClear
 	"""
-	I've been wracking
-	my brain trying to
-	come up with a name,
+	Me he estado
+	rompiendo la cabeza
+	para ponerle nombre,
 	"""
 	msgClear
 	"""
-	but I can't narrow
-	it down to just one.
+	pero no logro
+	decidirme por uno.
 	"""
 	msgClear
 	"""
-	I guess I need to
-	see it first.
+	Supongo que primero
+	tendré que verlo.
 	"""
 	end
 }
@@ -1501,23 +1495,22 @@ script 97 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey, Zero.
+	Hola, Zero.
 	"""
 	msgClear
 	"""
-	I heard the new Elf
-	is really smart!
+	¡Oí que el nuevo
+	Elfo es muy listo!
 	"""
 	msgClear
 	"""
-	If the Elf is
-	smarter than me,
-	maybe I can get it
+	Si es más listo
+	que yo, quizá pueda
+	pedirle que me
 	"""
 	msgClear
 	"""
-	to teach me
-	something.
+	enseñe algo.
 	"""
 	end
 }
@@ -1525,19 +1518,18 @@ script 98 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey, Zero.
+	Hola, Zero.
 	"""
 	msgClear
 	"""
-	I asked Ciel to let
-	me look after the
-	new Elf.
+	Le pedí a Ciel
+	cuidar al nuevo
+	Elfo.
 	"""
 	msgClear
 	"""
-	I'm a little worried
-	if I can do a good
-	job or not.
+	Me preocupa no
+	hacerlo bien.
 	"""
 	end
 }
@@ -1545,8 +1537,8 @@ script 99 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	I hope the new Elf
-	comes soon...
+	Espero que el nuevo
+	Elfo llegue pronto...
 	"""
 	end
 }
@@ -1582,27 +1574,27 @@ script 102 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Oh, Zero!
+	¡Oh, Zero!
 	"""
 	msgClear
 	"""
-	Check this Elf out!
+	¡Mira este Elfo!
 	"""
 	msgClear
 	"""
-	Its eyes are closed
-	because it's still a
-	baby.
+	Tiene los ojos
+	cerrados porque sigue
+	siendo un bebé.
 	"""
 	msgClear
 	"""
-	It just came!
+	¡Acaba de llegar!
 	"""
 	msgClear
 	"""
-	Oh yeah, Zero!
-	I came up with a
-	name...
+	¡Ah, sí Zero!
+	Se me ocurrió un
+	nombre...
 	"""
 	end
 }
@@ -1610,9 +1602,9 @@ script 103 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	How's Croire?
-	  I like it.
-	  I don't think so.
+	¿Qué tal Croire?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -1620,15 +1612,15 @@ script 104 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Really?
-	That's great. I'm
-	glad you like it!
+	¿De verdad?
+	¡Genial! Me alegra
+	que te guste.
 	"""
 	msgClear
 	"""
-	Croire means
-	"believe." Not a bad
-	name at all!
+	Croire significa
+	"creer". No está
+	mal el nombre.
 	"""
 	end
 }
@@ -1636,25 +1628,26 @@ script 105 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	No!? I put a lot of
-	thought into that
-	name...
+	¡¿No!? Le puse mucho
+	pensamiento a ese
+	nombre...
 	"""
 	msgClear
 	"""
-	Well, go check with
-	the others, they
-	might have a better
+	Bueno, consulta con
+	los demás, quizá
+	tengan un mejor
 	"""
 	msgClear
 	"""
-	name. When you find
-	one, come back and
-	I'll tell you how
+	nombre. Cuando
+	encuentres uno,
+	regresa y te diré
 	"""
 	msgClear
 	"""
-	to use the new Elf.
+	cómo usar al nuevo
+	Elfo.
 	"""
 	end
 }
@@ -1662,12 +1655,12 @@ script 106 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero...
+	Hey, Zero...
 	"""
 	msgClear
 	"""
-	Let's just go with
-	Croire for the name.
+	Dejemos que se
+	llame Croire.
 	"""
 	end
 }
@@ -1675,9 +1668,9 @@ script 107 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Croire's okay right?
-	  I like it.
-	  I don't think so.
+	¿Croire está bien?
+	  Me gusta
+	  No lo creo.
 	"""
 	end
 }
@@ -1685,9 +1678,9 @@ script 108 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Really?
-	I'm glad I thought
-	of it then!
+	¿De verdad?
+	Me alegra haberlo
+	pensado entonces.
 	"""
 	end
 }
@@ -1695,12 +1688,12 @@ script 109 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	You're no fun...
+	No eres divertido...
 	"""
 	msgClear
 	"""
-	Hurry up and name
-	the poor thing.
+	Date prisa y pon
+	nombre al pobre.
 	"""
 	end
 }
@@ -1708,12 +1701,12 @@ script 110 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero...
+	Hey, Zero...
 	"""
 	msgClear
 	"""
-	Let's just go with
-	Croire for the name.
+	Dejemos que se
+	llame Croire.
 	"""
 	end
 }
@@ -1721,9 +1714,9 @@ script 111 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Croire's okay right?
-	  I like it.
-	  I don't think so.
+	¿Croire está bien?
+	  Me gusta
+	  No lo creo.
 	"""
 	end
 }
@@ -1731,9 +1724,9 @@ script 112 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Really?
-	I'm glad I thought
-	of it then!
+	¿De verdad?
+	Me alegra haberlo
+	pensado entonces.
 	"""
 	end
 }
@@ -1741,12 +1734,12 @@ script 113 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	You're no fun...
+	No eres divertido...
 	"""
 	msgClear
 	"""
-	Hurry up and name
-	the poor thing.
+	Date prisa y pon
+	nombre al pobre.
 	"""
 	end
 }
@@ -1754,14 +1747,13 @@ script 114 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Okay Zero, I'm going
-	to tell you how the
-	Elf works.
+	Está bien, Zero,
+	te diré cómo funciona
+	el Elfo.
 	"""
 	msgClear
 	"""
-	It came with a
-	manual...
+	Vino con un manual...
 	"""
 	end
 }
@@ -1769,8 +1761,8 @@ script 115 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Want me to explain?
-	  Sure.
+	¿Te explico?
+	  Sí.
 	  No.
 	"""
 	end
@@ -1779,77 +1771,77 @@ script 116 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Okay, I'll explain!
+	¡Está bien, te
+	explico!
 	"""
 	msgClear
 	"""
-	This new Elf can
-	copy the abilities
-	of other Elves.
+	Este nuevo Elfo
+	puede copiar las
+	habilidades de otros.
 	"""
 	msgClear
 	"""
-	In fact, it can
-	handle up to 3 at a
-	time!
+	¡Puede usar hasta 3
+	habilidades a la vez!
 	"""
 	msgClear
 	"""
-	It's still a baby
-	though, so you can't
-	use all of them yet.
+	Pero aún es un bebé,
+	así que no puedes
+	usar todas todavía.
 	"""
 	msgClear
 	"""
-	Give it E-Crystals
-	to help it grow.
+	Dale E-Crystals
+	para ayudarlo a
+	crecer.
 	"""
 	msgClear
 	"""
-	Here's where it gets
-	a little tricky.
+	Aquí se pone un poco
+	complicado.
 	"""
 	msgClear
 	"""
-	The Elf has
-	something called a
-	max level.
+	El Elfo tiene algo
+	llamado nivel máximo.
 	"""
 	msgClear
 	"""
-	If the 3 ability
-	levels combined
-	exceed the max,
+	Si los 3 niveles de
+	habilidad combinados
+	exceden el máximo,
 	"""
 	msgClear
 	"""
-	then you lose
-	a point for each
-	level over the max.
+	pierdes un punto por
+	cada nivel arriba del
+	máximo.
 	"""
 	msgClear
 	"""
-	In other words, as
-	long as you keep the
-	combined levels
+	¡En otras palabras,
+	mientras los niveles
+	combinados estén
 	"""
 	msgClear
 	"""
-	below the max
-	level, you don't
-	lose any points!
+	por debajo del
+	máximo, no perderás
+	puntos!
 	"""
 	msgClear
 	"""
-	There's probably
-	also a way to raise
-	the max level.
+	Probablemente haya
+	una forma de subir
+	el nivel máximo.
 	"""
 	msgClear
 	"""
-	When you want to
-	help the Elf grow,
-	come on by!
+	Cuando quieras ayudar
+	al Elfo a crecer,
+	ven a visitarme.
 	"""
 	end
 }
@@ -1857,23 +1849,24 @@ script 117 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hmph!
+	¡Hmph!
 	"""
 	msgClear
 	"""
-	I was all set to
-	tell you about the
-	Elf!
+	¡Ya estaba lista
+	para explicarte
+	sobre el Elfo!
 	"""
 	msgClear
 	"""
-	You're no fun at
-	all...
+	No tienes nada
+	de divertido...
 	"""
 	msgClear
 	"""
-	I hope you know
-	what you're doing.
+	Espero que sepas
+	lo que estás
+	haciendo.
 	"""
 	end
 }
@@ -1881,20 +1874,20 @@ script 118 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	If you need any help
-	with your Elf, leave
-	it to me!
+	¡Si necesitas ayuda
+	con tu Elfo,
+	déjamelo a mí!
 	"""
 	msgClear
 	"""
-	I still need to
-	check the manual
-	from time to time,
+	Aún debo revisar
+	el manual de vez
+	en cuando,
 	"""
 	msgClear
 	"""
-	but I hope I can be
-	of some help.
+	pero espero poder
+	ayudarte algo.
 	"""
 	end
 }
@@ -1902,18 +1895,20 @@ script 119 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Need help with your
-	Elf, I'm your girl!
+	¿Necesitas ayuda con
+	tu Elfo? ¡Aquí
+	estoy yo!
 	"""
 	msgClear
 	"""
-	I hope I can be some
-	use even if I have
-	to check the manual
+	Espero poder ser
+	de ayuda aunque
+	deba revisar el
 	"""
 	msgClear
 	"""
-	now and again.
+	manual de vez en
+	cuando.
 	"""
 	end
 }
@@ -1921,9 +1916,9 @@ script 120 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Need an explanation?
-	  No, I'm fine.
-	  Can I hear it?
+	¿Quieres explicación?
+	  No, estoy bien.
+	  ¿Puedo oírla?
 	"""
 	end
 }
@@ -1931,8 +1926,8 @@ script 121 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Alright...
-	If you're sure.
+	Está bien...
+	Si estás seguro.
 	"""
 	end
 }
@@ -1940,9 +1935,9 @@ script 122 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Alright!
-	I'll start from the
-	top.
+	¡Está bien!
+	Empezaré desde
+	arriba.
 	"""
 	end
 }
@@ -1950,9 +1945,9 @@ script 123 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Wanna ask something?
-	  Total Level
-	  Max Level
+	¿Que quieres saber?
+	  Nivel Total
+	  Nivel Máx.
 	"""
 	end
 }
@@ -1960,21 +1955,20 @@ script 124 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	This Elf can handle
-	one of each of the
-	Nurse, Animal and
+	Este Elfo puede usar
+	una de cada habilidad
+	de Nurse, Animal y
 	"""
 	msgClear
 	"""
-	Hacker abilities.
-	The combined level
-	of all three
+	Hacker.
+	El nivel combinado de
+	las tres habilidades
 	"""
 	msgClear
 	"""
-	abilities is called
-	the total level.
-	Got it?
+	se llama Nivel Total.
+	¿Entendido?
 	"""
 	end
 }
@@ -1982,45 +1976,45 @@ script 125 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	The max level
-	is basically how
-	much you can use
+	El Nivel Máx.
+	es básicamente
+	cuánto puedes usar
 	"""
 	msgClear
 	"""
-	your Elf without
-	overdoing it.
-	For example, if it
+	a tu Elfo sin
+	excederte. Por
+	ejemplo, si tiene
 	"""
 	msgClear
 	"""
-	has a max level
-	of 5, and the
-	combined levels of
+	un Nivel Máx. de 5,
+	y el nivel combinado
+	de las habilidades
 	"""
 	msgClear
 	"""
-	the Nurse, Animal
-	and Hacker abilities
-	comes to less than
+	Nurse, Animal y
+	Hacker llegan a
+	menos de 5,
 	"""
 	msgClear
 	"""
-	5, then there is no
-	point loss for using
-	the Elf. If you
+	entonces no se
+	pierden puntos por
+	usarlo. Si no te
 	"""
 	msgClear
 	"""
-	don't care about
-	losing points, then
-	you can always go
+	importa perder
+	puntos, siempre
+	puedes exceder
 	"""
 	msgClear
 	"""
-	beyond the max.
-	It's a bit tricky,
-	but did you get it?
+	el Nivel Máx.
+	Es un poco difícil,
+	¿lo entendiste?
 	"""
 	end
 }
@@ -2335,21 +2329,21 @@ script 144 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
+	¡Hola, Zero!
 	"""
 	msgClear
 	"""
-	Have you heard?
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	This trailer has
-	been riding so rough
-	for so long, my body
+	Este tráiler ha ido
+	tan brusco por tanto
+	tiempo que mi cuerpo
 	"""
 	msgClear
 	"""
-	is all messed up.
+	ya quedó molido.
 	"""
 	end
 }
@@ -2357,13 +2351,12 @@ script 145 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Oh yeah, Zero...
+	Ah, cierto, Zero...
 	"""
 	msgClear
 	"""
-	Weren't you going to
-	head over to
-	Cerveau's?
+	¿No ibas a ir
+	a lo de Cerveau?
 	"""
 	end
 }
@@ -2371,47 +2364,47 @@ script 146 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
+	¡Hola, Zero!
 	"""
 	msgClear
 	"""
-	Have you heard about
-	the Weather Changer?
+	¿Has oído hablar
+	del Cambiador
+	de Clima?
 	"""
 	msgClear
 	"""
-	Let me just briefly
-	explain it...
+	Te lo explico
+	brevemente...
 	"""
 	msgClear
 	"""
-	It's an orbiting
-	satellite capable of
-	altering the very
+	Es un satélite en
+	órbita capaz de
+	alterar el propio
 	"""
 	msgClear
 	"""
-	weather. It's still
-	a work in progress,
-	but it should be
+	clima. Aún está en
+	desarrollo, pero
+	pronto estará
 	"""
 	msgClear
 	"""
-	online soon. There
-	are only some areas
-	it can be used in.
+	operativo. Solo
+	puede usarse en
+	algunas zonas.
 	"""
 	msgClear
 	"""
-	Depending on the
-	area, a change of
-	weather might make
+	¡Según el área, el
+	cambio de clima
+	puede hacer
 	"""
 	msgClear
 	"""
-	it easier or harder
-	to progress through
-	it!
+	más fácil o difícil
+	avanzar!
 	"""
 	end
 }
@@ -2419,13 +2412,13 @@ script 147 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	Ciel's been waiting
-	for you.
+	Ciel ha estado
+	esperándote.
 	"""
 	end
 }
@@ -2471,9 +2464,9 @@ script 150 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Ragnarok? That's the
-	first time I've
-	heard of it.
+	¿Ragnarok? Es la
+	primera vez que
+	oigo hablar de eso.
 	"""
 	end
 }
@@ -2481,9 +2474,9 @@ script 151 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	I'll try to find out
-	what I can to help
-	you stop it!
+	¡Intentaré averiguar
+	lo que pueda para
+	ayudarte a detenerlo!
 	"""
 	end
 }
@@ -2491,16 +2484,17 @@ script 152 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	What is it Zero?
+	¿Qué pasa, Zero?
 	"""
 	msgClear
 	"""
-	Huh? You want me to
-	pick an Elf name?
+	¿Eh? ¿Quieres que
+	elija un nombre
+	para el Elfo?
 	"""
 	msgClear
 	"""
-	Hmm, well...
+	Hmm, bueno...
 	"""
 	end
 }
@@ -2508,9 +2502,9 @@ script 153 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	How's Nouvelle?
-	  I like it.
-	  I don't think so.
+	¿Qué tal Nouvelle?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -2518,28 +2512,28 @@ script 154 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Nouvelle's my
-	favorite word!
+	¡Nouvelle es mi
+	palabra favorita!
 	"""
 	msgClear
 	"""
-	It means "news."
+	Significa "noticia".
 	"""
 	msgClear
 	"""
-	Figures an
-	information hound
-	like me would come
+	Era de esperar
+	que un buscador de
+	información como yo
 	"""
 	msgClear
 	"""
-	up with a name like
-	that eh?
+	pensara en ese
+	nombre, ¿no?
 	"""
 	msgClear
 	"""
-	I'm glad you liked
-	it.
+	Me alegra que te
+	haya gustado.
 	"""
 	end
 }
@@ -2547,12 +2541,12 @@ script 155 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	B-but...
+	P-pero...
 	"""
 	msgClear
 	"""
-	*sigh* It was such a
-	good name too...
+	*sigh* Era un nombre
+	tan bueno...
 	"""
 	end
 }
@@ -2560,13 +2554,13 @@ script 156 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Zero!
+	¡Zero!
 	"""
 	msgClear
 	"""
-	Nouvelle is the
-	perfect name for
-	that Elf!
+	¡Nouvelle es el
+	nombre perfecto
+	para ese Elfo!
 	"""
 	end
 }
@@ -2574,9 +2568,9 @@ script 157 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Don't you agree?
-	  I like it.
-	  I don't think so.
+	¿No estás de acuerdo?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -2584,14 +2578,14 @@ script 158 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	You should've gone
-	with that the first
-	time.
+	Deberías haber ido
+	con ese nombre la
+	primera vez.
 	"""
 	msgClear
 	"""
-	You're way too
-	wishy-washy.
+	Eres demasiado
+	indeciso.
 	"""
 	end
 }
@@ -2599,14 +2593,14 @@ script 159 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	What?
-	Here I thought you'd
-	like it...
+	¿Qué?
+	Creí que te
+	gustaría...
 	"""
 	msgClear
 	"""
-	Nouvelle is such a
-	cool name...
+	Nouvelle es un
+	nombre tan genial...
 	"""
 	end
 }
@@ -2614,8 +2608,8 @@ script 160 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Alouette's looking
-	after the Elf?
+	¿Alouette está
+	cuidando al Elfo?
 	"""
 	msgClear
 	"""
@@ -2623,9 +2617,9 @@ script 160 mmz4 {
 	"""
 	msgClear
 	"""
-	Alouette's more
-	responsible than I
-	gave her credit for.
+	Alouette es más
+	responsable de lo
+	que creía.
 	"""
 	end
 }
@@ -2633,13 +2627,13 @@ script 161 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Isn't Alouette
-	waiting?
+	¿No está Alouette
+	esperando?
 	"""
 	msgClear
 	"""
-	You should hurry
-	over there.
+	Deberías ir
+	rápido hacia allá.
 	"""
 	end
 }
@@ -2647,13 +2641,14 @@ script 162 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	You can use the
-	Weather Changer now.
+	Ahora puedes usar
+	el Cambiador de
+	Clima.
 	"""
 	end
 }
@@ -2661,19 +2656,20 @@ script 163 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	The areas you can
-	use the Weather
-	Changer are limited,
+	Las áreas donde
+	puedes usar el
+	Cambiador de Clima
 	"""
 	msgClear
 	"""
-	but you can tell
-	which ones can be
-	adjusted by the
+	son limitadas,
+	pero puedes ver
+	cuáles se pueden
 	"""
 	msgClear
 	"""
-	weather icon on the
+	ajustar por el ícono
+	de clima en el
 	monitor.
 	"""
 	end
@@ -3233,24 +3229,25 @@ script 192 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hey Zero!
+	¡Hola, Zero!
 	"""
 	msgClear
 	"""
-	Weil's troops are
-	still wandering
-	around up ahead.
+	Las tropas de Weil
+	siguen rondando
+	por delante.
 	"""
 	msgClear
 	"""
-	If we're not
-	careful, we might
-	be discovered.
+	Si no tenemos
+	cuidado, podrían
+	descubrirnos.
 	"""
 	msgClear
 	"""
-	We'll have to wait
-	until they leave.
+	Tendremos que
+	esperar a que
+	se vayan.
 	"""
 	end
 }
@@ -3258,22 +3255,22 @@ script 193 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Oh yeah, Zero.
+	Ah, cierto, Zero.
 	"""
 	msgClear
 	"""
-	Did you meet up with
-	Cerveau?
+	¿Ya fuiste a ver
+	a Cerveau?
 	"""
 	msgClear
 	"""
-	If not, you should.
+	Si no, deberías ir.
 	"""
 	msgClear
 	"""
-	He'll tell you how
-	to use your new
-	weapons.
+	Él te dirá cómo
+	usar tus nuevas
+	armas.
 	"""
 	end
 }
@@ -3281,18 +3278,18 @@ script 194 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hey Zero!
+	¡Hola, Zero!
 	"""
 	msgClear
 	"""
-	I just received word
-	from Ciel. She'd
-	like you to go see
+	Acabo de recibir
+	noticias de Ciel.
+	Quiere que pases
 	"""
 	msgClear
 	"""
-	her in the
-	commander's room.
+	por la sala del
+	comandante.
 	"""
 	end
 }
@@ -3300,8 +3297,8 @@ script 195 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	You don't want to
-	keep Ciel waiting...
+	Mejor no hagas
+	esperar a Ciel...
 	"""
 	end
 }
@@ -3353,18 +3350,18 @@ script 198 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hey Zero!
+	¡Hey Zero!
 	"""
 	msgClear
 	"""
-	With Weil's troops
-	still crawling
-	around, it's better
+	Con las tropas de
+	Weil todavía
+	rondando por aquí,
 	"""
 	msgClear
 	"""
-	to wait a little
-	longer.
+	es mejor esperar
+	un poco más.
 	"""
 	end
 }
@@ -3372,8 +3369,8 @@ script 199 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	I'll keep standing
-	guard here!
+	¡Seguiré haciendo
+	guardia aquí!
 	"""
 	end
 }
@@ -3381,22 +3378,26 @@ script 200 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	Me? Come up with an
-	Elf name?
+	¿Yo? ¿Inventar un
+	nombre para un Elfo?
 	"""
 	msgClear
 	"""
-	You sure it's okay
-	for me to make that
-	important decision?
+	¿Seguro que está
+	bien que tome una
+	decisión tan
 	"""
 	msgClear
 	"""
-	Alright...
+	importante?
+	"""
+	msgClear
+	"""
+	Está bien...
 	"""
 	end
 }
@@ -3404,9 +3405,9 @@ script 201 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	How about Recrue?
-	  I like it.
-	  I don't think so.
+	¿Qué tal Recrue?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -3414,12 +3415,12 @@ script 202 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Are you sure?
+	¿Estás seguro?
 	"""
 	msgClear
 	"""
-	Well, I'm glad you
-	like it!
+	¡Me alegra que
+	te guste!
 	"""
 	end
 }
@@ -3427,11 +3428,11 @@ script 203 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	No good huh?
+	¿No te gusta, eh?
 	"""
 	msgClear
 	"""
-	Too bad...
+	Qué lástima...
 	"""
 	end
 }
@@ -3443,8 +3444,8 @@ script 204 mmz4 {
 	"""
 	msgClear
 	"""
-	Recrue means new
-	warrior.
+	Recrue significa
+	nuevo guerrero.
 	"""
 	end
 }
@@ -3452,9 +3453,9 @@ script 205 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Not bad, eh?
-	  I like it.
-	  I don't think so.
+	¿Nada mal, eh?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -3462,9 +3463,9 @@ script 206 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Great!
-	I'm glad you liked
-	it.
+	¡Genial!
+	Me alegra que te
+	haya gustado.
 	"""
 	end
 }
@@ -3472,9 +3473,9 @@ script 207 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Not even with that
-	meaning huh?
-	Too bad.
+	Ni siquiera con ese
+	significado, ¿eh?
+	Qué lástima.
 	"""
 	end
 }
@@ -3482,18 +3483,18 @@ script 208 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hey Zero!
+	¡Hey Zero!
 	"""
 	msgClear
 	"""
-	With Weil's troops
-	still crawling
-	around, it's better
+	Con las tropas de
+	Weil todavía
+	rondando por aquí,
 	"""
 	msgClear
 	"""
-	to wait a little
-	longer.
+	es mejor esperar
+	un poco más.
 	"""
 	end
 }
@@ -3501,17 +3502,17 @@ script 209 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	What's that?
-	You want my weapon?
+	¿Qué es eso?
+	¿Quieres mi arma?
 	"""
 	msgClear
 	"""
-	Sorry, I need this
-	little baby.
+	Lo siento, necesito
+	a este pequeño.
 	"""
 	end
 }
@@ -3519,37 +3520,35 @@ script 210 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hey Zero!
+	¡Hey Zero!
 	"""
 	msgClear
 	"""
-	Weil's troops have
-	finally left the
-	area.
+	Las tropas de Weil
+	finalmente han
+	dejado la zona.
 	"""
 	msgClear
 	"""
-	Now you can go to
-	the Settlement
-	whenever you want!
+	¡Ahora puedes ir al
+	asentamiento
+	cuando quieras!
 	"""
 	msgClear
 	"""
-	I have to warn you
-	though, they aren't
-	going to be throwing
+	Pero debo advertirte,
+	no habrá fiestas de
+	bienvenida
 	"""
 	msgClear
 	"""
-	any welcome parties
-	for Reploids like
-	us.
+	para Reploides como
+	nosotros.
 	"""
 	msgClear
 	"""
-	It's too bad because
-	we just want to help
-	them.
+	Es una lástima porque
+	sólo queremos ayudar.
 	"""
 	end
 }
@@ -3557,8 +3556,8 @@ script 211 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	I'll keep standing
-	guard here!
+	¡Seguiré haciendo
+	guardia aquí!
 	"""
 	end
 }
@@ -3793,14 +3792,14 @@ script 238 mmz4 {
 	"""
 	msgClear
 	"""
-	I got word that the
-	newest Cyber-elf has
-	arrived.
+	Recibí aviso de que
+	el nuevo Cyber-elfo
+	llegó.
 	"""
 	msgClear
 	"""
-	Alouette is eager
-	to show you.
+	Alouette está ansiosa
+	por mostrártelo.
 	"""
 	end
 }
@@ -3808,9 +3807,9 @@ script 239 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Alouette was really
-	looking forward to
-	that new Elf.
+	Alouette esperaba
+	con muchas ganas ese
+	nuevo Elfo.
 	"""
 	end
 }
@@ -3818,22 +3817,19 @@ script 240 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Need something Zero?
+	¿Necesitas algo,
+	Zero?
 	"""
 	msgClear
 	"""
-	A name for the new
-	Cyber-elf?
+	¿Un nombre para el
+	nuevo Cyber-elfo?
 	"""
 	msgClear
 	"""
-	Alright, let me do a
-	quick search for
-	something good.
-	"""
-	msgClear
-	"""
-	...
+	De acuerdo, déjame
+	buscar rápido algo
+	bueno.
 	"""
 	msgClear
 	"""
@@ -3841,19 +3837,19 @@ script 240 mmz4 {
 	"""
 	msgClear
 	"""
-	Thanks for waiting!
-	How about the name
+	...
+	"""
+	msgClear
+	"""
+	¡Gracias por esperar!
+	¿Qué tal el nombre
 	Variable?
 	"""
 	msgClear
 	"""
-	I picked it because
-	it was the first
-	thing that jumped
-	"""
-	msgClear
-	"""
-	out at me...
+	Lo elegí porque fue
+	lo primero que me
+	llamó la atención...
 	"""
 	end
 }
@@ -3861,9 +3857,9 @@ script 241 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Is that name okay?
-	  I like it.
-	  I don't think so.
+	¿Te parece bien?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -3871,14 +3867,15 @@ script 242 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I wonder if naming
-	should be this easy?
+	Me pregunto si
+	poner nombres
+	debería ser así.
 	"""
 	msgClear
 	"""
-	Then again, a name
-	is just an
-	identifier.
+	Aunque claro, un
+	nombre es solo un
+	identificador.
 	"""
 	end
 }
@@ -3886,8 +3883,8 @@ script 243 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I'm sorry you didn't
-	like it...
+	Siento que no te
+	haya gustado...
 	"""
 	end
 }
@@ -3895,13 +3892,13 @@ script 244 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	What's up Zero?
+	¿Qué pasa, Zero?
 	"""
 	msgClear
 	"""
-	Do you like the Elf
-	name I chose after
-	all?
+	¿Te gustó el nombre
+	del Elfo que elegí
+	al final?
 	"""
 	end
 }
@@ -3909,9 +3906,9 @@ script 245 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	You like Variable?
-	  I like it.
-	  I don't think so.
+	¿Te gusta Variable?
+	  Me gusta.
+	  No lo creo.
 	"""
 	end
 }
@@ -3919,13 +3916,13 @@ script 246 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I knew you would!
+	¡Sabía que sí!
 	"""
 	msgClear
 	"""
-	You seem like the
-	type to have a good
-	sense for names.
+	Pareces del tipo que
+	tiene buen gusto
+	para los nombres.
 	"""
 	end
 }
@@ -3933,14 +3930,14 @@ script 247 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	You really don't
-	like it?
+	¿De verdad no te
+	gusta?
 	"""
 	msgClear
 	"""
-	Too bad, but I hope
-	you find a name you
-	like soon.
+	Qué pena, pero ojalá
+	encuentres un nombre
+	que te guste pronto.
 	"""
 	end
 }
@@ -3952,13 +3949,14 @@ script 248 mmz4 {
 	"""
 	msgClear
 	"""
-	Since the name's
-	been decided, you
-	should hurry up
+	Ya que el nombre
+	está decidido,
+	deberías apurarte
 	"""
 	msgClear
 	"""
-	and tell Alouette.
+	y decírselo a
+	Alouette.
 	"""
 	end
 }
@@ -3966,9 +3964,9 @@ script 249 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I heard the new
-	model of Cyber-elf
-	is something else!
+	¡Oí que el nuevo
+	modelo de Cyber-elfo
+	es algo increíble!
 	"""
 	end
 }
@@ -3980,15 +3978,15 @@ script 250 mmz4 {
 	"""
 	msgClear
 	"""
-	Alouette really
-	likes that
-	Cyber-elf,
+	A Alouette le gusta
+	mucho ese
+	Cyber-elfo,
 	"""
 	msgClear
 	"""
-	so make sure you
-	take good care of it
-	for her.
+	así que asegúrate
+	de cuidarlo bien
+	por ella.
 	"""
 	end
 }
@@ -4000,15 +3998,19 @@ script 251 mmz4 {
 	"""
 	msgClear
 	"""
-	Weil's troops have
-	left the area around
-	the Settlement.
+	Las tropas de Weil
+	han salido de la
+	zona alrededor del
 	"""
 	msgClear
 	"""
-	You should head over
-	and talk with the
-	people there.
+	Asentamiento.
+	"""
+	msgClear
+	"""
+	Deberías ir y hablar
+	con la gente de
+	allí.
 	"""
 	end
 }
