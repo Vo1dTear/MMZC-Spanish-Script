@@ -5,69 +5,69 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	So this is Area
-	Zero?
+	¿Así que esto es
+	el Área Zero?
 	"""
 	msgClear
 	"""
-	Ciel, are you
-	seeing this on the
-	monitor?
+	Ciel, ¿ves esto
+	en el monitor?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 36
 	"""
 	Ciel:
-	"Yes, I'm seeing
-	 it now."
+	"Sí, lo estoy
+	 viendo ahora."
 	"""
 	msgClear
 	"""
-	"That's amazing.
-	 I didn't know such
-	 a natural place
+	"Es increíble.
+	 No sabía que un
+	 lugar así
 	"""
 	msgClear
 	"""
-	  still existed."
+	 aún existía."
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
 	Ciel...
-	What's my mission?
+	¿Cuál es mi misión?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 36
 	"""
 	Ciel:
-	"Oh, sorry!"
+	"¡Oh, lo siento!"
 	"""
 	msgClear
 	"""
-	"The enemy is
-	 in the colony
-	 remains..."
+	"El enemigo está
+	 en los restos de
+	 la colonia..."
 	"""
 	msgClear
 	"""
-	"The entrance should
-	 be up ahead."
+	"La entrada debería
+	 estar más adelante."
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Understood...
-	I am in pursuit.
+	Entendido...
+	Voy en camino.
 	"""
 	msgClear
 	"""
-	What could Dr. Weil
-	be up to?
+	¿Qué estará
+	tramando el
+	Dr. Weil?
 	"""
 	end
 }
@@ -76,24 +76,25 @@ script 1 mmz4 {
 		mugshot = 31
 	"""
 	Kyakya!
-	Why sweat the small
-	stuff!
+	¡Para qué preocuparse
+	por pequeñeces!
 	"""
 	msgClear
 	"""
-	I'm all for crushing
-	Area Zero, but this
-	is taking forever.
+	Estoy a favor de
+	arrasar el Área Zero,
+	pero esto se está
 	"""
 	msgClear
 	"""
-	I guess I don't have
-	much choice but to
-	follow Lord Weil's
+	haciendo eterno.
+	Supongo que no tengo
+	más opción que
 	"""
 	msgClear
 	"""
-	plan.
+	seguir el plan
+	de Lord Weil.
 	"""
 	end
 }
@@ -101,8 +102,8 @@ script 2 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	It looks like I
-	missed a grunt.
+	Parece que dejé
+	un esbirro.
 	"""
 	end
 }
@@ -110,8 +111,9 @@ script 3 mmz4 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Kya! Who dares call
-	me a grunt!
+	¡Kya! ¿Quién se
+	atreve a llamarme
+	esbirro?
 	"""
 	end
 }
@@ -119,34 +121,34 @@ script 4 mmz4 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Who are you?
-	And where did you
-	come from?
+	¿Quién eres?
+	¿Y de dónde
+	saliste?
 	"""
 	msgClear
 	"""
-	I'll teach you to
-	come in here and
-	insult me! Kyakya!
+	¡Te enseñaré a entrar
+	aquí y a insultarme!
+	¡Kyakya!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	You're a noisy one.
+	Eres muy ruidoso.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 31
 	"""
-	Kyakya!
-	Now I'm mad!
+	¡Kyakya!
+	¡Ahora estoy furioso!
 	"""
 	msgClear
 	"""
-	Come on!
-	I'll show you!
-	Kakya!
+	¡Vamos!
+	¡Te mostraré!
+	¡Kakya!
 	"""
 	end
 }
@@ -154,8 +156,9 @@ script 5 mmz4 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Don't steal all
-	the fun Cocapetri.
+	No acapares toda
+	la diversión,
+	Cocapetri.
 	"""
 	end
 }
@@ -163,9 +166,9 @@ script 6 mmz4 {
 	mugshotShow
 		mugshot = 25
 	"""
-	Yes...
-	I want to be the one
-	to light his fire!
+	Sí...
+	¡Quiero ser yo
+	quien lo haga arder!
 	"""
 	end
 }
@@ -173,37 +176,41 @@ script 7 mmz4 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Kya!
-	Quiet! He's going
-	to be my dinner!
+	¡Kya!
+	¡Silencio! ¡Él será
+	mi cena!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 21
 	"""
-	You're the one that
-	needs to be quiet.
+	El que debe
+	callarse eres tú.
 	"""
 	msgClear
 	"""
-	You weren't back on
-	time, so we had to
-	come find you.
+	No regresaste
+	a tiempo, así que
+	tuvimos que venir
+	"""
+	msgClear
+	"""
+	a buscarte.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 23
 	"""
-	By the way,
-	who is that Reploid
-	standing over there?
+	Por cierto, ¿quién
+	es ese Reploide que
+	está allá?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 29
 	"""
-	Roar!
-	Th-that...is...
+	¡Roar!
+	E-e-ese...es...
 	Ze...
 	"""
 	msgClear
@@ -211,34 +218,35 @@ script 7 mmz4 {
 	mugshotShow
 		mugshot = 19
 	"""
-	His name is Zero.
-	There was data on
-	him in Lord Weil's
+	Su nombre es Zero.
+	Había datos sobre
+	él en el plan
 	"""
 	msgClear
 	"""
-	master plan.
+	maestro de
+	Lord Weil.
 	"""
 	msgClear
 	"""
 	Mino Magnus...
-	Try to speed it up
-	next time.
+	Intenta ser más rápi-
+	do la próxima vez.
 	"""
 	msgClear
 	msgTop
 	mugshotShow
 		mugshot = 17
 	"""
-	Zero?
-	So this Reploid is
-	our target?
+	¿Zero? ¿Así que este
+	Reploide es nuestro
+	objetivo?
 	"""
 	msgClear
 	"""
-	Then we should take
-	care of him here
-	and now!
+	Entonces deberíamos
+	encargarnos de él
+	aquí y ahora.
 	"""
 	end
 }
@@ -246,15 +254,15 @@ script 8 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Ah!
+	¡Ah!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 38
 	"""
 	???:
-	"Time's running out.
-	 Leave him."
+	"El tiempo se agota.
+	 Déjenlo."
 	"""
 	end
 }
@@ -262,71 +270,80 @@ script 9 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	We're only here
-	to investigate
-	Area Zero.
+	Solo estamos aquí
+	para investigar
+	el Área Zero.
 	"""
 	msgClear
 	"""
-	You don't have
-	clearance to fight.
+	No tienen permiso
+	para combatir.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 21
 	"""
-	Oh come on Commander
-	Craft.
+	Oh, vamos,
+	Comandante Craft.
 	"""
 	msgClear
 	"""
-	You aren't saying
-	we should just leave
-	the enemy are you?
+	No dirás que
+	debemos dejar al
+	enemigo, ¿verdad?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	We need the power of
-	Ragnarok to destroy
-	this much nature.
+	Necesitamos el poder
+	de Ragnarok para
+	destruir toda esta
 	"""
 	msgClear
 	"""
-	Once Ragnarok has
-	begun, one Reploid
-	will be beneath our
+	naturaleza.
 	"""
 	msgClear
 	"""
-	concern. There's no
-	time to deal with
-	him now.
+	Una vez que Ragnarok
+	comience, un solo
+	Reploide no será de
+	"""
+	msgClear
+	"""
+	nuestra importancia.
+	No hay tiempo para
+	ocuparnos
+	"""
+	msgClear
+	"""
+	de él ahora.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Destroy the nature
-	in Area Zero!?
+	¿¡Destruir la
+	naturaleza del
+	Área Zero!?
 	"""
 	msgClear
 	"""
-	Just what are you
-	trying to do!?
+	¿¡Qué es lo que
+	intentan hacer!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	My name is Craft.
+	Mi nombre es Craft.
 	"""
 	msgClear
 	"""
-	I am a soldier of
+	Soy un soldado de
 	Neo Arcadia...
-	No, Lord Weil.
+	No, de Lord Weil.
 	"""
 	end
 }
@@ -335,106 +352,115 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	We... Lord Weil...
-	requires all nature
-	be destroyed.
+	Nosotros...
+	Lord Weil...
+	exige que toda
+	"""
+	msgClear
+	"""
+	la naturaleza
+	sea destruida.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 26
 	"""
-	Lately there are
-	a lot of impudent
-	humans thinking
+	Últimamente hay
+	muchos humanos
+	insolentes que
 	"""
 	msgClear
 	"""
-	the world outside
-	Neo Arcadia is
-	better.
+	creen que el mundo
+	fuera de Neo
+	Arcadia es mejor.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 25
 	"""
-	That's why we must
-	make sure it isn't
-	by burning it.
+	Por eso debemos
+	asegurarnos de que
+	no lo sea
+	"""
+	msgClear
+	"""
+	quemándolo todo.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 31
 	"""
-	Then, nobody will
-	have delusions of
-	escaping Lord Weil!
+	¡Así nadie tendrá
+	ilusiones de
+	escapar de Weil!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 22
 	"""
-	Who would choose
-	nature over Lord
-	Weil anyway?
+	¿Quién elegiría la
+	naturaleza sobre
+	Lord Weil?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 20
 	"""
-	I can't believe it.
-	Humans are so
-	foolish.
+	No puedo creerlo.
+	Los humanos son
+	tan tontos.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 28
 	"""
-	Roar!
-	Commander Craft...
-	is... the...
+	¡Roar!
+	El Comandante
+	Craft... es...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 19
 	"""
-	Is the leader of the
-	Einherjar, the Eight
-	Warriors!
+	¡Es el líder de los
+	Einherjar, los
+	Ocho Guerreros!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 17
 	"""
-	The eight of us will
-	destroy the
-	environment.
+	Los ocho de nosotros
+	destruiremos el
+	medio ambiente.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	Then, as part of
-	Lord Weil's plan, we
-	will destroy Area
+	Y como parte del
+	plan de Lord Weil,
+	destruiremos el
 	"""
 	msgClear
 	"""
-	Zero as well.
+	Área Zero también.
 	"""
 	msgClear
 	"""
-	That is "Ragnarok."
+	Eso es "Ragnarok".
 	"""
 	msgClear
 	"""
-	You see, Zero.
-	There's nothing
-	you can do...
+	Ya lo ves, Zero.
+	No hay nada que
+	puedas hacer...
 	"""
 	msgClear
 	"""
-	You're no threat
-	to Lord Weil.
+	No eres amenaza
+	para Lord Weil.
 	"""
 	end
 }
@@ -442,23 +468,24 @@ script 11 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	You'll come to
-	understand.
+	Ya lo entenderás.
 	"""
 	msgClear
 	"""
-	This world belongs
-	to Lord Weil.
+	Este mundo
+	pertenece a
+	Lord Weil.
 	"""
 	msgClear
 	"""
-	One person can't
-	change the world.
+	Una sola persona
+	no puede cambiar
+	el mundo.
 	"""
 	msgClear
 	"""
-	Heroes are a thing
-	of the past...
+	Los héroes son
+	cosa del pasado...
 	"""
 	msgClear
 	mugshotShow
@@ -470,8 +497,9 @@ script 11 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	Time to go...
-	Ragnarok has begun.
+	Es hora de irnos...
+	Ragnarok ha
+	comenzado.
 	"""
 	end
 }
@@ -486,58 +514,60 @@ script 12 mmz4 {
 		mugshot = 36
 	"""
 	Ciel:
-	"Zero!
-	Are you okay?"
+	"¡Zero!
+	 ¿Estás bien?"
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Ciel, is that you?
+	Ciel, ¿eres tú?
 	"""
 	msgClear
 	"""
-	Did you get all
-	of that?
+	¿Viste todo
+	eso?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 36
 	"""
 	Ciel:
-	"Yes, I can't
-	 believe Dr. Weil
+	"Sí, no puedo
+	 creer que el
 	"""
 	msgClear
 	"""
-	 would do that..."
+	 Dr. Weil
+	 hiciera eso..."
 	"""
 	msgClear
 	"""
-	"We've arrived in
-	 Area Zero too..."
+	"También hemos
+	 llegado al
+	 Área Zero..."
 	"""
 	msgClear
 	"""
-	"We found the
-	 Settlement, return
-	 to the trailer."
+	"Encontramos el
+	 asentamiento,
+	 vuelve al tráiler."
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Understood...
-	Operator, bring
-	me back.
+	Entendido...
+	Operadora,
+	llévame de vuelta.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"Commencing
-	 transport."
+	Operadora:
+	"Iniciando
+	 transporte."
 	"""
 	end
 }
