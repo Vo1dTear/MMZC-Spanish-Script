@@ -5,56 +5,55 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"Zero!"
+	Operadora:
+	"¡Zero!"
 	"""
 	msgClear
 	"""
-	"We can't stop that
-	 particle beam from
-	 the outside!"
+	"No podemos detener
+	 ese rayo de partícu-
+	 las desde afuera!"
 	"""
 	msgClear
 	"""
-	"Infiltrate it and
-	 stop it from the
-	 inside!"
+	"Infíltrate y deténlo
+	 desde dentro!"
 	"""
 	msgClear
 	"""
-	"I'm scanning for
-	 a way inside."
+	"Estoy buscando
+	 una entrada."
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	That's okay...
+	No hay problema...
 	"""
 	msgClear
 	"""
-	I'll just go in
-	through the barrel.
+	Entraré por el
+	cañón.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"That's way too
-	 dangerous!"
+	Operadora:
+	"¡Eso es muy
+	 peligroso!"
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	It looks like it
-	is charging up...
+	Parece que se está
+	cargando...
 	"""
 	msgClear
 	"""
-	There's no time.
-	Commencing mission!
+	No hay tiempo.
+	¡Comenzando misión!
 	"""
 	end
 }
@@ -62,20 +61,24 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 17
 	"""
-	Ragnarok will wake
-	the humans from
-	their stupidity...
+	Ragnarok hará
+	despertar a los
+	humanos de su
 	"""
 	msgClear
 	"""
-	It is the grand
-	plan of our group
-	under Cmdr. Craft!
+	estupidez...
 	"""
 	msgClear
 	"""
-	I am one of the
-	Einherjar warriors,
+	¡Es el gran plan de
+	nuestro grupo bajo
+	el Cmdt. Craft!
+	"""
+	msgClear
+	"""
+	¡Soy uno de los
+	guerreros Einherjar,
 	"""
 	msgClear
 	"""
@@ -83,9 +86,9 @@ script 16 mmz4 {
 	"""
 	msgClear
 	"""
-	I will defeat all
-	who stand in our
-	way!
+	¡Derrotaré a todo
+	el que se interponga
+	en nuestro camino!
 	"""
 	end
 }
@@ -93,13 +96,13 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 17
 	"""
-	Target has been
-	destroyed!
+	¡Objetivo
+	destruido!
 	"""
 	msgClear
 	"""
-	Ragnarok will
-	continue!
+	¡Ragnarok
+	continuará!
 	"""
 	end
 }
@@ -107,18 +110,18 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 17
 	"""
-	Gragh!
+	¡Gragh!
 	"""
 	msgClear
 	"""
-	I failed to destroy
-	my target!
+	¡No logré destruir
+	mi objetivo!
 	"""
 	msgClear
 	"""
-	I'm sorry I failed
-	you, Cmdr. Craft...
-	Graaagh!
+	Lo siento, te fallé,
+	Cmdt. Craft...
+	¡Graaagh!
 	"""
 	end
 }

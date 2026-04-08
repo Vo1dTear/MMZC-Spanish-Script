@@ -6,30 +6,31 @@ script 0 mmz4 {
 		mugshot = 36
 	"""
 	Ciel:
-	"There should be an
-	 enemy submarine in
+	"Debería haber un
+	 submarino enemigo
 	"""
 	msgClear
 	"""
-	 the Deep Sea."
+	 en el mar
+	 profundo."
 	"""
 	msgClear
 	"""
-	"Even for you, there
-	 is a limit to how
-	 much water pressure
+	"Incluso para ti,
+	 hay un límite a la
+	 presión del agua
 	"""
 	msgClear
 	"""
-	 you can handle, so
-	 I will try to find
-	 you a route.
+	 que puedes soportar,
+	 así que buscaré una
+	 ruta para ti.
 	"""
 	msgClear
 	"""
-	 Get in before the
-	 count in the upper
-	 right runs out."
+	 Entra antes de que
+	 el contador de la
+	 esquina se agote."
 	"""
 	end
 }
@@ -37,48 +38,47 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 19
 	"""
-	You're here...
+	Estás aquí...
 	"""
 	msgClear
 	"""
-	I've been waiting
-	a long time for this
+	¡He esperado mucho
+	tiempo por esto,
 	Zero!
 	"""
 	msgClear
 	"""
-	I'm not just one of
-	the Eight Warriors,
-	I am a remnant of
+	No soy solo uno de
+	los ocho guerreros,
+	soy un remanente
 	"""
 	msgClear
 	"""
-	the Zan'ei Army led
-	by the late Phantom.
-	I am Tech Kraken!
+	del ejército Zan'ei
+	del difunto Phantom.
+	¡Soy Tech Kraken!
 	"""
 	msgClear
 	"""
-	I only put up with
-	that Weil and this
-	whole plan just so
+	Soporté a Weil y
+	todo este plan solo
+	para poder
 	"""
 	msgClear
 	"""
-	I could get revenge
-	on the one who
-	defeated Phantom!
+	vengarme de quien
+	derrotó a Phantom!
 	"""
 	msgClear
 	"""
-	Feel the rage of
-	my former master!
+	¡Siente la ira de
+	mi antiguo amo!
 	"""
 	msgClear
 	"""
-	I will enjoy sinking
-	these fangs of ice
-	into you!
+	¡Disfrutaré hundiendo
+	estos colmillos de
+	hielo en ti!
 	"""
 	end
 }
@@ -86,25 +86,29 @@ script 11 mmz4 {
 	mugshotShow
 		mugshot = 19
 	"""
-	Now I only need to
-	run this sub into
-	the ground and cause
+	¡Ahora solo debo
+	estrellar este sub-
+	marino y provocar
 	"""
 	msgClear
 	"""
-	a great earthquake!
+	un gran terremoto!
 	"""
 	msgClear
 	"""
-	Are you prepared to
-	sink with me to the
-	bottom of the ocean?
+	¿Estás listo para
+	hundirte conmigo
+	hasta el fondo
+	"""
+	msgClear
+	"""
+	del océano?
 	"""
 	msgClear
 	"""
 	Phantom...
-	I will be joining
-	you soon!
+	¡Pronto me reuniré
+	contigo!
 	"""
 	end
 }
@@ -112,28 +116,29 @@ script 12 mmz4 {
 	mugshotShow
 		mugshot = 19
 	"""
-	Hragh!
+	¡Hragh!
 	"""
 	msgClear
 	"""
-	I have lent my
-	strength to Weil,
-	and now I must pay.
+	Le presté mi fuerza
+	a Weil, y ahora debo
+	pagar el precio.
 	"""
 	msgClear
 	"""
-	There's no way for
-	me to save Phantom's
-	soul...
+	No hay forma de
+	salvar el alma de
+	Phantom...
 	"""
 	msgClear
 	"""
-	But... I did what
-	I had to do!
+	¡Pero... hice lo que
+	tenía que hacer!
 	"""
 	msgClear
 	"""
-	Phantom! Forgive me!
+	¡Phantom!
+	¡Perdóname!
 	"""
 	end
 }
@@ -141,15 +146,15 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"The area around the
+	Ciel: "El área alrededor del
 	"""
 	msgClear
 	"""
-	sub is a maze."
+	submarino es un laberinto."
 	"""
 	msgClear
 	"""
-	"Don't get lost!"
+	"¡No te pierdas!"
 	"""
 	end
 }
@@ -157,15 +162,15 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"The entrance is just
+	Ciel:"La entrada está justo
 	"""
 	msgClear
 	"""
-	up ahead if you take the
+	adelante si tomas el
 	"""
 	msgClear
 	"""
-	top right passage."
+	pasaje superior derecho."
 	"""
 	end
 }
@@ -173,11 +178,11 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"It looks like you've
+	Ciel:"Parece que has
 	"""
 	msgClear
 	"""
-	made it inside."
+	logrado entrar."
 	"""
 	end
 }
@@ -185,11 +190,11 @@ script 19 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Hurry up! There's
+	Ciel:"¡Date prisa! No hay
 	"""
 	msgClear
 	"""
-	not much time!"
+	mucho tiempo!"
 	"""
 	end
 }
@@ -197,11 +202,11 @@ script 20 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Zero!"
+	Ciel:"¡Zero!"
 	"""
 	msgClear
 	"""
-	"Please, you must hurry!"
+	"¡Por favor, date prisa!"
 	"""
 	end
 }
@@ -209,15 +214,15 @@ script 21 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"...area around...
+	Ciel:"...área alrededor...
 	"""
 	msgClear
 	"""
-	sub...maze."
+	sub...laberinto."
 	"""
 	msgClear
 	"""
-	"Don't...get lo..."
+	"¡No...te...pier...!"
 	"""
 	end
 }
@@ -229,11 +234,11 @@ script 22 mmz4 {
 	"""
 	msgClear
 	"""
-	"Reception...
+	"Recep...
 	"""
 	msgClear
 	"""
-	...king..."
+	...ción..."
 	"""
 	end
 }
@@ -241,11 +246,11 @@ script 23 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"It...you've
+	Ciel:"Parece...has
 	"""
 	msgClear
 	"""
-	made it..."
+	logrado..."
 	"""
 	end
 }
@@ -253,11 +258,11 @@ script 24 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Hurry...not
+	Ciel:"¡Date...No hay
 	"""
 	msgClear
 	"""
-	...time!"
+	...tiempo!"
 	"""
 	end
 }
@@ -269,7 +274,7 @@ script 25 mmz4 {
 	"""
 	msgClear
 	"""
-	"Pl...se, ...hurry!"
+	"¡Por...vor, ...prisa!"
 	"""
 	end
 }

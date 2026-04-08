@@ -5,31 +5,31 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
+	Operadora:
 	"Zero..."
 	"""
 	msgClear
 	"""
-	"This area is being
-	 operated from two
-	 locations."
+	"Esta área está
+	 controlada desde
+	 dos ubicaciones."
 	"""
 	msgClear
 	"""
-	"One is the control
-	 tower and the other
+	"Una es la torre de
+	 control y la otra
 	"""
 	msgClear
 	"""
-	 is the computer
-	 room that lies
-	 beyond it."
+	 es la sala de
+	 computadoras
+	 más allá de ella."
 	"""
 	msgClear
 	"""
-	"Keep going and
-	 put a stop to that
-	 control tower."
+	"Sigue adelante y
+	 detén esa torre
+	 de control."
 	"""
 	end
 }
@@ -37,21 +37,21 @@ script 1 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"Zero, there's the
-	 control tower!"
+	Operadora:
+	"¡Zero, ahí está la
+	 torre de control!"
 	"""
 	msgClear
 	"""
-	"You can't straight
-	 out destroy it,
-	 but you can pull
+	"No puedes
+	 destruirla
+	 directamente,
 	"""
 	msgClear
 	"""
-	 the key disk out
-	 and disable the
-	 tower."
+	 pero puedes sacar
+	 el disco clave y
+	 desactivarla."
 	"""
 	end
 }
@@ -59,84 +59,86 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Kyakya!
-	I've been expecting
-	you Zero!
+	¡Kyakya!
+	¡Te he estado
+	esperando, Zero!
 	"""
 	msgClear
 	"""
-	You made a fool of
-	me the last time we
-	met!
+	¡Me dejaste en
+	ridículo la última
+	vez que nos vimos!
 	"""
 	msgClear
 	"""
-	But I assure you
-	it won't happen
-	again!
+	¡Pero te aseguro
+	que no pasará
+	de nuevo!
 	"""
 	msgClear
 	"""
-	I am Cocapetri,
-	of the Einherjar
-	eight warriors!
+	¡Soy Cocapetri, de
+	los ocho guerreros
+	Einherjar!
 	"""
 	msgClear
 	"""
-	We will see Ragnarok
-	through! Kyakya!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	So you're the one
-	who's in control of
-	the security here?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 31
-	"""
-	Kyakya! Surprised?
-	"""
-	msgClear
-	"""
-	It's all thanks
-	to Lord Weil's virus
-	program!
-	"""
-	msgClear
-	"""
-	It takes care of
-	intruders without
-	me even lifting a
-	"""
-	msgClear
-	"""
-	finger!
+	¡Veremos Ragnarok
+	hasta el final!
+	¡Kyakya!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	So you're the type
-	that can't do
-	anything yourself...
+	¿Así que tú eres
+	el que controla
+	la seguridad aquí?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 31
 	"""
-	Kya! First "grunt,"
-	now this insult!
-	Unforgivable!
+	¡Kyakya!
+	¿Sorprendido?
 	"""
 	msgClear
 	"""
-	I'll turn you
-	into a lawn
-	ornament!
+	¡Es todo gracias
+	al programa virus
+	de Lord Weil!
+	"""
+	msgClear
+	"""
+	¡Se encarga de los
+	intrusos sin que yo
+	mueva un dedo!
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 4
+	"""
+	Así que eres del tipo
+	que no puede hacer
+	nada por sí mismo...
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 31
+	"""
+	¡Kya! ¡Primero
+	"esbirro", y
+	ahora esto!
+	"""
+	msgClear
+	"""
+	¡Imperdonable!
+	"""
+	msgClear
+	"""
+	¡Te convertiré
+	en un adorno de
+	jardín!
 	"""
 	end
 }
@@ -144,24 +146,24 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Kyakya!
+	¡Kyakya!
 	"""
 	msgClear
 	"""
-	Having trouble
-	moving there,
-	tough guy?
+	¿Tienes problemas
+	para moverte ahí,
+	tipo duro?
 	"""
 	msgClear
 	"""
-	Oh, I'm sorry.
-	That's my fault!
+	Oh, lo siento.
+	¡Fue mi culpa!
 	"""
 	msgClear
 	"""
-	Now who can't do
-	anything for
-	himself? Kyakya!
+	¿Y ahora quién no
+	puede hacer nada por
+	sí mismo? ¡Kyakya!
 	"""
 	end
 }
@@ -170,24 +172,25 @@ script 18 mmz4 {
 		mugshot = 31
 	"""
 	Kya...kya...
-	Why can't I move?
+	¿Por qué no puedo
+	moverme?
 	"""
 	msgClear
 	"""
-	I haven't been
-	turned to stone,
-	have I?
+	No me habré
+	convertido en
+	piedra, ¿verdad?
 	"""
 	msgClear
 	"""
-	No...it's...
-	fear keeping me
-	frozen...
+	No...es...
+	el miedo lo que
+	me paraliza...
 	"""
 	msgClear
 	"""
 	Kuh...
-	Kyakyaaa!
+	¡Kyakyaaa!
 	"""
 	end
 }

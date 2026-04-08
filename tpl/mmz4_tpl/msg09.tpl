@@ -5,51 +5,57 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"The temperature is
-	 rising rapidly at
+	Operadora:
+	"La temperatura está
+	 aumentando rápido en
 	"""
 	msgClear
 	"""
-	 your location."
+	 tu ubicación."
 	"""
 	msgClear
 	"""
-	"Even you won't be
-	 able to last long
-	 in that heat..."
+	"Incluso tú no podras
+	 resistir mucho
+	 tiempo ese calor..."
 	"""
 	msgClear
 	"""
-	"Once your armor
-	 reaches 100%
-	 capacity, you will
+	"Cuando tu armadura
+	 alcance el 100% de
+	 capacidad,
 	"""
 	msgClear
 	"""
-	 start taking
-	 damage."
+	 empezarás a recibir
+	 daño."
 	"""
 	msgClear
 	"""
-	"Hide in the shade
-	 as much as possible
-	 to stay cool."
+	"Refúgiate en la
+	 sombra tanto como
+	 sea posible para
 	"""
 	msgClear
 	"""
-	"There are several
-	 energy generators."
+	 mantenerte fresco."
 	"""
 	msgClear
 	"""
-	"If you can destroy
-	 them, you should be
-	 able to lower the
+	"Hay varios
+	 generadores de
+	 energía."
 	"""
 	msgClear
 	"""
-	 temperature."
+	"Si puedes
+	 destruirlos,
+	 deberías poder
+	"""
+	msgClear
+	"""
+	 bajar la
+	 temperatura."
 	"""
 	end
 }
@@ -57,41 +63,40 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 25
 	"""
-	Kyahahaha!
+	¡Kyajajaja!
 	"""
 	msgClear
 	"""
-	You must be quite
-	fired up to come
-	this far!
+	¡Debes estar que
+	ardes para llegar
+	hasta aquí!
 	"""
 	msgClear
 	"""
-	Ah, but you're not
-	fired up enough for
-	me.
+	Ah, pero no
+	estás ardiendo lo
+	suficiente para mí.
 	"""
 	msgClear
 	"""
-	I wanna see you
-	sweat! I wanna see
-	tears!
+	¡Quiero verte sudar!
+	¡Quiero ver lágrimas!
 	"""
 	msgClear
 	"""
-	Show me everything
-	you've got!
+	¡Muéstrame todo
+	lo que tienes!
 	"""
 	msgClear
 	"""
-	I love making guys
-	like you into
-	charcoal!
+	¡Me encanta convertir
+	a tipos como tú
+	en carbón!
 	"""
 	msgClear
 	"""
-	Now it's time to get
-	burned!
+	¡Ahora es hora de
+	que te quemes!
 	"""
 	end
 }
@@ -99,15 +104,19 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 25
 	"""
-	Kyahaha!
-	Pathetic! Is that
-	all you've got?
+	¡Kyajaja!
+	¡Patético! ¿Eso es
+	todo lo que tienes?
 	"""
 	msgClear
 	"""
-	Did you really think
-	you stood a chance
-	against Lord Weil?
+	¿De verdad pensaste
+	que tendrías
+	posibilidades contra
+	"""
+	msgClear
+	"""
+	Lord Weil?
 	"""
 	end
 }
@@ -115,20 +124,20 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 25
 	"""
-	W-what?
-	Why...can't I...
-	move?
+	¿Q-qué?
+	¿Por qué...no
+	puedo...moverme?
 	"""
 	msgClear
 	"""
-	How could I...
-	lose to you?
-	Unbelievable...
+	¿Cómo pude...
+	perder contra ti?
+	Increíble...
 	"""
 	msgClear
 	"""
-	No, impossible...
-	Kyaaah!
+	No, imposible...
+	¡Kyaaaah!
 	"""
 	end
 }
