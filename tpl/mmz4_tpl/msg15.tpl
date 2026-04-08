@@ -74,32 +74,35 @@ script 8 mmz4 {
 	mugshotShow
 		mugshot = 61
 	"""
-	You again?
+	¿Tú otra vez?
 	"""
 	msgClear
 	"""
-	What is it this
-	time?
+	¿Qué quieres ahora?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 9
 	"""
-	As a journalist,
-	I'd love to do a
-	story on you...
+	Como periodista,
+	me encantaría hacer
+	un reportaje
 	"""
 	msgClear
 	"""
-	But these people
-	fleeing from Neo
-	Arcadia need me.
+	sobre ti...
 	"""
 	msgClear
 	"""
-	I hope when this is
-	over, you'll let me
-	do an interview.
+	Pero esta gente que
+	huye de Neo Arcadia
+	me necesita.
+	"""
+	msgClear
+	"""
+	Espero que cuando
+	esto termine, me
+	dejes entrevistarte.
 	"""
 	end
 }
@@ -107,24 +110,19 @@ script 9 mmz4 {
 	mugshotShow
 		mugshot = 9
 	"""
-	Something up?
+	¿Pasa algo?
 	"""
 	msgClear
 	"""
-	Sorry to disappoint
-	you, but I don't
-	have much to say...
+	Siento decepcionarte,
+	pero no tengo mucho
+	que decir...
 	"""
 	msgClear
 	"""
-	I'm better on the
-	giving end of an
-	interview than the
-	"""
-	msgClear
-	"""
-	receiving end of
-	one.
+	Soy mejor haciendo
+	entrevistas que
+	respondiéndolas.
 	"""
 	end
 }
@@ -445,18 +443,17 @@ script 36 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	You again...
+	Tú otra vez...
 	"""
 	msgClear
 	"""
-	You just don't get
-	it, do you!?
+	No lo entiendes,
+	¿verdad?
 	"""
 	msgClear
 	"""
-	I'll give you this
-	if you promise not
-	to come back!
+	Te daré esto si
+	prometes no volver.
 	"""
 	end
 }
@@ -464,19 +461,19 @@ script 37 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	Some "legend"
-	defeated X...
+	Alguna "leyenda"
+	derrotó a X...
 	"""
 	msgClear
 	"""
-	Now Neo Arcadia is
-	in chaos!
+	¡Ahora Neo Arcadia
+	está en caos!
 	"""
 	msgClear
 	"""
-	The only Reploid
-	that has ever
-	protected us is X.
+	El único Reploide
+	que nos protegió
+	fue X.
 	"""
 	end
 }
@@ -776,24 +773,19 @@ script 64 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	I don't care how
-	many times you warn
-	us, we're not
+	No importa cuántas
+	veces nos adviertas.
+	¡No nos iremos!
 	"""
 	msgClear
 	"""
-	leaving!
+	Este es nuestro
+	nuevo paraíso.
 	"""
 	msgClear
 	"""
-	This is our newfound
-	paradise.
-	"""
-	msgClear
-	"""
-	Stop parading around
-	like you're some
-	hero!
+	¡Deja de actuar como
+	si fueras un héroe!
 	"""
 	end
 }
@@ -801,15 +793,15 @@ script 65 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	We'll show you that
-	we humans can get
-	along just fine
+	Te mostraremos que
+	los humanos podemos
+	vivir muy bien
 	"""
 	msgClear
 	"""
-	without you
-	Reploids! We don't
-	need your help!
+	sin ustedes,
+	Reploides. ¡No nece-
+	sitamos su ayuda!
 	"""
 	end
 }
@@ -1102,23 +1094,22 @@ script 92 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Hello Mr. Reploid!
+	¡Hola, Sr. Reploide!
 	"""
 	msgClear
 	"""
-	Oh yeah...
+	Ah, cierto...
 	"""
 	msgClear
 	"""
-	When we were leaving
-	Neo Arcadia, I
-	picked this up.
+	Cuando salíamos de
+	Neo Arcadia, recogí
+	esto.
 	"""
 	msgClear
 	"""
-	It's no use to
-	humans, here take
-	it!
+	No nos sirve a los
+	humanos, ¡tómalo!
 	"""
 	end
 }
@@ -1126,49 +1117,41 @@ script 93 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Hey Mr. Reploid...
+	Hey, Sr. Reploide...
 	"""
 	msgClear
 	"""
-	Ever seen an
+	¿Has visto un
 	S-Crystal?
 	"""
 	msgClear
 	"""
-	You can make one
-	with somethin'
-	called Ceratanium
+	Puedes crear uno
+	con algo llamado
+	Ceratanium
 	"""
 	msgClear
 	"""
-	and some enemy
-	parts, ya know!
+	y partes de
+	enemigos, ¿sabes?
 	"""
 	msgClear
 	"""
-	I think the recipe
-	required one type of
-	Variant, some robot
+	Creo que la receta
+	pedía un tipo de
+	Variant, un robot
 	"""
 	msgClear
 	"""
-	that spits out other
-	robots and then
-	something with an
+	que escupe otros
+	robots y algo con
+	un cuerpo naranja.
 	"""
 	msgClear
 	"""
-	orange body.
-	"""
-	msgClear
-	"""
-	My pop was a
-	scientist so I've
-	heard all sorts of
-	"""
-	msgClear
-	"""
-	things like that!
+	Mi papá era
+	científico, así que
+	he oído cosas así.
 	"""
 	end
 }
@@ -1430,44 +1413,40 @@ script 120 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Hey you...
+	Hey, tú...
 	"""
 	msgClear
 	"""
-	You're a battle
-	Reploid aren't you?
+	Eres un Reploide de
+	combate, ¿no?
 	"""
 	msgClear
 	"""
-	You're probably not
-	interested, but I
-	have a bad memory of
+	Quizá no te interese,
+	pero tengo un mal
+	recuerdo de uno...
 	"""
 	msgClear
 	"""
-	a battle Reploid...
+	Nuestro líder X fue
+	derrotado por un
+	Reploide legendario
 	"""
 	msgClear
 	"""
-	Our leader X was
-	defeated by a
-	legendary Reploid
+	con una espada
+	brillante.
 	"""
 	msgClear
 	"""
-	with a glowing
-	sword.
+	Fue entonces cuando
+	nuestra utopía de
+	Neo Arcadia cayó.
 	"""
 	msgClear
 	"""
-	It was then that our
-	utopia of Neo
-	Arcadia was ruined.
-	"""
-	msgClear
-	"""
-	It hurts just
-	thinking about it...
+	Duele solo
+	pensarlo...
 	"""
 	end
 }
@@ -1475,24 +1454,24 @@ script 121 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	What is it?
+	¿Qué ocurre?
 	"""
 	msgClear
 	"""
-	You didn't know that
-	Reploid did you?
+	No sabías de ese
+	Reploide, ¿verdad?
 	"""
 	msgClear
 	"""
-	I hate violence, but
-	if I EVER find that
-	Reploid, I'll...
+	Odio la violencia,
+	pero si ALGUNA VEZ
+	lo encuentro, yo...
 	"""
 	msgClear
 	"""
-	I'll make that
-	Reploid share X's
-	fate.
+	Haré que ese
+	Reploide comparta
+	el destino de X.
 	"""
 	end
 }
@@ -1816,40 +1795,39 @@ script 148 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Mr. Reploid...
+	Sr. Reploide...
 	"""
 	msgClear
 	"""
-	It's better if you
-	don't show your face
-	around here anymore.
+	Es mejor que no
+	vuelvas a dejarte
+	ver por aquí.
 	"""
 	msgClear
 	"""
-	I know you're not a
-	bad guy and all...
+	Sé que no eres un
+	mal tipo y todo...
 	"""
 	msgClear
 	"""
-	Oh, I almost forgot!
+	¡Ah, casi lo olvido!
 	"""
 	msgClear
 	"""
-	I found this and
-	wanted to give it to
-	you.
+	Encontré esto y
+	quería dártelo.
 	"""
 	msgClear
 	"""
-	Don't tell anyone
-	though. I'd hate to
-	think what would
+	Pero no se lo digas
+	a nadie. Me daría
+	miedo pensar qué
 	"""
 	msgClear
 	"""
-	happen if people
-	knew I was helping a
-	Reploid.
+	pasaría si supieran
+	que ayudo a un
+	Reploide.
 	"""
 	end
 }
@@ -1857,20 +1835,20 @@ script 149 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	So this is Area
-	Zero?
+	¿Así que esto es
+	el Área Zero?
 	"""
 	msgClear
 	"""
-	Apparently, it's
-	where the colony
-	crashed long ago...
+	Al parecer, aquí
+	cayó la colonia
+	hace mucho...
 	"""
 	msgClear
 	"""
-	It was way back even
-	before my
-	grandparents' time.
+	Fue mucho antes
+	incluso del tiempo
+	de mis abuelos.
 	"""
 	end
 }
@@ -2164,14 +2142,15 @@ script 176 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	We're setting up
-	traps outside the
-	Settlement to make
+	Estamos colocando
+	trampas fuera del
+	Asentamiento para
 	"""
 	msgClear
 	"""
-	sure Reploids can't
-	attack us...
+	asegurarnos de que
+	los Reploides no nos
+	ataquen...
 	"""
 	end
 }
@@ -2179,9 +2158,9 @@ script 177 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	We'll show you that
-	we can take care of
-	ourselves!
+	¡Te demostraremos
+	que podemos
+	cuidarnos solos!
 	"""
 	end
 }
@@ -2464,20 +2443,20 @@ script 204 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	There are still a
-	lot of people who
-	didn't make it out
+	Aún hay mucha gente
+	que no logró salir
+	a tiempo de
 	"""
 	msgClear
 	"""
-	of Neo Arcadia in
-	time ya know...
+	Neo Arcadia,
+	¿sabes?...
 	"""
 	msgClear
 	"""
-	Neige will do her
-	best to bring them
-	here.
+	Neige hará lo
+	posible por traerlos
+	aquí.
 	"""
 	end
 }
@@ -2485,20 +2464,19 @@ script 205 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	There's no guarantee
-	we'll survive out
-	here ya know...
+	No hay garantía de
+	sobrevivir aquí
+	fuera, ¿sabes?...
 	"""
 	msgClear
 	"""
-	But then we all knew
-	what we were getting
-	into when we took
+	Pero todos sabíamos
+	en qué nos metíamos
+	al arriesgarnos
 	"""
 	msgClear
 	"""
-	the risk of
-	escaping.
+	a escapar.
 	"""
 	end
 }
@@ -2785,15 +2763,15 @@ script 232 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	I don't care what
-	you say, you're
-	wasting your time.
+	No importa lo que
+	digas, estás
+	perdiendo el tiempo.
 	"""
 	msgClear
 	"""
-	We don't need your
-	help to stop
-	Ragnarok.
+	No necesitamos tu
+	ayuda para detener
+	a Ragnarok.
 	"""
 	end
 }
@@ -2801,20 +2779,20 @@ script 233 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	If we rely on your
-	help, what was the
-	whole point of
+	Si dependemos de su
+	ayuda, ¿qué sentido
+	tuvo dejar
 	"""
 	msgClear
 	"""
-	leaving Neo Arcadia
-	in the first place?
+	Neo Arcadia desde
+	un principio?
 	"""
 	msgClear
 	"""
-	We've decided to
-	make our own
-	destinies.
+	Hemos decidido
+	forjar nuestro
+	propio destino.
 	"""
 	end
 }

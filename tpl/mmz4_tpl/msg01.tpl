@@ -3,37 +3,45 @@
 
 script 0 mmz4 {
 	"""
-	Discovered new recipe!
+	¡Nueva receta descubierta!
 	"""
 	end
 }
 script 1 mmz4 {
 	textColorRed
 	"""
-	Can't analyze this disk
+	No se puede analizar
+	"""
+	msgClear
+	"""
+	este disco
 	"""
 	textColorWhite
 	end
 }
 script 2 mmz4 {
 	"""
-	Obtained a Sub Tank!
+	¡Obtienes un Sub Tank!
 	"""
 	end
 }
 script 3 mmz4 {
 	"""
-	Cyber-elf now Sub Tank!
+	¡Cyber-elfo ahora es
+	"""
+	msgClear
+	"""
+	un Sub Tank!
 	"""
 	end
 }
 script 10 mmz4 {
 	"""
-	Got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
-	Heat Genblem's
+	Heat Genblem
 	"""
 	textColorWhite
 	msgClear
@@ -52,11 +60,11 @@ script 10 mmz4 {
 }
 script 11 mmz4 {
 	"""
-	Got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
-	Tech Kraken's
+	Tech Kraken
 	"""
 	textColorWhite
 	msgClear
@@ -75,11 +83,11 @@ script 11 mmz4 {
 }
 script 12 mmz4 {
 	"""
-	Got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
-	Pegasolta Eclair's
+	Pegasolta Eclair
 	"""
 	textColorWhite
 	msgClear
@@ -98,11 +106,11 @@ script 12 mmz4 {
 }
 script 13 mmz4 {
 	"""
-	Got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
-	Noble Mandrago's
+	Noble Mandrago
 	"""
 	textColorWhite
 	msgClear
@@ -121,11 +129,11 @@ script 13 mmz4 {
 }
 script 14 mmz4 {
 	"""
-	Got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
-	Sol Titanion's
+	Sol Titanion
 	"""
 	textColorWhite
 	msgClear
@@ -144,11 +152,11 @@ script 14 mmz4 {
 }
 script 15 mmz4 {
 	"""
-	Got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
-	Fenri Lunaedge's
+	Fenri Lunaedge
 	"""
 	textColorWhite
 	msgClear
@@ -167,11 +175,11 @@ script 15 mmz4 {
 }
 script 16 mmz4 {
 	"""
-	Got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
-	Mino Magnus'
+	Mino Magnus
 	"""
 	textColorWhite
 	msgClear
@@ -190,11 +198,11 @@ script 16 mmz4 {
 }
 script 17 mmz4 {
 	"""
-	Got 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
-	Popla Cocapetri's
+	Popla Cocapetri
 	"""
 	textColorWhite
 	msgClear
@@ -212,19 +220,23 @@ script 17 mmz4 {
 	end
 }
 script 20 mmz4 {
+	"""
+	¡Nivel máximo de 
+	"""
 	textColorRed
 	"""
-	Elf
+	Elfo
 	"""
 	textColorWhite
+	msgClear
 	"""
-	 max level increased!
+	incrementado!
 	"""
 	end
 }
 script 31 mmz4 {
 	"""
-	Got the 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""
@@ -238,7 +250,7 @@ script 31 mmz4 {
 }
 script 32 mmz4 {
 	"""
-	Got the 
+	¡Obtienes 
 	"""
 	textColorRed
 	"""

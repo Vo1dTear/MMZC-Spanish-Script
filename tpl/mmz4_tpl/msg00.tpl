@@ -204,50 +204,50 @@ script 12 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	There are Reploids
-	converging on Area
-	Zero!
+	¡Reploides se
+	concentran en el
+	Área Zero!
 	"""
 	msgClear
 	"""
-	Weil's Reploids are
-	heading for the
-	Settlement!
+	¡Los Reploides de
+	Weil van hacia el
+	Asentamiento!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	What!?
-	They found it!?
+	¿¡Qué!?
+	¿¡Lo encontraron!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	Fighting is breaking
-	out across the
-	Settlement!
+	¡Hay combates por
+	todo el
+	Asentamiento!
 	"""
 	msgClear
 	"""
-	The Reploids are
-	advancing.
+	Los Reploides están
+	avanzando.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Operator!
-	Transfer me to the
-	Settlement!
+	¡Operadora!
+	¡Transfiéreme al
+	Asentamiento!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	Inputting
-	coordinates!
+	¡Ingresando
+	coordenadas!
 	"""
 	end
 }
@@ -255,9 +255,9 @@ script 13 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Zero! Protect the
-	Settlement...
-	Please...
+	¡Zero! Protege el
+	Asentamiento...
+	Por favor...
 	"""
 	end
 }
@@ -265,21 +265,22 @@ script 14 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Data saved!
-	Zero, be careful!
+	¡Datos guardados!
+	¡Zero, ten cuidado!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	Zero!
-	Ready for transfer!
+	¡Zero!
+	¡Listo para la
+	transferencia!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Transfer me!
+	¡Transfiéreme!
 	"""
 	end
 }
@@ -287,20 +288,21 @@ script 15 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Zero, be careful!
+	¡Zero, ten cuidado!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	Zero!
-	Ready for transfer!
+	¡Zero!
+	¡Listo para la
+	transferencia!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Transfer me!
+	¡Transfiéreme!
 	"""
 	end
 }
@@ -545,8 +547,8 @@ script 43 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	This mission?
-	  Yes
+	¿Esta misión?
+	  Sí
 	  No
 	"""
 	end
@@ -593,8 +595,8 @@ script 54 mmz4 {
 	"""
 	msgClear
 	"""
-	Make sure you come
-	back in one piece.
+	Asegúrate de volver
+	sano y salvo.
 	"""
 	end
 }
@@ -602,7 +604,8 @@ script 55 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Do your best Zero...
+	Da lo mejor
+	de ti, Zero...
 	"""
 	end
 }
@@ -614,7 +617,8 @@ script 56 mmz4 {
 	"""
 	msgClear
 	"""
-	Come back to us...
+	Vuelve con
+	nosotros...
 	"""
 	end
 }
@@ -622,7 +626,7 @@ script 59 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Zerooo!
+	¡Zerooo!
 	"""
 	end
 }
@@ -650,46 +654,45 @@ script 64 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	A large particle
-	beam has been placed
-	at point A-4 by
+	Un gran cañón de
+	partículas fue
+	colocado en el punto
 	"""
 	msgClear
 	"""
-	Weil's army.
+	A-4 por el ejército
+	de Weil.
 	"""
 	msgClear
 	"""
-	It fires
-	intermittent laser
-	beams destroying
+	Dispara rayos láser
+	intermitentes que
+	destruyen todo
 	"""
 	msgClear
 	"""
-	everything in the
-	area.
+	en el área.
 	"""
 	msgClear
 	"""
-	It appears to be
-	solar powered.
+	Parece funcionar
+	con energía solar.
 	"""
 	msgClear
 	"""
-	Soon, it'll be
-	within firing range
-	of Area Zero.
+	Pronto estará al
+	alcance de disparo
+	del Área Zero.
 	"""
 	msgClear
 	"""
-	Cut the power supply
-	to the particle beam
-	before Area Zero
+	Corta la energía
+	del cañón antes de
+	que el Área Zero
 	"""
 	msgClear
 	"""
-	comes into its
-	range.
+	entre en su alcance.
 	"""
 	end
 }
@@ -698,58 +701,57 @@ script 65 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	A large particle
-	beam has been placed
-	at point A-4 by
+	Un gran cañón de
+	partículas fue
+	colocado en el punto
 	"""
 	msgClear
 	"""
-	Weil's army.
+	A-4 por el ejército
+	de Weil.
 	"""
 	msgClear
 	"""
-	It fires
-	intermittent laser
-	beams destroying
+	Dispara rayos láser
+	intermitentes que
+	destruyen todo
 	"""
 	msgClear
 	"""
-	everything in the
-	area.
+	en el área.
 	"""
 	msgClear
 	"""
-	It appears to be
-	solar powered.
+	Parece funcionar
+	con energía solar.
 	"""
 	msgClear
 	"""
-	Soon, it'll be
-	within firing range
-	of Area Zero.
+	Pronto estará al
+	alcance de disparo
+	del Área Zero.
 	"""
 	msgClear
 	"""
-	Cut the power supply
-	to the particle beam
-	before Area Zero
+	Corta la energía
+	del cañón antes de
+	que el Área Zero
 	"""
 	msgClear
 	"""
-	comes into its
-	range.
+	entre en su alcance.
 	"""
 	msgClear
 	"""
-	Since the weather is
-	overcast, the beam
-	is not charging at
+	Como está nublado,
+	el cañón no carga
+	al 100%.
 	"""
 	msgClear
 	"""
-	100% capacity. This
-	may be your chance
-	to strike.
+	Puede ser tu
+	oportunidad de
+	atacar.
 	"""
 	end
 }
@@ -758,44 +760,39 @@ script 66 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I received a report
-	that the giant drill
-	sub is currently
+	Recibí un informe de
+	que el submarino
+	taladro gigante está
 	"""
 	msgClear
 	"""
-	patrolling the
-	bottom of the sea.
-	Explosives are
+	patrullando el
+	fondo del mar.
+	Lleva explosivos,
 	"""
 	msgClear
 	"""
-	packed on board, so
-	I believe they are
-	going to drill into
+	así que creo que
+	perforará la tierra
+	y detonará.
 	"""
 	msgClear
 	"""
-	the earth and
-	detonate the sub.
-	By breaking up a
+	Al fracturar una
+	placa tectónica,
+	podrían causar un
 	"""
 	msgClear
 	"""
-	tectonic plate, they
-	may start an
-	earthquake of
+	terremoto de
+	proporciones
+	catastróficas.
 	"""
 	msgClear
 	"""
-	catastrophic
-	proportions. Stop
-	the drill sub before
-	"""
-	msgClear
-	"""
-	it reaches its
-	destination.
+	Detén el submarino
+	antes de que llegue
+	a su destino.
 	"""
 	end
 }
@@ -804,61 +801,51 @@ script 67 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I received a report
-	that the giant drill
-	sub is currently
+	Recibí un informe de
+	que el submarino
+	taladro gigante está
 	"""
 	msgClear
 	"""
-	patrolling the
-	bottom of the sea.
-	Explosives are
+	patrullando el
+	fondo del mar.
+	Lleva explosivos,
 	"""
 	msgClear
 	"""
-	packed on board, so
-	I believe they are
-	going to drill into
+	así que creo que
+	perforará la tierra
+	y detonará.
 	"""
 	msgClear
 	"""
-	the earth and
-	detonate the sub.
-	By breaking up a
+	Al fracturar una
+	placa tectónica,
+	podrían causar un
 	"""
 	msgClear
 	"""
-	tectonic plate, they
-	may start an
-	earthquake of
+	terremoto de
+	proporciones
+	catastróficas.
 	"""
 	msgClear
 	"""
-	catastrophic
-	proportions. Stop
-	the drill sub before
+	Detén el submarino
+	antes de que llegue
+	a su destino.
 	"""
 	msgClear
 	"""
-	it reaches its
-	destination. The
-	weather is sunny, so
+	El clima está
+	soleado, no habrá
+	problemas de radio.
 	"""
 	msgClear
 	"""
-	we shouldn't have
-	any problems
-	maintaining radio
-	"""
-	msgClear
-	"""
-	contact. Ciel should
-	be able to help you
-	navigate your way to
-	"""
-	msgClear
-	"""
-	the sub.
+	Ciel podrá ayudarte
+	a encontrar el
+	submarino.
 	"""
 	end
 }
@@ -867,21 +854,21 @@ script 68 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	We've located Weil's
-	floating fortress.
-	It generates special
+	Hemos localizado la
+	fortaleza flotante
+	de Weil. Genera
 	"""
 	msgClear
 	"""
-	clouds that become a
-	source of lightning
-	and acid rain. Get
+	nubes especiales que
+	provocan relámpagos
+	y lluvia ácida.
 	"""
 	msgClear
 	"""
-	on board and ground
-	that floating
-	monstrosity.
+	Infiltrate y derriba
+	esa monstruosidad
+	flotante.
 	"""
 	end
 }
@@ -890,38 +877,33 @@ script 69 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	We've located Weil's
-	floating fortress.
-	It generates special
+	Hemos localizado la
+	fortaleza flotante
+	de Weil. Genera
 	"""
 	msgClear
 	"""
-	clouds that become a
-	source of lightning
-	and acid rain. Get
+	nubes especiales que
+	provocan relámpagos
+	y lluvia ácida.
 	"""
 	msgClear
 	"""
-	on board and ground
-	that floating
-	monstrosity.
+	Infiltrate y derriba
+	esa monstruosidad
+	flotante.
 	"""
 	msgClear
 	"""
-	As the area is
-	sunny, some of the
-	clouds have
+	Como está soleado,
+	algunas nubes se han
+	disipado.
 	"""
 	msgClear
 	"""
-	dissipated, keeping
-	visibility high.
-	This seems like an
-	"""
-	msgClear
-	"""
-	opportune time to
-	strike.
+	La visibilidad es
+	alta. Es un buen
+	momento para atacar.
 	"""
 	end
 }
@@ -930,37 +912,37 @@ script 70 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	This area used to
-	belong to another
-	resistance group.
+	Esta área antes
+	pertenecía a otro
+	grupo de resistencia.
 	"""
 	msgClear
 	"""
-	Now it's being used
-	as a forward base by
-	Weil. I'm detecting
+	Ahora Weil la usa
+	como base avanzada.
+	Detecto
 	"""
 	msgClear
 	"""
-	plant-like
-	nanomachines. They
-	seem to be thriving
+	nanomáquinas con
+	forma de planta.
+	Parecen prosperar
 	"""
 	msgClear
 	"""
-	on the geothermal
-	energy. At this
-	rate, they'll
+	con la energía
+	geotérmica. A este
+	ritmo,
 	"""
 	msgClear
 	"""
-	continue until they
-	engulf Area Zero.
-	Stop them before
+	seguirán hasta
+	engullir Área Zero.
+	Deténlas antes
 	"""
 	msgClear
 	"""
-	that happens.
+	de que ocurra.
 	"""
 	end
 }
@@ -969,49 +951,49 @@ script 71 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	This area used to
-	belong to another
-	resistance group.
+	Esta área antes
+	pertenecía a otro
+	grupo de resistencia.
 	"""
 	msgClear
 	"""
-	Now it's being used
-	as a forward base by
-	Weil. I'm detecting
+	Ahora Weil la usa
+	como base avanzada.
+	Detecto
 	"""
 	msgClear
 	"""
-	plant-like
-	nanomachines. They
-	seem to be thriving
+	nanomáquinas con
+	forma de planta.
+	Parecen prosperar
 	"""
 	msgClear
 	"""
-	on the geothermal
-	energy. At this
-	rate, they'll
+	con la energía
+	geotérmica. A este
+	ritmo,
 	"""
 	msgClear
 	"""
-	continue until they
-	engulf Area Zero.
-	Stop them before
+	seguirán hasta
+	engullir Área Zero.
+	Deténlas antes
 	"""
 	msgClear
 	"""
-	that happens. It's
-	overcast, so the
-	nanomachines and
+	de que ocurra. Está
+	nublado, así que las
+	nanomáquinas y
 	"""
 	msgClear
 	"""
-	Mechaniloids are not
-	operating at 100%
-	efficiency. Now is a
+	los Mecaniloides no
+	rinden al 100%.
+	Ahora es un buen
 	"""
 	msgClear
 	"""
-	good time to strike.
+	momento para atacar.
 	"""
 	end
 }
@@ -1020,43 +1002,43 @@ script 72 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I'm reading an
-	abnormal spike in
-	the heat signature
+	Detecto un aumento
+	anormal en la señal
+	térmica en el punto
 	"""
 	msgClear
 	"""
-	at point A-2. It
-	seems as if Weil has
-	taken over an
+	A-2. Parece que Weil
+	ha tomado control de
+	un sol artificial,
 	"""
 	msgClear
 	"""
-	artificial sun,
-	originally designed
-	for weather control,
+	diseñado para el
+	control climático, y
+	lo ha modificado
 	"""
 	msgClear
 	"""
-	and has modified it
-	to overheat. The
-	extreme heat has
+	para sobrecalentarse.
+	El calor extremo ha
+	secado el área,
 	"""
 	msgClear
 	"""
-	dried out the area,
-	making it a desert.
-	The desertification
+	convirtiéndola en un
+	desierto. La
+	desertificación
 	"""
 	msgClear
 	"""
-	is spreading towards
-	Area Zero, so stop
-	that sun before it's
+	se expande hacia el
+	Área Zero, detén ese
+	sol antes de que sea
 	"""
 	msgClear
 	"""
-	too late.
+	demasiado tarde.
 	"""
 	end
 }
@@ -1065,56 +1047,55 @@ script 73 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I'm reading an
-	abnormal spike in
-	the heat signature
+	Detecto un aumento
+	anormal en la señal
+	térmica en el punto
 	"""
 	msgClear
 	"""
-	at point A-2. It
-	seems as if Weil has
-	taken over an
+	A-2. Parece que Weil
+	ha tomado control de
+	un sol artificial,
 	"""
 	msgClear
 	"""
-	artificial sun,
-	originally designed
-	for weather control,
+	diseñado para el
+	control climático, y
+	lo ha modificado
 	"""
 	msgClear
 	"""
-	and has modified it
-	to overheat. The
-	extreme heat has
+	para sobrecalentarse.
+	El calor extremo ha
+	secado el área,
 	"""
 	msgClear
 	"""
-	dried out the area,
-	making it a desert.
-	The desertification
+	convirtiéndola en un
+	desierto. La
+	desertificación
 	"""
 	msgClear
 	"""
-	is spreading towards
-	Area Zero, so stop
-	that sun before it's
+	se expande hacia el
+	Área Zero, detén ese
+	sol antes de que sea
 	"""
 	msgClear
 	"""
-	too late. It's
-	overcast now, so the
-	temperature is not
+	demasiado tarde.
+	Ahora está nublado,
+	así que la
 	"""
 	msgClear
 	"""
-	as bad as it could
-	be. Consider
-	yourself lucky, now
+	temperatura no es
+	tan alta. Es tu
+	oportunidad
 	"""
 	msgClear
 	"""
-	is a good time to
-	strike.
+	para atacar.
 	"""
 	end
 }
@@ -1123,39 +1104,39 @@ script 74 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I've discovered an
-	old Cyber-elf
-	research lab that
+	He descubierto un
+	antiguo laboratorio
+	de investigación de
 	"""
 	msgClear
 	"""
-	is over a century
-	old. Some of the
-	failed experiments
+	Cyber-elfos con más
+	de un siglo de
+	antigüedad.
 	"""
 	msgClear
 	"""
-	have been in
-	hibernation since
-	the war... They are
+	Algunos experimentos
+	fallidos han estado
+	en hibernación desde
 	"""
 	msgClear
 	"""
-	starting to wake up,
-	and some of them are
-	quite dangerous.
+	la guerra... Están
+	empezando a despertar
+	y algunos son muy
 	"""
 	msgClear
 	"""
-	There are
-	Mechaniloids and
-	Mavericks all over
+	peligrosos.
+	Hay Mecaniloides y
+	Mavericks por todo
 	"""
 	msgClear
 	"""
-	the place.
-	Infiltrate and wipe
-	out the enemy.
+	el lugar.
+	Infiltrate y elimina
+	al enemigo.
 	"""
 	end
 }
@@ -1164,51 +1145,51 @@ script 75 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I've discovered an
-	old Cyber-elf
-	research lab that
+	He descubierto un
+	antiguo laboratorio
+	de investigación de
 	"""
 	msgClear
 	"""
-	is over a century
-	old. Some of the
-	failed experiments
+	Cyber-elfos con más
+	de un siglo de
+	antigüedad.
 	"""
 	msgClear
 	"""
-	have been in
-	hibernation since
-	the war... They are
+	Algunos experimentos
+	fallidos han estado
+	en hibernación desde
 	"""
 	msgClear
 	"""
-	starting to wake up,
-	and some of them are
-	quite dangerous.
+	la guerra... Están
+	empezando a despertar
+	y algunos son muy
 	"""
 	msgClear
 	"""
-	There are
-	Mechaniloids and
-	Mavericks all over
+	peligrosos.
+	Hay Mecaniloides y
+	Mavericks por todo
 	"""
 	msgClear
 	"""
-	the place.
-	Infiltrate and wipe
-	out the enemy.
+	el lugar.
+	Infiltrate y elimina
+	al enemigo.
 	"""
 	msgClear
 	"""
-	It's sunny out, so
-	some routes blocked
-	by ice may become
+	Está soleado, así
+	que algunas rutas
+	bloqueadas por hielo
 	"""
 	msgClear
 	"""
-	available. You might
-	discover a hidden
-	route.
+	podrían abrirse.
+	Podrías encontrar
+	una ruta oculta.
 	"""
 	end
 }
@@ -1217,38 +1198,37 @@ script 76 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I've detected a
-	large magnetic flux
-	at point B-1. The
+	He detectado un gran
+	flujo magnético en
+	el punto B-1. Los
 	"""
 	msgClear
 	"""
-	electromagnetic
-	pulses are
-	generating a lot of
+	pulsos
+	electromagnéticos
+	están generando
 	"""
 	msgClear
 	"""
-	noise and it's
-	spreading. There's a
-	good chance the
+	mucho ruido y se
+	está propagando. Es
+	probable que ese
 	"""
 	msgClear
 	"""
-	noise could
-	interfere with the
-	operation of the
+	ruido interfiera con
+	el funcionamiento de
+	los sistemas de
 	"""
 	msgClear
 	"""
-	environmental
-	control systems in
-	Area Zero.
+	control ambiental
+	del Área Zero.
 	"""
 	msgClear
 	"""
-	Infiltrate and put a
-	stop to that device.
+	Infiltrate y detén
+	ese dispositivo.
 	"""
 	end
 }
@@ -1257,56 +1237,55 @@ script 77 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I've detected a
-	large magnetic flux
-	at point B-1. The
+	He detectado un gran
+	flujo magnético en
+	el punto B-1. Los
 	"""
 	msgClear
 	"""
-	electromagnetic
-	pulses are
-	generating a lot of
+	pulsos
+	electromagnéticos
+	están generando
 	"""
 	msgClear
 	"""
-	noise and it's
-	spreading. There's a
-	good chance the
+	mucho ruido y se
+	está propagando. Es
+	probable que ese
 	"""
 	msgClear
 	"""
-	noise could
-	interfere with the
-	operation of the
+	ruido interfiera con
+	el funcionamiento de
+	los sistemas de
 	"""
 	msgClear
 	"""
-	environmental
-	control systems in
-	Area Zero.
+	control ambiental
+	del Área Zero.
 	"""
 	msgClear
 	"""
-	Infiltrate and put a
-	stop to that device.
-	The lightning
+	Infiltrate y detén
+	ese dispositivo. Los
+	relámpagos que le
 	"""
 	msgClear
 	"""
-	serving as a source
-	of power has
-	stopped, rendering
+	servían de fuente de
+	energía han cesado,
+	dejándolo
 	"""
 	msgClear
 	"""
-	the device
-	temporarily
-	inactive. This is
+	temporalmente
+	inactivo. Es tu
+	oportunidad para
 	"""
 	msgClear
 	"""
-	your chance to stop
-	it for good.
+	detenerlo de una vez
+	por todas.
 	"""
 	end
 }
@@ -1315,39 +1294,39 @@ script 78 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I've discovered the
-	ruins of what used
-	to be a great city
+	He descubierto las
+	ruinas de lo que fue
+	una gran ciudad hace
 	"""
 	msgClear
 	"""
-	a century ago. It
-	looks to be a fully
-	functional city, but
+	un siglo. Parece una
+	ciudad totalmente
+	funcional, pero no
 	"""
 	msgClear
 	"""
-	I detect no signs of
-	life. The security
-	system has been
+	detecto signos de
+	vida. El sistema de
+	seguridad ha sido
 	"""
 	msgClear
 	"""
-	hijacked by a virus.
-	It would appear the
-	security system is
+	tomado por un virus.
+	Parece que el
+	sistema está
 	"""
 	msgClear
 	"""
-	growing and
-	attacking anything
-	in sight. Put a stop
+	expandiéndose y
+	atacando todo a su
+	paso. Detén
 	"""
 	msgClear
 	"""
-	to the city's
-	ambitious expansion
-	plans.
+	los planes de
+	expansión de la
+	ciudad.
 	"""
 	end
 }
@@ -1356,51 +1335,51 @@ script 79 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I've discovered the
-	ruins of what used
-	to be a great city
+	He descubierto las
+	ruinas de lo que fue
+	una gran ciudad hace
 	"""
 	msgClear
 	"""
-	a century ago. It
-	looks to be a fully
-	functional city, but
+	un siglo. Parece una
+	ciudad totalmente
+	funcional, pero no
 	"""
 	msgClear
 	"""
-	I detect no signs of
-	life. The security
-	system has been
+	detecto signos de
+	vida. El sistema de
+	seguridad ha sido
 	"""
 	msgClear
 	"""
-	hijacked by a virus.
-	It would appear the
-	security system is
+	tomado por un virus.
+	Parece que el
+	sistema está
 	"""
 	msgClear
 	"""
-	growing and
-	attacking anything
-	in sight. Put a stop
+	expandiéndose y
+	atacando todo a su
+	paso. Detén
 	"""
 	msgClear
 	"""
-	to the city's
-	ambitious expansion
-	plans.
+	los planes de
+	expansión de la
+	ciudad.
 	"""
 	msgClear
 	"""
-	The snowfall in the
-	area has interfered
-	with security
+	La nevada en el área
+	ha afectado el
+	funcionamiento del
 	"""
 	msgClear
 	"""
-	system operation.
-	Now is the perfect
-	time to strike.
+	sistema de seguridad.
+	Es el momento ideal
+	para atacar.
 	"""
 	end
 }
@@ -1409,9 +1388,13 @@ script 80 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I've put in the
-	coordinates for the
-	Teleporter Base.
+	He ingresado las
+	coordenadas de la
+	Base de
+	"""
+	msgClear
+	"""
+	Teletransporte.
 	"""
 	end
 }
@@ -1420,94 +1403,100 @@ script 82 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Using the Teleporter
-	Base, we can
-	transfer you to
+	Usando la Base de
+	Teletransporte,
+	podemos transferirte
 	"""
 	msgClear
 	"""
-	Ragnarok, but you'll
-	have to disable the
-	protection around
+	a Ragnarok, pero
+	tendrás que
+	desactivar la
 	"""
 	msgClear
 	"""
-	Ragnarok on your
-	own.
+	protección que lo
+	rodea por tu cuenta.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	How do I do that?
+	¿Cómo hago eso?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	I can help there.
-	Whenever we transfer
-	you somewhere, we
+	Puedo ayudar con eso.
+	Cuando te
+	transferimos,
 	"""
 	msgClear
 	"""
-	transform you into
-	program data and
-	send you over a
+	te convertimos en
+	datos de programa y
+	te enviamos por un
 	"""
 	msgClear
 	"""
-	circuit. I can
-	modify the transfer
-	program to allow you
+	circuito. Puedo
+	modificar el
+	programa de
 	"""
 	msgClear
 	"""
-	to move freely
-	inside of the
-	circuit.
+	transferencia para
+	que puedas moverte
+	libremente dentro
+	"""
+	msgClear
+	"""
+	del circuito
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	It superimposes
-	visuals on the
-	circuit so you can
+	Superpone imágenes
+	en el circuito para
+	que puedas ver
 	"""
 	msgClear
 	"""
-	tell what's going
-	on... That way you
-	can navigate from
+	lo que ocurre...
+	Así podrás moverte
+	desde la Base de
 	"""
 	msgClear
 	"""
-	the Teleporter Base
-	to Ragnarok via
-	something akin to
+	Teletransporte hasta
+	Ragnarok mediante
+	algo similar al
 	"""
 	msgClear
 	"""
-	Cyberspace. If you
-	head towards the end
-	of the circuit, you
+	Ciberespacio. Si
+	avanzas hasta el
+	final del circuito,
 	"""
 	msgClear
 	"""
-	should be able to
-	directly disable the
-	protection program.
+	deberías poder
+	desactivar
+	directamente el
 	"""
 	msgClear
 	"""
-	With that out of the
-	way, you should be
-	able to finish
+	programa de
+	protección. Con eso
+	fuera del camino,
 	"""
 	msgClear
 	"""
-	transferring over.
+	deberías poder
+	completar la
+	transferencia.
 	"""
 	end
 }
@@ -1516,57 +1505,60 @@ script 83 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	It's finally time
-	for Ragnarok.
+	Por fin es la hora
+	de Ragnarok.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	I'll transfer you
-	inside. Try to find
-	a way to disable
+	Te transferiré al
+	interior. Intenta
+	encontrar una forma
 	"""
 	msgClear
 	"""
-	Ragnarok's core
-	without destroying
-	it. If the core is
+	de desactivar el
+	núcleo de Ragnarok
+	sin destruirlo.
 	"""
 	msgClear
 	"""
-	destroyed, Ragnarok
-	may break apart.
+	Si el núcleo es
+	destruido, Ragnarok
+	podría colapsar.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	With both Weil and
-	Craft gone, who
-	could still be
+	Con Weil y Craft
+	derrotados, ¿quién
+	podría estar
 	"""
 	msgClear
 	"""
-	running Ragnarok?
+	controlando
+	Ragnarok?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	Zero, I have a bad
-	feeling about this.
+	Zero, tengo un mal
+	presentimiento
+	sobre esto.
 	"""
 	msgClear
 	"""
-	Just be careful,
-	okay?
+	Solo ten cuidado,
+	¿de acuerdo?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Alright...
+	Está bien...
 	"""
 	end
 }
@@ -1680,7 +1672,8 @@ script 102 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Bienvenido, Zero.
+	Bienvenido de
+	vuelta, Zero.
 	"""
 	msgClear
 	"""
@@ -1813,30 +1806,35 @@ script 104 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	It looks like the
-	boss of that area
-	was the power
+	Parece que el jefe
+	de esa área era el
+	reactor de energía
 	"""
 	msgClear
 	"""
-	reactor for the
-	particle beam.
+	del rayo de
+	partículas.
 	"""
 	msgClear
 	"""
-	Without that around,
-	the beam's power is
-	slowly fading away
+	Sin él, la potencia
+	del rayo está
+	disminuyendo poco
 	"""
 	msgClear
 	"""
-	and no longer poses
-	a threat to Area
+	a poco y ya no
+	representa una
+	amenaza para
+	"""
+	msgClear
+	"""
+	el Área Zero.
+	"""
+	msgClear
+	"""
+	Buen trabajo,
 	Zero.
-	"""
-	msgClear
-	"""
-	Good work Zero.
 	"""
 	end
 }
@@ -1844,27 +1842,30 @@ script 105 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	So the boss of this
-	area was one of
-	Phantom's men...
+	Así que el jefe de
+	esta área era uno
+	de los hombres de
 	"""
 	msgClear
 	"""
-	Phantom lost his
-	life in one of our
-	many battles.
+	Phantom...
 	"""
 	msgClear
 	"""
-	I sometimes wonder
-	if all of our
-	fighting is only
+	Phantom perdió la
+	vida en una de
+	nuestras batallas.
 	"""
 	msgClear
 	"""
-	creating more
-	suffering in the
-	world?
+	A veces me pregunto
+	si todas nuestras
+	batallas solo están
+	"""
+	msgClear
+	"""
+	creando más dolor
+	en el mundo.
 	"""
 	end
 }
@@ -1932,26 +1933,27 @@ script 108 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Welcome back Zero.
-	How are you holding
-	up?
+	Bienvenido de
+	vuelta, Zero.
+	¿Cómo te encuentras?
 	"""
 	msgClear
 	"""
-	Even for you, that
-	level of heat is
-	dangerous.
+	Aun para ti, ese
+	nivel de calor
+	es peligroso.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	I was so worried...
+	¡Me preocupé
+	tanto...!
 	"""
 	msgClear
 	"""
-	I'm glad to see
-	you're safe.
+	Me alegra ver
+	que estás a salvo.
 	"""
 	end
 }
@@ -1998,27 +2000,31 @@ script 111 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	There's something
-	lonely about a ghost
-	town...
+	Hay algo
+	solitario en un
+	pueblo fantasma...
 	"""
 	msgClear
 	"""
-	Even if we win this
-	battle, so long as a
-	gulf exists between
+	Incluso si ganamos
+	esta batalla,
+	mientras exista una
 	"""
 	msgClear
 	"""
-	humans and Reploids,
-	things like that are
-	bound to exist.
+	brecha entre humanos
+	y Reploides, cosas
+	así seguirán
 	"""
 	msgClear
 	"""
-	We must do what we
-	can for everyone's
-	future.
+	existiendo.
+	"""
+	msgClear
+	"""
+	Debemos hacer lo
+	posible por el
+	futuro de todos.
 	"""
 	end
 }
@@ -2026,31 +2032,32 @@ script 112 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Welcome back Zero.
+	Bienvenido de
+	vuelta, Zero.
 	"""
 	msgClear
 	"""
-	I know where Neige
-	was taken.
+	Sé dónde llevaron
+	a Neige.
 	"""
 	msgClear
 	"""
-	There's an enemy
-	base west of our
-	current position.
+	Hay una base enemiga
+	al oeste de nuestra
+	posición actual.
 	"""
 	msgClear
 	"""
-	Neige and Craft
-	should be there.
+	Neige y Craft
+	deberían estar allí.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	We're ready for
-	transfer when you
-	are.
+	Estamos listos para
+	la transferencia
+	cuando tú lo estés.
 	"""
 	end
 }

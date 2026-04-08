@@ -185,7 +185,7 @@ script 47 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -194,7 +194,7 @@ script 47 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -206,7 +206,7 @@ script 48 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -215,7 +215,7 @@ script 48 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -227,7 +227,7 @@ script 49 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -236,7 +236,7 @@ script 49 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -248,7 +248,7 @@ script 50 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -257,7 +257,7 @@ script 50 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -269,7 +269,7 @@ script 51 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -278,7 +278,7 @@ script 51 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -290,7 +290,7 @@ script 52 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -299,7 +299,7 @@ script 52 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -311,7 +311,7 @@ script 53 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -320,7 +320,7 @@ script 53 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -332,7 +332,7 @@ script 54 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -341,7 +341,7 @@ script 54 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -353,7 +353,7 @@ script 55 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -362,7 +362,7 @@ script 55 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -374,7 +374,7 @@ script 56 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -383,7 +383,7 @@ script 56 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -395,7 +395,7 @@ script 57 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -404,7 +404,7 @@ script 57 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -416,7 +416,7 @@ script 58 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -425,7 +425,7 @@ script 58 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -437,7 +437,7 @@ script 59 mmz4 {
 	"""
 	textColorRed
 	"""
-	This mission has
+	Esta misión ha
 	"""
 	textColorWhite
 	"""
@@ -446,7 +446,7 @@ script 59 mmz4 {
 	"""
 	textColorRed
 	"""
-	been completed
+	sido completada
 	"""
 	textColorWhite
 	end
@@ -463,7 +463,7 @@ script 61 mmz4 {
 	"""
 	A:AREA ZERO
 	B:???
-	M:Explore Area Zero
+	M:Explora Area Zero
 	"""
 	end
 }
@@ -471,7 +471,7 @@ script 62 mmz4 {
 	"""
 	A:PARTICLE BEAM
 	B:HEAT GENBLEM
-	M:Cut the power
+	M:Corta la energía
 	"""
 	end
 }
@@ -479,7 +479,7 @@ script 63 mmz4 {
 	"""
 	A:DEEP SEA
 	B:TECH KRAKEN
-	M:Stop the drill sub
+	M:Detener sub taladro
 	"""
 	end
 }
@@ -487,7 +487,7 @@ script 64 mmz4 {
 	"""
 	A:HANGING GARDENS
 	B:PEGASOLTA ECLAIR
-	M:Stop the acid rain
+	M:Detén lluvia ácida
 	"""
 	end
 }
@@ -495,7 +495,7 @@ script 65 mmz4 {
 	"""
 	A:UNDERGROUND FOREST
 	B:NOBLE MANDRAGO
-	M:Stop the erosion
+	M:Detén la erosion
 	"""
 	end
 }
@@ -503,7 +503,7 @@ script 66 mmz4 {
 	"""
 	A:ARTIFICIAL SUN
 	B:SOL TITANION
-	M:Halt the sun
+	M:Detén el sol
 	"""
 	end
 }
@@ -511,7 +511,7 @@ script 67 mmz4 {
 	"""
 	A:HIBERNATION CHAMBER
 	B:FENRI LUNAEDGE
-	M:Destroy the enemy
+	M:Destruye al enemigo
 	"""
 	end
 }
@@ -519,7 +519,7 @@ script 68 mmz4 {
 	"""
 	A:MAGNETIC ZONE
 	B:MINO MAGNUS
-	M:Halt the facility
+	M:Detener instalación
 	"""
 	end
 }
@@ -527,7 +527,7 @@ script 69 mmz4 {
 	"""
 	A:LIVING CITY
 	B:POPLA COCAPETRI
-	M:Stop sec system
+	M:Detén sist. segur.
 	"""
 	end
 }
@@ -535,7 +535,7 @@ script 70 mmz4 {
 	"""
 	A:HUMAN COLONY
 	B:???
-	M:Save the humans
+	M:Salva a los humanos
 	"""
 	end
 }
@@ -543,7 +543,7 @@ script 71 mmz4 {
 	"""
 	A:THE PRISON
 	B:???
-	M:Save Neige
+	M:Salva a Neige
 	"""
 	end
 }
@@ -551,7 +551,7 @@ script 72 mmz4 {
 	"""
 	A:RAGNAROK CONTROL
 	B:???
-	M:Find Craft
+	M:Encuentra a Craft
 	"""
 	end
 }
@@ -559,7 +559,7 @@ script 73 mmz4 {
 	"""
 	A:TELEPORTER BASE
 	B:???
-	M:Cancel the jammer
+	M:Cancela inhibidor
 	"""
 	end
 }
@@ -567,7 +567,7 @@ script 74 mmz4 {
 	"""
 	A:TELEPORTER CIRCUIT
 	B:???
-	M:Destroy program
+	M:Destruye programa
 	"""
 	end
 }
@@ -575,44 +575,44 @@ script 75 mmz4 {
 	"""
 	A:RAGNAROK CORE
 	B:???
-	M:Stop the core
+	M:Detén el nucleo
 	"""
 	end
 }
 script 76 mmz4 {
 	"""
-	This mission has
-	been completed
+	Esta misión ha
+	sido completada
 	"""
 	end
 }
 script 77 mmz4 {
 	"""
-	Start the mission
-	Change the weather
-	Return to selection
+	Iniciar la misión
+	Cambiar el clima
+	Volver a selección
 	"""
 	end
 }
 script 78 mmz4 {
 	"""
-	Start the mission
-	Return to selection
+	Iniciar la misión
+	Volver a selección
 	"""
 	end
 }
 script 79 mmz4 {
 	"""
-	Go to the area
-	Change the weather
-	Return to selection
+	Ir al área
+	Cambiar el clima
+	Volver a selección
 	"""
 	end
 }
 script 80 mmz4 {
 	"""
-	Go to the area
-	Return to selection
+	Ir al área
+	Volver a selección
 	"""
 	end
 }
@@ -4700,89 +4700,89 @@ script 801 mmz4 {
 }
 script 802 mmz4 {
 	"""
-	Mimimimi!
-	Mimimi!
+	¡Mimimimi!
+	¡Mimimi!
 	"""
 	end
 }
 script 803 mmz4 {
 	"""
-	Zero?
+	¿Zero?
 	"""
 	end
 }
 script 804 mmz4 {
 	"""
-	I'm hungry.
+	Tengo
+	hambre.
 	"""
 	end
 }
 script 805 mmz4 {
 	"""
-	E-Crystals,
-	give me
-	more!
+	¡E-Crystals,
+	dame mas!
 	"""
 	end
 }
 script 806 mmz4 {
 	"""
-	Zero!
+	¡Zero!
 	"""
 	end
 }
 script 807 mmz4 {
 	"""
-	I've been
-	good.Can I
-	have more
+	Me porte
+	bien.
+	¿Me das mas
 	E-Crystals?
 	"""
 	end
 }
 script 808 mmz4 {
 	"""
-	Zero!
-	I'll do my
-	best!
+	¡Zero!
+	¡Dare lo
+	mejor!
 	"""
 	end
 }
 script 809 mmz4 {
 	"""
 	Hey Zero.
-	I want to
-	help you
-	any way
-	I can.
+	Quiero
+	ayudarte
+	en lo que
+	pueda.
 	"""
 	end
 }
 script 810 mmz4 {
 	"""
-	Use magnet
-	enemy and
-	frog enemy
-	parts for
-	a new chip.
+	Usa partes
+	magnet y
+	frog para
+	un chip
+	nuevo.
 	"""
 	end
 }
 script 811 mmz4 {
 	"""
-	All this
-	talking has
-	made me
-	hungry.
+	Tanto hablar
+	me dio
+	hambre.
 	"""
 	end
 }
 script 812 mmz4 {
 	"""
-	I want to
-	grow and be
-	able to copy
-	new powers!
+	¡Quiero
+	crecer y
+	copiar
+	nuevos
+	poderes!
 	"""
 	end
 }
@@ -4791,57 +4791,56 @@ script 813 mmz4 {
 	Ceratanium+
 	propeller+
 	reflective
-	beam parts=
-	new chip.
+	beam=
+	chip nuevo.
 	"""
 	end
 }
 script 814 mmz4 {
 	"""
-	Hey Zero!
-	Alouette is
-	teaching me
-	how to
-	speak!
+	¡Hey Zero!
+	¡Alouette
+	me enseña
+	a hablar!
 	"""
 	end
 }
 script 815 mmz4 {
 	"""
 	Hey Zero!
-	I hope that
-	I can grow.
-	Do you think
-	I can?
+	Quiero
+	crecer.
+	¿Crees que
+	puedo?
 	"""
 	end
 }
 script 816 mmz4 {
 	"""
-	With hard
-	mech.parts
-	you can
-	strengthen
-	your body.
+	Con partes
+	mech duras
+	puedes
+	reforzar
+	tu cuerpo.
 	"""
 	end
 }
 script 817 mmz4 {
 	"""
-	Zero!
-	Am I being
-	of service
-	to you?
+	¡Zero!
+	¿Soy de
+	ayuda para
+	ti?
 	"""
 	end
 }
 script 818 mmz4 {
 	"""
 	Hey Zero.
-	Why does
-	Ciel always
-	look so
-	busy?
+	¿Por que
+	Ciel esta
+	siempre
+	ocupada?
 	"""
 	end
 }
@@ -4851,26 +4850,25 @@ script 819 mmz4 {
 	thrower+
 	spinner+
 	ceratanium
-	=new chip.
+	=chip nuevo.
 	"""
 	end
 }
 script 820 mmz4 {
 	"""
-	Zero!
-	Thanks for
-	all of the
+	¡Zero!
+	¡Gracias
+	por los
 	E-Crystals!
 	"""
 	end
 }
 script 821 mmz4 {
 	"""
-	Zero!
-	Thanks for
-	helping me
-	to grow
-	this far!
+	¡Zero!
+	¡Gracias por
+	ayudarme a
+	crecer asi!
 	"""
 	end
 }
@@ -4878,8 +4876,8 @@ script 822 mmz4 {
 	"""
 	Lv.7 Hacker
 	Buster Cmd=
-	Face right
-	and D,DR,R,
+	Mira der.
+	D,DR,R,
 	D,DR,R,Bstr.
 	"""
 	end
@@ -4888,9 +4886,9 @@ script 823 mmz4 {
 	"""
 	Lv.7 Hacker
 	Saber Cmd=
-	Face right
-	and R,DR,D
-	then saber!
+	¡Mira der.
+	R,DR,D
+	y saber!
 	"""
 	end
 }

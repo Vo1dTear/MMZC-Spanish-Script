@@ -47,35 +47,36 @@ script 2 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Area Zero...
-	It's where the space
-	colony crashed
+	Área Zero...
+	Aquí cayó la colonia
+	espacial
 	"""
 	msgClear
 	"""
-	during the Maverick
-	Wars...
+	durante las Guerras
+	Maverick...
 	"""
 	msgClear
 	"""
-	It's hard to believe
-	humans and nature
-	are thriving at
+	Cuesta creer que
+	humanos y la
+	naturaleza prosperen
 	"""
 	msgClear
 	"""
-	ground zero after
-	such a disaster...
+	en el punto cero
+	tras tal desastre...
 	"""
 	msgClear
 	"""
-	I've never seen
-	nature before...
+	Nunca he visto la
+	naturaleza...
 	"""
 	msgClear
 	"""
-	I can't wait to see
-	it with my own eyes.
+	No puedo esperar
+	a verla con mis
+	propios ojos.
 	"""
 	end
 }
@@ -83,35 +84,36 @@ script 3 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Area Zero...
-	It's where the space
-	colony crashed
+	Área Zero...
+	Aquí cayó la colonia
+	espacial
 	"""
 	msgClear
 	"""
-	during the Maverick
-	Wars...
+	durante las Guerras
+	Maverick...
 	"""
 	msgClear
 	"""
-	It's hard to believe
-	humans and nature
-	are thriving at
+	Cuesta creer que
+	humanos y la
+	naturaleza prosperen
 	"""
 	msgClear
 	"""
-	ground zero after
-	such a disaster...
+	en el punto cero
+	tras tal desastre...
 	"""
 	msgClear
 	"""
-	I've never seen
-	nature before...
+	Nunca he visto la
+	naturaleza...
 	"""
 	msgClear
 	"""
-	I can't wait to see
-	it with my own eyes.
+	No puedo esperar
+	a verla con mis
+	propios ojos.
 	"""
 	end
 }
@@ -359,36 +361,37 @@ script 20 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	I'm not surprised
-	the people at the
-	Settlement don't
+	No me sorprende que
+	la gente del
+	Asentamiento no
 	"""
 	msgClear
 	"""
-	like us. It's only
-	natural they
-	wouldn't trust us
+	confíe en nosotros.
+	Es natural que no
+	nos tengan confianza
 	"""
 	msgClear
 	"""
-	when we talk about
-	helping them...
+	cuando hablamos de
+	ayudarlos...
 	"""
 	msgClear
 	"""
-	But we don't have
-	time to fix that
-	impression of us...
+	Pero no tenemos
+	tiempo para cambiar
+	esa impresión...
 	"""
 	msgClear
 	"""
-	We just have to hope
-	they'll learn to
-	trust us after we
+	Solo podemos esperar
+	que aprendan a
+	confiar en nosotros
 	"""
 	msgClear
 	"""
-	stand up to Weil.
+	cuando enfrentemos
+	a Weil.
 	"""
 	end
 }
@@ -396,20 +399,20 @@ script 21 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	We might not have
-	much time, but I'll
-	do my best to get
+	Quizá no tengamos
+	mucho tiempo, pero
+	haré lo posible
 	"""
 	msgClear
 	"""
-	the people in the
-	Settlement to
-	understand us. Maybe
+	para que la gente
+	del Asentamiento
+	nos entienda. Quizá
 	"""
 	msgClear
 	"""
-	someday they'll come
-	around.
+	algún día cambien
+	de opinión.
 	"""
 	end
 }
@@ -777,20 +780,20 @@ script 51 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	What's that? Nature
-	is growing again in
-	Area Zero?
+	¿Qué? ¿La naturaleza
+	está creciendo otra
+	vez en el Área Zero?
 	"""
 	msgClear
 	"""
-	Just goes to show
-	the power of nature
-	is head and
+	Demuestra que el
+	poder de la
+	naturaleza es muy
 	"""
 	msgClear
 	"""
-	shoulders above the
-	power of science...
+	superior al poder
+	de la ciencia...
 	"""
 	end
 }
@@ -798,13 +801,13 @@ script 52 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Zero, weren't you
-	going to Area Zero?
+	Zero, ¿no ibas a ir
+	al Área Zero?
 	"""
 	msgClear
 	"""
-	You better not keep
-	Ciel waiting.
+	Mejor no hagas
+	esperar a Ciel.
 	"""
 	end
 }
@@ -1005,7 +1008,7 @@ script 65 mmz4 {
 	"""
 	msgClear
 	"""
-	y voilà, se
+	y vualá, se
 	convierte en un
 	chip de nivel 2.
 	"""
@@ -1031,23 +1034,24 @@ script 67 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	Are you picking up
-	some parts?
+	¿Estás consiguiendo
+	algunas partes?
 	"""
 	msgClear
 	"""
-	Try just combining
-	some of the parts
-	you have. You might
+	Intenta combinar
+	algunas de las
+	partes que tienes.
 	"""
 	msgClear
 	"""
-	discover a brand-new
-	chip!
+	¡Podrías descubrir
+	un chip totalmente
+	nuevo!
 	"""
 	end
 }
@@ -1055,15 +1059,15 @@ script 68 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	If you want to make
-	a rare chip, try
-	finding more parts.
+	Si quieres crear un
+	chip raro, intenta
+	conseguir más partes.
 	"""
 	msgClear
 	"""
-	When you get more
-	parts, be sure to
-	drop by and see me!
+	Cuando tengas más
+	partes, pásate a
+	verme.
 	"""
 	end
 }
@@ -1495,7 +1499,7 @@ script 97 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hola, Zero.
+	Hey, Zero.
 	"""
 	msgClear
 	"""
@@ -1546,18 +1550,18 @@ script 100 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Oh, Zero!
+	¡Oh, Zero!
 	"""
 	msgClear
 	"""
-	What's Area Zero
-	anyway?
+	¿Qué es el Área
+	Zero, en realidad?
 	"""
 	msgClear
 	"""
-	Rouge, the operator,
-	explained it to me,
-	but I don't get it.
+	Rouge, la operadora,
+	me lo explicó,
+	pero no lo entiendo.
 	"""
 	end
 }
@@ -1565,8 +1569,9 @@ script 101 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	I'd like to see Area
-	Zero just once.
+	Me gustaría ver el
+	Área Zero aunque sea
+	una vez.
 	"""
 	end
 }
@@ -2022,16 +2027,16 @@ script 126 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	Can you look after
-	my Elf for me?
+	¿Puedes cuidar de
+	mi Elfo por mí?
 	"""
 	msgClear
 	"""
-	Take good care of it!
+	¡Cuídalo bien!
 	"""
 	end
 }
@@ -2039,21 +2044,21 @@ script 127 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	You know...
+	Sabes...
 	"""
 	msgClear
 	"""
-	Don't tell Ciel, but
-	when I grow up, I
-	want to do research
+	No le digas a Ciel,
+	pero cuando crezca
+	quiero investigar
 	"""
 	msgClear
 	"""
-	about Elves.
+	sobre los Elfos.
 	"""
 	end
 }
@@ -2426,18 +2431,18 @@ script 148 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Huh?
+	¿Eh?
 	"""
 	msgClear
 	"""
-	Nature is coming
-	back to Area Zero?
+	¿La naturaleza está
+	regresando al
+	Área Zero?
 	"""
 	msgClear
 	"""
-	I-I heard about
-	that! Of c-course
-	it is...
+	¡Y-ya oí sobre eso!
+	C-claro que sí...
 	"""
 	end
 }
@@ -2445,18 +2450,18 @@ script 149 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Huh?
+	¿Eh?
 	"""
 	msgClear
 	"""
-	What kind of place
-	is Area Zero?
+	¿Qué tipo de lugar
+	es el Área Zero?
 	"""
 	msgClear
 	"""
-	I-I know, b-but you
-	should see it with
-	your own eyes.
+	Y-yo lo sé, p-pero
+	deberías verlo con
+	tus propios ojos.
 	"""
 	end
 }
@@ -2678,48 +2683,38 @@ script 164 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	If you alter the
-	weather with the
-	Weather Changer,
+	Si cambias el clima
+	con el Cambiador
+	de Clima,
 	"""
 	msgClear
 	"""
-	some of the Eight
-	Warriors' weapons
-	will be no good.
+	algunas armas de
+	los Ocho Guerreros
+	no servirán.
 	"""
 	msgClear
 	"""
-	It would seem they
-	use the weather to
-	power up their
+	Parece que usan el
+	clima para potenciar
+	sus ataques,
 	"""
 	msgClear
 	"""
-	attacks, so make
-	sure you avoid
-	giving them the
+	así que evita darles
+	ventaja al elegir
+	el clima del área.
 	"""
 	msgClear
 	"""
-	edge when picking
-	the weather for an
-	area.
-	"""
-	msgClear
-	"""
-	The one drawback is
-	that you won't be
-	able to pick up
-	"""
-	msgClear
-	"""
-	their EX Skill.
+	La desventaja es
+	que no podrás obtener
+	su EX Skill.
 	"""
 	end
 }
@@ -2727,14 +2722,14 @@ script 165 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	In order to make
-	body chips, you'll
-	need to pick up
+	Para crear chips
+	de cuerpo, tendrás
+	que conseguir
 	"""
 	msgClear
 	"""
@@ -3229,7 +3224,7 @@ script 192 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hola, Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
@@ -3278,7 +3273,7 @@ script 194 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hola, Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
@@ -3306,18 +3301,18 @@ script 196 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	With Weil's troops
-	still crawling
-	around, it's better
+	Con las tropas de
+	Weil todavía
+	rondando por aquí,
 	"""
 	msgClear
 	"""
-	to wait a little
-	longer.
+	es mejor esperar
+	un poco más.
 	"""
 	end
 }
@@ -3329,20 +3324,20 @@ script 197 mmz4 {
 	"""
 	msgClear
 	"""
-	Sorry, I wish I
-	could come with you
-	and offer a little
+	Lo siento, quisiera
+	ir contigo y darte un
+	poco de protección
 	"""
 	msgClear
 	"""
-	protection on your
-	way to Area Zero,
-	but I have to stay
+	en tu camino al
+	Área Zero,
+	pero debo quedarme
 	"""
 	msgClear
 	"""
-	here and stand
-	guard.
+	aquí y hacer
+	guardia.
 	"""
 	end
 }
@@ -3350,7 +3345,7 @@ script 198 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
@@ -3483,7 +3478,7 @@ script 208 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
@@ -3520,7 +3515,7 @@ script 210 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
@@ -3565,25 +3560,24 @@ script 212 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	Hey Zero!
+	¡Hey, Zero!
 	"""
 	msgClear
 	"""
-	When I was cleaning
-	out the trailer, I
-	found this.
+	Mientras limpiaba
+	el tráiler,
+	encontré esto.
 	"""
 	msgClear
 	"""
-	I'm not too sure,
-	but it looks like a
-	recipe.
+	No estoy muy seguro,
+	pero parece una
+	receta.
 	"""
 	msgClear
 	"""
-	Maybe you can put it
-	to better use than
-	I can.
+	Quizá puedas darle
+	mejor uso que yo.
 	"""
 	end
 }
@@ -3595,21 +3589,20 @@ script 213 mmz4 {
 	"""
 	msgClear
 	"""
-	I've heard that
-	Hirondelle has some
-	Sub Tanks on hand
+	He oído que
+	Hirondelle tiene
+	Sub Tanks consigo
 	"""
 	msgClear
 	"""
-	for when he goes
-	traveling around the
-	world.
+	para cuando viaja
+	por el mundo.
 	"""
 	msgClear
 	"""
-	If you can find an
-	S-Crystal, he might
-	trade you for one.
+	Si encuentras un
+	S-Crystal, quizá te
+	intercambie uno.
 	"""
 	end
 }
@@ -4018,28 +4011,29 @@ script 254 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Oh, Zero!
+	¡Oh, Zero!
 	"""
 	msgClear
 	"""
-	Take a look, this
-	Elf's a real beaut!
+	Mira, este Elfo es
+	una verdadera
+	belleza.
 	"""
 	msgClear
 	"""
-	It's Casual Scenario
-	Mode, so it can use
-	several abilities
+	Es el Modo Casual,
+	así que puede usar
+	varias habilidades
 	"""
 	msgClear
 	"""
-	at the same time!
+	al mismo tiempo.
 	"""
 	msgClear
 	"""
-	Oh yeah, Zero!
-	Could you help me
-	with the name?
+	¡Oye, Zero!
+	¿Me ayudas con
+	el nombre?
 	"""
 	end
 }
@@ -4047,70 +4041,68 @@ script 255 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Let me explain.
+	Déjame explicarte.
 	"""
 	msgClear
 	"""
-	This new Elf can
-	copy the abilities
-	of other Elves.
+	Este nuevo Elfo
+	puede copiar las
+	habilidades de otros.
 	"""
 	msgClear
 	"""
-	It can handle a lot
-	of abilities at the
-	same time!
+	¡Puede manejar
+	muchas habilidades
+	al mismo tiempo!
 	"""
 	msgClear
 	"""
-	Here's where it gets
-	a little tricky.
+	Aquí se pone un poco
+	complicado.
 	"""
 	msgClear
 	"""
-	The Elf has
-	something called a
-	max level.
+	El Elfo tiene algo
+	llamado nivel máximo.
 	"""
 	msgClear
 	"""
-	If the 3 ability
-	levels combined
-	exceed the max,
+	Si los 3 niveles de
+	habilidad combinados
+	exceden el máximo,
 	"""
 	msgClear
 	"""
-	then you lose a
-	point for each
-	level over the max.
+	pierdes un punto por
+	cada nivel arriba del
+	máximo.
 	"""
 	msgClear
 	"""
-	In other words, as
-	long as you keep the
-	combined levels
+	¡En otras palabras,
+	mientras los niveles
+	combinados estén
 	"""
 	msgClear
 	"""
-	below the max
-	level, you don't
-	lose any points!
+	por debajo del
+	máximo, no perderás
+	puntos!
 	"""
 	msgClear
 	"""
-	Well, then again
-	because it's Casual
-	Scenario Mode,
+	Pero como es Modo
+	Escenario Casual,
 	"""
 	msgClear
 	"""
-	you don't have to
-	worry about
-	the max level.
+	no tienes que
+	preocuparte por el
+	nivel máximo.
 	"""
 	msgClear
 	"""
-	Use it well!
+	¡Úsalo bien!
 	"""
 	end
 }
