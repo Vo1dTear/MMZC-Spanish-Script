@@ -495,7 +495,7 @@ script 46 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: "Adelante, Zero."
+	Ciel:"Adelante, Zero."
 	"""
 	msgClear
 	"""
@@ -529,7 +529,7 @@ script 48 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: "¿¡Qué!?"
+	Ciel:"¿¡Qué!?"
 	"""
 	msgClear
 	"""
@@ -690,7 +690,7 @@ script 52 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: "¿Zero?"
+	Ciel:"¿Zero?"
 	"""
 	msgClear
 	"""

@@ -5,43 +5,51 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"From inside the
-	 building ahead..."
+	Operadora:
+	"Desde el interior
+	 del edificio
 	"""
 	msgClear
 	"""
-	"I'm reading a
-	 powerful magnetic
-	 field."
+	 adelante..."
 	"""
 	msgClear
 	"""
-	"Because of the
-	 field, your jump
-	 might be affected."
+	"Detecto un campo
+	 magnético
+	 poderoso."
 	"""
 	msgClear
 	"""
-	"If you share
-	 polarity, you'll
-	 jump higher..."
+	"Debido al campo,
+	 tu salto podría
+	 verse afectado."
 	"""
 	msgClear
 	"""
-	"If it's different
-	 you'll jump lower."
+	"Si compartes
+	 polaridad, saltarás
+	 más alto..."
 	"""
 	msgClear
 	"""
-	"There are capsules
-	 that can change your
-	 magnetic polarity..."
+	"Si es distinta,
+	 saltarás más bajo."
 	"""
 	msgClear
 	"""
-	"Use them wisely to
-	 get through there."
+	"Hay cápsulas que
+	 pueden cambiar tu
+	 polaridad
+	"""
+	msgClear
+	"""
+	 magnética..."
+	"""
+	msgClear
+	"""
+	"Úsalas sabiamente
+	 para avanzar."
 	"""
 	end
 }
@@ -49,49 +57,49 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 29
 	"""
-	Rrroar!
+	¡Rrroar!
 	"""
 	msgClear
 	"""
-	You... You've
-	finally...come...
+	Tú... ¡Por fin...
+	has...llegado...
 	Zero!
 	"""
 	msgClear
 	"""
-	I won't...let...
-	you...stop...
+	¡No...dejaré...
+	que...detengas...
 	Ragnarok!
 	"""
 	msgClear
 	"""
-	I am...the...
-	great...Mino...
+	¡Yo soy...el...
+	gran...Mino...
 	Magnus!
 	"""
 	msgClear
 	"""
-	I...will...crush...
-	you...and then...
-	Uhm...
+	Yo...te...
+	aplastaré...
+	y luego...Uhm...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I really don't
-	have time to listen
-	to the rest of this.
+	La verdad no tengo
+	tiempo para oír
+	el resto de esto.
 	"""
 	msgClear
 	"""
-	Let's go!
+	¡Vamos!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 29
 	"""
-	Rrroar!
+	¡Rrroar!
 	"""
 	end
 }
@@ -99,13 +107,13 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 29
 	"""
-	I...did it!
-	I...did it!
+	¡Lo... logré!
+	¡Lo... logré!
 	"""
 	msgClear
 	"""
-	All...by...
-	myself!
+	¡Lo...hice...
+	yo solo!
 	"""
 	end
 }
@@ -113,17 +121,17 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 29
 	"""
-	Roar!?
+	¿¡Roar!?
 	"""
 	msgClear
 	"""
-	I...I...
-	lost?
+	¿Yo...yo...
+	perdí?
 	"""
 	msgClear
 	"""
-	How...can this...
-	be...happening!
+	¡Cómo...puede...
+	estar...pasando!
 	"""
 	end
 }

@@ -146,7 +146,7 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: "El área alrededor del
+	Ciel:"El área alrededor del
 	"""
 	msgClear
 	"""

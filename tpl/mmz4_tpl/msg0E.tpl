@@ -5,20 +5,21 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"Keep going and
-	 you'll eventually
+	Operadora:
+	"Sigue avanzando y
+	 eventualmente
 	"""
 	msgClear
 	"""
-	 reach a duct
-	 leading inside."
+	 llegarás a un
+	 conducto que lleva
+	 al interior."
 	"""
 	msgClear
 	"""
-	"It's dangerous, but
-	 it leads to Neige's
-	 location."
+	"Es peligroso, pero
+	 conduce hasta la
+	 ubicación de Neige."
 	"""
 	end
 }
@@ -26,9 +27,8 @@ script 1 mmz4 {
 	mugshotShow
 		mugshot = 97
 	"""
-	Zero!
-	What are you doing
-	here!?
+	¡Zero!
+	¿¡Qué haces aquí!?
 	"""
 	end
 }
@@ -36,57 +36,59 @@ script 2 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I'm here to rescue
-	you.
+	Vine a rescatarte.
 	"""
 	msgClear
 	"""
-	The people back
-	at the Settlement
-	sent me.
+	La gente del
+	Asentamiento me
+	envió.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 9
 	"""
-	Thanks...
-	But I still want
-	to talk to Craft...
+	Gracias...
+	Pero aún quiero
+	hablar con Craft...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Is he a friend
-	of yours?
+	¿Es amigo tuyo?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 9
 	"""
-	Craft saved me from
-	Mavericks when I was
-	just starting out
+	Craft me salvó de
+	unos Mavericks cuando
+	recién empezaba
 	"""
 	msgClear
 	"""
-	as a reporter.
+	como reportera.
 	"""
 	msgClear
 	"""
-	I was amazed at
-	how he fought to
-	protect the humans.
+	Me sorprendió ver
+	cómo luchaba para
+	proteger a los
 	"""
 	msgClear
 	"""
-	Hehe, it's kinda
-	strange, a human
-	falling for a
+	humanos.
 	"""
 	msgClear
 	"""
-	Reploid.
+	Jeje, es algo
+	extraño, que una
+	humana se enamore
+	"""
+	msgClear
+	"""
+	de un Reploide.
 	"""
 	msgClear
 	mugshotShow
@@ -100,14 +102,18 @@ script 3 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	Then I fell in love
-	too.
+	Y entonces yo
+	también me enamoré.
 	"""
 	msgClear
 	"""
-	Neige fought her
-	hardest to expose
-	the truth to people.
+	Neige luchó con todas
+	sus fuerzas para
+	revelar la verdad
+	"""
+	msgClear
+	"""
+	a la gente.
 	"""
 	end
 }
@@ -115,24 +121,20 @@ script 4 mmz4 {
 	mugshotShow
 		mugshot = 60
 	"""
-	Craft!
+	¡Craft!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	Neige... You haven't
-	changed a bit.
+	Neige... No has
+	cambiado nada.
 	"""
 	msgClear
 	"""
-	Once you set your
-	mind to something,
-	you see it through
-	"""
-	msgClear
-	"""
-	to the end.
+	Cuando te propones
+	algo, lo llevas
+	hasta el final.
 	"""
 	end
 }
@@ -140,19 +142,19 @@ script 5 mmz4 {
 	mugshotShow
 		mugshot = 60
 	"""
-	You've changed.
+	Has cambiado.
 	"""
 	msgClear
 	"""
-	You think you're
-	fighting for
-	humanity, but you
+	Crees que estás
+	luchando por la
+	humanidad, pero
 	"""
 	msgClear
 	"""
-	are just a pawn
-	being played by
-	Weil.
+	solo eres un peón
+	siendo manipulado
+	por Weil.
 	"""
 	end
 }
@@ -160,66 +162,75 @@ script 6 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	You understand
-	nothing.
+	No entiendes
+	nada.
 	"""
 	msgClear
 	"""
-	Weil will destroy
-	everything outside
-	of Neo Arcadia
+	Weil destruirá
+	todo lo que está
+	fuera de Neo Arcadia
 	"""
 	msgClear
 	"""
-	with Ragnarok.
-	That includes you.
+	con Ragnarok.
+	Eso te incluye.
 	"""
 	msgClear
 	"""
-	That's why I helped
-	him, so I could find
-	you...
+	Por eso lo ayudé,
+	para poder
+	encontrarte...
 	"""
 	msgClear
 	"""
-	To protect you...
+	Para protegerte...
 	"""
 	msgClear
 	"""
-	Not just you, but
-	all humans and
-	Reploids...
+	No solo a ti, sino
+	a todos los humanos
+	y Reploides...
 	"""
 	msgClear
 	"""
-	We have to maintain
-	what little energy
-	we have to survive.
+	Debemos preservar
+	la poca energía que
+	nos queda para
 	"""
 	msgClear
 	"""
-	Even if that means
-	a life under Weil's
-	control...
+	sobrevivir.
+	"""
+	msgClear
+	"""
+	Incluso si eso
+	significa vivir bajo
+	el control de Weil...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 60
 	"""
-	So that's why you
-	blindly follow Weil?
+	¿Así que por eso
+	sigues a Weil sin
+	cuestionarlo?
 	"""
 	msgClear
 	"""
-	Stealing freedom and
-	destroying nature
-	just for survival?
+	¿Robando libertad y
+	destruyendo la
+	naturaleza solo
 	"""
 	msgClear
 	"""
-	Is this the justice
-	you have fought
-	for?
+	por sobrevivir?
+	"""
+	msgClear
+	"""
+	¿Es esta la justicia
+	por la que has
+	luchado?
 	"""
 	msgClear
 	mugshotShow
@@ -233,30 +244,31 @@ script 7 mmz4 {
 	mugshotShow
 		mugshot = 38
 	"""
-	Hehehe...
+	Jejeje...
 	"""
 	msgClear
 	"""
-	You humans dare
-	talk about justice?
+	¿Ustedes, humanos,
+	se atreven a hablar
+	de justicia?
 	"""
 	msgClear
 	"""
-	A hundred years ago
-	you drove me from
+	Hace cien años
+	me expulsaron de
 	Neo Arcadia...
 	"""
 	msgClear
 	"""
-	You've disposed of
-	Maverick Reploids
-	like garbage...
+	Se deshicieron de los
+	Reploides Maverick
+	como basura...
 	"""
 	msgClear
 	"""
-	Humans complaining
-	about justice!?
-	Don't make me laugh!
+	¿¡Humanos hablando
+	de justicia!?
+	¡No me hagan reír!
 	"""
 	end
 }
@@ -264,7 +276,7 @@ script 8 mmz4 {
 	mugshotShow
 		mugshot = 60
 	"""
-	Y-you!
+	¡T-tú!
 	"""
 	end
 }
@@ -272,85 +284,84 @@ script 9 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Dr. Weil!
+	¡Dr. Weil!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 101
 	"""
-	Hehehe...
-	You've been keeping
-	busy Zero.
+	Jejeje...
+	Has estado muy
+	ocupado, Zero.
 	"""
 	msgClear
 	"""
-	There are only four
-	soldiers left now...
+	Solo quedan cuatro
+	soldados ahora...
 	"""
 	msgClear
 	"""
-	But no matter...
-	You still can't stop
-	Ragnarok.
+	Pero no importa...
+	Aún no puedes
+	detener Ragnarok.
 	"""
 	msgClear
 	"""
-	Not a chance!
-	Hehehe!
+	¡Ni lo sueñes!
+	¡Jejeje!
 	"""
 	msgClear
 	"""
-	A question for the
-	lady:
+	Una pregunta para
+	la dama:
 	"""
 	msgClear
 	"""
-	Will you stay and
-	die in Area Zero for
-	your "freedom?"
+	¿Te quedarás a
+	morir en Área Zero
+	por tu "libertad"?
 	"""
 	msgClear
 	"""
-	Or will you follow
-	Craft's example and
-	follow me?
+	¿O seguirás el
+	ejemplo de Craft y
+	me seguirás?
 	"""
 	msgClear
 	"""
-	I really don't care
-	one way or the
-	other.
+	La verdad no me
+	importa.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 60
 	"""
-	Ah!
-	Weil!
+	¡Ah!
+	¡Weil!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 101
 	"""
-	Hehehe...
-	That's the face...
+	Jejeje...
+	Esa es la cara...
 	"""
 	msgClear
 	"""
-	The face of rage,
-	suffering and
-	humiliation...
+	La cara de rabia,
+	sufrimiento y
+	humillación...
 	"""
 	msgClear
 	"""
-	It's my greatest
-	pleasure...
+	Es mi mayor
+	placer...
 	"""
 	msgClear
 	"""
-	A pleasure only a
-	ruler can fully
-	appreciate!
+	¡Un placer que solo
+	un gobernante puede
+	apreciar!
 	"""
 	end
 }
@@ -358,24 +369,24 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	Don't you get it?
+	¿No lo entiendes?
 	"""
 	msgClear
 	"""
-	Justice has
-	long abandoned
-	this world.
+	La justicia
+	abandonó este mundo
+	hace mucho.
 	"""
 	msgClear
 	"""
-	Only life and
-	death matters now.
+	Ahora solo importan
+	la vida y la muerte.
 	"""
 	msgClear
 	"""
-	Neige... I don't
-	want you to become
-	one of the dead.
+	Neige... No quiero
+	que te conviertas en
+	una de los muertos.
 	"""
 	end
 }
@@ -383,29 +394,33 @@ script 11 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Hmph!
+	¡Hmph!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 101
 	"""
 	Zero...
-	Can you really kill
-	me? A human?
+	¿De verdad puedes
+	matarme? ¿A un
 	"""
 	msgClear
 	"""
-	Do you want to
-	become a Maverick
-	in front of her?
+	humano?
+	"""
+	msgClear
+	"""
+	¿Quieres convertirte
+	en un Maverick
+	frente a ella?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 60
 	"""
-	(Zero, close your
-	eyes when I give the
-	signal...)
+	(Zero, cierra los
+	ojos cuando te dé la
+	señal...)
 	"""
 	msgClear
 	mugshotShow
@@ -419,34 +434,38 @@ script 12 mmz4 {
 	mugshotShow
 		mugshot = 101
 	"""
-	So what will you do?
-	Zero?
-	Girl?
+	Entonces, ¿qué
+	harán? ¿Zero?
+	¿Chica?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	If the only other
-	choice is a living
-	death under you...
+	Si la única otra
+	opción es una muerte
+	en vida bajo tu
 	"""
 	msgClear
 	"""
-	Then I'd rather
-	choose to laugh
-	death in the face
+	dominio...
 	"""
 	msgClear
 	"""
-	and face it with
-	dignity!
+	¡Entonces prefiero
+	reírle en la cara
+	a la muerte
+	"""
+	msgClear
+	"""
+	y enfrentarla con
+	dignidad!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 60
 	"""
-	Zero! Now!
+	¡Zero! ¡Ahora!
 	"""
 	end
 }
@@ -454,15 +473,16 @@ script 13 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	What!?
-	A trick!
+	¿¡Qué!?
+	¡Un truco!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 101
 	"""
-	Agh! I can't see!
-	You'll pay for that!
+	¡Argh! ¡No puedo
+	ver!
+	¡Pagarán por esto!
 	"""
 	end
 }
@@ -470,20 +490,20 @@ script 14 mmz4 {
 	mugshotShow
 		mugshot = 101
 	"""
-	The little
-	scoundrels escaped.
+	Esos pequeños
+	infelices escaparon.
 	"""
 	msgClear
 	"""
-	Hmph, no matter...
-	Craft, continue
-	with Ragnarok.
+	Hmph, no importa...
+	Craft, continúa con
+	Ragnarok.
 	"""
 	msgClear
 	"""
-	And find those two.
-	We'll show them the
-	error of their ways!
+	Y encuentra a esos
+	dos. ¡Les mostraremos
+	su error!
 	"""
 	end
 }
@@ -491,18 +511,19 @@ script 15 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	Laughing death in
-	the face and facing
-	it with dignity is
+	Reírle en la cara
+	a la muerte y
+	enfrentarla con
 	"""
 	msgClear
 	"""
-	better than a...
-	living death...
+	dignidad es mejor
+	que una...
+	muerte en vida...
 	"""
 	msgClear
 	"""
-	Neige... I...
+	Neige... Yo...
 	"""
 	end
 }
@@ -510,34 +531,33 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 5
 	"""
-	Are you okay?
+	¿Estás bien?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	That was nothing
-	for a hardened
-	journalist.
+	Eso no fue nada
+	para una periodista
+	experimentada.
 	"""
 	msgClear
 	"""
-	Did you like the
-	little trick I keep
-	handy?
+	¿Te gustó el pequeño
+	truco que siempre
+	llevo conmigo?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	We can't stay here,
-	it's dangerous.
+	No podemos quedarnos
+	aquí, es peligroso.
 	"""
 	msgClear
 	"""
-	Ciel, come in.
-	Get us out of
-	here.
+	Ciel, responde.
+	Sácanos de aquí.
 	"""
 	end
 }
@@ -545,23 +565,23 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel: "Zero! I'm glad to
+	Ciel:"¡Zero! ¡Me alegra
 	"""
 	msgClear
 	"""
-	 see you're okay!"
+	 verte bien!"
 	"""
 	msgClear
 	"""
-	"Neige is with you?"
+	"¿Neige está contigo?"
 	"""
 	msgClear
 	"""
-	"I'll bring Neige
+	"Primero llevaré a
 	"""
 	msgClear
 	"""
-	 back first."
+	 Neige de regreso."
 	"""
 	end
 }
@@ -569,33 +589,33 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 5
 	"""
-	I'm counting on you.
+	Cuento contigo.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	Thanks Zero...
+	Gracias, Zero...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 5
 	"""
-	I only did what the
-	people at the
-	Settlement asked.
+	Solo hice lo que la
+	gente del
+	Asentamiento pidió.
 	"""
 	msgClear
 	"""
-	If you're going to
-	thank anyone, thank
-	them...
+	Si vas a agradecerle
+	a alguien, hazlo con
+	ellos...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 8
 	"""
-	I will then...
+	Lo haré entonces...
 	"""
 	end
 }
@@ -603,7 +623,7 @@ script 19 mmz4 {
 	mugshotShow
 		mugshot = 96
 	"""
-	Craft, I'm sorry...
+	Craft, lo siento...
 	"""
 	end
 }
@@ -611,11 +631,11 @@ script 20 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Neige is back."
+	Ciel:"Neige volvió."
 	"""
 	msgClear
 	"""
-	"Now it's your turn Zero."
+	"Ahora es tu turno, Zero."
 	"""
 	end
 }
@@ -623,14 +643,18 @@ script 21 mmz4 {
 	mugshotShow
 		mugshot = 38
 	"""
-	Prison Area escape
-	detected! Repeat,
-	escape detected!
+	¡Escape detectado en
+	el Área de Prisión!
+	¡Repito, escape
 	"""
 	msgClear
 	"""
-	Upgrading to
-	Security Level 3!
+	detectado!
+	"""
+	msgClear
+	"""
+	¡Elevando a Nivel de
+	Seguridad 3!
 	"""
 	end
 }
@@ -638,19 +662,19 @@ script 22 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Zero!?"
+	Ciel:"¡¿Zero!?"
 	"""
 	msgClear
 	"""
-	"What's happening!?"
+	"¡¿Qué está pasando!?"
 	"""
 	msgClear
 	"""
-	"I can't...coordinates..."
+	"No puedo...coordenadas..."
 	"""
 	msgClear
 	"""
-	"Zero... Respond!"
+	"Zero... ¡Responde!"
 	"""
 	end
 }
@@ -658,13 +682,13 @@ script 23 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	The signal's
-	being jammed!
+	¡La señal está
+	siendo interferida!
 	"""
 	msgClear
 	"""
-	I have to get out
-	on my own now!
+	¡Tendré que salir
+	por mi cuenta!
 	"""
 	end
 }
@@ -672,7 +696,7 @@ script 64 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Zero! Come in!"
+	Ciel:"¡Zero! ¡Responde!"
 	"""
 	end
 }
@@ -680,9 +704,9 @@ script 65 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I'm free of the
-	jamming, bring me
-	back.
+	Ya estoy fuera de
+	la interferencia,
+	tráeme de vuelta.
 	"""
 	end
 }
@@ -690,11 +714,11 @@ script 66 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator:"Understood."
+	Operadora:"Entendido."
 	"""
 	msgClear
 	"""
-	"Retrieving Zero."
+	"Recuperando a Zero."
 	"""
 	end
 }

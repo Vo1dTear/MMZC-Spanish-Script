@@ -5,36 +5,36 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"I found a door in a
-	 different location
+	Operadora:
+	"Encontré una puerta
+	 en otra zona con
 	"""
 	msgClear
 	"""
-	 with a special lock
-	 and it looks like
-	 you'll need a card
+	 un bloqueo especial
+	 y parece que
+	 necesitarás una
 	"""
 	msgClear
 	"""
-	 key to open it."
+	 tarjeta llave para
+	 abrirla."
 	"""
 	msgClear
 	"""
-	"This doesn't have
-	 any direct bearing
-	 on your current
+	"Esto no tiene
+	 relación directa
+	 con tu misión
 	"""
 	msgClear
 	"""
-	 mission, but I just
-	 wanted to let you
-	 know in case you
+	 actual, pero quería
+	 avisarte por si
 	"""
 	msgClear
 	"""
-	 wanted to check it
-	 out."
+	 quieres ir a
+	 revisarla."
 	"""
 	end
 }
@@ -43,37 +43,37 @@ script 16 mmz4 {
 		mugshot = 27
 	"""
 	Gaaah...
-	You've kept me
-	waiting, hero.
+	Me hiciste esperar,
+	héroe.
 	"""
 	msgClear
 	"""
-	I thought you might
-	have been ripped
-	apart by my helpers.
+	Pensé que mis
+	ayudantes te habrían
+	hecho pedazos.
 	"""
 	msgClear
 	"""
-	And here I rushed
-	to get everything
-	ready for you.
+	Y aquí me apresuré
+	a preparar todo
+	para ti.
 	"""
 	msgClear
 	"""
-	Then again, there
-	are none that can
-	keep up with me!
+	¡Aunque claro, nadie
+	puede seguirme el
+	ritmo!
 	"""
 	msgClear
 	"""
-	I hope you can
-	at least make things
-	interesting for me.
+	Al menos espero que
+	logres hacer esto
+	interesante.
 	"""
 	msgClear
 	"""
-	After all, you are a
-	hero.
+	Después de todo,
+	eres un héroe.
 	"""
 	end
 }
@@ -81,15 +81,15 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Gaaah!
-	What!?
-	Done already!?
+	¡Gaaah!
+	¿¡Qué!?
+	¿¡Ya terminó!?
 	"""
 	msgClear
 	"""
-	How boring!
-	You should give up
-	the hero thing.
+	¡Qué aburrido!
+	Deberías dejar eso
+	de ser héroe.
 	"""
 	end
 }
@@ -97,41 +97,41 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Gaaah!?
+	¿¡Gaaah!?
 	"""
 	msgClear
 	"""
-	Hehe... Not bad...
-	True to the name
-	hero...
+	Jeje... Nada mal...
+	Fiel a tu título de
+	héroe...
 	"""
 	msgClear
 	"""
-	But it's not over
-	yet. Not by a long
-	shot!
+	Pero aún no ha
+	terminado. ¡Ni de
+	lejos!
 	"""
 	msgClear
 	"""
-	The true power of
-	Ragnarok is only
-	just beginning...
+	El verdadero poder
+	de Ragnarok apenas
+	está comenzando...
 	"""
 	msgClear
 	"""
-	Hehe... You should
-	start preparing your
-	list of excuses when
+	Jeje... ¡Ve
+	preparando tu lista
+	de excusas cuando
 	"""
 	msgClear
 	"""
-	you have to explain
-	why you couldn't
-	save Area Zero!
+	tengas que explicar
+	por qué no pudiste
+	salvar Área Zero!
 	"""
 	msgClear
 	"""
-	Graaah!
+	¡Graaah!
 	"""
 	end
 }

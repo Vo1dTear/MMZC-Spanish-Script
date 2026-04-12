@@ -5,29 +5,30 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"This area is over-
-	 flowing with
+	Operadora:
+	"Esta zona está
+	 llena de
 	"""
 	msgClear
 	"""
-	 nanomachines."
+	 nanomáquinas."
 	"""
 	msgClear
 	"""
-	"Nanomachine vines
-	 blocking the way
+	"Las enredaderas de
+	 nanomáquinas que
+	 bloquean el camino
 	"""
 	msgClear
 	"""
-	 can be cleared out
-	 with the Buster or
+	 pueden eliminarse
+	 con el Buster o el
 	 Saber..."
 	"""
 	msgClear
 	"""
-	"Or even just
-	 plucked with the
+	"O incluso
+	 arrancarse con el
 	 Zero Knuckle."
 	"""
 	end
@@ -36,35 +37,36 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 23
 	"""
-	Oh my, I thought a
-	rat wandered in, but
-	it was just you.
+	Vaya, pensé que
+	había entrado una
+	rata, pero eras tú.
 	"""
 	msgClear
 	"""
-	You're going to a
-	lot of trouble for
-	the environment.
+	Te estás tomando
+	muchas molestias por
+	el medio ambiente.
 	"""
 	msgClear
 	"""
-	Too bad that trouble
-	will be wasted.
+	Lástima que todo ese
+	esfuerzo será en
+	vano.
 	"""
 	msgClear
 	"""
-	You have no hope of
-	stopping Ragnarok.
+	No tienes ninguna
+	posibilidad de
+	detener Ragnarok.
 	"""
 	msgClear
 	"""
-	If you're just going
-	to waste energy,
-	give it to me.
+	Si vas a desperdiciar
+	energía, dámela a mí.
 	"""
 	msgClear
 	"""
-	I'll drain you dry!
+	¡Te dejaré seco!
 	"""
 	end
 }
@@ -72,15 +74,19 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 23
 	"""
-	What?
-	Was that all? You're
-	already finished?
+	¿Qué?
+	¿Eso fue todo?
+	¿Ya terminaste?
 	"""
 	msgClear
 	"""
-	Then we're done
-	here. You'll make
-	great fertilizer!
+	Entonces hemos
+	terminado aquí.
+	¡Serás un gran
+	"""
+	msgClear
+	"""
+	fertilizante!
 	"""
 	end
 }
@@ -88,19 +94,20 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 23
 	"""
-	Agh... Aah!
-	I'm shriveling up!
+	¡Agh... Aah!
+	¡Me estoy
+	marchitando!
 	"""
 	msgClear
 	"""
-	I am a flower
-	cut down before
-	I could blossom...
+	Soy una flor
+	cortada antes de
+	poder florecer...
 	"""
 	msgClear
 	"""
-	Agh... Aah!
-	Lord Weiiil!
+	¡Agh... Aah!
+	¡Lord Weiiil!
 	"""
 	end
 }

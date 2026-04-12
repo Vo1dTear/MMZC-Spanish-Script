@@ -5,15 +5,15 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"There are acid rain
-	 generators!"
+	Operadora:
+	"¡Hay generadores
+	 de lluvia ácida!"
 	"""
 	msgClear
 	"""
-	"Destroy them and
-	 save the ground
-	 below!"
+	"¡Destrúyelos y
+	 salva el terreno
+	 de abajo!"
 	"""
 	end
 }
@@ -21,26 +21,27 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 21
 	"""
-	I will smite the
-	worthless vermin
-	down below...
+	Arrasaré con las
+	inmundas alimañas
+	de abajo...
 	"""
 	msgClear
 	"""
-	Lord Weil came up
-	with a plan as
-	beautiful as myself.
+	Lord Weil ideó un
+	plan tan hermoso
+	como yo.
 	"""
 	msgClear
 	"""
-	All ugly things must
-	bow down before me.
+	Todas las cosas
+	feas deben
+	inclinarse ante mí.
 	"""
 	msgClear
 	"""
-	Pegasolta Eclair
-	will send you to
-	the depths below!
+	¡Pegasolta Eclair
+	te enviará a las
+	profundidades!
 	"""
 	end
 }
@@ -48,15 +49,15 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 21
 	"""
-	Hahaha!
-	Suffer your grand
-	and hideous fate!
+	¡Jajaja!
+	¡Sufre tu gran y
+	espantoso destino!
 	"""
 	msgClear
 	"""
-	My loveliness is a
-	gift to the eyes of
-	one so ugly!
+	¡Mi belleza es un
+	regalo para los ojos
+	de alguien tan feo!
 	"""
 	end
 }
@@ -64,23 +65,23 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 21
 	"""
-	Wah!
-	How could this
-	happen to me!?
+	¡Wah!
+	¿¡Cómo pudo
+	pasarme esto!?
 	"""
 	msgClear
 	"""
-	You...
-	Beating me?
+	¿Tú...
+	vencerme?
 	"""
 	msgClear
 	"""
-	That's impossible...
+	Eso es imposible...
 	"""
 	msgClear
 	"""
-	But...my death,
-	it's so beautiful!
+	Pero... mi muerte,
+	¡es tan hermosa!
 	"""
 	end
 }
