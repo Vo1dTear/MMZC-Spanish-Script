@@ -130,12 +130,12 @@ script 14 mmz4 {
 	mugshotShow
 		mugshot = 9
 	"""
-	Thanks Zero...
+	Gracias, Zero...
 	"""
 	msgClear
 	"""
-	I just wanted to
-	tell you that again.
+	Solo quería
+	decírtelo otra vez.
 	"""
 	msgClear
 	"""
@@ -143,45 +143,45 @@ script 14 mmz4 {
 	"""
 	msgClear
 	"""
-	I never would've
-	thought the Reploid
-	that defeated our
+	Nunca habría
+	imaginado que el
+	Reploide que derrotó
 	"""
 	msgClear
 	"""
-	leader would be the
-	one to save us...
+	a nuestro líder
+	sería quien nos
+	salvaría...
 	"""
 	msgClear
 	"""
-	I committed one of
-	the gravest sins a
-	journalist can
+	Cometí uno de los
+	peores errores que
+	una periodista puede
 	"""
 	msgClear
 	"""
-	commit...
+	cometer...
 	"""
 	msgClear
 	"""
-	I based all of my
-	opinions on the
-	information and
+	Basé todas mis
+	opiniones en la
+	información y
 	"""
 	msgClear
 	"""
-	rumors coming from
-	the government
-	without looking into
+	rumores del gobierno
+	sin verificar los
+	hechos por mí
 	"""
 	msgClear
 	"""
-	the facts for
-	myself...
+	misma...
 	"""
 	msgClear
 	"""
-	Some journalist...
+	Vaya periodista...
 	"""
 	end
 }
@@ -195,28 +195,28 @@ script 15 mmz4 {
 	mugshotShow
 		mugshot = 9
 	"""
-	I'm sorry.
+	Lo siento.
 	"""
 	msgClear
 	"""
-	I was thinking about
+	Estaba pensando en
 	Craft...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 97
 	"""
-	Where is the Craft I
-	knew?
+	¿Dónde está el
+	Craft que conocí?
 	"""
 	msgClear
 	"""
-	How can I get him to
-	listen to me?
+	¿Cómo puedo hacer
+	que me escuche?
 	"""
 	msgClear
 	"""
-	Please tell me
+	Por favor, dímelo,
 	Zero...
 	"""
 	end
@@ -485,20 +485,24 @@ script 40 mmz4 {
 	"""
 	msgClear
 	"""
-	To think you're the
-	legend that defeated
-	X.
+	Pensar que eres la
+	leyenda que derrotó
+	a X.
 	"""
 	msgClear
 	"""
-	You almost had me
-	fooled.
+	Casi lograste
+	engañarme.
 	"""
 	msgClear
 	"""
-	Either way, I don't
-	want anything more
-	to do with Reploids.
+	De cualquier forma,
+	no quiero tener nada
+	que ver
+	"""
+	msgClear
+	"""
+	con Reploides.
 	"""
 	end
 }
@@ -506,8 +510,8 @@ script 41 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	Why aren't we going
-	to save her?
+	¿Por qué no vamos
+	a salvarla?
 	"""
 	msgClear
 	"""
@@ -515,12 +519,12 @@ script 41 mmz4 {
 	"""
 	msgClear
 	"""
-	She betrayed us.
+	Nos traicionó.
 	"""
 	msgClear
 	"""
-	We're under no
-	obligation to help!
+	¡No tenemos ninguna
+	obligación de ayudar!
 	"""
 	end
 }
@@ -528,13 +532,13 @@ script 42 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	I'm sorry about what
-	I said earlier...
+	Lamento lo que dije
+	antes...
 	"""
 	msgClear
 	"""
-	Thank you for saving
-	Neige.
+	Gracias por salvar
+	a Neige.
 	"""
 	end
 }
@@ -542,15 +546,15 @@ script 43 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	Maybe not all
-	Reploids are bad
-	after all.
+	Quizá no todos los
+	Reploides sean malos
+	después de todo.
 	"""
 	msgClear
 	"""
-	I'm starting to
-	see you guys in a
-	whole new light.
+	Estoy empezando a
+	verlos con una luz
+	completamente nueva.
 	"""
 	end
 }
@@ -809,13 +813,13 @@ script 68 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	Neige was with the
-	Reploids the whole
-	time...
+	Neige estuvo con los
+	Reploides todo este
+	tiempo...
 	"""
 	msgClear
 	"""
-	I can't believe her!
+	¡No puedo creerlo!
 	"""
 	end
 }
@@ -823,14 +827,15 @@ script 69 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	It's Neige's fault
-	the Settlement was
-	attacked.
+	Es culpa de Neige
+	que el Asentamiento
+	fuera atacado.
 	"""
 	msgClear
 	"""
-	It's all her fault
-	we're in danger!
+	¡Es toda su culpa
+	que estemos en
+	peligro!
 	"""
 	end
 }
@@ -838,13 +843,12 @@ script 70 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	You're Zero...
+	Tú eres Zero...
 	"""
 	msgClear
 	"""
-	I'm still having
-	trouble believing
-	it...
+	Todavía me cuesta
+	creerlo...
 	"""
 	end
 }
@@ -852,8 +856,8 @@ script 71 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	I guess I should say
-	thanks...
+	Supongo que debería
+	darte las gracias...
 	"""
 	end
 }
@@ -1159,23 +1163,23 @@ script 96 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	You weren't just a
-	Reploid, you were
-	THE Reploid!
+	¡No eras solo un
+	Reploide, eras EL
+	Reploide!
 	"""
 	msgClear
 	"""
-	Thanks for saving
-	everyone...
+	Gracias por salvar
+	a todos...
 	"""
 	msgClear
 	"""
-	Mister...
+	Señor...
 	"""
 	msgClear
 	"""
-	Promise me you'll
-	save Neige!
+	¡Prométeme que
+	salvarás a Neige!
 	"""
 	end
 }
@@ -1183,12 +1187,12 @@ script 97 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Please Mister!
+	¡Por favor, señor!
 	"""
 	msgClear
 	"""
-	Nobody else wants to
-	go and help her...
+	Nadie más quiere ir
+	a ayudarla...
 	"""
 	end
 }
@@ -1196,12 +1200,13 @@ script 98 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Thanks Mister!
+	¡Gracias, señor!
 	"""
 	msgClear
 	"""
-	Everyone else thinks
-	you're great too!
+	¡Todos los demás
+	también piensan que
+	eres genial!
 	"""
 	end
 }
@@ -1209,14 +1214,14 @@ script 99 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	I knew you would
-	save Neige, I really
-	did!
+	¡Sabía que salvarías
+	a Neige, de verdad
+	lo sabía!
 	"""
 	msgClear
 	"""
-	You're THE Reploid
-	after all!
+	¡Después de todo,
+	eres EL Reploide!
 	"""
 	end
 }
@@ -1479,18 +1484,19 @@ script 124 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	*sigh*
-	Our poor
-	Settlement...
+	*suspiro*
+	Nuestro pobre
+	Asentamiento...
 	"""
 	msgClear
 	"""
-	Ahh!
+	¡Ahh!
 	"""
 	msgClear
 	"""
-	I knew a Reploid
-	would be trouble.
+	Sabía que un
+	Reploide traería
+	problemas.
 	"""
 	end
 }
@@ -1498,17 +1504,18 @@ script 125 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Neige?
+	¿Neige?
 	"""
 	msgClear
 	"""
-	Why should we risk
-	our necks for her?
+	¿Por qué deberíamos
+	arriesgarnos por
+	ella?
 	"""
 	msgClear
 	"""
-	She deserves what
-	she gets!
+	¡Se merece lo que
+	le pase!
 	"""
 	end
 }
@@ -1516,23 +1523,22 @@ script 126 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Hmph!
-	So you're the
-	legendary Reploid?
+	¡Hmph!
+	¿Así que eres el
+	Reploide legendario?
 	"""
 	msgClear
 	"""
-	I can't believe it.
+	No puedo creerlo.
 	"""
 	msgClear
 	"""
-	Sorry...
+	Lo siento...
 	"""
 	msgClear
 	"""
-	You did save us, I
-	shouldn't talk like
-	that.
+	Nos salvaste, no
+	debería hablar así.
 	"""
 	end
 }
@@ -1540,14 +1546,14 @@ script 127 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Thank you for
-	saving Neige...
+	Gracias por
+	salvar a Neige...
 	"""
 	msgClear
 	"""
-	Without you, I don't
-	know what would've
-	happened to her.
+	Sin ti, no sé qué
+	habría pasado con
+	ella.
 	"""
 	end
 }
@@ -1856,18 +1862,19 @@ script 152 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	You were that famous
-	Reploid the whole
-	time, huh?
+	Así que eras ese
+	famoso Reploide todo
+	este tiempo, ¿eh?
 	"""
 	msgClear
 	"""
-	If you really are,
-	then...
+	Si de verdad lo
+	eres, entonces...
 	"""
 	msgClear
 	"""
-	Please, help Neige!
+	¡Por favor, ayuda a
+	Neige!
 	"""
 	end
 }
@@ -1875,20 +1882,20 @@ script 153 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	I know it's not
-	right for the same
-	humans who were
+	Sé que no está bien
+	que los mismos
+	humanos que hablaban
 	"""
 	msgClear
 	"""
-	talking bad about
-	you to be making
-	requests, but you're
+	mal de ti ahora te
+	hagan peticiones,
+	pero tú eres
 	"""
 	msgClear
 	"""
-	the only one who
-	can save Neige...
+	el único que puede
+	salvar a Neige...
 	"""
 	end
 }
@@ -1896,17 +1903,19 @@ script 154 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Thank you Mr. Zero.
+	Gracias, Sr. Zero.
 	"""
 	msgClear
 	"""
-	Your saving Neige
-	helps the people at
-	the Settlement feel
+	El que hayas salvado
+	a Neige ayuda a que
+	la gente del
 	"""
 	msgClear
 	"""
-	whole again somehow.
+	Asentamiento se
+	sienta completa otra
+	vez, de algún modo.
 	"""
 	end
 }
@@ -1914,13 +1923,14 @@ script 155 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	It was just as I
-	thought.
+	Era tal como lo
+	pensaba.
 	"""
 	msgClear
 	"""
-	I knew you weren't a
-	bad guy after all.
+	Sabía que no eras
+	malo después de
+	todo.
 	"""
 	end
 }
@@ -2168,25 +2178,26 @@ script 180 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	And here I thought
-	Neige was one of us.
+	Y yo que creía que
+	Neige era una de
+	nosotros.
 	"""
 	msgClear
 	"""
-	She was friends with
-	that Reploid,
-	unbelievable.
+	Era amiga de ese
+	Reploide,
+	increíble.
 	"""
 	msgClear
 	"""
-	She's probably
-	revealing our
-	location to Neo
+	Seguro está
+	revelando nuestra
+	ubicación a Neo
 	"""
 	msgClear
 	"""
-	Arcadia as we
-	speak.
+	Arcadia en este
+	momento.
 	"""
 	end
 }
@@ -2194,19 +2205,19 @@ script 181 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	To think we would be
-	betrayed by one of
-	our own...
+	Pensar que seríamos
+	traicionados por uno
+	de los nuestros...
 	"""
 	msgClear
 	"""
-	We're done for.
+	Estamos perdidos.
 	"""
 	msgClear
 	"""
-	And after all we
-	went through by
-	leaving Neo Arcadia.
+	Y después de todo
+	lo que pasamos al
+	dejar Neo Arcadia.
 	"""
 	end
 }
@@ -2214,20 +2225,20 @@ script 182 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Neige wasn't a
-	traitor...
+	Neige no era una
+	traidora...
 	"""
 	msgClear
 	"""
-	She was probably the
-	one that believed in
-	us the most.
+	Probablemente era
+	quien más creía
+	en nosotros.
 	"""
 	msgClear
 	"""
-	I'm sorry for all of
-	the terrible things
-	I said about her.
+	Lamento todas las
+	cosas terribles que
+	dije sobre ella.
 	"""
 	end
 }
@@ -2235,9 +2246,9 @@ script 183 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	I'm sorry for all of
-	the things I said
-	about you too.
+	Lamento todo lo que
+	dije sobre ti
+	también.
 	"""
 	end
 }
@@ -2484,15 +2495,19 @@ script 208 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	I'm sorry I didn't
-	say it sooner, but
-	thank you.
+	Siento no haberlo
+	dicho antes, pero
+	gracias.
 	"""
 	msgClear
 	"""
-	I feel so pathetic
-	needing a Reploid's
-	help ya know.
+	Me siento tan
+	patético al necesitar
+	la ayuda de un
+	"""
+	msgClear
+	"""
+	Reploide, ya sabes.
 	"""
 	end
 }
@@ -2500,20 +2515,20 @@ script 209 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	I trusted Neige ya
-	know...
+	Confiaba en Neige,
+	ya sabes...
 	"""
 	msgClear
 	"""
-	Come to find out
-	she's in with one of
-	Weil's Reploids...
+	Y resulta que está
+	con uno de los
+	Reploides de Weil...
 	"""
 	msgClear
 	"""
-	I can't forgive her
-	for what she's done
-	to us!
+	¡No puedo perdonarla
+	por lo que nos ha
+	hecho!
 	"""
 	end
 }
@@ -2521,37 +2536,36 @@ script 210 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Thank you for
-	helping us even
-	after the way we
+	Gracias por
+	ayudarnos incluso
+	después de la forma
 	"""
 	msgClear
 	"""
-	treated you.
+	en que te tratamos.
 	"""
 	msgClear
 	"""
-	I don't know what
-	else to say besides
-	thank you.
+	No sé qué más decir
+	aparte de gracias.
 	"""
 	msgClear
 	"""
-	Take this as a small
-	token of my
-	gratitude.
+	Toma esto como un
+	pequeño símbolo de
+	mi gratitud.
 	"""
 	msgClear
 	"""
-	I found it in the
-	stuff over there
-	ya know.
+	Lo encontré entre
+	las cosas de por
+	allá, ¿sabes?
 	"""
 	msgClear
 	"""
-	You might be able to
-	make better use of
-	it than me.
+	Quizá tú puedas
+	hacer mejor uso de
+	esto que yo.
 	"""
 	end
 }
@@ -2559,15 +2573,19 @@ script 211 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Humans and Reploids
-	might not be so
-	different after all.
+	Humanos y Reploides
+	quizá no sean tan
+	diferentes después
 	"""
 	msgClear
 	"""
-	I think we're both
-	after the same thing
-	ya know.
+	de todo.
+	"""
+	msgClear
+	"""
+	Creo que ambos
+	buscamos lo mismo,
+	¿sabes?
 	"""
 	end
 }
@@ -2800,13 +2818,14 @@ script 236 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	We couldn't even
-	protect our own
-	Settlement.
+	Ni siquiera pudimos
+	proteger nuestro
+	Asentamiento.
 	"""
 	msgClear
 	"""
-	We're so pathetic...
+	Somos tan
+	patéticos...
 	"""
 	end
 }
@@ -2814,14 +2833,18 @@ script 237 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	This is all the
-	Reploids fault...
+	Todo esto es culpa
+	de los Reploides...
 	"""
 	msgClear
 	"""
-	Trouble follows them
-	around like a stray
-	looking for scraps.
+	Los problemas los
+	siguen como perros
+	callejeros tras
+	"""
+	msgClear
+	"""
+	las sobras.
 	"""
 	end
 }
@@ -2829,31 +2852,32 @@ script 238 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Th-thank you for
-	saving Neige...
+	Gra-gracias por
+	salvar a Neige...
 	"""
 	msgClear
 	"""
-	I guess not all
-	Reploids are bad.
+	Supongo que no todos
+	los Reploides son
+	malos.
 	"""
 	msgClear
 	"""
-	Oh!
+	¡Oh!
 	"""
 	msgClear
 	"""
-	Here, take this!
+	¡Toma, esto!
 	"""
 	msgClear
 	"""
-	It looks like
-	instructions, but I
-	can't make heads or
+	Parece ser un
+	instructivo, pero no
+	logro entender
 	"""
 	msgClear
 	"""
-	tails of it.
+	nada de él.
 	"""
 	end
 }
@@ -2861,14 +2885,15 @@ script 239 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Your companions left
-	Neo Arcadia too...
+	Tus compañeros
+	también dejaron
+	Neo Arcadia...
 	"""
 	msgClear
 	"""
-	I guess it was fate
-	that we ended up
-	together.
+	Supongo que fue el
+	destino que
+	termináramos juntos.
 	"""
 	end
 }

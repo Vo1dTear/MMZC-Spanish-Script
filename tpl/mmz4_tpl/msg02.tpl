@@ -421,13 +421,13 @@ script 24 mmz4 {
 		mugshot = 59
 	"""
 	Zero...
-	I'm worried about
-	Neige.
+	Estoy preocupada
+	por Neige.
 	"""
 	msgClear
 	"""
-	Please, you have
-	to help her!
+	¡Por favor, tienes
+	que ayudarla!
 	"""
 	end
 }
@@ -435,18 +435,19 @@ script 25 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	We know where Neige
-	was taken.
+	Sabemos dónde
+	llevaron a Neige.
 	"""
 	msgClear
 	"""
-	There's an enemy
-	base west of here.
+	Hay una base enemiga
+	al oeste de aquí.
 	"""
 	msgClear
 	"""
-	Neige and Craft
-	should be inside.
+	Neige y Craft
+	deberían estar
+	dentro.
 	"""
 	end
 }
@@ -454,14 +455,14 @@ script 26 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Thanks Zero...
+	Gracias, Zero...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	I'm glad Neige was
-	alright.
+	Me alegra que Neige
+	esté bien.
 	"""
 	end
 }
@@ -473,8 +474,8 @@ script 27 mmz4 {
 	"""
 	msgClear
 	"""
-	Ragnarok is still
-	underway...
+	Ragnarok aún está
+	en marcha...
 	"""
 	msgClear
 	"""
@@ -482,8 +483,8 @@ script 27 mmz4 {
 	"""
 	msgClear
 	"""
-	We have to protect
-	the world from Weil!
+	¡Debemos proteger
+	el mundo de Weil!
 	"""
 	end
 }
@@ -986,7 +987,7 @@ script 65 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -1034,7 +1035,7 @@ script 67 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -1075,23 +1076,24 @@ script 71 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	What!?
-	Craft took Neige!?
+	¿¡Qué!?
+	¿¡Craft se llevó a
+	Neige!?
 	"""
 	msgClear
 	"""
-	Then...
+	Entonces...
 	"""
 	msgClear
 	"""
-	The people at the
-	Settlement must be
-	off mounting a
+	La gente del
+	Asentamiento debe
+	estar organizando un
 	"""
 	msgClear
 	"""
-	rescue attempt,
-	right?
+	intento de rescate,
+	¿verdad?
 	"""
 	end
 }
@@ -1099,14 +1101,19 @@ script 72 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	I don't think the
-	humans stand a
-	chance against Weil.
+	No creo que los
+	humanos tengan
+	alguna oportunidad
 	"""
 	msgClear
 	"""
-	You need to get to
-	Neige first.
+	contra Weil.
+	"""
+	msgClear
+	"""
+	Tienes que llegar
+	antes que nadie a
+	Neige.
 	"""
 	end
 }
@@ -1114,18 +1121,22 @@ script 73 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Hey Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
-	I'm glad Neige is
-	okay.
+	Me alegra que Neige
+	esté bien.
 	"""
 	msgClear
 	"""
-	I hope this helps
-	the humans to open
-	up to us.
+	Espero que esto
+	ayude a que los
+	humanos se abran
+	"""
+	msgClear
+	"""
+	a nosotros.
 	"""
 	end
 }
@@ -1137,13 +1148,14 @@ script 74 mmz4 {
 	"""
 	msgClear
 	"""
-	Ragnarok is still
-	underway?
+	¿Ragnarok aún está
+	en marcha?
 	"""
 	msgClear
 	"""
-	We better stay on
-	guard.
+	Mejor nos
+	mantenemos en
+	guardia.
 	"""
 	end
 }
@@ -1499,7 +1511,7 @@ script 97 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey, Zero.
+	Oye, Zero.
 	"""
 	msgClear
 	"""
@@ -1660,7 +1672,7 @@ script 106 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey, Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
@@ -1706,7 +1718,7 @@ script 110 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey, Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
@@ -2027,7 +2039,7 @@ script 126 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -2044,7 +2056,7 @@ script 127 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -2066,30 +2078,30 @@ script 130 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
-	The humans at the
-	Settlement don't
-	seem to like
+	Los humanos del
+	Asentamiento no
+	parecen querer
 	"""
 	msgClear
 	"""
-	Reploids very
-	much...
+	mucho a los
+	Reploides...
 	"""
 	msgClear
 	"""
-	But, I have faith in
-	them. Neige and the
-	others are human
+	Pero tengo fe en
+	ellos. Neige y los
+	demás son humanos
 	"""
 	msgClear
 	"""
-	just like Ciel, so
-	they'll come
-	around...
+	igual que Ciel, así
+	que cambiarán de
+	opinión...
 	"""
 	end
 }
@@ -2097,12 +2109,12 @@ script 131 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
-	Neige is okay,
-	right?
+	Neige está bien,
+	¿verdad?
 	"""
 	end
 }
@@ -2110,12 +2122,12 @@ script 132 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Zero!
+	¡Zero!
 	"""
 	msgClear
 	"""
-	What a relief Neige
-	is okay!
+	¡Qué alivio que
+	Neige esté bien!
 	"""
 	end
 }
@@ -2123,17 +2135,18 @@ script 133 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
-	I wonder if I can
-	make friends with
-	the people in the
+	Me pregunto si
+	podré hacerme amiga
+	de la gente del
 	"""
 	msgClear
 	"""
-	Settlement too?
+	Asentamiento
+	también.
 	"""
 	end
 }
@@ -2741,24 +2754,24 @@ script 168 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	The journalist woman
-	in the Settlement
-	got kidnapped!
+	¡La periodista del
+	Asentamiento fue
+	secuestrada!
 	"""
 	msgClear
 	"""
-	What? You knew?
+	¿Qué? ¿Ya lo sabías?
 	"""
 	msgClear
 	"""
-	You're pretty down
-	with the latest
-	happenings, huh?
+	Estás bastante al
+	tanto de lo que
+	pasa, ¿eh?
 	"""
 	end
 }
@@ -2766,24 +2779,24 @@ script 169 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	The name of the
-	Reploid that has the
-	journalist is Craft.
+	El Reploide que
+	tiene a la periodista
+	es Craft.
 	"""
 	msgClear
 	"""
-	What? You knew that
-	too!?
+	¿Qué? ¿Eso también
+	lo sabías?
 	"""
 	msgClear
 	"""
-	You really know your
-	stuff!
+	¡De verdad sabes
+	mucho!
 	"""
 	end
 }
@@ -2791,22 +2804,22 @@ script 170 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	That journalist is
-	safe now.
+	Esa periodista ya
+	está a salvo.
 	"""
 	msgClear
 	"""
-	Oh! That's right,
-	you saved her...
+	¡Ah! Es cierto,
+	tú la salvaste...
 	"""
 	msgClear
 	"""
-	Sorry about that!
+	¡Perdón por eso!
 	"""
 	end
 }
@@ -2814,24 +2827,24 @@ script 171 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	I'm sorry.
+	Lo siento.
 	"""
 	msgClear
 	"""
-	Since I've been
-	stuck here, I
-	haven't been able to
+	Como he estado
+	atrapado aquí, no he
+	podido ir a
 	"""
 	msgClear
 	"""
-	go and get any new
-	information for you.
+	conseguir nueva
+	información para ti.
 	"""
 	msgClear
 	"""
-	I'm looking forward
-	to traveling around
-	the world again...
+	Tengo ganas de
+	recorrer el mundo
+	de nuevo...
 	"""
 	end
 }
@@ -2982,31 +2995,31 @@ script 180 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
+	¡Hola, Zero!
 	"""
 	msgClear
 	"""
-	Whazza-!?
+	¡¿Qu-qué!?
 	"""
 	msgClear
 	"""
-	Is that an S-Crystal
-	you've got there?
+	¿Ese es un S-Crystal
+	que tienes ahí?
 	"""
 	msgClear
 	"""
-	That's a real
-	beauty!
+	¡Es una verdadera
+	belleza!
 	"""
 	msgClear
 	"""
-	I'll trade you for a
+	Te lo cambio por un
 	Sub Tank.
 	"""
 	msgClear
 	"""
-	If you have any
-	more, let me know!
+	Si tienes más,
+	¡avísame!
 	"""
 	end
 }
@@ -3014,26 +3027,26 @@ script 181 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
+	¡Hola, Zero!
 	"""
 	msgClear
 	"""
-	Got another
+	¿Tienes otro
 	S-Crystal?
 	"""
 	msgClear
 	"""
-	I'll trade you for
-	one of my Sub Tanks.
+	Te lo cambio por uno
+	de mis Sub Tanks.
 	"""
 	msgClear
 	"""
-	That's the last of
-	them.
+	Esos son los
+	últimos.
 	"""
 	msgClear
 	"""
-	Use 'em well!
+	¡Úsalos bien!
 	"""
 	end
 }
@@ -3224,7 +3237,7 @@ script 192 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -3273,7 +3286,7 @@ script 194 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -3301,7 +3314,7 @@ script 196 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -3345,7 +3358,7 @@ script 198 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -3373,7 +3386,7 @@ script 200 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -3478,7 +3491,7 @@ script 208 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -3497,7 +3510,7 @@ script 209 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -3515,7 +3528,7 @@ script 210 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -3560,7 +3573,7 @@ script 212 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -3614,13 +3627,13 @@ script 216 mmz4 {
 	"""
 	msgClear
 	"""
-	I can't believe what
-	happened...
+	No puedo creer lo
+	que pasó...
 	"""
 	msgClear
 	"""
-	I hope Neige is
-	okay...
+	Espero que Neige
+	esté bien...
 	"""
 	end
 }
@@ -3628,19 +3641,19 @@ script 217 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	If the Settlement
-	was attacked,
+	Si el Asentamiento
+	fue atacado,
 	"""
 	msgClear
 	"""
-	we might be in
-	danger too.
+	nosotros también
+	podríamos estar
+	en peligro.
 	"""
 	msgClear
 	"""
-	I'll be extra
-	vigilant in my guard
-	duty!
+	¡Estaré más atento
+	en mi guardia!
 	"""
 	end
 }
@@ -3648,18 +3661,19 @@ script 218 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	It's a relief to
-	hear Neige is okay.
+	Es un alivio saber
+	que Neige está bien.
 	"""
 	msgClear
 	"""
-	But poor Craft...
+	Pero el pobre
+	Craft...
 	"""
 	msgClear
 	"""
-	I can understand
-	where he was coming
-	from though.
+	Aun así, puedo
+	entender su punto
+	de vista.
 	"""
 	end
 }
@@ -3667,26 +3681,25 @@ script 219 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	It looks like the
-	people at the
-	Settlement are
+	Parece que la gente
+	del Asentamiento
 	"""
 	msgClear
 	"""
-	finally starting to
-	understand us.
+	por fin empieza a
+	entendernos.
 	"""
 	msgClear
 	"""
-	I wonder if the day
-	when humans and
-	Reploids can live
+	Me pregunto si el
+	día en que humanos
+	y Reploides puedan
 	"""
 	msgClear
 	"""
-	together in peace is
-	closer than we
-	realize.
+	vivir juntos en paz
+	está más cerca de
+	lo que creemos.
 	"""
 	end
 }

@@ -310,74 +310,80 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	This is the point
-	where Craft
-	disappeared after
+	Este es el punto
+	donde Craft
+	desapareció tras
 	"""
 	msgClear
 	"""
-	taking Neige.
+	llevarse a Neige.
 	"""
 	msgClear
 	"""
-	This is probably the
-	forward base for
-	Ragnarok operations.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	So Neige is here...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Hey Zero...
+	Probablemente esta
+	sea la base avanzada
+	de operaciones
 	"""
 	msgClear
 	"""
-	Are we doing the
-	right thing?
+	de Ragnarok.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	You mean the people
-	in the Settlement?
+	Así que Neige está
+	aquí...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	Yeah...
-	Even if we help
-	Neige...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
-	What good will it do
-	if the people don't
-	open their hearts?
+	¿Estamos haciendo
+	lo correcto?
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 4
+	"""
+	¿Te refieres a la
+	gente del
+	Asentamiento?
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 59
+	"""
+	Sí...
+	Incluso si ayudamos
+	a Neige...
 	"""
 	msgClear
 	"""
-	I've been thinking
-	ever since I heard
-	about how much the
+	¿De qué servirá si
+	la gente no abre
+	su corazón?
 	"""
 	msgClear
 	"""
-	humans hate the
-	Reploids...
+	He estado pensando
+	desde que escuché
+	cuánto odian los
 	"""
 	msgClear
 	"""
-	I wonder if we can
-	make this world a
-	better place.
+	humanos a los
+	Reploides...
+	"""
+	msgClear
+	"""
+	Me pregunto si
+	podemos hacer de este
+	mundo un lugar mejor.
 	"""
 	end
 }
@@ -385,131 +391,147 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	An outside line.
-	It's coming from the
-	Settlement.
+	Una línea externa.
+	Proviene del
+	Asentamiento.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	Huh?
+	¿Eh?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	Patching it through.
+	Conectando.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 93
 	"""
-	Settlement youth:
-	"Come in Zero..."
+	Joven del
+	Asentamiento:
+	"¿Me oyes, Zero...?"
 	"""
 	msgClear
 	"""
-	"We can't do
-	 anything to save
+	"No podemos hacer
+	 nada para salvar a
 	 Neige."
 	"""
 	msgClear
 	"""
-	"We humans aren't as
-	 strong as you
-	 Reploids."
+	"Los humanos no
+	 somos tan fuertes
+	 como ustedes,
 	"""
 	msgClear
 	"""
-	"But you were
-	 right."
+	 Reploides."
 	"""
 	msgClear
 	"""
-	"If we abandon
-	 Neige, this whole
-	 Settlement means
+	"Pero tenías
+	 razón."
 	"""
 	msgClear
 	"""
-	 nothing."
+	"Si abandonamos a
+	 Neige, todo este
+	 Asentamiento no
 	"""
 	msgClear
 	"""
-	"From the moment we
-	 all decided to live
-	 free of Weil's
+	 significará nada."
 	"""
 	msgClear
 	"""
-	 rule, Neige has
-	 helped us too many
-	 times to count."
+	"Desde que todos
+	 decidimos vivir
+	 libres del dominio
 	"""
 	msgClear
 	"""
-	"We don't have the
-	 right to ask you
-	 this, but..."
+	 de Weil, Neige nos
+	 ha ayudado más
+	 veces de las que
 	"""
 	msgClear
 	"""
-	"Please save Neige
-	 for us."
+	 podemos contar."
 	"""
 	msgClear
 	"""
-	"If you really
-	 aren't like Weil
-	 and the others,
+	"No tenemos
+	 derecho a pedirte
+	 esto, pero..."
 	"""
 	msgClear
 	"""
-	 please lend us your
-	 strength!"
+	"Por favor, salva a
+	 Neige por
+	 nosotros."
+	"""
+	msgClear
+	"""
+	"Si de verdad no
+	 eres como Weil y
+	 los demás,
+	"""
+	msgClear
+	"""
+	 por favor
+	 préstanos tu
+	 fuerza."
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Zero!
+	¡Zero!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I will save Neige.
+	Salvaré a Neige.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 93
 	"""
-	Settlement youth:
-	"Thank you...
-	 and...good luck..."
+	Joven del
+	Asentamiento:
+	"Gracias...
+	"""
+	msgClear
+	"""
+	 y...buena suerte..."
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	Zero, we're ready
-	when you are.
+	Zero, estamos
+	listos cuando tú
+	lo estés.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
 	Zero...
-	Be careful out
-	there!
+	¡Ten cuidado ahí
+	fuera!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Operator,
-	transfer me.
+	Operadora,
+	transfiéreme.
 	"""
 	end
 }
@@ -1873,23 +1895,23 @@ script 106 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	I can't believe they
-	were planning to
-	attack using that
+	No puedo creer que
+	planearan atacar
+	usando esa
 	"""
 	msgClear
 	"""
-	flying fortress.
+	fortaleza voladora.
 	"""
 	msgClear
 	"""
-	Weil means business.
+	Weil va en serio.
 	"""
 	msgClear
 	"""
-	I can't believe he's
-	human. How can he
-	be so cruel?
+	No puedo creer que
+	sea humano. ¿Cómo
+	puede ser tan cruel?
 	"""
 	end
 }
@@ -1897,35 +1919,39 @@ script 107 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Artificial plants...
-	How ironic that the
-	very technology
+	Plantas
+	artificiales...
 	"""
 	msgClear
 	"""
-	meant to protect
-	nature is destroying
-	it.
+	Qué irónico que la
+	misma tecnología
+	destinada a proteger
 	"""
 	msgClear
 	"""
-	Humans are capable
-	of the most
-	wonderful and the
+	la naturaleza esté
+	destruyéndola.
 	"""
 	msgClear
 	"""
-	most terrifying
-	things with the
-	power of science.
+	Los humanos son
+	capaces de las cosas
+	más maravillosas y
+	"""
+	msgClear
+	"""
+	las más aterradoras
+	con el poder de la
+	ciencia.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	As a scientist, it
-	makes me shiver just
-	thinking about it.
+	Como científica,
+	me da escalofríos
+	solo pensarlo.
 	"""
 	end
 }
@@ -1961,17 +1987,17 @@ script 109 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Thank you Zero.
+	Gracias, Zero.
 	"""
 	msgClear
 	"""
-	You helped contain
-	the Cyber-elves.
+	Ayudaste a contener
+	a los Cyber-elfos.
 	"""
 	msgClear
 	"""
-	Now they can rest
-	in peace...
+	Ahora pueden
+	descansar en paz...
 	"""
 	end
 }
@@ -1979,20 +2005,20 @@ script 110 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	You managed to stop
-	the spreading noise.
+	Lograste detener
+	el ruido que se
+	estaba propagando.
 	"""
 	msgClear
 	"""
-	Good thing too
-	because if it
-	would've kept
+	Y menos mal, porque
+	si hubiera seguido
+	así, incluso este
 	"""
 	msgClear
 	"""
-	going, even this
-	trailer would've
-	been in danger.
+	tráiler habría
+	estado en peligro.
 	"""
 	end
 }
@@ -2065,62 +2091,67 @@ script 113 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Transfer complete.
+	Transferencia
+	completa.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	It's good to see you
-	back.
+	Me alegra verte de
+	vuelta.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Where's Neige?
+	¿Dónde está Neige?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	She went back to the
-	Settlement to tell
-	everyone thanks.
+	Volvió al
+	Asentamiento para
+	agradecerles a todos.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I see...
+	Ya veo...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	Do you think we
-	really helped the
-	humans?
+	¿Crees que de verdad
+	ayudamos a los
+	humanos?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I do...
+	Yo creo que sí...
 	"""
 	msgClear
 	"""
-	But we're not out of
-	it yet, there's
-	still work to do.
+	Pero aún no hemos
+	terminado, todavía
+	hay trabajo
+	"""
+	msgClear
+	"""
+	por hacer.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Right!
-	Let's put a stop to
-	Weil's evil plan!
+	¡Claro!
+	¡Detengamos el plan
+	malvado de Weil!
 	"""
 	end
 }
@@ -2192,21 +2223,21 @@ script 150 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	All missions are
-	complete.
+	Todas las misiones
+	han sido completadas.
 	"""
 	msgClear
 	"""
-	Area Zero's
-	situation is
-	nominal.
+	La situación en
+	Área Zero es
+	estable.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	It looks like I made
-	it in time then.
+	Parece que lo hice
+	a tiempo.
 	"""
 	end
 }
@@ -2214,13 +2245,12 @@ script 151 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	It looks like you
-	did!
+	¡Parece que sí!
 	"""
 	msgClear
 	"""
-	Now Area Zero is
-	safe.
+	Ahora Área Zero
+	está a salvo.
 	"""
 	end
 }
@@ -2228,13 +2258,13 @@ script 152 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	I saved your data
-	for you.
+	Guardé tus datos
+	por ti.
 	"""
 	msgClear
 	"""
-	Take a break, you
-	deserve one.
+	Tómate un descanso,
+	te lo mereces.
 	"""
 	end
 }
@@ -2242,12 +2272,12 @@ script 153 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Is everything okay?
+	¿Está todo bien?
 	"""
 	msgClear
 	"""
-	Take a break, you
-	deserve one.
+	Tómate un descanso,
+	te lo mereces.
 	"""
 	end
 }
@@ -2255,62 +2285,71 @@ script 154 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	I'm receiving word
-	from the Resistance
-	Base.
+	Estoy recibiendo
+	noticias de la
+	Base de la
 	"""
 	msgClear
 	"""
-	Opening channel.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 63
-	"""
-	Ciel! Zero!
-	It's terrible!
+	Resistencia.
 	"""
 	msgClear
 	"""
-	The base radar has
-	detected a large
-	energy signature!
-	"""
-	msgClear
-	"""
-	The signature is
-	coming from space!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Space!?
+	Abriendo canal.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 63
 	"""
-	The energy signature
-	is off the charts!
+	¡Ciel! ¡Zero!
+	¡Es terrible!
 	"""
 	msgClear
 	"""
-	It's heading...
-	Area Zero!
-	Get out...there!
+	¡El radar de la
+	base ha detectado
+	una enorme señal
+	"""
+	msgClear
+	"""
+	de energía!
+	"""
+	msgClear
+	"""
+	¡La señal proviene
+	del espacio!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	What is it!?
-	Respond!
+	¿¡Del espacio!?
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 63
+	"""
+	¡La señal de
+	energía está fuera
+	de escala!
 	"""
 	msgClear
 	"""
-	What's going on up
-	there!?
+	¡Se dirige...
+	a Área Zero!
+	¡Salgan... de ahí!
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 59
+	"""
+	¿¡Qué es eso!?
+	¡Responde!
+	"""
+	msgClear
+	"""
+	¿¡Qué está pasando
+	allá arriba!?
 	"""
 	end
 }
@@ -2318,21 +2357,21 @@ script 155 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Something's
-	overriding the
-	signal!
+	¡Algo está
+	interfiriendo con
+	la señal!
 	"""
 	msgClear
 	"""
-	The source is... Neo
-	Arcadia!
+	La fuente es...
+	¡Neo Arcadia!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 38
 	"""
 	???:
-	"Hehehe..."
+	"Jejeje..."
 	"""
 	msgClear
 	"""
@@ -2342,100 +2381,99 @@ script 155 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I knew it...
-	Dr. Weil!
+	Lo sabía...
+	¡Dr. Weil!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 86
 	"""
-	I told you Zero!
-	You don't have a
-	chance of stopping
+	¡Te lo dije, Zero!
+	¡No tienes ninguna
+	posibilidad de
 	"""
 	msgClear
 	"""
+	detener Ragnarok!
+	"""
+	msgClear
+	"""
+	¡Cubrir todo con un
+	manto de destrucción
+	desde la comodidad
+	"""
+	msgClear
+	"""
+	de mi cañón espacial
+	es para lo que
+	Ragnarok fue creado
+	"""
+	msgClear
+	"""
+	desde el principio!
+	"""
+	msgClear
+	"""
+	¡Los Ocho Guerreros
+	no fueron más que
+	una distracción
+	"""
+	msgClear
+	"""
+	mientras completaba
 	Ragnarok!
-	"""
-	msgClear
-	"""
-	Laying down a
-	blanket of
-	destruction from
-	"""
-	msgClear
-	"""
-	the comfort of my
-	space cannon was
-	what Ragnarok was
-	"""
-	msgClear
-	"""
-	built for the
-	whole time!
-	"""
-	msgClear
-	"""
-	The Eight Warriors
-	were nothing more
-	than a diversion
-	"""
-	msgClear
-	"""
-	until I could
-	complete Ragnarok!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Operator!
-	Can you transfer me
-	to Ragnarok?
+	¡Operadora!
+	¿Puedes transferirme
+	a Ragnarok?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	I'm sorry, I can't
-	pinpoint the
-	coordinates!
+	Lo siento, no puedo
+	determinar las
+	coordenadas!
 	"""
 	msgClear
 	"""
-	I can't send you
-	anywhere without a
-	destination!
+	¡No puedo enviarte a
+	ningún lugar sin un
+	destino!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 86
 	"""
-	Hehehe!
+	Jejeje!
 	Bwahahaha!
 	"""
 	msgClear
 	"""
-	Your confusion
-	thrills me to no
-	end!
+	¡Tu confusión me
+	entusiasma sin
+	límites!
 	"""
 	msgClear
 	"""
-	You pathetic
-	insects crawling
-	around getting
+	¡Insectos patéticos
+	arrastrándose y
+	emocionándose por
 	"""
 	msgClear
 	"""
-	excited about your
-	precious nature!
+	su preciosa
+	naturaleza!
 	"""
 	msgClear
 	"""
-	I want to hear you
-	scream as you meet
-	your doom!
+	¡Quiero oírlos
+	gritar cuando
+	encuentren su fin!
 	"""
 	end
 }
@@ -2444,19 +2482,19 @@ script 156 mmz4 {
 		mugshot = 38
 	"""
 	???:
-	"The only one that's
-	 doomed is you!"
+	"¡El único que está
+	 condenado eres tú!"
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 86
 	"""
-	How dare you!
+	¡Cómo te atreves!
 	"""
 	msgClear
 	"""
-	That voice...
-	Craft!?
+	Esa voz...
+	¿¡Craft!?
 	"""
 	end
 }
@@ -2466,18 +2504,18 @@ script 157 mmz4 {
 		mugshot = 38
 	"""
 	Craft:
-	"I've destroyed
-	 Ragnarok's remote
+	"He destruido el
+	 sistema de control
 	"""
 	msgClear
 	"""
-	 control system."
+	 remoto de Ragnarok."
 	"""
 	msgClear
 	"""
-	"I am no longer your
-	 dog to yank around
-	 by the chain!"
+	"¡Ya no soy tu
+	 perro al que tiras
+	 de la cadena!"
 	"""
 	end
 }
@@ -2485,89 +2523,94 @@ script 158 mmz4 {
 	mugshotShow
 		mugshot = 33
 	"""
-	Now I control
+	¡Ahora yo controlo
 	Ragnarok!
 	"""
 	msgClear
 	"""
-	Your space cannon
-	is no longer pointed
-	at Area Zero...
+	Tu cañón espacial
+	ya no apunta a
+	Área Zero...
 	"""
 	msgClear
 	"""
-	It's pointed at you
-	and Neo Arcadia!
+	¡Ahora apunta hacia
+	ti y Neo Arcadia!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 86
 	"""
-	Seduced by the sweet
-	words of a woman!
+	¡Seducido por las
+	dulces palabras de
+	una mujer!
 	"""
 	msgClear
 	"""
-	Unbelievable!
+	¡Increíble!
 	"""
 	msgClear
 	"""
-	You do realize how
-	many humans and
-	Reploids are living
+	¡¿Te das cuenta de
+	cuántos humanos y
+	Reploides viven
 	"""
 	msgClear
 	"""
-	under my control!
+	bajo mi control?!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	Are you saying I
-	should play the
-	loyal Reploid and
+	¿¡Estás diciendo
+	que debo ser un
+	Reploide leal y
 	"""
 	msgClear
 	"""
-	follow you!?
+	seguirte!?
 	"""
 	msgClear
 	"""
-	Not doing...
-	Not thinking...
+	Sin actuar...
+	Sin pensar...
 	"""
 	msgClear
 	"""
-	Just waiting at
-	your beck and call?
+	¿Solo esperando
+	tus órdenes?
 	"""
 	msgClear
 	"""
-	And are you
-	condoning the
-	destruction of
+	¿¡Y estás aprobando
+	la destrucción de la
+	naturaleza,
 	"""
 	msgClear
 	"""
-	nature, struggling
-	just to survive!?
+	luchando solo por
+	sobrevivir!?
 	"""
 	msgClear
 	"""
-	I... I will not let
-	you take control!
+	¡Yo... no permitiré
+	que tomes el control!
 	"""
 	msgClear
 	"""
-	I've fought too long
-	and too hard for
-	humanity to let you!
+	¡He luchado
+	demasiado y por
+	tanto tiempo por la
 	"""
 	msgClear
 	"""
-	I will change the
-	world!
+	humanidad como para
+	dejarte hacerlo!
+	"""
+	msgClear
+	"""
+	¡Cambiaré el mundo!
 	"""
 	end
 }
@@ -2575,58 +2618,58 @@ script 159 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	What!? So you're
-	going to attack Neo
-	Arcadia instead!?
+	¿¡Qué!? ¿¡Entonces
+	vas a atacar Neo
+	Arcadia en su lugar!?
 	"""
 	msgClear
 	"""
-	There are still
-	humans and Reploids
-	there!
+	¡Aún hay humanos y
+	Reploides allí!
 	"""
 	msgClear
 	"""
-	Come in Resistance
-	Base!
+	¡Base de la
+	Resistencia,
+	respondan!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 63
 	"""
 	..el!
-	Com...!
+	¡Com...!
 	Cie...
 	"""
 	msgClear
 	"""
-	Communication
-	restored!
-	Ciel, come in!
+	¡Comunicación
+	restablecida!
+	¡Ciel, responde!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	Get everyone in the
-	Resistance over to
+	¡Lleven a todos los
+	de la Resistencia a
 	Neo Arcadia!
 	"""
 	msgClear
 	"""
-	Get the humans and
-	Reploids out of
-	there!
+	¡Saquen a los
+	humanos y Reploides
+	de allí!
 	"""
 	msgClear
 	"""
-	Even if you have to
-	force them out, try
-	to save as many as
+	¡Aunque tengan que
+	forzarlos, intenten
+	salvar a tantos
 	"""
 	msgClear
 	"""
-	you can!
+	como puedan!
 	"""
 	end
 }
@@ -2634,50 +2677,50 @@ script 160 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Too many have
-	already seen enough
-	suffering...
+	Demasiados ya han
+	sufrido lo
+	suficiente...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 63
 	"""
-	Understood!
-	I will relay your
-	orders immediately!
+	¡Entendido!
+	¡Transmitiré tus
+	órdenes de inmediato!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	Preparations for
-	transfer to Ragnarok
-	complete!
+	¡Preparativos para
+	la transferencia a
+	Ragnarok completos!
 	"""
 	msgClear
 	"""
-	Since the
-	coordinates are
-	based on Craft's
+	Como las coordenadas
+	se basan en la señal
+	de Craft, esta será
 	"""
 	msgClear
 	"""
-	signal, this will be
-	a forced transfer.
-	Also, your position
+	una transferencia
+	forzada.
+	Además, tu posición
 	"""
 	msgClear
 	"""
-	will be somewhat
-	removed from Craft's
-	in the control room.
+	estará algo alejada
+	de la de Craft en
+	la sala de control.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Alright, just
-	transfer me...
+	Está bien, solo
+	transfiéreme...
 	"""
 	msgClear
 	"""
@@ -2685,14 +2728,14 @@ script 160 mmz4 {
 	"""
 	msgClear
 	"""
-	Don't give up
-	hope...
+	No pierdas la
+	esperanza...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	Zero!
+	¡Zero!
 	"""
 	end
 }
