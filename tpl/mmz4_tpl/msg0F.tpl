@@ -8,12 +8,12 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	It already fired!
+	¡Ya disparó!
 	"""
 	msgClear
 	"""
-	Ciel!
-	Respond!
+	¡Ciel!
+	¡Responde!
 	"""
 	msgClear
 	mugshotShow
@@ -25,9 +25,9 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	It's not working...
-	What's going on up
-	there?
+	No funciona...
+	¿Qué está pasando
+	ahí arriba?
 	"""
 	end
 }
@@ -36,62 +36,65 @@ script 11 mmz4 {
 		mugshot = 33
 	"""
 	Zero...
-	What are you doing
-	here?
+	¿Qué haces aquí?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I won't let you
-	fire again!
+	¡No dejaré que
+	dispares otra vez!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	You were after
-	Weil weren't you?
+	Viniste por
+	Weil, ¿no?
 	"""
 	msgClear
 	"""
-	Ragnarok is charging
-	up for a second
-	shot.
+	Ragnarok se está
+	cargando para un
+	segundo disparo.
 	"""
 	msgClear
 	"""
-	This will change the
-	world and the
-	people in it...
+	Esto cambiará el
+	mundo y a las
+	personas en él...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Do you think Neige
-	would approve of
-	what you're doing?
+	¿Crees que Neige
+	aprobaría lo que
+	estás haciendo?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	I know that what I'm
-	doing makes me
-	seem like Weil.
+	Sé que lo que hago
+	me hace parecerme
+	a Weil.
 	"""
 	msgClear
 	"""
-	I don't care if
-	people think I am
-	a Maverick!
+	¡No me importa si
+	la gente piensa
+	que soy un Maverick!
 	"""
 	msgClear
 	"""
-	Someone has to take
-	a stand and fix
-	humanity's course.
+	Alguien tiene que
+	dar un paso al frente
+	y cambiar el rumbo
+	"""
+	msgClear
+	"""
+	de la humanidad.
 	"""
 	end
 }
@@ -100,14 +103,14 @@ script 12 mmz4 {
 		mugshot = 33
 	"""
 	Zero...
-	I know what you're
-	trying to say...
+	Sé lo que intentas
+	decir...
 	"""
 	msgClear
 	"""
-	But lofty ideals
-	won't save any
-	lives!
+	¡Pero los ideales
+	nobles no salvarán
+	ninguna vida!
 	"""
 	end
 }
@@ -115,72 +118,82 @@ script 13 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	We're only Reploids
-	designed for war.
+	Solo somos
+	Reploides diseñados
+	para la guerra.
 	"""
 	msgClear
 	"""
-	It's not our place
-	to change the world.
+	No nos corresponde
+	cambiar el mundo.
 	"""
 	msgClear
 	"""
-	That's up to humans
-	like Ciel and Neige.
+	Eso depende de
+	humanos como Ciel
+	y Neige.
 	"""
 	msgClear
 	"""
-	As Reploids, we can
-	only lend strength
-	to those we trust.
+	Como Reploides,
+	solo podemos
+	prestar nuestra
+	"""
+	msgClear
+	"""
+	fuerza a quienes
+	confiamos.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	Trust? And just who
-	should I be
-	trusting?
+	¿Confiar? ¿Y en
+	quién debería
+	confiar?
 	"""
 	msgClear
 	"""
-	The humans that do
-	nothing while their
-	world falls apart?
+	¿En los humanos que
+	no hacen nada
+	mientras su mundo
 	"""
 	msgClear
 	"""
-	The humans that fear
-	us, their own
-	creations?
+	se desmorona?
 	"""
 	msgClear
 	"""
-	Or the humans that
-	try to conquer the
-	world?
+	¿En los humanos que
+	nos temen, a sus
+	propias creaciones?
 	"""
 	msgClear
 	"""
-	We fight each other
-	for them!?
+	¿O en los humanos
+	que intentan
+	conquistar el mundo?
 	"""
 	msgClear
 	"""
-	This world screams
-	out in pain under
-	them...
+	¿¡Peleamos entre
+	nosotros por ellos!?
 	"""
 	msgClear
 	"""
-	Why should I trust
-	anyone?
+	Este mundo grita de
+	dolor bajo ellos...
 	"""
 	msgClear
 	"""
-	How can you trust
-	them? How can you
-	fight?
+	¿Por qué debería
+	confiar en alguien?
+	"""
+	msgClear
+	"""
+	¿Cómo puedes confiar
+	en ellos? ¿Cómo
+	puedes luchar?
 	"""
 	end
 }
@@ -188,52 +201,53 @@ script 14 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I made a promise to
-	a friend I intend to
-	keep.
+	Hice una promesa a
+	un amigo y pienso
+	cumplirla.
 	"""
 	msgClear
 	"""
-	To someone who
-	believed harmony
-	between human and
+	A alguien que
+	creía que la
+	armonía entre
 	"""
 	msgClear
 	"""
-	Reploid was
-	possible.
+	humanos y
+	Reploides era
+	posible.
 	"""
 	msgClear
 	"""
-	I trust that friend.
+	Confío en ese
+	amigo.
 	"""
 	msgClear
 	"""
-	And I trust the
-	humans that friend
-	trusts...
+	Y confío en los
+	humanos en los que
+	ese amigo confía...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	I...see...
+	Ya...veo...
 	"""
 	msgClear
 	"""
-	I couldn't even
-	bring myself to
-	trust Neige...
+	Ni siquiera pude
+	llegar a confiar
+	en Neige...
 	"""
 	msgClear
 	"""
-	Even though she
-	has always only
-	told the truth...
+	Aunque siempre
+	dijo la verdad...
 	"""
 	msgClear
 	"""
-	Agh!
+	¡Agh!
 	"""
 	end
 }
@@ -241,32 +255,31 @@ script 15 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Craft!
+	¡Craft!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 33
 	"""
-	Leave my body...
-	here...
+	Deja mi cuerpo...
+	aquí...
 	"""
 	msgClear
 	"""
-	I can...no longer
-	face Neige...
+	Ya no puedo...ver
+	a Neige...
 	"""
 	msgClear
 	"""
-	I don't want...to
-	cause her to suffer
-	any more...
+	No quiero...hacerla
+	sufrir más...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	I will do as you
-	asked.
+	Haré lo que me
+	pediste.
 	"""
 	msgClear
 	mugshotShow
@@ -276,14 +289,14 @@ script 15 mmz4 {
 	"""
 	msgClear
 	"""
-	The humans...
-	The Reploids...
-	The world...
+	Los humanos...
+	Los Reploides...
+	El mundo...
 	"""
 	msgClear
 	"""
-	And Neige...
-	Watch...over them.
+	Y Neige...
+	Cuida...de ellos.
 	"""
 	msgClear
 	"""
@@ -303,7 +316,7 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Zero! Respond!"
+	Ciel:"¡Zero! ¡Responde!"
 	"""
 	end
 }
@@ -312,7 +325,7 @@ script 18 mmz4 {
 		mugshot = 4
 	"""
 	Ciel...
-	I stopped
+	Detuve
 	Ragnarok...
 	"""
 	end
@@ -321,7 +334,7 @@ script 19 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"And Craft?"
+	Ciel:"¿Y Craft?"
 	"""
 	end
 }
@@ -329,7 +342,7 @@ script 20 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	And Craft...
+	Y a Craft...
 	"""
 	end
 }
@@ -337,15 +350,11 @@ script 21 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"I'm sorry..."
+	Ciel:"Lo siento..."
 	"""
 	msgClear
 	"""
-	"I don't know
-	"""
-	msgClear
-	"""
-	 what to say..."
+	"No sé qué decir..."
 	"""
 	end
 }
@@ -353,13 +362,13 @@ script 22 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	You don't need to
-	say anything...
+	No tienes que
+	decir nada...
 	"""
 	msgClear
 	"""
-	Mission complete...
-	I'm coming back...
+	Misión cumplida...
+	Ya vuelvo...
 	"""
 	end
 }

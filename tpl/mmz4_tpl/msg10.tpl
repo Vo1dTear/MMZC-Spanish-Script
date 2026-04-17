@@ -5,30 +5,31 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"In order to send
-	 the transporter
+	Operadora:
+	"Para enviar las
+	 coordenadas del
 	"""
 	msgClear
 	"""
-	 coordinates, you're
-	 going to have to
-	 disable the base's
+	 teletransporte,
+	 tendrás que
+	 desactivar la
 	"""
 	msgClear
 	"""
-	 protection."
+	 protección de la
+	 base."
 	"""
 	msgClear
 	"""
-	"You can disable it
-	 by pulling all of
-	 the switches at the
+	"Puedes hacerlo
+	 accionando todos los
+	 interruptores al
 	"""
 	msgClear
 	"""
-	 end of each of the
-	 hallways."
+	 final de cada uno
+	 de los pasillos."
 	"""
 	end
 }
@@ -36,11 +37,15 @@ script 1 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator:"3 left."
+	Operadora:"Quedan 3."
 	"""
 	msgClear
 	"""
-	"Pull all the switches."
+	"Acciona todos los
+	"""
+	msgClear
+	"""
+	 interruptores."
 	"""
 	end
 }
@@ -48,11 +53,15 @@ script 2 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator:"2 left."
+	Operadora:"Quedan 2."
 	"""
 	msgClear
 	"""
-	"Pull all the switches."
+	"Acciona todos los
+	"""
+	msgClear
+	"""
+	 interruptores."
 	"""
 	end
 }
@@ -60,11 +69,11 @@ script 3 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator:"1 left."
+	Operadora:"Queda 1."
 	"""
 	msgClear
 	"""
-	"Pull that switch."
+	"Acciona ese interruptor."
 	"""
 	end
 }
@@ -72,31 +81,31 @@ script 4 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator:"Protection
+	Operadora:"Protección
 	"""
 	msgClear
 	"""
-	 disabled."
+	 desactivada."
 	"""
 	msgClear
 	"""
-	"I'll input the
+	"Ingresaré las
 	"""
 	msgClear
 	"""
-	 coordinates."
+	 coordenadas."
 	"""
 	msgClear
 	"""
-	"Return to the central
+	"Regresa a la sección
 	"""
 	msgClear
 	"""
-	 section and check the
+	 central y revisa el
 	"""
 	msgClear
 	"""
-	 transporter."
+	 teletransportador."
 	"""
 	end
 }
@@ -104,27 +113,27 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator:"Inputting
+	Operadora:"Ingresando
 	"""
 	msgClear
 	"""
-	 coordinates..."
+	 coordenadas..."
 	"""
 	msgClear
 	"""
-	"Done."
+	"Listo."
 	"""
 	msgClear
 	"""
-	Ciel:"Now you can reach
+	Ciel:"Ahora puedes llegar
 	"""
 	msgClear
 	"""
-	 Ragnarok, so get back
+	 a Ragnarok, así que vuelve
 	"""
 	msgClear
 	"""
-	 here ASAP."
+	 aquí lo antes posible."
 	"""
 	end
 }

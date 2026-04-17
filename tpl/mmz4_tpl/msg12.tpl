@@ -5,31 +5,31 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Zero! This isn't
+	Ciel:"¡Zero! ¡Esto no
 	"""
 	msgClear
 	"""
-	 good!"
+	 está bien!"
 	"""
 	msgClear
 	"""
-	"Ragnarok is speeding up!"
+	"¡Ragnarok está acelerando!"
 	"""
 	msgClear
 	"""
-	"If you can halt the core
+	"¡Si logras detener el
 	"""
 	msgClear
 	"""
-	 now, you might still be
+	 núcleo ahora, quizás aún
 	"""
 	msgClear
 	"""
-	 able to stop it!"
+	 puedas detenerlo!"
 	"""
 	msgClear
 	"""
-	"Hurry!"
+	"¡Date prisa!"
 	"""
 	end
 }
@@ -37,22 +37,22 @@ script 1 mmz4 {
 	mugshotShow
 		mugshot = 17
 	"""
-	Intruder sighted...
+	Intruso detectado...
 	"""
 	msgClear
 	"""
-	You defeated
-	Commander Craft...
+	Tú derrotaste al
+	Comandante Craft...
 	"""
 	msgClear
 	"""
-	You!?
+	¡¿Tú!?
 	"""
 	msgClear
 	"""
-	I will rid this
-	world of your
-	presence!
+	¡Eliminaré tu
+	presencia de este
+	mundo!
 	"""
 	end
 }
@@ -60,15 +60,15 @@ script 2 mmz4 {
 	mugshotShow
 		mugshot = 17
 	"""
-	I'm taking over
-	Ragnarok where Craft
-	left off.
+	Tomaré el control de
+	Ragnarok donde Craft
+	lo dejó.
 	"""
 	msgClear
 	"""
-	Now Ragnarok will
-	crush the foolish
-	humans!
+	¡Ahora Ragnarok
+	aplastará a los
+	humanos insensatos!
 	"""
 	end
 }
@@ -76,17 +76,18 @@ script 3 mmz4 {
 	mugshotShow
 		mugshot = 17
 	"""
-	What did Craft
-	entrust to you?
+	¿Qué fue lo que
+	Craft te confió?
 	"""
 	msgClear
 	"""
-	The future of the
-	foolish human race?
+	¿El futuro de la
+	insensata raza
+	humana?
 	"""
 	msgClear
 	"""
-	C-Commander!
+	¡C-Comandante!
 	"""
 	end
 }
@@ -94,38 +95,46 @@ script 4 mmz4 {
 	mugshotShow
 		mugshot = 19
 	"""
-	It looks like even
-	death is too good
-	for me...
+	Parece que ni la
+	muerte es suficiente
+	para mí...
 	"""
 	msgClear
 	"""
-	Death is the
-	defining moment
-	for a warrior.
+	La muerte es el
+	momento decisivo
+	para un guerrero.
 	"""
 	msgClear
 	"""
-	I will not lose
-	to you!
+	¡No perderé
+	ante ti!
 	"""
 	msgClear
 	"""
-	Zero! If you want to
-	stop Ragnarok, you
-	have to stop me!
+	¡Zero! ¡Si quieres
+	detener a Ragnarok,
+	tendrás que
 	"""
 	msgClear
 	"""
-	If you can't beat
-	me, how can you
-	protect the world!?
+	detenerme!
 	"""
 	msgClear
 	"""
-	Show me the power
-	that was able to
-	defeat Phantom!
+	Si no puedes
+	derrotarme, ¿¡cómo
+	vas a proteger el
+	"""
+	msgClear
+	"""
+	mundo!?
+	"""
+	msgClear
+	"""
+	¡Muéstrame el poder
+	con el que derrotaste
+	a Phantom!
 	"""
 	end
 }
@@ -133,14 +142,14 @@ script 5 mmz4 {
 	mugshotShow
 		mugshot = 19
 	"""
-	Is that all you were
-	capable of!?
+	¿¡Eso es todo lo que
+	eras capaz de hacer!?
 	"""
 	msgClear
 	"""
-	Then it is your
-	pathetic destiny to
-	be destroyed by
+	Entonces, tu
+	patético destino es
+	ser destruido por
 	"""
 	msgClear
 	"""
@@ -152,18 +161,18 @@ script 6 mmz4 {
 	mugshotShow
 		mugshot = 19
 	"""
-	Gragh!
-	There, that's it!
+	¡Gragh!
+	Ahí, eso es...
 	"""
 	msgClear
 	"""
-	G-go... There's no
-	need to see my
-	pathetic death...
+	V-ve... No hay
+	necesidad de que veas
+	mi patética muerte...
 	"""
 	msgClear
 	"""
-	Go Zero!
+	¡Ve, Zero!
 	"""
 	end
 }
@@ -171,26 +180,24 @@ script 7 mmz4 {
 	mugshotShow
 		mugshot = 21
 	"""
-	The satellites
-	falling from the
-	sky are like the
+	Los satélites que
+	caen del cielo son
+	como las Guerras
 	"""
 	msgClear
 	"""
-	Maverick Wars all
-	over again...
+	Maverick otra vez...
 	"""
 	msgClear
 	"""
-	It really is
-	Ragnarok, the end of
-	the world!
+	¡De verdad es
+	Ragnarok, el fin del
+	mundo!
 	"""
 	msgClear
 	"""
-	You stand on the
-	threshold of your
-	annihilation!
+	¡Estás al borde de
+	tu aniquilación!
 	"""
 	end
 }
@@ -198,15 +205,19 @@ script 8 mmz4 {
 	mugshotShow
 		mugshot = 21
 	"""
-	All of the fallen
-	Reploids are so
-	lovely...
+	Todos los Reploides
+	caídos son tan
+	hermosos...
 	"""
 	msgClear
 	"""
-	You should thank me.
-	I will help you die
-	a beautiful death!
+	Deberías darme las
+	gracias. ¡Te ayudaré
+	a tener una muerte
+	"""
+	msgClear
+	"""
+	hermosa!
 	"""
 	end
 }
@@ -214,21 +225,21 @@ script 9 mmz4 {
 	mugshotShow
 		mugshot = 21
 	"""
-	W-why!?
+	¿¡P-por qué!?
 	"""
 	msgClear
 	"""
-	Why struggle when
-	you know Ragnarok
-	will bring about
+	¿¡Por qué luchar
+	cuando sabes que
+	Ragnarok traerá
 	"""
 	msgClear
 	"""
-	your destruction!?
+	tu destrucción!?
 	"""
 	msgClear
 	"""
-	Graaagh!
+	¡Graaagh!
 	"""
 	end
 }
@@ -236,26 +247,30 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 23
 	"""
-	Ragnarok is the seed
-	of destruction which
-	will ripen and fall
+	Ragnarok es la
+	semilla de la
+	destrucción que
 	"""
 	msgClear
 	"""
-	from space carrying
-	with it the end of
-	this world.
+	madurará y caerá
+	desde el espacio,
+	trayendo consigo el
 	"""
 	msgClear
 	"""
-	It's perfectly
+	fin de este mundo.	
+	"""
+	msgClear
+	"""
+	Es perfectamente
 	natural.
 	"""
 	msgClear
 	"""
-	Everything on this
-	earth was born
-	doomed!
+	¡Todo en esta
+	tierra nació
+	condenado!
 	"""
 	end
 }
@@ -263,20 +278,20 @@ script 11 mmz4 {
 	mugshotShow
 		mugshot = 23
 	"""
-	Hehehe...
-	You were meant to
-	fall here.
+	Jejeje...
+	Estabas destinado a
+	caer aquí.
 	"""
 	msgClear
 	"""
-	All this time
-	protecting nature
-	and the only
+	¡Todo este tiempo
+	protegiendo la
+	naturaleza y lo
 	"""
 	msgClear
 	"""
-	unnatural thing
-	was you!
+	único antinatural
+	eras tú!
 	"""
 	end
 }
@@ -284,24 +299,24 @@ script 12 mmz4 {
 	mugshotShow
 		mugshot = 23
 	"""
-	Nooo!
-	Impossible!
+	¡Nooo!
+	¡Imposible!
 	"""
 	msgClear
 	"""
-	I won't be able to
-	witness the descent
-	of Ragnarok...
+	No podré
+	presenciar la
+	caída de Ragnarok...
 	"""
 	msgClear
 	"""
-	I will try to enjoy
-	this final glimpse
-	of the world before
+	Intentaré disfrutar
+	este último vistazo
+	del mundo antes de
 	"""
 	msgClear
 	"""
-	it ends...
+	su fin...
 	"""
 	end
 }
@@ -309,23 +324,23 @@ script 13 mmz4 {
 	mugshotShow
 		mugshot = 25
 	"""
-	Kyahaha!
-	Are you in a rush!?
+	¡Kyajaja!
+	¿¡Tienes prisa!?
 	"""
 	msgClear
 	"""
-	It doesn't matter,
-	it's already way
-	too late!
+	No importa,
+	¡ya es demasiado
+	tarde!
 	"""
 	msgClear
 	"""
-	You've got a date
-	with some fire!
+	¡Tienes una cita
+	con el fuego!
 	"""
 	msgClear
 	"""
-	Kyahahaha!
+	¡Kyajajaja!
 	"""
 	end
 }
@@ -333,19 +348,20 @@ script 14 mmz4 {
 	mugshotShow
 		mugshot = 25
 	"""
-	Kyahaha!
-	Aww, too bad!
+	¡Kyajaja!
+	¡Ay, qué pena!
 	"""
 	msgClear
 	"""
-	Looks like you and
-	everyone you were
-	trying to protect
+	¡Parece que tú y
+	todos los que
+	intentabas proteger
 	"""
 	msgClear
 	"""
-	are about to become
-	charcoal!
+	están a punto de
+	quedar hechos
+	carbón!
 	"""
 	end
 }
@@ -353,24 +369,28 @@ script 15 mmz4 {
 	mugshotShow
 		mugshot = 25
 	"""
-	How can you be so
-	calm? The world is
-	ending!
+	¿Cómo puedes estar
+	tan tranquilo? ¡El
+	mundo se está
 	"""
 	msgClear
 	"""
-	You should be more
-	worried! And
-	sweating all over!
+	acabando!
 	"""
 	msgClear
 	"""
-	You'll be blown away
-	by Ragnarok!
+	¡Deberías estar más
+	preocupado! ¡Y
+	sudando a mares!
 	"""
 	msgClear
 	"""
-	Kyahaha...haha!
+	¡Ragnarok te hará
+	volar por los aires!
+	"""
+	msgClear
+	"""
+	¡Kyajaja...jaja!
 	"""
 	end
 }
@@ -378,19 +398,20 @@ script 16 mmz4 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Yo! Looks like our
-	favorite hero is in
-	a hurry!
+	¡Oye! ¡Parece que
+	nuestro héroe
+	favorito tiene prisa!
 	"""
 	msgClear
 	"""
-	Don't be in such a
-	rush, stay with me
-	and watch the end of
+	¡No tengas tanta
+	prisa, quédate
+	conmigo y mira cómo
 	"""
 	msgClear
 	"""
-	the world unfold!
+	se desarrolla el fin
+	del mundo!
 	"""
 	end
 }
@@ -398,15 +419,15 @@ script 17 mmz4 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Grr! We've reached
-	the climax, how
-	exciting!
+	¡Grr! Llegamos al
+	clímax, ¡qué
+	emocionante!
 	"""
 	msgClear
 	"""
-	I'm getting chills
-	imagining the
-	screams!
+	¡Me dan escalofríos
+	de solo imaginar
+	los gritos!
 	"""
 	end
 }
@@ -414,29 +435,29 @@ script 18 mmz4 {
 	mugshotShow
 		mugshot = 27
 	"""
-	Hehe... You're
-	really tough when
-	you put your mind
+	Jeje... Eres
+	realmente fuerte
+	cuando te lo
 	"""
 	msgClear
 	"""
-	to it...
+	propones...
 	"""
 	msgClear
 	"""
-	Your little victory
-	won't stop
+	Tu pequeña victoria
+	no detendrá a
 	Ragnarok...
 	"""
 	msgClear
 	"""
-	I'll be waiting to
-	fight you again on
-	the other side...
+	Te estaré esperando
+	para pelear de nuevo
+	al otro lado...
 	"""
 	msgClear
 	"""
-	Grr!
+	¡Grr!
 	"""
 	end
 }
@@ -444,42 +465,46 @@ script 19 mmz4 {
 	mugshotShow
 		mugshot = 29
 	"""
-	Rrroar!
+	¡Rrroar!
 	"""
 	msgClear
 	"""
-	This time...
-	I will...
-	crush you!
+	¡Esta vez...
+	yo te...
+	aplastaré!
 	"""
 	msgClear
 	"""
-	With...you gone...
-	Ragnarok will...
-	destroy...the world.
+	Cuando...
+	desaparezcas...
+	Ragnarok...
 	"""
 	msgClear
 	"""
-	And Area Zero...
-	will be...too...
-	Then...
+	destruirá...el mundo.
+	Y Área Zero...
+	también...caerá...
+	"""
+	msgClear
+	"""
+	Luego...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Sorry, I don't have
-	time for this.
+	Lo siento, no tengo
+	tiempo para esto.
 	"""
 	msgClear
 	"""
-	Get out of my way.
+	Quítate de mi camino.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 29
 	"""
-	Rrroar!
+	¡Rrroar!
 	"""
 	end
 }
@@ -487,15 +512,15 @@ script 20 mmz4 {
 	mugshotShow
 		mugshot = 29
 	"""
-	Rrroar!
-	I did it!
-	I crushed...Zero!
+	¡Rrroar!
+	¡Lo logré!
+	¡Aplasté...a Zero!
 	"""
 	msgClear
 	"""
-	Now Ragnarok...
-	will crush...
-	the world!
+	¡Ahora Ragnarok...
+	aplastará...
+	el mundo!
 	"""
 	end
 }
@@ -503,27 +528,29 @@ script 21 mmz4 {
 	mugshotShow
 		mugshot = 29
 	"""
-	It's...too late...
+	Ya es...demasiado
+	tarde...
 	"""
 	msgClear
 	"""
-	Even with me gone...
-	Ragnarok will...
-	still cover...
+	Incluso si yo
+	desaparezco...
+	Ragnarok...
 	"""
 	msgClear
 	"""
-	the land...
+	aún cubrirá...
+	la tierra...
 	"""
 	msgClear
 	"""
-	You...and everyone
-	else will be...
-	crushed!
+	¡Tú...y todos los
+	demás serán...
+	aplastados!
 	"""
 	msgClear
 	"""
-	Rrroar!
+	¡Rrroar!
 	"""
 	end
 }
@@ -531,26 +558,25 @@ script 22 mmz4 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Left like this,
-	we're both going to
-	meet our ends by
+	Si esto sigue así,
+	ambos terminaremos
+	chocando contra
 	"""
 	msgClear
 	"""
-	slamming into the
-	ground below.
+	el suelo.
 	"""
 	msgClear
 	"""
-	I'd hate to let the
-	ground get to you
-	first when I could
+	¡Odiaría que el
+	suelo te alcance
+	primero cuando yo
 	"""
 	msgClear
 	"""
-	have the pleasure of
-	crushing you myself!
-	Kyakya!
+	podría tener el
+	placer de aplastarte
+	yo mismo! ¡Kyakya!
 	"""
 	end
 }
@@ -558,14 +584,15 @@ script 23 mmz4 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Kyakya!
-	That felt great!
+	¡Kyakya!
+	¡Eso se sintió
+	genial!
 	"""
 	msgClear
 	"""
-	That'll teach you
-	for insulting me!
-	Kyakya!
+	¡Eso te enseñará a
+	no insultarme!
+	¡Kyakya!
 	"""
 	end
 }
@@ -573,23 +600,24 @@ script 24 mmz4 {
 	mugshotShow
 		mugshot = 31
 	"""
-	H-how could this
-	be happening!?
+	¡¿C-cómo puede estar
+	pasando esto!?
 	"""
 	msgClear
 	"""
-	Why did I have to
-	taste defeat at the
-	hands of someone
+	¿¡Por qué tuve que
+	probar la derrota a
+	manos de alguien
 	"""
 	msgClear
 	"""
-	like you!?
+	como tú!?
 	"""
 	msgClear
 	"""
-	Unbelievable! Simply
-	unbelievable!
+	¡Increíble!
+	¡Simplemente
+	increíble!
 	"""
 	end
 }
@@ -597,8 +625,8 @@ script 25 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	So this is the
-	Ragnarok Core...
+	Así que este es el
+	núcleo de Ragnarok...
 	"""
 	end
 }
@@ -606,13 +634,17 @@ script 26 mmz4 {
 	mugshotShow
 		mugshot = 95
 	"""
-	Hehehe...
+	Jejeje...
 	"""
 	msgClear
 	"""
-	Welcome to your
-	front seat for the
-	end of the world!
+	¡Bienvenido a tu
+	asiento en primera
+	fila para el fin del
+	"""
+	msgClear
+	"""
+	mundo!
 	"""
 	end
 }
@@ -620,13 +652,13 @@ script 27 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	That voice...
-	Dr. Weil!
+	Esa voz...
+	¡Dr. Weil!
 	"""
 	msgClear
 	"""
-	How did you survive
-	that attack from
+	¿¡Cómo sobreviviste
+	a ese ataque de
 	Ragnarok!?
 	"""
 	end
@@ -636,116 +668,122 @@ script 28 mmz4 {
 		mugshot = 99
 	msgBottom
 	"""
-	Survive?
+	¿Sobrevivir?
 	"""
 	msgClear
 	"""
-	That's easy...
+	Es sencillo...
 	"""
 	msgClear
 	"""
-	Because I can't die!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	What happened
-	to you!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 99
-	"""
-	Hehehe...
-	Did my mechanical
-	body surprise you?
-	"""
-	msgClear
-	"""
-	Did you think that
-	I was a Reploid and
-	you could fight me?
-	"""
-	msgClear
-	"""
-	I'm sorry to
-	disappoint you, but
-	I'm pure human...
-	"""
-	msgClear
-	"""
-	Even with a body
-	that looks like
-	this!
+	¡Porque no puedo
+	morir!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	How!?
+	¿¡Qué te pasó!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 99
 	"""
-	When the Dark Elf
-	took control of the
-	Reploids and
+	Jejeje...
+	¿Te sorprendió mi
+	cuerpo mecánico?
 	"""
 	msgClear
 	"""
-	destroyed the
-	Mavericks in the
-	Elf Wars...
+	¿Pensaste que era un
+	Reploide y que
+	podrías enfrentarme?
 	"""
 	msgClear
 	"""
-	The humans of the
-	time modified me...
+	Lamento
+	decepcionarte, pero
+	soy un humano puro...
 	"""
 	msgClear
 	"""
-	They transferred all
-	of my memories to
-	program data...
+	¡Incluso con un
+	cuerpo como este!
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 4
+	"""
+	¿¡Cómo!?
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 99
+	"""
+	Cuando el Dark Elf
+	tomó el control de
+	los Reploides y
 	"""
 	msgClear
 	"""
-	And switched my body
-	for this armor with
-	the power to
+	destruyó a los
+	Mavericks en las
+	Guerras Élficas...
 	"""
 	msgClear
 	"""
-	rejuvenate me...
+	Los humanos de ese
+	tiempo me
+	modificaron...
 	"""
 	msgClear
 	"""
-	Do you have any idea
-	what that means?
+	Transfirieron todos
+	mis recuerdos a
+	datos de programa...
 	"""
 	msgClear
 	"""
-	I can't age, and
-	wounds heal more
-	quickly than normal.
+	Y cambiaron mi
+	cuerpo por esta
+	armadura con el
 	"""
 	msgClear
 	"""
-	After the war, I was
-	cursed to live an
-	eternity in a world
+	poder de
+	regenerarme...
 	"""
 	msgClear
 	"""
-	without light or
-	nature...
+	¿Tienes idea de lo
+	que significa eso?
 	"""
 	msgClear
 	"""
-	The humans expelled
-	me from Neo Arcadia!
+	No puedo envejecer,
+	y mis heridas sanan
+	más rápido de lo
+	"""
+	msgClear
+	"""
+	normal.
+	"""
+	msgClear
+	"""
+	Después de la guerra,
+	fui condenado a vivir
+	una eternidad en un
+	"""
+	msgClear
+	"""
+	mundo sin luz ni
+	naturaleza...
+	"""
+	msgClear
+	"""
+	¡Los humanos me
+	expulsaron de Neo
+	Arcadia!
 	"""
 	msgClear
 	mugshotShow
@@ -759,65 +797,70 @@ script 29 mmz4 {
 	mugshotShow
 		mugshot = 99
 	"""
-	Justice!?
-	Freedom!?
-	Worthless ideals!
+	¿¡Justicia!?
+	¿¡Libertad!?
+	¡Ideales inútiles!
 	"""
 	msgClear
 	"""
-	You Reploids are
-	just machines, but
-	you started a war a
+	¡Ustedes, Reploides,
+	son solo máquinas,
+	pero iniciaron una
 	"""
 	msgClear
 	"""
-	long time ago in the
-	name of freedom!
+	guerra hace mucho
+	tiempo en nombre de
+	la libertad!
 	"""
 	msgClear
 	"""
-	And humans! Look
-	what they did to me!
+	¡Y los humanos!
+	¡Mira lo que me
+	hicieron!
 	"""
 	msgClear
 	"""
-	Driving me away
-	while spouting the
-	word "justice!"
+	¡Me expulsaron mien-
+	tras proclamaban la
+	palabra "justicia"!
 	"""
 	msgClear
 	"""
-	Zero, would you
-	insist on saving
-	them!?
+	Zero, ¿¡insistes en
+	salvarlos!?
 	"""
 	msgClear
 	"""
-	Controlling the
-	Reploids is nothing!
+	¡Controlar a los
+	Reploides no es nada!
 	"""
 	msgClear
 	"""
-	The destruction of
-	all mankind is only
-	fleeting!
+	¡La destrucción de
+	toda la humanidad es
+	solo pasajera!
 	"""
 	msgClear
 	"""
-	Not quite alive...
-	Not quite dead...
-	Forever, by my side!
+	Ni vivo...
+	Ni muerto...
+	¡Para siempre, a mi
 	"""
 	msgClear
 	"""
-	I'll make you suffer
-	a fate far greater
-	than anything
+	lado!
 	"""
 	msgClear
 	"""
-	ever experienced
-	before!
+	¡Haré que sufras un
+	destino mucho peor
+	que cualquier cosa
+	"""
+	msgClear
+	"""
+	que hayas
+	experimentado antes!
 	"""
 	end
 }
@@ -825,23 +868,27 @@ script 30 mmz4 {
 	mugshotShow
 		mugshot = 103
 	"""
-	Bwahahaha!
+	¡Bwahahaha!
 	"""
 	msgClear
 	"""
-	I'll teach you
-	there is no place
-	for fools to hide!
+	¡Te enseñaré que no
+	hay lugar donde los
+	necios puedan
 	"""
 	msgClear
 	"""
-	Fools must live
-	under my rule and my
-	rule alone!
+	esconderse!
 	"""
 	msgClear
 	"""
-	Thanks to Ragnarok!
+	¡Los necios deben
+	vivir bajo mi mando
+	y solo el mío!
+	"""
+	msgClear
+	"""
+	¡Gracias a Ragnarok!
 	"""
 	end
 }
@@ -849,15 +896,15 @@ script 31 mmz4 {
 	mugshotShow
 		mugshot = 56
 	"""
-	Legend!?
-	Hero!?
-	Hah!
+	¿¡Leyenda!?
+	¿¡Héroe!?
+	¡Ja!
 	"""
 	msgClear
 	"""
-	Lie there like the
-	garbage you are!
-	Bwahahaha!
+	¡Quédate ahí como
+	la basura que eres!
+	¡Bwahahaha!
 	"""
 	end
 }
@@ -865,8 +912,8 @@ script 48 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Agh! I can't stop
-	the descent!
+	¡Agh! ¡No puedo
+	detener la caída!
 	"""
 	end
 }
@@ -874,23 +921,23 @@ script 49 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Zero! Reaching
+	Ciel:"¡Zero! ¡Alcanzando
 	"""
 	msgClear
 	"""
-	 critical speed!"
+	 velocidad crítica!"
 	"""
 	msgClear
 	"""
-	"If it goes any faster, I
+	"¡Si va más rápido, no
 	"""
 	msgClear
 	"""
-	 won't be able to get you
+	 podré traerte de
 	"""
 	msgClear
 	"""
-	 back! Hurry!"
+	 vuelta! ¡Date prisa!"
 	"""
 	end
 }
@@ -902,7 +949,8 @@ script 50 mmz4 {
 	"""
 	msgClear
 	"""
-	This isn't over yet!
+	¡Esto aún no ha
+	terminado!
 	"""
 	end
 }
@@ -910,27 +958,28 @@ script 51 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Weil!
+	¡Weil!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 55
 	"""
-	Hehehe...
+	Jejeje...
 	"""
 	msgClear
 	"""
-	Bwahahaha!
+	¡Bwahahaha!
 	"""
 	msgClear
 	"""
-	I told you...
-	I can't die!
+	Ya te lo dije...
+	¡No puedo morir!
 	"""
 	msgClear
 	"""
-	Nobody can stop
-	Ragnarok now!
+	¡Nadie puede
+	detener a Ragnarok
+	ahora!
 	"""
 	end
 }
@@ -938,11 +987,11 @@ script 52 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Z-Zero! There's no
+	Ciel:"¡Z-Zero! ¡No hay
 	"""
 	msgClear
 	"""
-	 time! Get back here!"
+	 tiempo! ¡Vuelve aquí!"
 	"""
 	end
 }
@@ -950,23 +999,27 @@ script 53 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	No, there is a way.
+	No, hay una forma.
 	"""
 	msgClear
 	"""
-	If I destroy Weil's
-	core, the explosion
-	will take Ragnarok
+	Si destruyo el
+	núcleo de Weil, la
+	explosión se llevará
 	"""
 	msgClear
 	"""
-	out with it...
+	a Ragnarok con él...
 	"""
 	msgClear
 	"""
-	If Ragnarok is blown
-	apart, it no longer
-	poses a threat!
+	¡Si Ragnarok es
+	destruido, ya no
+	representará una
+	"""
+	msgClear
+	"""
+	amenaza!
 	"""
 	end
 }
@@ -974,7 +1027,7 @@ script 54 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"But what about you?"
+	Ciel:"¿Pero qué hay de ti?"
 	"""
 	end
 }
@@ -982,29 +1035,30 @@ script 55 mmz4 {
 	mugshotShow
 		mugshot = 55
 	"""
-	Bwahahaha!
-	Are you even capable
-	of it!?
+	¡Bwahahaha!
+	¿¡Acaso eres capaz
+	de hacerlo!?
 	"""
 	msgClear
 	"""
-	The Reploid hero...
+	El héroe Reploide...
 	"""
 	msgClear
 	"""
-	Protecting justice
-	and humanity!
+	¡Protegiendo la
+	justicia y a la
+	humanidad!
 	"""
 	msgClear
 	"""
-	I am one of those
-	humans you were
-	sworn to protect!
+	¡Yo soy uno de esos
+	humanos que juraste
+	proteger!
 	"""
 	msgClear
 	"""
-	Do you have it in
-	you to defeat me!?
+	¿¡Tienes lo necesario
+	para derrotarme!?
 	"""
 	end
 }
@@ -1012,29 +1066,29 @@ script 56 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	I never cared about
-	justice, and I don't
-	recall ever calling
+	Nunca me importó la
+	justicia, y no
+	recuerdo haberme
 	"""
 	msgClear
 	"""
-	myself a hero...
+	llamado héroe...
 	"""
 	msgClear
 	"""
-	I have always only
-	fought for the
-	people I believe in.
+	Siempre he luchado
+	solo por las personas
+	en las que creo.
 	"""
 	msgClear
 	"""
-	I won't hesitate...
+	No dudaré...
 	"""
 	msgClear
 	"""
-	If an enemy appears
-	in front of me, I
-	will destroy it!
+	Si un enemigo
+	aparece frente a mí,
+	¡lo destruiré!
 	"""
 	end
 }
@@ -1042,7 +1096,7 @@ script 57 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Zero! Zero!"
+	Ciel:"¡Zero! ¡Zero!"
 	"""
 	end
 }
@@ -1054,7 +1108,7 @@ script 58 mmz4 {
 	"""
 	msgClear
 	"""
-	Believe in me!
+	¡Confía en mí!
 	"""
 	end
 }
@@ -1062,7 +1116,7 @@ script 59 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Zerooo!!!"
+	Ciel:"¡¡¡Zerooo!!!"
 	"""
 	end
 }
@@ -1070,24 +1124,29 @@ script 60 mmz4 {
 	mugshotShow
 		mugshot = 56
 	"""
-	Live out an eternity
-	of suffering fool!
+	¡Vive una eternidad
+	de sufrimiento,
+	necio!
 	"""
 	msgClear
 	"""
-	I will be the first
-	entry in a glorious
-	new history!
+	¡Seré la primera
+	entrada en una
+	nueva y gloriosa
 	"""
 	msgClear
 	"""
-	Remember the name
-	Dr. Weil! The world,
-	everything, mine...
+	historia!
 	"""
 	msgClear
 	"""
-	Forever!
+	¡Recuerda el nombre
+	del Dr. Weil! El
+	mundo, todo, mío...
+	"""
+	msgClear
+	"""
+	¡Para siempre!
 	"""
 	end
 }

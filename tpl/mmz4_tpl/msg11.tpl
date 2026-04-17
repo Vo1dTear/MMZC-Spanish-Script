@@ -5,38 +5,38 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	So this is the
-	inside of the
-	Teleporter Circuit?
+	¿Así que este es el
+	interior del Circuito
+	de Teletransporte?
 	"""
 	msgClear
 	"""
-	It looks a lot like
-	Cyberspace.
+	Se parece mucho al
+	Ciberespacio.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 36
 	"""
-	Operator:
-	"Zero! Come in!"
+	Operadora:
+	"¡Zero! ¡Adelante!"
 	"""
 	msgClear
 	"""
-	"The circuit leads
-	 to Ragnarok."
+	"El circuito lleva
+	 a Ragnarok."
 	"""
 	msgClear
 	"""
-	"It looks like the
-	 enemy is there
-	 too."
+	"Parece que el
+	 enemigo también
+	 está allí."
 	"""
 	msgClear
 	"""
-	"Destroy the
-	 protection program
-	 up ahead."
+	"Destruye el programa
+	 de protección que
+	 está más adelante."
 	"""
 	end
 }
@@ -44,26 +44,27 @@ script 2 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	This is the
-	protection program?
+	¿Este es el
+	programa de
+	protección?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 38
 	"""
-	Beep... Beep...
-	Circuit intrusion
-	detected...
+	Bip... Bip...
+	Intrusión en el
+	circuito detectada...
 	"""
 	msgClear
 	"""
-	Protection
-	activated...
+	Protección
+	activada...
 	"""
 	msgClear
 	"""
-	Eliminating
-	intruder...
+	Eliminando
+	intruso...
 	"""
 	end
 }
@@ -71,23 +72,23 @@ script 3 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator:"Protection has
+	Operadora:"La protección ha
 	"""
 	msgClear
 	"""
-	 been disabled..."
+	 sido desactivada..."
 	"""
 	msgClear
 	"""
-	"You can head to Ragnarok
+	"¡Ahora puedes ir a Ragnarok
 	"""
 	msgClear
 	"""
-	 any time now!"
+	 en cualquier momento!"
 	"""
 	msgClear
 	"""
-	"Zero, hurry back."
+	"Zero, vuelve rápido."
 	"""
 	end
 }
