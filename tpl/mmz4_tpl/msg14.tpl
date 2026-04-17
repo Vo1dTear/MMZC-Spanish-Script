@@ -9,11 +9,11 @@ script 0 mmz4 {
 	"""
 	msgClear
 	"""
-	is...
+	se está...
 	"""
 	msgClear
 	"""
-	breaking apart...
+	desmoronando...
 	"""
 	end
 }
@@ -22,37 +22,38 @@ script 1 mmz4 {
 		mugshot = 34
 	msgTop
 	"""
-	Ragnarok has entered
-	the atmosphere.
+	Ragnarok ha entrado
+	en la atmósfera.
 	"""
 	msgClear
 	"""
-	Most of it will
-	burn up on
-	entry...
+	La mayor parte
+	se quemará al
+	ingresar...
 	"""
 	msgClear
 	"""
-	Impact with Area
-	Zero has been
-	averted.
+	El impacto con
+	Área Zero ha sido
+	evitado.
 	"""
 	msgClear
 	"""
-	Mission...
-	successful...
+	Misión...
+	completada...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	msgBottom
 	"""
-	Zero! Come in Zero!
+	¡Zero! ¡Responde,
+	Zero!
 	"""
 	msgClear
 	"""
-	Zero... please...
-	Come in...
+	Zero... por favor...
+	Responde...
 	"""
 	end
 }
@@ -61,13 +62,13 @@ script 2 mmz4 {
 		mugshot = 34
 	msgTop
 	"""
-	There's no response
-	from the receiver...
+	No hay respuesta
+	del receptor...
 	"""
 	msgClear
 	"""
-	The connection has
-	been lost...
+	La conexión se ha
+	perdido...
 	"""
 	end
 }
@@ -84,7 +85,7 @@ script 4 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Ciel!
+	¡Ciel!
 	"""
 	end
 }
@@ -93,8 +94,8 @@ script 5 mmz4 {
 		mugshot = 49
 	msgBottom
 	"""
-	Oh!
-	A shooting star!
+	¡Oh!
+	¡Una estrella fugaz!
 	"""
 	end
 }
@@ -103,9 +104,9 @@ script 6 mmz4 {
 		mugshot = 49
 	msgBottom
 	"""
-	Wow, look!
-	A lot of shooting
-	stars!
+	¡Guau, mira!
+	¡Muchas estrellas
+	fugaces!
 	"""
 	end
 }
@@ -113,13 +114,14 @@ script 7 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	No, those are pieces
-	of Ragnarok...
+	No, esos son
+	fragmentos de
+	Ragnarok...
 	"""
 	msgClear
 	"""
-	Does this mean...
-	we're saved?
+	¿Eso significa que...
+	estamos a salvo?
 	"""
 	msgClear
 	mugshotShow
@@ -138,8 +140,8 @@ script 8 mmz4 {
 		mugshot = 12
 	"""
 	...
-	Did you...
-	reach Zero?
+	¿Lograste...
+	contactar con Zero?
 	"""
 	msgClear
 	mugshotShow
@@ -157,33 +159,33 @@ script 9 mmz4 {
 	"""
 	msgClear
 	"""
-	Zero, why...
+	Zero, por qué...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 64
 	"""
-	How could this
-	happen...
+	Cómo pudo
+	pasar esto...
 	"""
 	msgClear
 	"""
-	After saving all of
-	us...
+	Después de salvarnos
+	a todos...
 	"""
 	msgClear
 	"""
-	And just when humans
-	and Reploids were
-	finally coming
+	Y justo cuando
+	humanos y Reploides
+	por fin estaban
 	"""
 	msgClear
 	"""
-	together...
+	unidos...
 	"""
 	msgClear
 	"""
-	What do we do now?
+	¿Qué haremos ahora?
 	"""
 	msgClear
 	mugshotShow
@@ -203,12 +205,13 @@ script 10 mmz4 {
 	mugshotShow
 		mugshot = 58
 	"""
-	It's okay...
+	Está bien...
 	"""
 	msgClear
 	"""
-	I'm sure Zero is...
-	still out there...
+	Estoy segura de que
+	Zero aún está...
+	ahí fuera...
 	"""
 	end
 }
@@ -216,8 +219,8 @@ script 11 mmz4 {
 	mugshotShow
 		mugshot = 6
 	"""
-	And one day he'll
-	come back to us!
+	¡Y algún día volverá
+	con nosotros!
 	"""
 	end
 }
@@ -235,45 +238,47 @@ script 13 mmz4 {
 	msgBottom
 	"""
 	Zero...
-	You believed in
+	Tú creíste en
+	nosotros...
 	us...
 	"""
 	msgClear
 	"""
-	Now it's our turn to
-	show you that your
-	faith in us was not
+	Ahora es nuestro
+	turno de demostrarte
+	que tu confianza en
 	"""
 	msgClear
 	"""
-	misplaced...
+	nosotros no fue
+	en vano...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 6
 	"""
-	Watch Zero...
-	I'll make this world
-	a better place...
+	Mira, Zero...
+	Haré de este mundo
+	un lugar mejor...
 	"""
 	msgClear
 	"""
-	One where humans and
-	Reploids can walk
-	hand in hand, living
+	Uno donde humanos y
+	Reploides puedan
+	caminar de la mano,
 	"""
 	msgClear
 	"""
-	in peace...
+	viviendo en paz...
 	"""
 	msgClear
 	"""
-	Just come back
-	someday... I...
+	Solo vuelve algún
+	día... Yo...
 	"""
 	msgClear
 	"""
-	I believe in you!
+	¡Creo en ti!
 	"""
 	end
 }

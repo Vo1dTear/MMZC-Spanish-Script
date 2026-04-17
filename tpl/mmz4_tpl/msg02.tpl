@@ -492,14 +492,14 @@ script 30 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	I would've never
-	thought to use the
-	Transporter Base.
+	Nunca se me habría
+	ocurrido usar la
+	Base de Transporte.
 	"""
 	msgClear
 	"""
-	Neige knows her
-	stuff.
+	Neige sabe lo que
+	hace.
 	"""
 	end
 }
@@ -513,9 +513,9 @@ script 31 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	It's going to be
-	dangerous out there,
-	so watch yourself.
+	Será peligroso allá
+	afuera, así que
+	cuídate.
 	"""
 	end
 }
@@ -523,14 +523,18 @@ script 32 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	The transporter
-	circuit is a lot
-	like Cyberspace.
+	El circuito de
+	teletransporte es
+	muy similar al
 	"""
 	msgClear
 	"""
-	Just be careful in
-	there Zero.
+	Ciberespacio.
+	"""
+	msgClear
+	"""
+	Solo ten cuidado
+	allí dentro, Zero.
 	"""
 	end
 }
@@ -538,9 +542,13 @@ script 33 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Find a way to
-	disable that
-	protection program.
+	Encuentra la forma
+	de desactivar ese
+	programa de
+	"""
+	msgClear
+	"""
+	protección.
 	"""
 	end
 }
@@ -548,13 +556,12 @@ script 34 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Zero, keep it up...
+	Zero, sigue así...
 	"""
 	msgClear
 	"""
-	You're just one step
-	away from saving
-	everyone.
+	Estás a un paso de
+	salvar a todos.
 	"""
 	end
 }
@@ -563,7 +570,7 @@ script 35 mmz4 {
 		mugshot = 59
 	"""
 	Zero...
-	Stay safe...
+	Cuídate...
 	"""
 	end
 }
@@ -1163,14 +1170,14 @@ script 77 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	It's been a long
-	and tough fight...
+	Ha sido una lucha
+	larga y dura...
 	"""
 	msgClear
 	"""
-	But, I think you
-	made the right
-	decision.
+	Pero creo que
+	tomaste la decisión
+	correcta.
 	"""
 	end
 }
@@ -1182,15 +1189,15 @@ script 78 mmz4 {
 	"""
 	msgClear
 	"""
-	I'm so sorry that
-	all I can do is help
-	you with new weapons
+	Lo siento mucho que
+	solo pueda ayudarte
+	con nuevas armas
 	"""
 	msgClear
 	"""
-	and chips. I feel
-	terrible leaving all
-	the fighting to you.
+	y chips. Me siento
+	mal por dejarte toda
+	la lucha a ti.
 	"""
 	end
 }
@@ -1198,28 +1205,29 @@ script 79 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Hey Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
-	It looks like you've
-	managed to disable
-	the protection
+	Parece que lograste
+	desactivar la
+	protección
 	"""
 	msgClear
 	"""
-	surrounding the
-	Teleporter Base.
+	que rodea la Base de
+	Teletransporte.
 	"""
 	msgClear
 	"""
-	Now all that's left
-	is the protection
-	program blocking
+	Ahora solo queda el
+	programa de
+	protección que
 	"""
 	msgClear
 	"""
-	access to Ragnarok.
+	bloquea el acceso a
+	Ragnarok.
 	"""
 	end
 }
@@ -1227,21 +1235,25 @@ script 80 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	It's said that the
-	inside of the
-	circuit is like
+	Se dice que el
+	interior del
+	circuito es como
 	"""
 	msgClear
 	"""
-	Cyberspace, but the
-	big difference is
-	that Elves won't
+	el Ciberespacio,
+	pero la gran
+	diferencia es que
 	"""
 	msgClear
 	"""
-	automatically
-	activate in the
-	circuit.
+	los Elfos no se
+	activarán
+	automáticamente en
+	"""
+	msgClear
+	"""
+	el circuito.
 	"""
 	end
 }
@@ -1249,13 +1261,17 @@ script 81 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Hey Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
-	Good job taking out
-	that protection
-	program.
+	Buen trabajo al
+	eliminar ese
+	programa de
+	"""
+	msgClear
+	"""
+	protección.
 	"""
 	end
 }
@@ -1263,8 +1279,8 @@ script 82 mmz4 {
 	mugshotShow
 		mugshot = 13
 	"""
-	Zero, the time has
-	come.
+	Zero, ha llegado
+	el momento.
 	"""
 	msgClear
 	"""
@@ -1272,15 +1288,15 @@ script 82 mmz4 {
 	"""
 	msgClear
 	"""
-	I'm so sorry that
-	all I can do is help
-	you with new weapons
+	Lo siento mucho que
+	solo pueda ayudarte
+	con nuevas armas
 	"""
 	msgClear
 	"""
-	and chips. I feel
-	terrible leaving all
-	the fighting to you.
+	y chips. Me siento
+	mal por dejarte toda
+	la lucha a ti.
 	"""
 	end
 }
@@ -1288,27 +1304,27 @@ script 90 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Oh, Zero!
+	¡Oh, Zero!
 	"""
 	msgClear
 	"""
-	Check this Elf out.
+	Mira este Elfo.
 	"""
 	msgClear
 	"""
-	It's actually really
-	handy, but you can't
-	use it in Hard Mode.
+	Es muy útil, pero
+	no puedes usarlo en
+	Modo Difícil.
 	"""
 	msgClear
 	"""
-	Sorry Zero...
+	Lo siento, Zero...
 	"""
 	msgClear
 	"""
-	I know you can't use
-	it, but it still
-	needs a name...
+	Sé que no puedes
+	usarlo, pero igual
+	necesita un nombre...
 	"""
 	end
 }
@@ -1316,66 +1332,68 @@ script 91 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Let me explain.
+	Déjame explicarte.
 	"""
 	msgClear
 	"""
-	This new Elf can
-	copy the abilities
-	of other Elves.
+	Este nuevo Elfo
+	puede copiar las
+	habilidades de
 	"""
 	msgClear
 	"""
-	In fact, it can
-	handle up to 3 at a
-	time!
+	otros Elfos.
 	"""
 	msgClear
 	"""
-	Here's where it gets
-	a little tricky.
+	¡De hecho, puede
+	usar hasta 3 a la
+	vez!
 	"""
 	msgClear
 	"""
-	The Elf has
-	something called a
-	max level.
+	Aquí se complica
+	un poco.
 	"""
 	msgClear
 	"""
-	If the 3 ability
-	levels combined
-	exceed the max,
+	El Elfo tiene algo
+	llamado nivel
+	máximo.
 	"""
 	msgClear
 	"""
-	then you lose a
-	point for each
-	level over the max.
+	Si la suma de los
+	niveles supera el
+	máximo,
 	"""
 	msgClear
 	"""
-	In other words, as
-	long as you keep the
-	combined levels
+	pierdes un punto
+	por cada nivel de
+	exceso.
 	"""
 	msgClear
 	"""
-	below the max
-	level, you don't
-	lose any points!
+	¡Es decir, si los
+	niveles combinados
 	"""
 	msgClear
 	"""
-	There's probably
-	also a way to raise
-	the max level.
+	no superan el máximo,
+	no pierdes puntos!
 	"""
 	msgClear
 	"""
-	Of course, it can't
-	be used in Hard
-	Mode...
+	También debe haber
+	una forma de subir
+	el nivel máximo.
+	"""
+	msgClear
+	"""
+	Claro, no puede
+	usarse en
+	Modo Difícil...
 	"""
 	end
 }
@@ -1383,28 +1401,28 @@ script 92 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Oh, Zero!
+	¡Oh, Zero!
 	"""
 	msgClear
 	"""
-	Take a look, this
-	Elf's a real beaut!
+	Mira esto, ¡este
+	Elfo es increíble!
 	"""
 	msgClear
 	"""
-	It's Ultimate Mode,
-	so it can use
-	several abilities
+	¡Es Modo Ultimate,
+	así que puede usar
+	varias habilidades
 	"""
 	msgClear
 	"""
-	at the same time!
+	al mismo tiempo!
 	"""
 	msgClear
 	"""
-	Oh yeah, Zero!
-	Could you help me
-	with the name?
+	¡Oh sí, Zero!
+	¿Me ayudas con el
+	nombre?
 	"""
 	end
 }
@@ -1412,69 +1430,72 @@ script 93 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Let me explain.
+	Déjame explicarte.
 	"""
 	msgClear
 	"""
-	This new Elf can
-	copy the abilities
-	of other Elves.
+	Este nuevo Elfo
+	puede copiar las
+	habilidades de
 	"""
 	msgClear
 	"""
-	It can handle a lot
-	of abilities at the
-	same time!
+	otros Elfos.
 	"""
 	msgClear
 	"""
-	Here's where it gets
-	a little tricky.
+	¡Puede usar muchas
+	habilidades a la
+	vez!
 	"""
 	msgClear
 	"""
-	The Elf has
-	something called a
-	max level.
+	Aquí se complica
+	un poco.
 	"""
 	msgClear
 	"""
-	If the 3 ability
-	levels combined
-	exceed the max,
+	El Elfo tiene algo
+	llamado nivel
+	máximo.
 	"""
 	msgClear
 	"""
-	then you lose a
-	point for each
-	level over the max.
+	Si la suma de los
+	niveles supera el
+	máximo,
 	"""
 	msgClear
 	"""
-	In other words, as
-	long as you keep the
-	combined levels
+	pierdes un punto
+	por cada nivel de
+	exceso.
 	"""
 	msgClear
 	"""
-	below the max
-	level, you don't
-	lose any points!
+	En otras palabras,
+	si mantienes los
+	niveles combinados
 	"""
 	msgClear
 	"""
-	Well, then again
-	because it's
-	Ultimate Mode, you
+	por debajo del
+	máximo, no pierdes
+	puntos.
 	"""
 	msgClear
 	"""
-	don't have to worry
-	about the max level.
+	Pero en Modo
+	Ultimate no tienes
+	que preocuparte por
 	"""
 	msgClear
 	"""
-	Use it well!
+	el nivel máximo.
+	"""
+	msgClear
+	"""
+	¡Úsalo bien!
 	"""
 	end
 }
@@ -2154,13 +2175,13 @@ script 136 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
-	What'll happen to us
-	if Ragnarok crashes
-	down?
+	¿Qué pasará con
+	nosotros si Ragnarok
+	se estrella?
 	"""
 	end
 }
@@ -2168,7 +2189,8 @@ script 137 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	I'm scared Zero...
+	Tengo miedo,
+	Zero...
 	"""
 	end
 }
@@ -2176,23 +2198,22 @@ script 138 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
-	Why does Weil keep
-	doing bad things?
+	¿Por qué Weil sigue
+	haciendo cosas malas?
 	"""
 	msgClear
 	"""
-	He used Crea and
-	Prea too!
+	¡También usó a Crea
+	y Prea!
 	"""
 	msgClear
 	"""
-	I hope he gets
-	what's coming to
-	him!
+	¡Ojalá reciba lo que
+	se merece!
 	"""
 	end
 }
@@ -2200,15 +2221,14 @@ script 139 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Speaking of them, do
-	you think Crea and
-	Prea are getting
+	Hablando de ellas,
+	¿crees que Crea y
+	Prea se llevan bien
 	"""
 	msgClear
 	"""
-	along with the
-	Mother Elf? I hope
-	so!
+	con Mother Elf?
+	¡Eso espero!
 	"""
 	end
 }
@@ -2216,19 +2236,18 @@ script 140 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Hey Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
-	When you and Ciel
-	have free time, we
-	should all go and
+	Cuando tú y Ciel
+	tengan tiempo libre,
+	deberíamos ir a
 	"""
 	msgClear
 	"""
-	check out Area Zero
-	together. Let's
-	promise!
+	ver Área Zero
+	juntos. ¡Prometido!
 	"""
 	end
 }
@@ -2236,8 +2255,8 @@ script 141 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Zero, don't forget
-	our promise!
+	Zero, ¡no olvides
+	nuestra promesa!
 	"""
 	end
 }
@@ -2245,29 +2264,29 @@ script 142 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Oh Zero!
+	¡Oh, Zero!
 	"""
 	msgClear
 	"""
-	Check this Elf out,
-	isn't it great!?
+	Mira este Elfo,
+	¿no es genial?
 	"""
 	msgClear
 	"""
-	It's Easy Mode, so
-	you don't even have
-	to give it
+	¡Es Modo Fácil, así
+	que no necesitas
+	darle
 	"""
 	msgClear
 	"""
-	E-Crystals to use
-	its abilities!
+	E-Crystals para
+	usar sus
+	habilidades!
 	"""
 	msgClear
 	"""
-	Oh yeah! Zero, I
-	thought of a name
-	for it...
+	¡Ah, sí! Zero, ya
+	pensé un nombre...
 	"""
 	end
 }
@@ -2275,19 +2294,23 @@ script 143 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Let me explain.
+	Déjame explicarte.
 	"""
 	msgClear
 	"""
-	This new Elf can
-	copy the abilities
-	of other Elves.
+	Este nuevo Elfo
+	puede copiar las
+	habilidades de
 	"""
 	msgClear
 	"""
-	In fact, it can
-	handle up to 3 at a
-	time!
+	otros Elfos.
+	"""
+	msgClear
+	"""
+	¡De hecho, puede
+	usar hasta 3 a la
+	vez!
 	"""
 	msgClear
 	"""
@@ -2856,21 +2879,21 @@ script 174 mmz4 {
 	"""
 	msgClear
 	"""
-	Back when I was
-	traveling around the
-	world, I saw a lot
+	Cuando viajaba por
+	el mundo, vi mucha
+	de la devastación
 	"""
 	msgClear
 	"""
-	of the devastation
-	caused by war with
-	my own two eyes.
+	causada por la
+	guerra con mis
+	propios ojos.
 	"""
 	msgClear
 	"""
-	I can understand now
-	why Neige hates war
-	so much.
+	Ahora puedo entender
+	por qué Neige odia
+	tanto la guerra.
 	"""
 	msgClear
 	"""
@@ -2878,14 +2901,14 @@ script 174 mmz4 {
 	"""
 	msgClear
 	"""
-	I wonder if humans
-	and Reploids will
-	ever be able to live
+	Me pregunto si
+	humanos y Reploides
+	algún día podrán
 	"""
 	msgClear
 	"""
-	together in peace
-	again?
+	vivir juntos en paz
+	de nuevo.
 	"""
 	end
 }
@@ -2897,20 +2920,25 @@ script 175 mmz4 {
 	"""
 	msgClear
 	"""
-	I have a feeling we
-	still have a lot
-	left to do.
+	Tengo la sensación
+	de que aún nos
+	queda mucho por
 	"""
 	msgClear
 	"""
-	We need to pool our
-	strength if we want
-	to bring peace back
+	hacer.
 	"""
 	msgClear
 	"""
-	to this war-torn
-	world.
+	Debemos unir
+	nuestras fuerzas si
+	queremos devolver
+	"""
+	msgClear
+	"""
+	la paz a este mundo
+	devastado por la
+	guerra.
 	"""
 	end
 }
@@ -2918,27 +2946,27 @@ script 176 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Zero!
+	¡Zero!
 	"""
 	msgClear
 	"""
-	You're going to
-	enter Ragnarok from
-	the Teleporter
+	¿Vas a entrar a
+	Ragnarok desde el
+	Circuito de
 	"""
 	msgClear
 	"""
-	Circuit?
+	Teletransporte?
 	"""
 	msgClear
 	"""
-	That's nothing I've
-	ever experienced, so
-	I can't tell you
+	Es algo que nunca
+	he experimentado,
+	así que no puedo
 	"""
 	msgClear
 	"""
-	much about it...
+	decirte mucho...
 	"""
 	end
 }
@@ -2946,13 +2974,9 @@ script 177 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Tell me what it's
-	like inside the
-	circuit when you
-	"""
-	msgClear
-	"""
-	get back.
+	Cuéntame cómo es
+	dentro del circuito
+	cuando regreses.
 	"""
 	end
 }
@@ -2961,23 +2985,23 @@ script 178 mmz4 {
 		mugshot = 41
 	"""
 	Zero...
-	It's time...
+	Ha llegado
+	el momento...
 	"""
 	msgClear
 	"""
-	You're the only one
-	that can protect
-	this world of ours
+	Eres el único que
+	puede proteger este
+	mundo nuestro
 	"""
 	msgClear
 	"""
-	from the power of
+	del poder de
 	Ragnarok...
 	"""
 	msgClear
 	"""
-	Take care of
-	yourself!
+	¡Cuídate!
 	"""
 	end
 }
@@ -2986,8 +3010,8 @@ script 179 mmz4 {
 		mugshot = 41
 	"""
 	Zero...
-	Play it safe and
-	come back to us!
+	Ten cuidado y
+	¡vuelve con nosotros!
 	"""
 	end
 }
@@ -3054,33 +3078,33 @@ script 182 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
+	¡Hola, Zero!
 	"""
 	msgClear
 	"""
-	Have you heard about
-	the Weather Changer?
+	¿Has oído sobre el
+	Cambiador de Clima?
 	"""
 	msgClear
 	"""
-	Let me just briefly
-	explain it...
+	Déjame explicártelo
+	rápidamente...
 	"""
 	msgClear
 	"""
-	It's an orbiting
-	satellite capable of
-	altering the very
+	Es un satélite en
+	órbita capaz de
+	alterar el propio
 	"""
 	msgClear
 	"""
-	weather, but since
-	this is Easy Mode,
-	you can't use it.
+	clima, pero como es
+	Modo Fácil, no
+	puedes usarlo.
 	"""
 	msgClear
 	"""
-	Sorry...
+	Lo siento...
 	"""
 	end
 }
@@ -3088,14 +3112,14 @@ script 183 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	You can't use EX
-	Skills in Easy
-	Mode...
+	No puedes usar
+	EX Skills en
+	Modo Fácil...
 	"""
 	end
 }
@@ -3103,9 +3127,9 @@ script 184 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	If you beat Easy
-	Mode, challenge
-	Normal Mode next!
+	Si completas el
+	Modo Fácil, ¡prueba
+	el Modo Normal!
 	"""
 	end
 }
@@ -3113,14 +3137,14 @@ script 185 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	Even if you beat an
-	enemy in Easy Mode,
-	they won't drop any
+	Aunque derrotes a
+	un enemigo en Modo
+	Fácil, no dejará
 	"""
 	msgClear
 	"""
@@ -3128,13 +3152,14 @@ script 185 mmz4 {
 	"""
 	msgClear
 	"""
-	If you wanna know
-	why, it's because
-	Elves can't be
+	Si quieres saber
+	por qué, es porque
+	los Elfos no pueden
 	"""
 	msgClear
 	"""
-	raised in Easy Mode.
+	mejorarse en
+	Modo Fácil.
 	"""
 	end
 }
@@ -3142,33 +3167,33 @@ script 186 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
+	¡Hola, Zero!
 	"""
 	msgClear
 	"""
-	Have you heard about
-	the Weather Changer?
+	¿Has oído sobre el
+	Cambiador de Clima?
 	"""
 	msgClear
 	"""
-	Let me just briefly
-	explain it...
+	Déjame explicártelo
+	rápidamente...
 	"""
 	msgClear
 	"""
-	It's an orbiting
-	satellite capable of
-	altering the very
+	Es un satélite en
+	órbita capaz de
+	alterar el propio
 	"""
 	msgClear
 	"""
-	weather, but since
-	this is Hard Mode,
-	you can't use it.
+	clima, pero como es
+	Modo Difícil, no
+	puedes usarlo.
 	"""
 	msgClear
 	"""
-	Sorry...
+	Lo siento...
 	"""
 	end
 }
@@ -3176,14 +3201,14 @@ script 187 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	You can't use EX
-	Skills in Hard
-	Mode...
+	No puedes usar 
+	EX Skills en
+	Modo Difícil...
 	"""
 	end
 }
@@ -3191,24 +3216,24 @@ script 188 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	You can't use the
-	Saber's Triple or
-	Charge Attacks in
+	No puedes usar los
+	ataques Triple ni
+	cargados del Saber
 	"""
 	msgClear
 	"""
-	Hard Mode!
+	en Modo Difícil!
 	"""
 	msgClear
 	"""
-	You can still charge
-	the Zero Knuckle up
-	though!
+	Pero aún puedes
+	cargar el Zero
+	Knuckle!
 	"""
 	end
 }
@@ -3216,20 +3241,20 @@ script 189 mmz4 {
 	mugshotShow
 		mugshot = 41
 	"""
-	Hey there, Zero!
-	Have you heard?
+	¡Hola, Zero!
+	¿Te enteraste?
 	"""
 	msgClear
 	"""
-	There's no point to
-	gathering E-Crystals
-	in Hard Mode.
+	No tiene sentido
+	reunir E-Crystals en
+	Modo Difícil.
 	"""
 	msgClear
 	"""
-	The simple reason is
-	because you can't
-	even use Elves!
+	La razón es simple,
+	¡ni siquiera puedes
+	usar Elfos!
 	"""
 	end
 }
@@ -3711,8 +3736,8 @@ script 222 mmz4 {
 	"""
 	msgClear
 	"""
-	You did good out
-	there.
+	Lo hiciste bien
+	allá afuera.
 	"""
 	end
 }
@@ -3720,9 +3745,13 @@ script 223 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	I'll keep watch
-	until we're sure the
-	threat is over.
+	Me quedaré vigilando
+	hasta que estemos
+	seguros de que la
+	"""
+	msgClear
+	"""
+	amenaza terminó.
 	"""
 	end
 }
@@ -3734,20 +3763,24 @@ script 224 mmz4 {
 	"""
 	msgClear
 	"""
-	Can you really use
-	the Teleporter Base
-	to reach Ragnarok?
+	¿De verdad puedes
+	usar la Base de
+	Teletransporte para
 	"""
 	msgClear
 	"""
-	I was surprised to
-	learn that Neo
-	Arcadia made such
+	llegar a Ragnarok?
 	"""
 	msgClear
 	"""
-	remarkable advances
-	in technology.
+	Me sorprendió saber
+	que Neo Arcadia
+	logró avances tan
+	"""
+	msgClear
+	"""
+	notables en
+	tecnología.
 	"""
 	end
 }
@@ -3755,14 +3788,14 @@ script 225 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	I'm sorry that
-	you're the one that
-	always ends up
+	Lo siento que seas
+	tú quien siempre
+	termina teniendo
 	"""
 	msgClear
 	"""
-	having to risk your
-	life for us...
+	que arriesgar su
+	vida por nosotros...
 	"""
 	end
 }
@@ -3774,9 +3807,9 @@ script 226 mmz4 {
 	"""
 	msgClear
 	"""
-	I know it won't be
-	easy, but watch it
-	out there...
+	Sé que no será fácil,
+	pero ten cuidado
+	allá afuera...
 	"""
 	end
 }
@@ -3784,9 +3817,9 @@ script 227 mmz4 {
 	mugshotShow
 		mugshot = 43
 	"""
-	I'll be waiting here
-	for your safe
-	return!
+	¡Estaré aquí
+	esperando tu regreso
+	sano y salvo!
 	"""
 	end
 }

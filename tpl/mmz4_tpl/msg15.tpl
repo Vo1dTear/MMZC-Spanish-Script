@@ -232,33 +232,32 @@ script 18 mmz4 {
 		mugshot = 9
 	"""
 	Zero...
-	Thank you...
+	Gracias...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 97
 	"""
-	Craft heard me,
-	right?
+	Craft me escuchó,
+	¿verdad?
 	"""
 	msgClear
 	"""
-	Before the end,he
-	changed back to the
-	old Craft I knew
+	Antes del final,
+	volvió a ser el
+	Craft que conocía
 	"""
 	msgClear
 	"""
-	and loved, didn't
-	he?
+	y amaba, ¿no?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 9
 	"""
-	Thank you...
-	It's all because of
-	your help...
+	Gracias...
+	Todo es gracias a
+	tu ayuda...
 	"""
 	end
 }
@@ -270,14 +269,15 @@ script 19 mmz4 {
 	"""
 	msgClear
 	"""
-	This leads to the
-	Teleporter Base
-	doesn't it?
+	Esto lleva a la Base
+	de Teletransporte,
+	¿verdad?
 	"""
 	msgClear
 	"""
-	It's dangerous, so
-	please be careful...
+	Es peligroso, así
+	que por favor ten
+	cuidado...
 	"""
 	end
 }
@@ -289,14 +289,15 @@ script 20 mmz4 {
 	"""
 	msgClear
 	"""
-	You're humanity's
-	last hope.
+	Eres la última
+	esperanza de la
+	humanidad.
 	"""
 	msgClear
 	"""
-	You're the only one
-	that can save this
-	world.
+	Eres el único que
+	puede salvar este
+	mundo.
 	"""
 	end
 }
@@ -308,17 +309,17 @@ script 21 mmz4 {
 	"""
 	msgClear
 	"""
-	I wonder what would
-	have happened if you
-	weren't here.
+	Me pregunto qué
+	habría pasado si
+	no estuvieras aquí.
 	"""
 	msgClear
 	"""
-	Please...
+	Por favor...
 	"""
 	msgClear
 	"""
-	Watch over us.
+	Cuida de nosotros.
 	"""
 	end
 }
@@ -330,38 +331,38 @@ script 22 mmz4 {
 	"""
 	msgClear
 	"""
-	You've finally come
-	this far...
+	Por fin has llegado
+	tan lejos...
 	"""
 	msgClear
 	"""
-	You truly are a
-	legend...
+	De verdad eres una
+	leyenda...
 	"""
 	msgClear
 	"""
-	As a journalist,
-	or just even as a
-	human being,
+	Como periodista,
+	o incluso como
+	ser humano,
 	"""
 	msgClear
 	"""
-	I have thousands of
-	questions, but those
-	can all wait for
+	tengo miles de
+	preguntas, pero
+	pueden esperar
 	"""
 	msgClear
 	"""
-	another day.
+	para otro día.
 	"""
 	msgClear
 	"""
-	Zero... Just...
+	Zero... Solo...
 	"""
 	msgClear
 	"""
-	Make sure you come
-	back in one piece.
+	Asegúrate de volver
+	de una pieza.
 	"""
 	end
 }
@@ -373,8 +374,8 @@ script 23 mmz4 {
 	"""
 	msgClear
 	"""
-	Make sure you come
-	back in one piece.
+	Asegúrate de volver
+	de una pieza.
 	"""
 	end
 }
@@ -562,13 +563,13 @@ script 46 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	Hey Zero...
+	Oye, Zero...
 	"""
 	msgClear
 	"""
-	I hope humans and
-	Reploids can live
-	together in peace.
+	Espero que humanos y
+	Reploides puedan
+	vivir juntos en paz.
 	"""
 	end
 }
@@ -576,15 +577,21 @@ script 47 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	Area Zero's not much
-	now, but someday I
-	hope it becomes a
+	Área Zero no es
+	mucho ahora, pero
+	algún día espero que
 	"""
 	msgClear
 	"""
-	place we can be
-	proud to bring the
-	Neo Arcadians to.
+	se convierta en un
+	lugar del que
+	podamos sentirnos
+	"""
+	msgClear
+	"""
+	orgullosos de
+	traer a los
+	Neoarcadianos.
 	"""
 	end
 }
@@ -592,24 +599,24 @@ script 48 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	I have to admit I
-	was surprised to
-	learn that you were
+	Debo admitir que me
+	sorprendió saber
+	que eras el
 	"""
 	msgClear
 	"""
-	the legendary Zero.
+	legendario Zero.
 	"""
 	msgClear
 	"""
-	It's not really
-	surprising anymore
-	now that I know you
+	Ya no me sorprende
+	tanto ahora que te
+	conozco mejor, y
 	"""
 	msgClear
 	"""
-	better, and for that
-	I'm grateful...
+	por eso estoy
+	agradecido...
 	"""
 	end
 }
@@ -617,17 +624,17 @@ script 49 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	For the legendary
-	Reploid, I was
-	picturing someone a
+	Para el legendario
+	Reploide, imaginaba
+	a alguien un poco
 	"""
 	msgClear
 	"""
-	little more evil.
+	más malvado.
 	"""
 	msgClear
 	"""
-	Someone more like
+	Alguien más como
 	Weil.
 	"""
 	end
@@ -636,12 +643,12 @@ script 50 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	I owe you a lot.
+	Te debo mucho.
 	"""
 	msgClear
 	"""
-	All of us here at
-	the Settlement do.
+	Todos aquí en el
+	Asentamiento también.
 	"""
 	end
 }
@@ -649,12 +656,13 @@ script 51 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	Zero!
+	¡Zero!
 	"""
 	msgClear
 	"""
-	We'll never forget
-	what you did for us!
+	¡Nunca olvidaremos
+	lo que hiciste por
+	nosotros!
 	"""
 	end
 }
@@ -865,15 +873,14 @@ script 74 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	I didn't think
-	humans and Reploids
-	would ever be able
+	No creí que humanos
+	y Reploides pudieran
+	volver a vivir
 	"""
 	msgClear
 	"""
-	to live together in
-	peace again, but
-	maybe someday...
+	juntos en paz, pero
+	tal vez algún día...
 	"""
 	end
 }
@@ -881,15 +888,15 @@ script 75 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	I want to make the
-	Settlement the kind
-	of peaceful place
+	Quiero hacer del
+	Asentamiento un
+	lugar tan pacífico
 	"""
 	msgClear
 	"""
-	Neige can bring
-	people from Neo
-	Arcadia to.
+	que Neige pueda
+	traer a la gente
+	de Neo Arcadia.
 	"""
 	end
 }
@@ -897,19 +904,20 @@ script 76 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	It's still early,
-	but this place is
-	the gathering of our
+	Aún es temprano,
+	pero este lugar es
+	la reunión de
 	"""
 	msgClear
 	"""
-	hopes and dreams...
+	nuestras esperanzas
+	y sueños...
 	"""
 	msgClear
 	"""
-	Someday it might
-	become a thriving
-	paradise.
+	Algún día podría
+	convertirse en un
+	próspero paraíso.
 	"""
 	end
 }
@@ -921,37 +929,41 @@ script 77 mmz4 {
 	"""
 	msgClear
 	"""
-	We humans used to
-	live under the
-	protection of
+	Nosotros, los
+	humanos, solíamos
+	vivir bajo la
 	"""
 	msgClear
 	"""
-	Neo Arcadia...
-	We escaped after the
-	place was
+	protección de Neo
+	Arcadia...
+	Escapamos después de
 	"""
 	msgClear
 	"""
-	transformed by
-	Dr.Weil. Soon, we
-	realized how
+	que el lugar fuera
+	transformado por el
+	Dr. Weil. Pronto
 	"""
 	msgClear
 	"""
-	difficult it was
-	surviving on our
-	own.
+	nos dimos cuenta de
+	lo difícil que era
+	sobrevivir por
 	"""
 	msgClear
 	"""
-	But I don't regret
-	anything...
+	nuestra cuenta.
 	"""
 	msgClear
 	"""
-	Our future lies here
-	in Area Zero.
+	Pero no me arrepiento
+	de nada...
+	"""
+	msgClear
+	"""
+	Nuestro futuro está
+	aquí, en Área Zero.
 	"""
 	end
 }
@@ -959,23 +971,24 @@ script 78 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	Thank you Zero...
+	Gracias, Zero...
 	"""
 	msgClear
 	"""
-	You've helped us to
-	realize our mistake.
+	Nos has ayudado a
+	darnos cuenta de
+	nuestro error.
 	"""
 	msgClear
 	"""
-	Even if we weren't
-	attacked by Neo
-	Arcadia, we would
+	Aunque Neo Arcadia
+	no nos hubiera
+	atacado, igual
 	"""
 	msgClear
 	"""
-	have been torn
-	apart...
+	nos habríamos
+	desmoronado...
 	"""
 	end
 }
@@ -987,20 +1000,21 @@ script 79 mmz4 {
 	"""
 	msgClear
 	"""
-	You know, we
-	wouldn't mind you
-	dropping by again.
+	Sabes, no nos
+	molestaría que
+	volvieras a pasar.
 	"""
 	msgClear
 	"""
-	We'll join together
-	and transform this
-	land into a
+	Nos uniremos para
+	transformar esta
+	tierra en un
 	"""
 	msgClear
 	"""
-	wonderful place for
-	humans and Reploids.
+	maravilloso lugar
+	para humanos y
+	Reploides.
 	"""
 	end
 }
@@ -1229,13 +1243,13 @@ script 102 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	I wanna be strong
-	like you someday...
+	Quiero ser fuerte
+	como tú algún día...
 	"""
 	msgClear
 	"""
-	Then I can protect
-	everyone too!
+	¡Así también podré
+	proteger a todos!
 	"""
 	end
 }
@@ -1243,14 +1257,14 @@ script 103 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	If I do become
-	strong someday...
+	Si algún día me
+	vuelvo fuerte...
 	"""
 	msgClear
 	"""
-	I'll never use my
-	power for wrong like
-	Neo Arcadia!
+	¡Nunca usaré mi
+	poder para el mal
+	como Neo Arcadia!
 	"""
 	end
 }
@@ -1258,13 +1272,13 @@ script 104 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	My mom and pop are
-	still in Neo
+	Mi mamá y mi papá
+	aún están en Neo
 	Arcadia...
 	"""
 	msgClear
 	"""
-	But I'm okay!
+	¡Pero estoy bien!
 	"""
 	end
 }
@@ -1272,8 +1286,8 @@ script 105 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	I'm tough, so I
-	don't need them!
+	¡Soy fuerte, así que
+	no los necesito!
 	"""
 	end
 }
@@ -1281,18 +1295,18 @@ script 106 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Mister...
+	Señor...
 	"""
 	msgClear
 	"""
-	When we're not at
-	war, are you
-	gonna leave us?
+	Cuando ya no estemos
+	en guerra, ¿te
+	irás?
 	"""
 	msgClear
 	"""
-	It's gonna be lonely
-	without you around.
+	Será muy solitario
+	sin ti...
 	"""
 	end
 }
@@ -1300,13 +1314,13 @@ script 107 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	I'll be stronger by
-	the next time you
-	see me!
+	¡La próxima vez que
+	me veas, seré más
+	fuerte!
 	"""
 	msgClear
 	"""
-	I promise.
+	Lo prometo.
 	"""
 	end
 }
@@ -1561,24 +1575,26 @@ script 130 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Ever since Dr. Weil
-	took over, Neo
-	Arcadia has been
+	Desde que el Dr.
+	Weil tomó el control,
+	Neo Arcadia se ha
 	"""
 	msgClear
 	"""
-	filled with horror
-	and fear...
+	llenado de horror
+	y miedo...
 	"""
 	msgClear
 	"""
-	My eyes still water
-	when I remember the
-	suffering of those
+	Aún se me llenan los
+	ojos de lágrimas al
+	recordar el
 	"""
 	msgClear
 	"""
-	around me...
+	sufrimiento de
+	quienes me
+	rodeaban...
 	"""
 	end
 }
@@ -1586,19 +1602,19 @@ script 131 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	I've never talked
-	to Reploids since
-	the time one of them
+	Nunca hablé con
+	Reploides desde que
+	uno de ellos
 	"""
 	msgClear
 	"""
-	killed my parents...
+	mató a mis padres...
 	"""
 	msgClear
 	"""
-	After meeting you,
-	I know there are
-	some good Reploids.
+	Después de conocerte,
+	sé que hay algunos
+	Reploides buenos.
 	"""
 	end
 }
@@ -1606,14 +1622,14 @@ script 132 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Once my life outside
-	gets back on track,
-	I want to bring my
+	Una vez que mi vida
+	fuera se estabilice,
+	quiero traer a mis
 	"""
 	msgClear
 	"""
-	brothers out here
-	from Neo Arcadia.
+	hermanos aquí desde
+	Neo Arcadia.
 	"""
 	end
 }
@@ -1621,14 +1637,15 @@ script 133 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	I wonder how my
-	brothers are doing
-	now...
+	Me pregunto cómo
+	estarán mis hermanos
+	ahora...
 	"""
 	msgClear
 	"""
-	I can't wait to see
-	them again.
+	No puedo esperar
+	para verlos de
+	nuevo.
 	"""
 	end
 }
@@ -1636,28 +1653,29 @@ script 134 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Area Zero...
+	Área Zero...
 	"""
 	msgClear
 	"""
-	Without nature...
-	Without hope...
+	Sin naturaleza...
+	Sin esperanza...
 	"""
 	msgClear
 	"""
-	Everybody had given
-	up on this world...
+	Todos habían
+	renunciado a este
+	mundo...
 	"""
 	msgClear
 	"""
-	But the world had
-	not given up.
+	Pero el mundo no
+	había renunciado.
 	"""
 	msgClear
 	"""
-	This place is the
-	start of a new
-	beginning.
+	Este lugar es el
+	comienzo de un
+	nuevo inicio.
 	"""
 	msgClear
 	"""
@@ -1665,15 +1683,19 @@ script 134 mmz4 {
 	"""
 	msgClear
 	"""
-	Now, humans and
-	Reploids must work
-	together to preserve
+	Ahora, humanos y
+	Reploides deben
+	trabajar juntos
 	"""
 	msgClear
 	"""
-	this precious
-	opportunity for
-	future generations.
+	para preservar esta
+	valiosa oportunidad
+	para las futuras
+	"""
+	msgClear
+	"""
+	generaciones.
 	"""
 	end
 }
@@ -1681,20 +1703,21 @@ script 135 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	When I first left
-	Neo Arcadia, I never
-	thought I would
+	Cuando salí por
+	primera vez de Neo
+	Arcadia, nunca
 	"""
 	msgClear
 	"""
-	trust a Reploid.
-	Zero, if there are
-	others like you,
+	pensé que confiaría
+	en un Reploide.
+	Zero, si hay otros
 	"""
 	msgClear
 	"""
-	humanity is in good
-	hands...
+	como tú, la
+	humanidad está en
+	buenas manos...
 	"""
 	end
 }
@@ -1938,19 +1961,23 @@ script 158 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Mr. Zero...
+	Sr. Zero...
 	"""
 	msgClear
 	"""
-	I was so filled with
-	worry when I first
-	left Neo Arcadia,
+	Estaba muy
+	preocupada cuando
+	salí de Neo Arcadia
 	"""
 	msgClear
 	"""
-	but now I know I can
-	make it in Area
-	Zero.
+	por primera vez,
+	pero ahora sé que
+	puedo lograrlo en
+	"""
+	msgClear
+	"""
+	Área Zero.
 	"""
 	end
 }
@@ -1958,17 +1985,18 @@ script 159 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Mr. Zero...
+	Sr. Zero...
 	"""
 	msgClear
 	"""
-	I wonder if the
-	human heart can heal
-	the way nature in
+	Me pregunto si el
+	corazón humano puede
+	sanar como la
 	"""
 	msgClear
 	"""
-	Area Zero does...
+	naturaleza en
+	Área Zero...
 	"""
 	end
 }
@@ -1976,18 +2004,18 @@ script 160 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Mr. Zero...
+	Sr. Zero...
 	"""
 	msgClear
 	"""
-	Thanks to you, I see
-	smiles on the faces
-	of people here at
+	Gracias a usted,
+	vuelvo a ver sonrisas
+	en los rostros de la
 	"""
 	msgClear
 	"""
-	the Settlement
-	again...
+	gente aquí en el
+	Asentamiento...
 	"""
 	end
 }
@@ -1995,36 +2023,37 @@ script 161 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Yesterday I went
-	walking outside the
-	Settlement and found
+	Ayer salí a caminar
+	fuera del
+	Asentamiento y
 	"""
 	msgClear
 	"""
-	a four-leaf clover!
+	¡encontré un trébol
+	de cuatro hojas!
 	"""
 	msgClear
 	"""
-	My grandma used to
-	tell me how
-	four-leaf clovers
+	Mi abuela solía
+	decirme que los
+	tréboles de cuatro
 	"""
 	msgClear
 	"""
-	reminded her of her
-	gentle Reploid
-	teacher...
+	hojas le recordaban
+	a su amable profesor
+	Reploide...
 	"""
 	msgClear
 	"""
-	I wonder if humans
-	and Reploids will
-	live together in
+	Me pregunto si
+	humanos y Reploides
+	volverán a vivir en
 	"""
 	msgClear
 	"""
-	harmony like that
-	again someday?
+	armonía así algún
+	día.
 	"""
 	end
 }
@@ -2032,18 +2061,18 @@ script 162 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Mr. Zero...
+	Sr. Zero...
 	"""
 	msgClear
 	"""
-	When this war is
-	over, you're going
-	to leave aren't you?
+	Cuando esta guerra
+	termine, se irá,
+	¿verdad?
 	"""
 	msgClear
 	"""
-	Will we ever meet
-	again?
+	¿Volveremos a
+	encontrarnos?
 	"""
 	end
 }
@@ -2051,23 +2080,24 @@ script 163 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	I guess it's your
-	duty to help all the
-	humans and Reploids
+	Supongo que es tu
+	deber ayudar a todos
+	los humanos y
 	"""
 	msgClear
 	"""
-	out there...
+	Reploides
+	ahí fuera...
 	"""
 	msgClear
 	"""
-	I'll be sad to see
-	you go, but I look
-	forward to seeing
+	Me pondrá triste
+	verte ir, pero espero
+	con ilusión volver a
 	"""
 	msgClear
 	"""
-	you again someday.
+	verte algún día.
 	"""
 	end
 }
@@ -2256,19 +2286,19 @@ script 186 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Your leader is human
-	too, right?
+	Tu líder también es
+	humana, ¿verdad?
 	"""
 	msgClear
 	"""
-	Probably just like
+	Probablemente como
 	Neige...
 	"""
 	msgClear
 	"""
-	Strong-willed,
-	intelligent and
-	well-liked.
+	De carácter fuerte,
+	inteligente y muy
+	querida.
 	"""
 	end
 }
@@ -2276,15 +2306,19 @@ script 187 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	You guys in the
-	Resistance left Neo
-	Arcadia behind too.
+	Ustedes en la
+	Resistencia también
+	dejaron Neo Arcadia.
 	"""
 	msgClear
 	"""
-	If you can do it,
-	maybe we have a shot
-	too.
+	Si ustedes pudieron,
+	tal vez nosotros
+	también tengamos una
+	"""
+	msgClear
+	"""
+	oportunidad.
 	"""
 	end
 }
@@ -2292,14 +2326,18 @@ script 188 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Area Zero has become
-	like a second home
-	to us.
+	Área Zero se ha
+	convertido en un
+	segundo hogar
 	"""
 	msgClear
 	"""
-	We'll work hard to
-	keep it up.
+	para nosotros.
+	"""
+	msgClear
+	"""
+	Trabajaremos duro
+	para mantenerlo.
 	"""
 	end
 }
@@ -2307,15 +2345,19 @@ script 189 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	It's hard to believe
-	the colony crashed
-	here so long ago
+	Cuesta creer que la
+	colonia cayó aquí
+	hace tanto tiempo
 	"""
 	msgClear
 	"""
-	after seeing all of
-	the nature growing
-	all around us.
+	después de ver toda
+	la naturaleza que
+	crece a nuestro
+	"""
+	msgClear
+	"""
+	alrededor.
 	"""
 	end
 }
@@ -2323,13 +2365,17 @@ script 190 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Area Zero...
+	Área Zero...
 	"""
 	msgClear
 	"""
-	Maybe someday it
-	will become a lush,
-	living paradise.
+	Tal vez algún día
+	se convierta en un
+	paraíso próspero
+	"""
+	msgClear
+	"""
+	y lleno de vida.
 	"""
 	end
 }
@@ -2337,14 +2383,19 @@ script 191 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Long after the scars
-	are gone, we must
-	still remember the
+	Mucho después de que
+	las cicatrices
+	desaparezcan, aún
 	"""
 	msgClear
 	"""
-	terrible things that
-	happened here...
+	debemos recordar
+	las cosas terribles
+	que ocurrieron
+	"""
+	msgClear
+	"""
+	aquí...
 	"""
 	end
 }
@@ -2593,19 +2644,17 @@ script 214 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	I heard about it
-	from Neige...
+	Lo oí de Neige...
 	"""
 	msgClear
 	"""
-	The Reploid that
-	attacked us is no
-	longer around.
+	El Reploide que nos
+	atacó ya no está.
 	"""
 	msgClear
 	"""
-	It must be tough on
-	Neige ya know.
+	Debe ser duro para
+	Neige, ya sabes.
 	"""
 	end
 }
@@ -2613,9 +2662,9 @@ script 215 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	If Neige loved him,
-	that Reploid must've
-	been a good one.
+	Si Neige lo amaba,
+	ese Reploide debió
+	ser bueno.
 	"""
 	end
 }
@@ -2623,21 +2672,25 @@ script 216 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	If we would've had a
-	Reploid like you
-	watching over us,
+	Si hubiéramos tenido
+	un Reploide como tú
+	cuidándonos,
 	"""
 	msgClear
 	"""
-	Neo Arcadia might
-	never have become
-	like that.
+	Neo Arcadia quizás
+	nunca habría
+	llegado a ser así.
 	"""
 	msgClear
 	"""
-	But we don't regret
-	anything about the
-	lives we've led.
+	Pero no nos
+	arrepentimos de nada
+	de las vidas que
+	"""
+	msgClear
+	"""
+	hemos llevado.
 	"""
 	end
 }
@@ -2645,14 +2698,14 @@ script 217 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	If we had stayed in
-	Neo Arcadia, who
-	knows what would've
+	Si nos hubiéramos
+	quedado en Neo
+	Arcadia, quién sabe
 	"""
 	msgClear
 	"""
-	become of our
-	futures...
+	qué habría sido de
+	nuestros futuros...
 	"""
 	end
 }
@@ -2660,20 +2713,20 @@ script 218 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	I just can't thank
-	you enough...
+	No puedo agradecerte
+	lo suficiente...
 	"""
 	msgClear
 	"""
-	I didn't like you
-	back when Weil's
-	Reploids first
+	No me caías bien
+	cuando los Reploides
+	de Weil nos atacaron
 	"""
 	msgClear
 	"""
-	attacked us, but now
-	I'm happy we did run
-	into you.
+	por primera vez,
+	pero ahora me alegra
+	haberte conocido.
 	"""
 	end
 }
@@ -2681,19 +2734,19 @@ script 219 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Can you give your
-	leader a message for
-	me?
+	¿Puedes darle un
+	mensaje a tu líder
+	por mí?
 	"""
 	msgClear
 	"""
-	"Let's start a new
-	chapter in the
-	history of humans
+	"Comencemos un nuevo
+	capítulo en la
+	historia de humanos
 	"""
 	msgClear
 	"""
-	and Reploids..."
+	y Reploides..."
 	"""
 	end
 }
@@ -2901,19 +2954,19 @@ script 242 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Is it true that
-	Ragnarok is going to
-	fall on Area Zero!?
+	¿¡Es cierto que
+	Ragnarok va a caer
+	sobre Área Zero!?
 	"""
 	msgClear
 	"""
-	After barely escaping
-	from Neo Arcadia with
-	our lives, it comes
+	Apenas logramos
+	escapar de Neo
+	Arcadia con vida, y
 	"""
 	msgClear
 	"""
-	down to this?
+	¿termina así?
 	"""
 	end
 }
@@ -2921,14 +2974,14 @@ script 243 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Isn't there
-	something we can do
-	to stop Ragnarok?
+	¿No hay algo que
+	podamos hacer para
+	detener a Ragnarok?
 	"""
 	msgClear
 	"""
-	Please, you've gotta
-	help us!
+	¡Por favor, tienes
+	que ayudarnos!
 	"""
 	end
 }
@@ -2936,13 +2989,9 @@ script 244 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	If Ragnarok falls,
-	it'll be just like
-	the other crash all
-	"""
-	msgClear
-	"""
-	over again...
+	Si Ragnarok cae,
+	será como el otro
+	impacto otra vez...
 	"""
 	end
 }
@@ -2950,9 +2999,9 @@ script 245 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	We'll have to live
-	out that sad fate
-	once more.
+	Tendremos que vivir
+	ese triste destino
+	una vez más.
 	"""
 	end
 }
@@ -2960,15 +3009,14 @@ script 246 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	We've had our
-	differences, but I'm
-	glad we could be
+	Tuvimos nuestras
+	diferencias, pero me
+	alegra que al final
 	"""
 	msgClear
 	"""
-	friends in the end.
-	Thank you for
-	everything!
+	hayamos sido amigos.
+	¡Gracias por todo!
 	"""
 	end
 }
@@ -2976,13 +3024,13 @@ script 247 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Just look me up
-	anytime you stop by!
+	¡Ven a verme cuando
+	pases por aquí!
 	"""
 	msgClear
 	"""
-	I'll be happy to see
-	you again!
+	¡Me alegrará volver
+	a verte!
 	"""
 	end
 }

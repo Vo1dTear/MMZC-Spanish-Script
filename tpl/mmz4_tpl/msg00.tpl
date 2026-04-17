@@ -2159,31 +2159,29 @@ script 114 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Thanks to you, we've
-	secured access to
-	the Teleporter
+	Gracias a ti,
+	aseguramos el acceso
+	al Circuito de
 	"""
 	msgClear
 	"""
-	Circuit.
+	Teletransporte.
 	"""
 	msgClear
 	"""
-	We still have to
-	bypass the
-	protection
+	Aún debemos evadir
+	la protección que
+	rodea a Ragnarok,
 	"""
 	msgClear
 	"""
-	surrounding
-	Ragnarok, but I've
-	got an idea.
+	pero tengo una idea.
 	"""
 	msgClear
 	"""
-	Let's continue with
-	the next mission
-	when you're ready.
+	Continuemos con la
+	siguiente misión
+	cuando estés listo.
 	"""
 	end
 }
@@ -2191,31 +2189,32 @@ script 115 mmz4 {
 	mugshotShow
 		mugshot = 7
 	"""
-	If we don't stop
-	Ragnarok, Area Zero
-	is done for...
+	Si no detenemos a
+	Ragnarok, Área Zero
+	está perdida...
 	"""
 	msgClear
 	"""
-	And the last of
-	nature goes with it.
+	Y lo último de la
+	naturaleza se irá
+	con ello.
 	"""
 	msgClear
 	"""
-	You can't fail...
-	The world is
-	counting on you.
+	No puedes fallar...
+	El mundo cuenta
+	contigo.
 	"""
 	msgClear
 	"""
-	And...
+	Y...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	Make sure you come
-	back, okay?
+	Asegúrate de volver,
+	¿sí?
 	"""
 	end
 }
@@ -2638,7 +2637,7 @@ script 159 mmz4 {
 		mugshot = 63
 	"""
 	..el!
-	¡Com...!
+	¡Res...!
 	Cie...
 	"""
 	msgClear
@@ -2743,11 +2742,12 @@ script 170 mmz4 {
 	mugshotShow
 		mugshot = 65
 	"""
-	Colbor Team here!
+	¡Equipo Colbor
+	reportándose!
 	"""
 	msgClear
 	"""
-	Mission complete
+	¡Misión cumplida,
 	Ciel!
 	"""
 	end
@@ -2757,31 +2757,31 @@ script 171 mmz4 {
 	mugshotShow
 		mugshot = 65
 	"""
-	The humans and
-	Reploids have been
-	evacuated!
+	¡Los humanos y
+	Reploides han sido
+	evacuados!
 	"""
 	msgClear
 	"""
-	Neo Arcadia has been
-	eradicated by
-	Ragnarok's attack...
+	Neo Arcadia ha sido
+	arrasada por el
+	ataque de Ragnarok...
 	"""
 	msgClear
 	"""
-	There is nothing but
-	a crater in the
-	center where Weil
+	No queda nada más
+	que un cráter en el
+	centro donde Weil
 	"""
 	msgClear
 	"""
-	was.
+	estaba.
 	"""
 	msgClear
 	"""
-	I doubt there were
-	any survivors
-	in that area...
+	Dudo que haya
+	sobrevivientes en
+	esa área...
 	"""
 	end
 }
@@ -2789,36 +2789,37 @@ script 172 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	I see...
-	Good work
-	everyone...
+	Ya veo...
+	Buen trabajo,
+	todos...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Continue to search
-	for any survivors...
+	Continúen buscando
+	posibles
+	sobrevivientes...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 93
 	"""
 	Colbor:
-	"Acknowledged..."
+	"Entendido..."
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Ciel, are you okay?
+	Ciel, ¿estás bien?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	I'm okay... Just a
-	little tired...
+	Estoy bien... Solo
+	un poco cansada...
 	"""
 	end
 }
@@ -2826,15 +2827,15 @@ script 173 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Incoming
-	communication from
-	an outside line...
+	Comunicación
+	entrante desde una
+	línea externa...
 	"""
 	msgClear
 	"""
-	It's from the
-	Settlement. I'll
-	patch it in.
+	Es del
+	Asentamiento. La
+	conectaré.
 	"""
 	msgClear
 	mugshotShow
@@ -2851,37 +2852,38 @@ script 173 mmz4 {
 	"""
 	msgClear
 	"""
-	It was just like you
-	said...
+	Fue tal como
+	dijiste...
 	"""
 	msgClear
 	"""
-	It doesn't matter
-	what I do, as long
-	as I keep fighting,
+	No importa lo que
+	haga, mientras siga
+	luchando,
 	"""
 	msgClear
 	"""
-	I'm no different
-	from Weil.
+	no soy diferente
+	de Weil.
 	"""
 	msgClear
 	"""
-	And I... had to
-	fight Craft...
+	Y yo... tuve que
+	luchar contra
+	Craft...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 93
 	"""
 	Neige:
-	"No Zero..."
-	"Thank you..."
+	"No, Zero..."
+	"Gracias..."
 	"""
 	msgClear
 	"""
-	"For stopping
-	 Craft..."
+	"Por detener
+	 a Craft..."
 	"""
 	end
 }
@@ -2889,28 +2891,28 @@ script 174 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Ragnarok and Neo
-	Arcadia are no
-	more...
+	Ragnarok y Neo
+	Arcadia ya no
+	existen...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Is it finally over?
+	¿Por fin terminó?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	So many humans and
-	Reploids lost their
-	lives...
+	Tantos humanos y
+	Reploides perdieron
+	sus vidas...
 	"""
 	msgClear
 	"""
-	Zero, did we do the
-	right thing?
+	Zero, ¿hicimos lo
+	correcto?
 	"""
 	end
 }
@@ -2918,124 +2920,127 @@ script 175 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	What was that!?
+	¿¡Qué fue eso!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	It... came from
+	Eso... ¡Vino de
 	Ragnarok!
 	"""
 	msgClear
 	"""
-	It's still
-	operational!
+	¡Sigue
+	operativo!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	But Weil and Craft
-	are gone!
+	¡Pero Weil y Craft
+	ya no están!
 	"""
 	msgClear
 	"""
-	Who could be
-	controlling it!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Operator!
-	Send me back to
-	Ragnarok!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	I can't!
-	Only the control
-	room is connected.
-	"""
-	msgClear
-	"""
-	There's protection
-	around the circuit
-	to the center.
-	"""
-	msgClear
-	"""
-	We can't transfer
-	you from the access
-	port in the trailer!
-	"""
-	msgClear
-	"""
-	Ragnarok is
-	accelerating...
-	"""
-	msgClear
-	"""
-	And it's heading
-	straight for...
+	¿¡Quién podría estar
+	controlándolo!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	What's wrong?
+	¡Operadora!
+	¡Envíame de vuelta
+	a Ragnarok!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	It's heading
-	straight for Area
-	Zero!
+	¡No puedo! Solo
+	la sala de control
+	está conectada.
 	"""
 	msgClear
 	"""
-	Someone's trying to
-	crash it!
+	Hay protección en
+	el circuito hacia
+	el centro.
+	"""
+	msgClear
+	"""
+	¡No podemos
+	transferirte desde
+	el punto de acceso
+	"""
+	msgClear
+	"""
+	del tráiler!
+	"""
+	msgClear
+	"""
+	Ragnarok está
+	acelerando...
+	"""
+	msgClear
+	"""
+	Y se dirige
+	directamente a...
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 4
+	"""
+	¿Qué ocurre?
+	"""
+	msgClear
+	mugshotShow
+		mugshot = 34
+	"""
+	¡Se dirige
+	directamente a
+	Área Zero!
+	"""
+	msgClear
+	"""
+	¡Alguien intenta
+	estrellarlo!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	What!?
+	¿¡Qué!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 34
 	"""
-	There's still some
-	time before it
-	touches down, but we
+	Aún hay algo de
+	tiempo antes de que
+	impacte, pero no
 	"""
 	msgClear
 	"""
-	can't disable the
-	circuit protection
-	from here!
+	podemos desactivar
+	la protección del
+	circuito desde aquí!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	Isn't there
-	something we can
-	do!?
+	¿¡No hay nada que
+	podamos hacer!?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 93
 	"""
 	Neige:
-	"Zero! Ciel!"
-	"You okay!?"
+	"¡Zero! ¡Ciel!"
+	"¿¡Están bien!?"
 	"""
 	end
 }
@@ -3043,57 +3048,57 @@ script 176 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	Neige!
-	Ragnarok is...
+	¡Neige!
+	Ragnarok está...
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 93
 	"""
 	Neige:
-	"I heard!"
+	"¡Lo escuché!"
 	"""
 	msgClear
 	"""
-	"I'm sending over
-	 some coordinates,
-	 you might be able
+	"¡Te estoy enviando
+	 unas coordenadas,
+	 podrías llegar
 	"""
 	msgClear
 	"""
-	 to reach Ragnarok
-	 with these!"
+	 a Ragnarok con
+	 ellas!"
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 59
 	"""
-	Wh...
-	Where do these go?
+	A...
+	¿A dónde llevan?
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 93
 	"""
 	Neige:
-	"To the Teleporter
-	 Base in Neo
+	"A la Base de
+	 Teletransporte en
 	"""
 	msgClear
 	"""
-	 Arcadia."
+	 Neo Arcadia."
 	"""
 	msgClear
 	"""
-	"It was originally
-	 designed to
-	 transfer troops.
+	"Fue diseñada
+	 originalmente para
+	 transferir tropas.
 	"""
 	msgClear
 	"""
-	 It might have just
-	 enough power to get
-	 you over to
+	 ¡Podría tener la
+	 energía suficiente
+	 para enviarte a
 	"""
 	msgClear
 	"""
@@ -3103,26 +3108,27 @@ script 176 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Coordinates received
-	from the Settlement.
+	Coordenadas
+	recibidas desde el
+	Asentamiento.
 	"""
 	msgClear
 	"""
-	Inputting now.
+	Ingresándolas ahora.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	Zero!
+	¡Zero!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 4
 	"""
-	If that's our only
-	chance, it's one I
-	have to take.
+	Si es nuestra única
+	oportunidad, tengo
+	que aprovecharla.
 	"""
 	end
 }
@@ -3130,9 +3136,13 @@ script 177 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Coordinates to the
-	Teleporter Base have
-	been set.
+	Coordenadas hacia
+	la Base de
+	Teletransporte
+	"""
+	msgClear
+	"""
+	establecidas.
 	"""
 	end
 }
@@ -3140,8 +3150,8 @@ script 178 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Transfer to T. Base?
-	  Yes
+	¿Transf. a T. Base?
+	  Sí
 	  No
 	"""
 	end
@@ -3150,12 +3160,13 @@ script 179 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Preparations for
-	transfer complete!
+	¡Preparativos de
+	transferencia
+	completos!
 	"""
 	msgClear
 	"""
-	Transferring!
+	¡Transfiriendo!
 	"""
 	end
 }
@@ -3163,14 +3174,14 @@ script 180 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Alright, I'll add
-	the Base to the map.
+	De acuerdo,
+	añadiré la Base
+	al mapa.
 	"""
 	msgClear
 	"""
-	It's available
-	whenever you're
-	ready.
+	Estará disponible
+	cuando estés listo.
 	"""
 	end
 }
@@ -3184,11 +3195,11 @@ script 217 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added.
+	 añadido.
 	"""
 	msgClear
 	"""
-	Can play hard mode.
+	Puedes jugar en hard mode.
 	"""
 	end
 }
@@ -3202,11 +3213,15 @@ script 218 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added.
+	 añadido.
 	"""
 	msgClear
 	"""
-	Can play ultimate mode.
+	Puedes jugar en
+	"""
+	msgClear
+	"""
+	ultimate mode.
 	"""
 	end
 }
@@ -3229,7 +3244,7 @@ script 220 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added.
+	 añadido.
 	"""
 	end
 }
@@ -3252,7 +3267,7 @@ script 221 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added.
+	 añadido.
 	"""
 	end
 }
@@ -3275,7 +3290,7 @@ script 222 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added.
+	 añadido.
 	"""
 	end
 }
@@ -3298,7 +3313,7 @@ script 223 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added.
+	 añadido.
 	"""
 	end
 }
@@ -3321,7 +3336,7 @@ script 224 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added.
+	 añadido.
 	"""
 	end
 }
@@ -3344,7 +3359,7 @@ script 225 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added.
+	 añadido.
 	"""
 	end
 }
@@ -3367,7 +3382,7 @@ script 226 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added.
+	 añadido.
 	"""
 	end
 }
@@ -3375,8 +3390,8 @@ script 230 mmz4 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Stop the Mini Game?
-	  Yes
+	¿Salir del Mini Game?
+	  Sí
 	  No
 	"""
 	end
