@@ -6,7 +6,7 @@ script 0 mmz4 {
 		mugshot = 4
 	"""
 	¿Así que esto es
-	el Área Zero?
+	Área Zero?
 	"""
 	msgClear
 	"""
@@ -82,7 +82,7 @@ script 1 mmz4 {
 	msgClear
 	"""
 	Estoy a favor de
-	arrasar el Área Zero,
+	arrasar Área Zero,
 	pero esto se está
 	"""
 	msgClear
@@ -272,7 +272,7 @@ script 9 mmz4 {
 	"""
 	Solo estamos aquí
 	para investigar
-	el Área Zero.
+	Área Zero.
 	"""
 	msgClear
 	"""
@@ -441,7 +441,7 @@ script 10 mmz4 {
 	"""
 	Y como parte del
 	plan de Lord Weil,
-	destruiremos el
+	destruiremos
 	"""
 	msgClear
 	"""

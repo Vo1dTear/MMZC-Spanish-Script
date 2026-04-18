@@ -205,7 +205,7 @@ script 12 mmz4 {
 		mugshot = 34
 	"""
 	¡Reploides se
-	concentran en el
+	concentran en
 	Área Zero!
 	"""
 	msgClear
@@ -710,7 +710,7 @@ script 64 mmz4 {
 	"""
 	Corta la energía
 	del cañón antes de
-	que el Área Zero
+	que Área Zero
 	"""
 	msgClear
 	"""
@@ -757,7 +757,7 @@ script 65 mmz4 {
 	"""
 	Corta la energía
 	del cañón antes de
-	que el Área Zero
+	que Área Zero
 	"""
 	msgClear
 	"""
@@ -1054,7 +1054,7 @@ script 72 mmz4 {
 	"""
 	msgClear
 	"""
-	se expande hacia el
+	se expande hacia
 	Área Zero, detén ese
 	sol antes de que sea
 	"""
@@ -1099,7 +1099,7 @@ script 73 mmz4 {
 	"""
 	msgClear
 	"""
-	se expande hacia el
+	se expande hacia
 	Área Zero, detén ese
 	sol antes de que sea
 	"""
@@ -1851,7 +1851,7 @@ script 104 mmz4 {
 	"""
 	msgClear
 	"""
-	el Área Zero.
+	Área Zero.
 	"""
 	msgClear
 	"""

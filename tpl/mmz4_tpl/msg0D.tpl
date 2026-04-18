@@ -187,7 +187,7 @@ script 34 mmz4 {
 	"""
 	Ah, Zero...
 	Ya veo, protegías
-	el Área Zero
+	Área Zero
 	"""
 	msgClear
 	"""
@@ -326,7 +326,7 @@ script 37 mmz4 {
 	"""
 	msgClear
 	"""
-	El Área Zero y este
+	Área Zero y este
 	Asentamiento deben
 	ser sacrificados
 	"""

@@ -7,7 +7,7 @@ script 0 mmz4 {
 	"""
 	Estoy reuniendo
 	información sobre
-	el Área Zero, pero
+	Área Zero, pero
 	"""
 	msgClear
 	"""
@@ -28,7 +28,7 @@ script 1 mmz4 {
 	"""
 	Estoy reuniendo
 	información sobre
-	el Área Zero, pero
+	Área Zero, pero
 	"""
 	msgClear
 	"""
@@ -646,7 +646,7 @@ script 48 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	Ciel investiga el
+	Ciel investiga
 	Área Zero.
 	"""
 	msgClear
@@ -790,7 +790,7 @@ script 51 mmz4 {
 	"""
 	¿Qué? ¿La naturaleza
 	está creciendo otra
-	vez en el Área Zero?
+	vez en Área Zero?
 	"""
 	msgClear
 	"""
@@ -1602,7 +1602,7 @@ script 101 mmz4 {
 	mugshotShow
 		mugshot = 15
 	"""
-	Me gustaría ver el
+	Me gustaría ver
 	Área Zero aunque sea
 	una vez.
 	"""
@@ -2491,7 +2491,7 @@ script 149 mmz4 {
 	msgClear
 	"""
 	¿Qué tipo de lugar
-	es el Área Zero?
+	es Área Zero?
 	"""
 	msgClear
 	"""

@@ -1865,7 +1865,7 @@ script 149 mmz4 {
 		mugshot = 52
 	"""
 	¿Así que esto es
-	el Área Zero?
+	Área Zero?
 	"""
 	msgClear
 	"""

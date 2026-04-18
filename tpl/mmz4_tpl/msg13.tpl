@@ -6,7 +6,7 @@ script 0 mmz4 {
 		mugshot = 4
 	"""
 	¿Averiguaste algo
-	sobre el Área Zero?
+	sobre Área Zero?
 	"""
 	msgClear
 	mugshotShow
@@ -24,7 +24,7 @@ script 0 mmz4 {
 	"""
 	msgClear
 	"""
-	El Área Zero es el
+	Área Zero es el
 	lugar de las Guerras
 	Maverick, donde
 	"""
@@ -43,7 +43,7 @@ script 0 mmz4 {
 	mugshotShow
 		mugshot = 4
 	"""
-	El Área Zero es un
+	Área Zero es un
 	recordatorio doloroso
 	de una guerra
 	"""
@@ -63,7 +63,7 @@ script 1 mmz4 {
 		mugshot = 34
 	"""
 	Se envió información
-	sobre el Área Zero
+	sobre Área Zero
 	desde la Base de
 	"""
 	msgClear
@@ -144,7 +144,7 @@ script 1 mmz4 {
 	"""
 	msgClear
 	"""
-	Debemos investigar el
+	Debemos investigar
 	Área Zero más de
 	cerca.
 	"""
@@ -226,7 +226,7 @@ script 5 mmz4 {
 	mugshotShow
 		mugshot = 59
 	"""
-	¡¿Qué hacen en el
+	¡¿Qué hacen en
 	Área Zero!?
 	"""
 	msgClear

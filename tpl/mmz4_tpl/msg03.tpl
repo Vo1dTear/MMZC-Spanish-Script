@@ -537,7 +537,7 @@ script 18 mmz4 {
 	"""
 	Vamos hacia el
 	asentamiento en
-	el Área Zero.
+	Área Zero.
 	"""
 	end
 }
