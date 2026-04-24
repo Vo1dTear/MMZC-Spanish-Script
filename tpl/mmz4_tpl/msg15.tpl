@@ -9,13 +9,13 @@ script 0 mmz4 {
 	"""
 	msgClear
 	"""
-	I though I warned
-	you before!
+	¡Creí haberte
+	advertido antes!
 	"""
 	msgClear
 	"""
-	There's nothing you
-	can do here.
+	No hay nada que
+	puedas hacer aquí.
 	"""
 	end
 }
@@ -23,16 +23,16 @@ script 1 mmz4 {
 	mugshotShow
 		mugshot = 9
 	"""
-	You're only going to
-	stir up some pent up
-	emotions.
+	Solo vas a
+	reavivar emociones
+	contenidas.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 61
 	"""
-	So just turn around
-	and go back.
+	Así que da media
+	vuelta y regresa.
 	"""
 	end
 }
@@ -40,17 +40,18 @@ script 2 mmz4 {
 	mugshotShow
 		mugshot = 61
 	"""
-	Back again?
+	¿Otra vez aquí?
 	"""
 	msgClear
 	"""
-	Keep coming here and
-	it won't take people
-	long to figure out
+	Si sigues viniendo,
+	no tardarán en
+	descubrir
 	"""
 	msgClear
 	"""
-	who you really are.
+	quién eres en
+	realidad.
 	"""
 	end
 }
@@ -58,15 +59,15 @@ script 3 mmz4 {
 	mugshotShow
 		mugshot = 61
 	"""
-	It's better if you
-	don't come here
-	anymore.
+	Es mejor que no
+	vuelvas a venir
+	aquí.
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 9
 	"""
-	Got it?
+	¿Entendido?
 	"""
 	end
 }
@@ -383,23 +384,23 @@ script 28 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	Hey!
+	¡Oye!
 	"""
 	msgClear
 	"""
-	What do you think
-	you're doing!?
+	¿¡Qué crees que
+	estás haciendo!?
 	"""
 	msgClear
 	"""
-	This is a home for
-	the humans!
+	¡Este es un hogar
+	para humanos!
 	"""
 	msgClear
 	"""
-	Unless you have some
-	business here,
-	get out!
+	¡A menos que tengas
+	algo que hacer aquí,
+	lárgate!
 	"""
 	end
 }
@@ -407,12 +408,12 @@ script 29 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	You're still there!
+	¡Sigues ahí!
 	"""
 	msgClear
 	"""
-	You're wearing on
-	my patience!
+	¡Estás colmando
+	mi paciencia!
 	"""
 	end
 }
@@ -420,13 +421,12 @@ script 30 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	I told you not to
-	come here!
+	¡Te dije que no
+	vinieras aquí!
 	"""
 	msgClear
 	"""
-	Don't you ever
-	learn?
+	¿Nunca aprendes?
 	"""
 	end
 }
@@ -434,9 +434,9 @@ script 31 mmz4 {
 	mugshotShow
 		mugshot = 45
 	"""
-	You don't want to
-	test the limits of
-	my generosity!
+	¡No querrás poner a
+	prueba los límites
+	de mi generosidad!
 	"""
 	end
 }
@@ -670,40 +670,39 @@ script 56 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	You're a Reploid,
-	aren't you?
+	Eres un Reploide,
+	¿verdad?
 	"""
 	msgClear
 	"""
-	This isn't really
-	the place for you.
+	Este no es realmente
+	un lugar para ti.
 	"""
 	msgClear
 	"""
-	Nobody here trusts
-	Reploids!
+	¡Nadie aquí confía
+	en los Reploides!
 	"""
 	msgClear
 	"""
-	Except for X...
+	Excepto X...
 	"""
 	msgClear
 	"""
-	He's the only
-	exception I can
-	think of.
+	Es la única
+	excepción que se me
+	ocurre.
 	"""
 	msgClear
 	"""
-	But then that one
-	Reploid defeated
-	him.
+	Pero ese Reploide
+	lo derrotó.
 	"""
 	msgClear
 	"""
-	Who would dare do
-	such a thing to our
-	protector!?
+	¿¡Quién se atrevería
+	a hacerle algo así a
+	nuestro protector!?
 	"""
 	end
 }
@@ -711,23 +710,23 @@ script 57 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	Hey you!
+	¡Oye, tú!
 	"""
 	msgClear
 	"""
-	You don't know
-	anything about the
-	Reploid that
+	No sabes nada
+	sobre el Reploide
+	que derrotó a X,
 	"""
 	msgClear
 	"""
-	defeated X, do you?
+	¿verdad?
 	"""
 	msgClear
 	"""
-	Neige said it was a
-	Reploid with long
-	hair...
+	Neige dijo que era
+	un Reploide con el
+	cabello largo...
 	"""
 	end
 }
@@ -735,28 +734,29 @@ script 58 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	Ragnarok?
+	¿Ragnarok?
 	"""
 	msgClear
 	"""
-	We humans want to
-	live without Reploid
-	help, and we refuse
+	¡Nosotros, los
+	humanos, queremos
+	vivir sin la ayuda
 	"""
 	msgClear
 	"""
-	to be afraid of
-	something like that!
+	de los Reploides, y
+	nos negamos a tener
+	miedo de algo así!
 	"""
 	msgClear
 	"""
-	You might have come
-	here to warn us, but
-	all you're doing is
+	Quizá viniste a
+	advertirnos, pero lo
+	único que haces es
 	"""
 	msgClear
 	"""
-	stirring up trouble.
+	causar problemas.
 	"""
 	end
 }
@@ -764,20 +764,20 @@ script 59 mmz4 {
 	mugshotShow
 		mugshot = 47
 	"""
-	If you keep hanging
-	around here like
-	that, someone might
+	Si sigues rondando
+	por aquí así,
+	alguien podría
 	"""
 	msgClear
 	"""
-	think you were an
-	enemy and attack you
-	by mistake.
+	pensar que eres un
+	enemigo y atacarte
+	por error.
 	"""
 	msgClear
 	"""
-	Don't say I didn't
-	warn you!
+	¡No digas que no te
+	lo advertí!
 	"""
 	end
 }
@@ -1022,18 +1022,18 @@ script 84 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Ah!
-	A Reploid!
+	¡Ah!
+	¡Un Reploide!
 	"""
 	msgClear
 	"""
-	Wow...
+	Guau...
 	"""
 	msgClear
 	"""
-	This is the first
-	time I've ever seen
-	one up close!
+	¡Es la primera vez
+	que veo uno tan de
+	cerca!
 	"""
 	msgClear
 	"""
@@ -1041,13 +1041,13 @@ script 84 mmz4 {
 	"""
 	msgClear
 	"""
-	Oh, but...
+	Oh, pero...
 	"""
 	msgClear
 	"""
-	I can't be nice
-	because everyone'll
-	get mad at me...
+	No puedo ser amable
+	porque todos se
+	enojarán conmigo...
 	"""
 	end
 }
@@ -1055,13 +1055,13 @@ script 85 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	I'm sorry Mister.
+	Lo siento, señor.
 	"""
 	msgClear
 	"""
-	I really wanted to
-	be your friend. See
-	ya around!
+	De verdad quería ser
+	tu amigo. ¡Nos
+	vemos!
 	"""
 	end
 }
@@ -1069,23 +1069,23 @@ script 86 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Hey Mister!
+	¡Hola, señor!
 	"""
 	msgClear
 	"""
-	Nice to see ya
-	again!
+	¡Qué bueno verte
+	de nuevo!
 	"""
 	msgClear
 	"""
-	But, should you
-	really be here?
+	Pero... ¿deberías
+	estar aquí?
 	"""
 	msgClear
 	"""
-	Everyone in the
-	Settlement is really
-	mad.
+	Todos en el
+	Asentamiento están
+	muy enojados.
 	"""
 	end
 }
@@ -1093,18 +1093,18 @@ script 87 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Mister...
+	Señor...
 	"""
 	msgClear
 	"""
-	I don't think you're
-	a bad Reploid!
+	¡No creo que seas un
+	Reploide malo!
 	"""
 	msgClear
 	"""
-	If you were, why
-	would you be helping
-	us, right?
+	Si lo fueras,
+	¿por qué nos
+	ayudarías, no?
 	"""
 	end
 }
@@ -1135,7 +1135,7 @@ script 93 mmz4 {
 	mugshotShow
 		mugshot = 48
 	"""
-	Hey, Sr. Reploide...
+	Hola, Sr. Reploide...
 	"""
 	msgClear
 	"""
@@ -1328,30 +1328,30 @@ script 112 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	You were the Reploid
-	from earlier,
-	weren't you?
+	Eres el Reploide de
+	hace un momento,
+	¿verdad?
 	"""
 	msgClear
 	"""
-	Thanks for the help,
-	but we don't need
-	you around.
+	Gracias por la ayuda,
+	pero no te
+	necesitamos aquí.
 	"""
 	msgClear
 	"""
-	This Settlement is
-	for humans only...
+	Este Asentamiento es
+	solo para humanos...
 	"""
 	msgClear
 	"""
-	You may have your
-	reasons, but entry
-	to Reploids is
+	Puede que tengas tus
+	razones, ¡pero la
+	entrada de Reploides
 	"""
 	msgClear
 	"""
-	prohibited!
+	está prohibida!
 	"""
 	end
 }
@@ -1359,23 +1359,24 @@ script 113 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Need something?
+	¿Necesitas algo?
 	"""
 	msgClear
 	"""
-	I hate to be saying
-	this, but Reploids
-	are always trouble.
+	Odio decirlo, pero
+	los Reploides siempre
+	causan problemas.
 	"""
 	msgClear
 	"""
-	And innocent humans
-	are the ones always
-	getting caught up in
+	¡Y los humanos
+	inocentes son
+	siempre los que
 	"""
 	msgClear
 	"""
-	that trouble!
+	se ven envueltos en
+	esos problemas!
 	"""
 	end
 }
@@ -1383,30 +1384,31 @@ script 114 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Come back to bother
-	the humans?
+	¿Volviste para
+	molestar a los
+	humanos?
 	"""
 	msgClear
 	"""
-	You're probably
-	thinking, "what can
-	these pathetic
+	Seguro estás
+	pensando, "¿qué
+	pueden hacer estos
 	"""
 	msgClear
 	"""
-	humans do without
-	me?"
+	humanos patéticos
+	sin mí?"
 	"""
 	msgClear
 	"""
-	We want to create a
-	Settlement free of
-	Reploids like you.
+	Queremos crear un
+	Asentamiento libre de
+	Reploides como tú.
 	"""
 	msgClear
 	"""
-	So stop coming
-	around here.
+	Así que deja de
+	merodear por aquí.
 	"""
 	end
 }
@@ -1414,17 +1416,18 @@ script 115 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	You again...
+	Tú otra vez...
 	"""
 	msgClear
 	"""
-	Didn't you hear me
-	the last time?
+	¿No escuchaste lo
+	que te dije la
+	última vez?
 	"""
 	msgClear
 	"""
-	Don't show your face
-	around here again!
+	¡No vuelvas a
+	mostrarte por aquí!
 	"""
 	end
 }
@@ -1432,7 +1435,7 @@ script 120 mmz4 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Hey, tú...
+	Oye, tú...
 	"""
 	msgClear
 	"""
@@ -1725,22 +1728,22 @@ script 140 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Oh Mr. Reploid...
+	Oh, Sr. Reploide...
 	"""
 	msgClear
 	"""
-	You shouldn't be
-	here...
+	No deberías estar
+	aquí...
 	"""
 	msgClear
 	"""
-	There are a lot of
-	people around here
-	that don't like
+	Hay muchas personas
+	por aquí a las que
+	no les gustan los
 	"""
 	msgClear
 	"""
-	Reploids...
+	Reploides...
 	"""
 	end
 }
@@ -1748,18 +1751,17 @@ script 141 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Mr. Reploid...
+	Sr. Reploide...
 	"""
 	msgClear
 	"""
-	You should get out
-	of here.
+	Deberías irte de
+	aquí.
 	"""
 	msgClear
 	"""
-	It's better for
-	both of us that
-	way...
+	Es mejor para
+	ambos así...
 	"""
 	end
 }
@@ -1767,35 +1769,34 @@ script 142 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Mr. Reploid, I'm
-	sorry...
+	Sr. Reploide, lo
+	siento...
 	"""
 	msgClear
 	"""
-	The people around
-	here are unkind to
-	Reploids...
+	La gente de por aquí
+	no es amable con los
+	Reploides...
 	"""
 	msgClear
 	"""
-	But...
+	Pero...
 	"""
 	msgClear
 	"""
-	That's just because
-	they've all been
-	caught up in the
+	Es porque todos se
+	han visto envueltos
+	en las
 	"""
 	msgClear
 	"""
-	wars between
-	Reploids...
+	guerras entre
+	Reploides...
 	"""
 	msgClear
 	"""
-	They can't help
-	feeling the way they
-	do.
+	No pueden evitar
+	sentirse así.
 	"""
 	end
 }
@@ -1803,20 +1804,20 @@ script 143 mmz4 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Even my family was
-	caught up...
+	Incluso mi familia
+	se vio afectada...
 	"""
 	msgClear
 	"""
-	They went missing
-	during the Reploid
-	wars.
+	Desaparecieron
+	durante las guerras
+	de Reploides.
 	"""
 	msgClear
 	"""
-	I really wish I
-	could see mom and
-	dad again.
+	De verdad desearía
+	poder ver a mamá y
+	papá otra vez.
 	"""
 	end
 }
@@ -2105,15 +2106,15 @@ script 168 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Hey!
-	Aren't you one of
-	those Reploids?
+	¡Oye!
+	¿No eres uno de esos
+	Reploides?
 	"""
 	msgClear
 	"""
-	You can't just come
-	barging into the
-	human Settlement!
+	¡No puedes entrar
+	así sin más en el
+	Asentamiento humano!
 	"""
 	end
 }
@@ -2121,15 +2122,14 @@ script 169 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	We don't need
-	Reploids around
-	here.
+	No necesitamos
+	Reploides por aquí.
 	"""
 	msgClear
 	"""
-	We'll do just fine
-	protecting ourselves
-	without you.
+	Podemos protegernos
+	solos perfectamente
+	sin ustedes.
 	"""
 	end
 }
@@ -2137,24 +2137,24 @@ script 170 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Hey you!
+	¡Oye, tú!
 	"""
 	msgClear
 	"""
-	Keep wandering
-	around like that and
-	the Neo Arcadian
+	¡Si sigues
+	deambulando así,
+	los soldados
 	"""
 	msgClear
 	"""
-	soldiers will find
-	you!
+	Neoarcadianos te
+	encontrarán!
 	"""
 	msgClear
 	"""
-	And that getup is
-	far too
-	conspicuous!
+	¡Y ese atuendo es
+	demasiado
+	llamativo!
 	"""
 	end
 }
@@ -2162,19 +2162,18 @@ script 171 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Hmph!
+	¡Hmph!
 	"""
 	msgClear
 	"""
-	We finally made it
-	all the way to Area
-	Zero, and we're not
+	¡Por fin llegamos
+	hasta Área Zero, y
+	no vamos a dejar
 	"""
 	msgClear
 	"""
-	gonna let some
-	Reploid go messing
-	it up!
+	que un Reploide
+	venga a arruinarlo!
 	"""
 	end
 }
@@ -2403,33 +2402,33 @@ script 196 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	You're a Reploid?
+	¿Eres un Reploide?
 	"""
 	msgClear
 	"""
-	Then...
+	Entonces...
 	"""
 	msgClear
 	"""
-	Have you heard about
-	the scientist who
-	discovered her own
+	¿Has oído hablar de
+	la científica que
+	descubrió a su propio
 	"""
 	msgClear
 	"""
-	Maverick Reploid?
+	Reploide Maverick?
 	"""
 	msgClear
 	"""
-	I guess there are
-	some people willing
-	to harbor even
+	Supongo que hay
+	gente dispuesta a
+	acoger incluso a
 	"""
 	msgClear
 	"""
-	Reploids like that.
-	It's kind of funny
-	ya know.
+	Reploides así.
+	Es algo curioso,
+	¿sabes?
 	"""
 	end
 }
@@ -2437,27 +2436,27 @@ script 197 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	More on what I was
-	telling you earlier,
-	the legendary
+	Sobre lo que te
+	decía antes, el
+	legendario
 	"""
 	msgClear
 	"""
-	Reploid the
-	scientist found
-	defeated our leader
+	Reploide que la
+	científica encontró
+	derrotó a nuestro
 	"""
 	msgClear
 	"""
-	and ended the long
-	years of peace in
-	Neo Arcadia.
+	líder y puso fin a
+	los largos años de
+	paz en Neo Arcadia.
 	"""
 	msgClear
 	"""
-	Isn't it terrible?
-	I heard it all
-	from Neige ya know.
+	¿No es terrible?
+	Lo escuché todo de
+	Neige, ¿sabes?
 	"""
 	end
 }
@@ -2465,20 +2464,20 @@ script 198 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	It's not easy for
-	humans to get by on
-	their own ya know.
+	No es fácil para los
+	humanos salir adelan-
+	te solos, ¿sabes?
 	"""
 	msgClear
 	"""
-	That's why everyone
-	here works.
+	Por eso todos aquí
+	trabajan.
 	"""
 	msgClear
 	"""
-	Even a little tike
-	like Typhonor a
-	young girl like
+	Incluso un pequeño
+	como Typhon o una
+	chica joven como
 	"""
 	msgClear
 	"""
@@ -2490,14 +2489,19 @@ script 199 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	We humans gotta eat
-	ya know.
+	Los humanos tenemos
+	que comer, ¿sabes?
 	"""
 	msgClear
 	"""
-	And we can't just
-	shut down when we
-	run out of energy.
+	Y no podemos
+	simplemente
+	apagarnos cuando se
+	"""
+	msgClear
+	"""
+	nos acaba la
+	energía.
 	"""
 	end
 }
@@ -2754,24 +2758,29 @@ script 224 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	What are you doing
-	here, Reploid!?
+	¿¡Qué haces aquí,
+	Reploide!?
 	"""
 	msgClear
 	"""
-	All you're good for
-	is making wars.
+	Para lo único que
+	sirven es para
+	provocar guerras.
 	"""
 	msgClear
 	"""
-	What business do you
-	have warning us
-	humans?
+	¿Qué tienes que ver
+	con advertirnos a
+	nosotros, los
 	"""
 	msgClear
 	"""
-	Stop pretending to
-	be so noble!
+	humanos?
+	"""
+	msgClear
+	"""
+	¡Deja de fingir que
+	eres tan noble!
 	"""
 	end
 }
@@ -2779,13 +2788,14 @@ script 225 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	You're no different
-	than Dr. Weil!
+	¡No eres diferente
+	al Dr. Weil!
 	"""
 	msgClear
 	"""
-	You're just peddling
-	fear to us humans!
+	¡Solo estás sembrando
+	miedo entre nosotros,
+	los humanos!
 	"""
 	end
 }
@@ -2793,19 +2803,19 @@ script 226 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	How many humans have
-	died in the name of
-	"justice?"
+	¿Cuántos humanos han
+	muerto en nombre de
+	la "justicia"?
 	"""
 	msgClear
 	"""
-	It's all the fault
-	of that red Reploid
-	the Resistance
+	¡Todo es culpa de ese
+	Reploide rojo que la
+	líder de la
 	"""
 	msgClear
 	"""
-	leader found!
+	Resistencia encontró!
 	"""
 	end
 }
@@ -2813,20 +2823,20 @@ script 227 mmz4 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Sorry...
-	I went too far.
+	Lo siento...
+	Me pasé.
 	"""
 	msgClear
 	"""
-	It's just, you're a
-	Reploid like that
-	evil one.
+	Es que eres un
+	Reploide como ese
+	malvado.
 	"""
 	msgClear
 	"""
-	I don't know about
-	Ragnarok, but I
-	don't trust you.
+	No sé nada sobre
+	Ragnarok, pero no
+	confío en ti.
 	"""
 	end
 }
