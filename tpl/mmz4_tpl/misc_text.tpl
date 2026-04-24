@@ -654,62 +654,62 @@ script 95 mmz4 {
 }
 script 100 mmz4 {
 	"""
-	Main weapon
-	Equipped:
+	Arma principal
+	Equipada:
 	"""
 	end
 }
 script 101 mmz4 {
 	"""
-	Sub weapon
-	Equipped:
+	Arma secundaria
+	Equipada:
 	"""
 	end
 }
 script 102 mmz4 {
 	"""
 	EX Skill
-	Change the EX Skill used
+	Cambiar la EX Skill
 	"""
 	end
 }
 script 103 mmz4 {
 	"""
 	Sub Tank
-	Holds extra energy
+	Guarda energía extra
 	"""
 	end
 }
 script 104 mmz4 {
 	"""
 	Escape Unit
-	Leave cleared areas
+	Salir de áreas completadas
 	"""
 	end
 }
 script 105 mmz4 {
 	"""
-	Initiate escape sequence?
+	¿Iniciar seq. de escape?
 	A Button:Esc B Button:Cancel
 	"""
 	end
 }
 script 106 mmz4 {
 	"""
-	Cannot escape at this time
+	No puedes escapar ahora
 	"""
 	end
 }
 script 107 mmz4 {
 	"""
-	Throw away current weapon?
-	A Button:Toss B Button:Keep
+	¿Desechar arma actual?
+	A Button:Tirar B Button:Mant
 	"""
 	end
 }
 script 108 mmz4 {
 	"""
-	Cannot throw away anything
+	No puedes tirar nada
 	
 	"""
 	end
@@ -734,81 +734,81 @@ script 112 mmz4 {
 }
 script 113 mmz4 {
 	"""
-	Good at distance attacks
+	Bueno en ataques a distancia
 	"""
 	end
 }
 script 114 mmz4 {
 	"""
-	Good at close-range attacks
+	Bueno en combate cercano
 	"""
 	end
 }
 script 115 mmz4 {
 	"""
-	Steal weapons from enemies
+	Roba armas de enemigos
 	"""
 	end
 }
 script 116 mmz4 {
 	"""
-	Restore energy from tank
-	Energy Remaining:
+	Recupera energía del tanque
+	Energía restante:
 	"""
 	end
 }
 script 117 mmz4 {
 	"""
-	Weapon taken with Z Knuckle
+	Arma tomada con Z Knuckle
 	"""
 	end
 }
 script 120 mmz4 {
 	"""
-	Change Head Chip
+	Cambiar Chip de Cabeza
 	"""
 	end
 }
 script 121 mmz4 {
 	"""
-	Change Body Chip
+	Cambiar Chip de Cuerpo
 	"""
 	end
 }
 script 122 mmz4 {
 	"""
-	Change Foot Chip
+	Cambiar Chip de Piernas
 	"""
 	end
 }
 script 123 mmz4 {
 	"""
-	Check parts being carried
+	Ver piezas obtenidas
 	"""
 	end
 }
 script 124 mmz4 {
 	"""
-	List of parts being carried
+	Lista de piezas obtenidas
 	"""
 	end
 }
 script 125 mmz4 {
 	"""
-	+Control Pad:Change elf lv.
+	+Control Pad:Cambiar nivel del elfo
 	"""
 	end
 }
 script 126 mmz4 {
 	"""
-	No elves carried
+	No llevas elfos
 	"""
 	end
 }
 script 127 mmz4 {
 	"""
-	No elves
-	carried
+	No llevas
+	elfos
 	"""
 	end
 }
@@ -819,8 +819,8 @@ script 130 mmz4 {
 	"""
 	textColorWhite
 	"""
-	: Non-elemental
-	Damage/freeze some enemies
+	: Sin elemento
+	Daña/congela enemigos
 	
 	"""
 	end
@@ -832,8 +832,8 @@ script 131 mmz4 {
 	"""
 	textColorWhite
 	"""
-	: Thunder
-	Absorb certain energy shots
+	: Trueno
+	Absorbe disparos de energía
 	
 	"""
 	end
@@ -845,8 +845,8 @@ script 132 mmz4 {
 	"""
 	textColorWhite
 	"""
-	: Flame
-	Damage enemy with explosion
+	: Fuego
+	Daña con explosión
 	
 	"""
 	end
@@ -858,8 +858,8 @@ script 133 mmz4 {
 	"""
 	textColorWhite
 	"""
-	: Ice
-	Attack with spear of ice
+	: Hielo
+	Ataca con lanza de hielo
 	
 	"""
 	end
@@ -871,8 +871,8 @@ script 134 mmz4 {
 	"""
 	textColorWhite
 	"""
-	: Non-elemental
-	Press Down in air and saber
+	: Sin elemento
+	Press Down en el aire y saber
 	
 	"""
 	end
@@ -885,7 +885,7 @@ script 135 mmz4 {
 	textColorWhite
 	"""
 	: Thunder
-	Attack with saber mid-dash
+	Ataca con saber en dash
 	
 	"""
 	end
@@ -898,7 +898,7 @@ script 136 mmz4 {
 	textColorWhite
 	"""
 	: Flame
-	Press Up and saber attack
+	Press Up y ataca con saber
 	
 	"""
 	end
@@ -911,7 +911,7 @@ script 137 mmz4 {
 	textColorWhite
 	"""
 	: Ice
-	Press Down and saber attack
+	Press Down y ataca con saber
 	
 	"""
 	end
@@ -924,21 +924,21 @@ script 138 mmz4 {
 }
 script 140 mmz4 {
 	"""
-	Nurse traits
-	are at 0
+	Atributos
+	Nurse en 0
 	"""
 	end
 }
 script 141 mmz4 {
 	"""
-	Drops Life
-	Energy(S)
+	Suelta
+	energía(S)
 	"""
 	end
 }
 script 142 mmz4 {
 	"""
-	Increase max
+	Aumenta máx
 	
 	"""
 	textColorRed
@@ -947,13 +947,13 @@ script 142 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 vitality
+	 vitalidad
 	"""
 	end
 }
 script 143 mmz4 {
 	"""
-	Increase max
+	Aumenta máx
 	
 	"""
 	textColorRed
@@ -962,13 +962,13 @@ script 143 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 vitality
+	 vitalidad
 	"""
 	end
 }
 script 144 mmz4 {
 	"""
-	Increase max
+	Aumenta máx
 	
 	"""
 	textColorRed
@@ -977,13 +977,13 @@ script 144 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 vitality
+	 vitalidad
 	"""
 	end
 }
 script 145 mmz4 {
 	"""
-	Increase max
+	Aumenta máx
 	
 	"""
 	textColorRed
@@ -992,13 +992,13 @@ script 145 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 vitality
+	 vitalidad
 	"""
 	end
 }
 script 146 mmz4 {
 	"""
-	Increase max
+	Aumenta máx
 	
 	"""
 	textColorRed
@@ -1007,50 +1007,50 @@ script 146 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 vitality
-	& drop Life
-	Energy(S)
+	 vitalidad
+	y suelta
+	energía(S)
 	"""
 	end
 }
 script 147 mmz4 {
 	textColorRed
 	"""
-	Quadruple
+	Cuádruple
 	"""
 	textColorWhite
 	"""
 	
-	max vitality
+	máx
+	vitalidad
 	"""
 	end
 }
 script 150 mmz4 {
 	"""
-	Animal
-	traits are
-	at 0
+	Atributos
+	Animal en 0
 	"""
 	end
 }
 script 151 mmz4 {
 	"""
-	Increase
-	running
-	speed
+	Aumenta
+	velocidad
+	correr
 	"""
 	end
 }
 script 152 mmz4 {
 	"""
-	Slow down
-	wall sliding
+	Ralentiza
+	desliz muro
 	"""
 	end
 }
 script 153 mmz4 {
 	"""
-	Fire off
+	Dispara
 	
 	"""
 	textColorRed
@@ -1065,7 +1065,7 @@ script 153 mmz4 {
 }
 script 154 mmz4 {
 	"""
-	Fire off
+	Dispara
 	
 	"""
 	textColorRed
@@ -1080,7 +1080,7 @@ script 154 mmz4 {
 }
 script 155 mmz4 {
 	"""
-	Fire off
+	Dispara
 	
 	"""
 	textColorRed
@@ -1092,38 +1092,37 @@ script 155 mmz4 {
 }
 script 156 mmz4 {
 	"""
-	Rise back
-	out of pits
+	Asciende de
+	los fosos
 	"""
 	end
 }
 script 157 mmz4 {
 	textColorRed
 	"""
-	Double
+	Duplica
 	"""
 	textColorWhite
 	"""
-	 the
-	basic
-	defense
-	value
+	 el
+	valor de
+	defensa
+	básico
 	"""
 	end
 }
 script 160 mmz4 {
 	"""
-	Hacker
-	traits are
-	at 0
+	Atributos
+	Hacker en 0
 	"""
 	end
 }
 script 161 mmz4 {
 	"""
-	Fire four
-	bullets in a
-	row from the
+	Dispara 4
+	balas
+	seguidas
 	buster
 	"""
 	end
@@ -1131,111 +1130,112 @@ script 161 mmz4 {
 script 162 mmz4 {
 	"""
 	Press Up
-	in triple
-	attack for
-	rising slash
+	en triple
+	ataque para
+	corte ascnd.
 	"""
 	end
 }
 script 163 mmz4 {
 	"""
-	Add 1 to
-	power of
+	Añade 1 al
+	poder del
 	Buster,Saber
-	and Knuckle
+	y Knuckle
 	"""
 	end
 }
 script 164 mmz4 {
 	"""
 	Press Down
-	in triple
-	attack for
-	attack wave
+	en triple
+	ataque para
+	onda corte
 	"""
 	end
 }
 script 165 mmz4 {
 	"""
-	Up chance
-	of enemies
-	dropping
-	items
+	Más prob.
+	enemigos
+	suelten
+	objetos
 	"""
 	end
 }
 script 166 mmz4 {
 	textColorRed
 	"""
-	Double
+	Duplica
 	"""
 	textColorWhite
 	"""
-	 the
-	effect of
-	some items
+	 el
+	el efecto de
+	algunos
+	objetos
 	"""
 	end
 }
 script 167 mmz4 {
 	"""
 	Sp. cmnds
-	to execute
-	chg atk or
+	para ejctar.
+	chg atk o
 	EX Skills
 	"""
 	end
 }
 script 170 mmz4 {
 	"""
-	Evolve elf
-	View effect
-	Talk to elf
+	Evoluc. elfo
+	Ver efecto
+	Hablar elfo
 	"""
 	end
 }
 script 171 mmz4 {
 	"""
-	Give Crystal
-	 Yes
+	Dar Crystal
+	 Sí
 	 No
-	Next Lv:
-	Left:
+	Sig. Nv:
+	Disp.:
 	"""
 	end
 }
 script 172 mmz4 {
 	"""
-	Not enough
+	Faltan
 	Crystals
 	
-	Next Lv:
-	Left:
+	Sig. Nv:
+	Disp.:
 	"""
 	end
 }
 script 173 mmz4 {
 	"""
-	Cannot raise
-	level higher
+	Nivel al máx
+	no sube más
 	"""
 	end
 }
 script 174 mmz4 {
 	"""
-	Evolve elf with E-Crystal
+	Evoluc. elfo con E-Crystal
 	"""
 	end
 }
 script 175 mmz4 {
 	"""
-	View elf level and effect
+	Ver nivel y efecto del elfo
 	"""
 	end
 }
 script 176 mmz4 {
 	"""
-	Talk to elf
+	Hablar con elfo
 	"""
 	end
 }
@@ -2447,193 +2447,193 @@ script 427 mmz4 {
 }
 script 435 mmz4 {
 	"""
-	Auto-charge weapons
+	Autocarga de armas
 	"""
 	end
 }
 script 436 mmz4 {
 	"""
-	Heal standing still:
+	Cura al estar quieto:
 	"""
 	textColorRed
 	"""
-	Lv.1
+	Nv.1
 	"""
 	textColorWhite
 	end
 }
 script 437 mmz4 {
 	"""
-	Heal standing still:
+	Cura al estar quieto:
 	"""
 	textColorRed
 	"""
-	Lv.2
+	Nv.2
 	"""
 	textColorWhite
 	end
 }
 script 438 mmz4 {
 	"""
-	Heal standing still:
+	Cura al estar quieto:
 	"""
 	textColorRed
 	"""
-	Lv.3
+	Nv.3
 	"""
 	textColorWhite
 	end
 }
 script 439 mmz4 {
 	"""
-	Speed weapon charge:
+	Acelera carga de armas:
 	"""
 	textColorRed
 	"""
-	Lv.1
+	Nv.1
 	"""
 	textColorWhite
 	end
 }
 script 440 mmz4 {
 	"""
-	Speed weapon charge:
+	Acelera carga de armas:
 	"""
 	textColorRed
 	"""
-	Lv.2
+	Nv.2
 	"""
 	textColorWhite
 	end
 }
 script 441 mmz4 {
 	"""
-	Speed weapon charge:
+	Acelera carga de armas:
 	"""
 	textColorRed
 	"""
-	Lv.3
+	Nv.3
 	"""
 	textColorWhite
 	end
 }
 script 442 mmz4 {
 	"""
-	Refill ammo over time
+	Recarga munición con tiempo
 	"""
 	end
 }
 script 443 mmz4 {
 	"""
-	Weapon capacity increased 1
+	Capacidad de arma +1
 	"""
 	end
 }
 script 444 mmz4 {
 	"""
-	Gives off a special aura
+	Emite un aura especial
 	"""
 	end
 }
 script 445 mmz4 {
 	"""
-	No knock back when hit
+	Sin retroceso al ser dañado
 	"""
 	end
 }
 script 446 mmz4 {
 	"""
-	Air+U or Dash+U/D and Saber
+	Air+U o Dash+U/D y Saber
 	"""
 	end
 }
 script 447 mmz4 {
 	"""
-	Saber stops energy shots
+	Saber bloquea disparos
 	"""
 	end
 }
 script 448 mmz4 {
 	"""
-	Trap death chng to dmg:Lv.1
+	Trampas: daño no muerte Nv.1
 	"""
 	end
 }
 script 449 mmz4 {
 	"""
-	Trap death chng to dmg:Lv.2
+	Trampas: daño no muerte Nv.2
 	"""
 	end
 }
 script 450 mmz4 {
 	"""
-	Trap death chng to dmg:Lv.3
+	Trampas: daño no muerte Nv.3
 	"""
 	end
 }
 script 451 mmz4 {
 	"""
-	Saber reflects energy shots
+	Saber refleja disparos
 	"""
 	end
 }
 script 452 mmz4 {
 	"""
-	Invinc. after damage longer
+	Invenc. tras daño dura más
 	"""
 	end
 }
 script 453 mmz4 {
 	"""
-	Elf Max Lv. raised 1
+	Nv máx. elfo +1
 	"""
 	end
 }
 script 454 mmz4 {
 	"""
-	Gives off a special aura
+	Emite un aura especial
 	"""
 	end
 }
 script 455 mmz4 {
 	"""
-	Running speed increases
+	Aumenta velocidad al correr
 	"""
 	end
 }
 script 456 mmz4 {
 	"""
-	Can perform double jump
+	Puede hacer doble salto
 	"""
 	end
 }
 script 457 mmz4 {
 	"""
-	Can jump on water
+	Puede saltar sobre agua
 	"""
 	end
 }
 script 458 mmz4 {
 	"""
-	Walk on ice w/o slipping
+	Camina en hielo sin resbalar
 	"""
 	end
 }
 script 459 mmz4 {
 	"""
-	No effect from wind/magnets
+	Sin efecto en viento/imanes
 	"""
 	end
 }
 script 460 mmz4 {
 	"""
-	Slow down wall sliding
+	Ralentiza deslizamiento muro
 	"""
 	end
 }
 script 461 mmz4 {
 	"""
-	Gives off a special aura
+	Emite un aura especial
 	"""
 	end
 }
@@ -2657,19 +2657,19 @@ script 472 mmz4 {
 }
 script 473 mmz4 {
 	"""
-	Head state is normal
+	Estado de cabeza normal
 	"""
 	end
 }
 script 474 mmz4 {
 	"""
-	Body state is normal
+	Estado de cuerpo normal
 	"""
 	end
 }
 script 475 mmz4 {
 	"""
-	Feet state is normal
+	Estado de piernas normal
 	"""
 	end
 }
@@ -2687,85 +2687,85 @@ script 479 mmz4 {
 }
 script 480 mmz4 {
 	"""
-	Not enough
+	No alcanza
 	"""
 	end
 }
 script 481 mmz4 {
 	"""
-	Using parts
+	Usar piezas
 	"""
 	end
 }
 script 482 mmz4 {
 	"""
-	Done
+	Listo
 	"""
 	end
 }
 script 483 mmz4 {
 	"""
-	Successful
+	Éxito
 	"""
 	end
 }
 script 484 mmz4 {
 	"""
-	Failed
+	Falló
 	"""
 	end
 }
 script 485 mmz4 {
 	"""
-	Combine parts to make chips
+	Combina piezas para chips
 	"""
 	end
 }
 script 486 mmz4 {
 	"""
-	View recipe while making
+	Ver receta mientras creas
 	"""
 	end
 }
 script 487 mmz4 {
 	"""
-	Select part with A Button
+	Selec. pieza con A Button
 	"""
 	end
 }
 script 488 mmz4 {
 	"""
-	Cancel with A Button
+	Cancelar con A Button
 	"""
 	end
 }
 script 489 mmz4 {
 	"""
-	Select recipe with A Button
+	Selec. receta con A Button
 	"""
 	end
 }
 script 490 mmz4 {
 	"""
-	Warning:Parts will be used
+	Aviso:se usarán piezas
 	"""
 	end
 }
 script 491 mmz4 {
 	"""
-	Not enough parts
+	No hay piezas suficientes
 	"""
 	end
 }
 script 492 mmz4 {
 	"""
-	Cannot make any more chips
+	No puedes crear más chips
 	"""
 	end
 }
 script 493 mmz4 {
 	"""
-	Results being displayed
+	Mostrando resultados
 	"""
 	end
 }
@@ -2979,92 +2979,92 @@ script 539 mmz4 {
 }
 script 540 mmz4 {
 	"""
-	Move with the +Control
-	Pad and cut weeds
-	with the B Button.Cut
-	early for more points.
-	Grab Mechaniloid
-	Dragonflies for bonus
-	points within 60 secs.
+	Muévete con +Control
+	Pad y corta hierba
+	con B Button. Corta
+	antes para más pts.
+	Atrapa libélulas
+	Mecaniloide para pts.
+	extra en 60 seg.
 	"""
 	end
 }
 script 541 mmz4 {
 	"""
-	Grab rolling balls with
-	the Zero Knuckle and
-	put it in the goal.Move
-	with the +Control Pad.
-	A Button=jump
-	B Button=catch/release
-	60 second time limit.
+	Toma bolas rodantes con
+	Zero Knuckle y ponlas
+	en la meta. Muévete con
+	+Control Pad.
+	A Button=saltar
+	B Button=tomar/soltar
+	Tiempo límite: 60 seg.
 	"""
 	end
 }
 script 542 mmz4 {
 	"""
-	Move with the +Control
-	Pad.Cut falling
-	logs with B Button.
-	Cut in middle for more
-	points.Bombs explode
-	and take off time.
-	60 second time limit.
+	Muévete con +Control
+	Pad. Corta troncos
+	que caen con B Button.
+	Corta al centro para
+	más pts. Bombas
+	explotan y quitan
+	tiempo. Límite: 60 seg.
 	"""
 	end
 }
 script 543 mmz4 {
 	"""
-	Move with the +Control
-	Pad.Extinguish flames
-	with B Button.
-	A Button=jump. Drench
-	flames early for more
-	points.Keep cool or lose
-	time.60s time limit.
+	Muévete con +Control
+	Pad. Apaga llamas con
+	B Button.
+	A Button=saltar.
+	Apaga pronto para más
+	pts. Mantente frío o
+	pierdes tiempo. 60 seg.
 	"""
 	end
 }
 script 544 mmz4 {
 	"""
-	Move with the +Control
-	Pad.Drive the Scrap Elf
-	to the light with the
-	lamp.
-	A Button=jump
-	B Button=shine lamp
-	60s time limit.
+	Muévete con +Control
+	Pad. Guía al elfo
+	chatarra hacia la luz
+	con la lámpara.
+	A Button=saltar
+	B Button=iluminar
+	Límite: 60 seg.
 	"""
 	end
 }
 script 545 mmz4 {
 	"""
-	Move with the +Control
-	Pad.Smash switches
-	and grab items.A Button=
-	jump.B Button=hammer.
-	Item size determines pts.
-	Spikes drop time but can
-	be broken.60s time limit.
+	Muévete con +Control
+	Pad. Rompe interruptores
+	y toma objetos.A Button=
+	saltar.B Button=martillo
+	Tamaño da pts. Pinchos
+	restan tiempo y se rompen.
+	Límite: 60 seg.
 	"""
 	end
 }
 script 546 mmz4 {
 	"""
-	Move with the +Control
-	Pad.Remove joints by
-	pressing the B Button.
-	A Button=jump.Press B
-	Button again to move
-	joint forward.Match to
-	destroy.90s time limit.
+	Muévete con +Control
+	Pad.Quita piezas con
+	B Button.
+	A Button=saltar
+	Pulsa B Button otra vez
+	para mover la pieza.
+	Une para destruir. 90 seg.
 	"""
 	end
 }
 script 547 mmz4 {
 	textColorRed
 	"""
-	RULES
+	REGLAS
 	"""
 	textColorWhite
 	end
@@ -3647,360 +3647,345 @@ script 695 mmz4 {
 }
 script 696 mmz4 {
 	"""
-	Data about
-	the boss
+	Datos del
+	jefe
 	"""
 	end
 }
 script 697 mmz4 {
 	"""
-	Data about
-	the sub boss
+	Datos del
+	subjefe
 	"""
 	end
 }
 script 698 mmz4 {
 	"""
-	Data about
-	the enemy
+	Datos del
+	enemigo
 	"""
 	end
 }
 script 699 mmz4 {
 	"""
-	Data about
-	characters
+	Datos de
+	personajes
 	"""
 	end
 }
 script 700 mmz4 {
 	"""
-	Will swarm
-	in if Noble
-	Mandrago's
-	honey attack
-	hits.Doesn't
-	drop parts.
+	Llega si
+	ataque miel
+	de Mandrago
+	acierta.
+	No da
+	piezas.
 	"""
 	end
 }
 script 701 mmz4 {
 	"""
-	A cannon
-	found on
-	ceilings,
-	walls and
-	floors.
+	Cañón en
+	techo,
+	pared o
+	suelo.
 	"""
 	end
 }
 script 702 mmz4 {
 	"""
-	A shotloid
-	converted
-	to harvest
-	timber.
+	Shotloid
+	modificado
+	para talar
+	madera.
 	"""
 	end
 }
 script 703 mmz4 {
 	"""
-	Mechaniloid
-	that walks
-	the roof or
-	floor and
-	fires beams.
+	Mecaniloide
+	camina en
+	techo o
+	suelo.
+	Dispara
+	rayos.
 	"""
 	end
 }
 script 704 mmz4 {
 	"""
-	Mechaniloid
-	growing in
-	the Undrgrnd
-	Forest.
-	Growth chng
-	w/weather.
+	Mecaniloide
+	del bosque
+	subterráneo.
+	Cambia con
+	el clima.
 	"""
 	end
 }
 script 705 mmz4 {
 	"""
-	Spat from
-	Mechameson
-	and sets
-	bombs on
-	the floor.
+	Lanzado por
+	Mechameson.
+	Pone bombas
+	en suelo.
 	"""
 	end
 }
 script 706 mmz4 {
 	"""
-	Mechaniloid
-	that drops
-	bombs down
-	from above.
+	Mecaniloide
+	lanza bombas
+	desde
+	arriba.
 	"""
 	end
 }
 script 707 mmz4 {
 	"""
-	A bomb that
-	tries to fly
-	into its
-	target.Comes
-	in diff.
-	lengths.
+	Bomba que
+	vuela al
+	objetivo.
+	Varios
+	tamaños.
 	"""
 	end
 }
 script 708 mmz4 {
 	"""
-	Attached to
-	ceilings and
-	floors,it
-	has a wide
-	shot radius.
+	Fijo en
+	techo o
+	suelo.
+	Gran rango
+	de disparo.
 	"""
 	end
 }
 script 709 mmz4 {
 	"""
-	Machines
-	coming from
+	Máquinas de
 	Popla
 	Cocapetri.
-	Don't drop
-	parts.
+	No dan
+	piezas.
 	"""
 	end
 }
 script 710 mmz4 {
 	"""
-	Warps around
-	and fires
-	shots in
-	eight
-	directions.
+	Se teleporta
+	y dispara en
+	ocho direcc.
 	"""
 	end
 }
 script 711 mmz4 {
 	"""
-	Converted
-	hologram
-	projector.
-	Fires elec
-	from core.
+	Proyector
+	holograma
+	Convertido.
+	Dispara
+	elec. desde
+	su núcleo.
 	"""
 	end
 }
 script 712 mmz4 {
 	"""
-	Attached to
-	walls, this
-	cannon will
-	focus energy
-	to fire a
-	laser.
+	En pared,
+	carga y
+	dispara
+	láser.
 	"""
 	end
 }
 script 713 mmz4 {
 	"""
-	Mechameson
-	spits these
-	mechaniloids
-	that emit
-	balls of
-	electricity.
+	Mecaniloides
+	expulsados
+	por
+	Mechameson.
+	Lanza bolas
+	eléctricas.
 	"""
 	end
 }
 script 714 mmz4 {
 	"""
-	Mechaniloid
-	that expands
-	& contracts.
-	Can ride on
-	top.
+	Mecaniloide
+	se expande
+	y contrae.
+	Puedes
+	pararte en
+	él.
 	"""
 	end
 }
 script 715 mmz4 {
 	"""
-	Mechaniloid
-	originally
-	designed for
-	digging,it
-	scatters
-	debris.
+	Mecaniloide
+	diseñado
+	para cavar.
+	Lanza
+	escombros.
 	"""
 	end
 }
 script 716 mmz4 {
 	"""
-	A mobile
-	mechaniloid
-	that fires
-	ice shots.
+	Mecaniloide
+	móvil.
+	Dispara
+	proyectiles
+	de hielo.
 	"""
 	end
 }
 script 717 mmz4 {
 	"""
-	Concentrates
-	around the
-	Tyrine found
-	in the
-	artificial
-	sun.
+	Rodea a
+	Tyrine en
+	sol
+	artificial.
 	"""
 	end
 }
 script 718 mmz4 {
 	"""
-	Mechaniloid
-	designed for
-	watching
-	power lines.
-	Will stop
-	with damage.
+	Mecaniloide
+	que vigila
+	líneas de
+	energía.
+	Se detiene
+	con daño.
 	"""
 	end
 }
 script 719 mmz4 {
 	"""
-	Flies and
-	shoots in
-	two
-	directions.
-	Can hang on
-	propeller.
+	Vuela y
+	dispara en
+	dos
+	sentidos.
+	Se cuelga de
+	una hélice.
 	"""
 	end
 }
 script 720 mmz4 {
 	"""
-	Spat from
-	Mechameson
-	and fires
-	ice shards
-	in six
-	directions.
+	Expulsado de
+	Mechameson.
+	Dispara
+	hielo en
+	seis dir.
 	"""
 	end
 }
 script 721 mmz4 {
 	"""
-	Running
-	mechaniloid
-	capable of
-	jumping
-	over small
-	obstacles.
+	Mecaniloide
+	corredor.
+	Salta
+	obstáculos.
 	"""
 	end
 }
 script 722 mmz4 {
 	"""
-	Swims and
-	whips out
-	its tongue
-	to attack
-	prey.
+	Nada y
+	ataca con
+	lengua.
 	"""
 	end
 }
 script 723 mmz4 {
 	"""
-	Mechaniloid
-	originally
-	designed for
-	burning
-	garbage.
+	Mecaniloide
+	diseñado
+	para quemar
+	basura.
 	"""
 	end
 }
 script 724 mmz4 {
 	"""
-	Floating
-	mine with
-	magnet.Can
-	deflect w/
+	Mina
+	flotante
+	con imán.
+	Desvía con
 	MagPunchN.
-	No parts.
+	No piezas.
 	"""
 	end
 }
 script 725 mmz4 {
 	"""
-	Floating
-	mine with
-	magnet.Can
-	deflect w/
+	Mina
+	flotante
+	con imán.
+	Desvía con
 	MagPunchS.
-	No parts.
+	No piezas.
 	"""
 	end
 }
 script 726 mmz4 {
 	"""
-	Protects the
-	Magn. Zone
-	along with
-	the blue
-	MagnePaS.
+	Protege
+	zona magn.
+	con MagnePaS
+	de color
+	azul.
 	"""
 	end
 }
 script 727 mmz4 {
 	"""
-	Protects the
-	Magn. Zone
-	along with
-	the red
-	MagnePaN.
+	Protege
+	zona magn.
+	con MagnePaN
+	de color
+	rojo.
 	"""
 	end
 }
 script 728 mmz4 {
 	"""
-	Spits out
-	three
-	types of
-	Mechaniloid.
+	Lanza tres
+	tipos de
+	Mecaniloide.
 	"""
 	end
 }
 script 729 mmz4 {
 	"""
-	Mechaniloid
-	that jumps
-	and shoots
-	left and
-	right.
+	Mecaniloide
+	que salta y
+	dispara
+	hacia ambos
+	lados.
 	"""
 	end
 }
 script 730 mmz4 {
 	"""
-	Ancient
-	Mechaniloid
-	that can
-	resist any
-	attack when
-	it's closed.
+	Mecaniloide
+	antiguo.
+	Inmune a
+	ataques
+	al estar
+	cerrado.
 	"""
 	end
 }
 script 731 mmz4 {
 	"""
 	ClabangerNS
-	sends this
-	Mechaniloid.
-	Explodes if
-	it runs into
+	envía este
+	Mecaniloide.
+	Explota si
+	choca con
 	MiniCrabanR.
 	"""
 	end
@@ -4008,675 +3993,640 @@ script 731 mmz4 {
 script 732 mmz4 {
 	"""
 	ClabangerNS
-	sends this
-	Mechaniloid.
-	Explodes if
-	it runs into
+	envía este
+	Mecaniloide.
+	Explota si
+	choca con
 	MiniCrabanB.
 	"""
 	end
 }
 script 733 mmz4 {
 	"""
-	Mole that
-	pokes its
-	head up from
-	the ground
-	and fires
-	drill shots.
+	Topo que
+	asoma del
+	suelo y
+	dispara
+	taladros.
 	"""
 	end
 }
 script 734 mmz4 {
 	"""
-	Converted
-	Shotloid.
-	Uses hammer
-	to fire
-	water from
-	pumps.
+	Shotloid
+	modificado.
+	Usa martillo
+	y lanza
+	agua con
+	bombas.
 	"""
 	end
 }
 script 735 mmz4 {
 	"""
-	Mechaniloid
-	carrying
-	bombs that
-	split into
-	three parts.
+	Mecaniloide
+	con bombas
+	que se
+	dividen en
+	tres.
 	"""
 	end
 }
 script 736 mmz4 {
 	"""
-	Mechaniloid
-	that moves
-	and carries
-	card keys.
-	Doesn't drop
-	parts.
+	Mecaniloide
+	móvil con
+	llaves.
+	No da
+	piezas.
 	"""
 	end
 }
 script 737 mmz4 {
 	"""
-	Mechaniloid
-	resembling a
-	balloonfish.
-	Fires off
-	spikes from
-	its body.
+	Mecaniloide
+	tipo pez
+	globo.
+	Lanza púas
+	del cuerpo.
 	"""
 	end
 }
 script 738 mmz4 {
 	"""
-	Pantheon in
-	Hibernation
-	Chamber that
-	scrap elves
-	can return
-	to life.
+	Pantheon en
+	cámara de
+	hibernación.
+	Elfos lo
+	reviven.
 	"""
 	end
 }
 script 739 mmz4 {
 	"""
-	Lies in
-	narrow holes
-	and can't be
-	destroyed.
-	Doesn't drop
-	parts.
+	Oculto en
+	huecos.
+	No puede
+	destruirse.
+	No da
+	piezas.
 	"""
 	end
 }
 script 740 mmz4 {
 	"""
-	Mechaniloid
-	that lies
-	inside the
+	Mecaniloide
+	dentro de
 	Beeneran.
-	Doesn't drop
-	parts.
+	No da
+	piezas.
 	"""
 	end
 }
 script 741 mmz4 {
 	"""
-	Plant
-	Mechaniloid
-	that is weak
-	against
-	flame.
+	Mecaniloide
+	planta débil
+	al fuego.
 	"""
 	end
 }
 script 742 mmz4 {
 	"""
-	Rolls
-	electricity
-	along the
-	ground.It
-	powers up in
-	lightning.
+	Rueda
+	energía por
+	suelo.
+	Se carga en
+	tormentas.
 	"""
 	end
 }
 script 743 mmz4 {
 	"""
-	Protected by
-	a shelter,
-	this cannon
-	fires round
-	projectiles.
+	Protegido
+	por escudo.
+	Dispara
+	proyectiles.
 	"""
 	end
 }
 script 744 mmz4 {
 	"""
-	Mechaniloid
-	that fires
-	reflecting
-	lasers from
-	the sky.
+	Mecaniloide
+	dispara
+	láseres que
+	rebotan.
 	"""
 	end
 }
 script 745 mmz4 {
 	"""
-	Sand digging
-	mechaniloid
-	that drops
-	down from
-	above.
+	Mecaniloide
+	excava arena
+	y cae desde
+	arriba.
 	"""
 	end
 }
 script 746 mmz4 {
 	"""
-	Cyber-elf
-	that's weak
-	against
-	light and is
-	in H.Chamber
-	capsule.
+	Cyber-elfo
+	débil a luz.
+	En cápsula
+	de hibern.
 	"""
 	end
 }
 script 747 mmz4 {
 	"""
-	Mechaniloids
-	spat from
-	GearBank
-	in the
-	Hibernation
-	Chamber.
+	Mecaniloides
+	de GearBank
+	en cámara de
+	hibernación.
 	"""
 	end
 }
 script 748 mmz4 {
 	"""
-	Excels at
-	tracking.
-	Explodes and
-	causes dmg
-	to nearby
-	targets.
+	Sigue al
+	objetivo.
+	Explota al
+	acercarse.
 	"""
 	end
 }
 script 749 mmz4 {
 	"""
-	Moves in a
-	triangle
-	pattern and
-	fires three
-	shots.
+	Se mueve en
+	triángulo.
+	Dispara tres
+	tiros.
 	"""
 	end
 }
 script 750 mmz4 {
 	"""
-	Fires lasers
-	in three
-	directions.
-	Can't be
-	destroyed.
-	No parts.
+	Dispara
+	láseres en
+	tres dir.
+	No se
+	destruye.
+	No piezas.
 	"""
 	end
 }
 script 751 mmz4 {
 	"""
-	Assassin
-	variant.
-	Likes to
-	sneak
-	attack.
+	Variante
+	asesino.
+	Le gusta
+	atacar por
+	sorpresa.
 	"""
 	end
 }
 script 752 mmz4 {
 	"""
-	Variant that
-	hangs from
-	power lines
-	and attacks
-	with a fire
-	sword.
+	Variante que
+	se cuelga de
+	líneas de
+	energía.
+	Ataca con
+	espda fuego.
 	"""
 	end
 }
 script 753 mmz4 {
 	"""
-	Very generic
-	variant.
-	If its shot
-	hits,the
-	target is
-	lit on fire.
+	Variante
+	genérico.
+	Si acierta,
+	prende
+	fuego.
 	"""
 	end
 }
 script 754 mmz4 {
 	"""
-	Variant that
-	fires a wide
-	sweeping
-	missile
-	attack.
+	Variante con
+	misil de
+	barrido
+	amplio.
 	"""
 	end
 }
 script 755 mmz4 {
 	"""
-	Mechaniloid
-	crab that
-	can reflect
-	shots off
-	of its hard
-	shell.
+	Cangrejo
+	mecaniloide.
+	Refleja
+	disparos con
+	caparazón.
 	"""
 	end
 }
 script 756 mmz4 {
 	"""
-	Built from
-	ancient
-	blueprints.
-	It's code
-	name is
+	Creado con
+	planos
+	antiguos.
+	Código:
 	Mod-CF.
 	"""
 	end
 }
 script 757 mmz4 {
 	"""
-	Neo Arcadian
-	combat
-	reploid that
-	was an old
-	friend of
-	Neige's.
+	Reploide de
+	Neo Arcadia
+	de combate.
+	Amigo de
+	Neige.
 	"""
 	end
 }
 script 758 mmz4 {
 	"""
-	Protection
-	program in
-	the Teleport
-	Circuit.Can
-	utilize
-	Cyber-elves.
+	Programa de
+	protección.
+	Circuito
+	teletransp.
+	Puede usar
+	Cyber-elfos.
 	"""
 	end
 }
 script 759 mmz4 {
 	"""
-	Wolf Reploid
-	that spits
-	sharp fangs
-	of ice.
+	Reploide
+	lobo.
+	Lanza
+	colmillos
+	de hielo.
 	"""
 	end
 }
 script 760 mmz4 {
 	"""
-	This turtle
-	Reploid can
-	reflect
-	all attacks
-	w/its shell.
+	Reploide
+	tortuga.
+	Refleja
+	ataques con
+	caparazón.
 	"""
 	end
 }
 script 761 mmz4 {
 	"""
-	Reploid
-	capable of
-	coming apart
-	& combining
-	using its
-	magnet.
+	Reploide
+	se separa
+	y une con
+	imán.
 	"""
 	end
 }
 script 762 mmz4 {
 	"""
-	Reploid that
-	lies in the
-	Undrgrnd
-	Forest.Can
-	recover on
-	sunny days.
+	Reploide en
+	bosque sub.
+	Se regenera
+	con sol.
 	"""
 	end
 }
 script 763 mmz4 {
 	"""
-	Bird Reploid
-	entrusted w/
-	the security
-	of the
-	Living City.
+	Reploide ave
+	encargado de
+	la seguridad
+	de Ciudad
+	Viviente.
 	"""
 	end
 }
 script 764 mmz4 {
 	"""
-	Pegasus
-	Reploid
-	destroying
-	nature from
-	the Hanging
-	Garden.
+	Reploide
+	pegaso.
+	Destruye
+	naturaleza.
 	"""
 	end
 }
 script 765 mmz4 {
 	"""
-	Protects the
-	Teleporter
-	Base.
-	Connected w/
-	four
-	computers.
+	Protege base
+	teletransp.
+	Conectado a
+	cuatro
+	sistemas.
 	"""
 	end
 }
 script 766 mmz4 {
 	"""
-	Butterfly
-	Reploid that
-	flaps around
-	on its wings
-	of fire.
+	Reploide
+	mariposa.
+	Aletea con
+	alas de
+	fuego.
 	"""
 	end
 }
 script 767 mmz4 {
 	"""
-	Large core.
-	Pull the
-	plug to
-	halt the
-	lasers.
+	Núcleo
+	grande.
+	Quita
+	enchufe
+	y detén
+	láseres.
 	"""
 	end
 }
 script 768 mmz4 {
 	"""
-	Squid
-	Reploid
-	inside the
-	Submarine.
-	Attacks from
-	amidst ink.
+	Reploide
+	calamar. En
+	submarino.
+	Ataca entre
+	tinta.
 	"""
 	end
 }
 script 769 mmz4 {
 	"""
-	Has spent a
-	long time in
-	prison.
-	Attacks w/a
-	hammer
-	punch.
+	Mucho tiempo
+	preso.
+	Ataca con
+	golpe de
+	martillo.
 	"""
 	end
 }
 script 770 mmz4 {
 	"""
-	Strapped w/
-	Ragnarok
-	parts,this
-	Dr.Weil is
-	powered up.
+	Dr. Weil con
+	partes de
+	Ragnarok.
+	Está
+	potenciado.
 	"""
 	end
 }
 script 771 mmz4 {
 	"""
-	Dr.Weil
-	after
-	melding
-	completely
-	w/Ragnarok.
+	Dr. Weil
+	tras
+	fusionarse
+	por completo
+	con Ragnrok.
 	"""
 	end
 }
 script 772 mmz4 {
 	"""
-	Crab
-	Mechaniloid
-	that guards
-	the Magnetic
-	Zone from
-	intruders.
+	Cangrejo
+	mecaniloide.
+	Protege
+	zona magn.
+	de intrusos.
 	"""
 	end
 }
 script 773 mmz4 {
 	"""
-	This ant
-	Mechaniloid
-	burns
-	intruders
-	of Undergrnd
-	Forest.
+	Hormiga
+	mecaniloide.
+	Quema
+	intrusos en
+	el bosque
+	sub.
 	"""
 	end
 }
 script 774 mmz4 {
 	"""
-	Spits out
+	Escupe
 	Serpent
-	Gears.Weak
-	spots are
-	the four
-	hatches.
+	Gears.
+	Puntos déb.
+	en cuatro
+	compuertas.
 	"""
 	end
 }
 script 775 mmz4 {
 	"""
-	Destroy or
-	pull the
-	eight key
-	disks to
-	stop this
-	monstrosity.
+	Destruye o
+	tira ocho
+	discos clave
+	para detener
+	esto.
 	"""
 	end
 }
 script 776 mmz4 {
 	"""
 	Wyvern
-	Mechaniloid
-	that spits
-	out
-	electricity.
+	mecaniloide.
+	Lanza
+	electrcidad.
 	"""
 	end
 }
 script 777 mmz4 {
 	"""
 	Wyvern
-	Mechaniloid
-	that fires
-	incendiary
-	shots.
+	mecaniloide.
+	Dispara
+	proyectiles
+	de fuego.
 	"""
 	end
 }
 script 778 mmz4 {
 	"""
 	Wyvern
-	Mechaniloid
-	with breath
-	that turns
-	into ice
-	shards.
+	mecaniloide.
+	Su aliento
+	forma hielo
+	en trozos.
 	"""
 	end
 }
 script 779 mmz4 {
 	"""
-	Mechaniloid
-	with eight
+	Mecaniloide
+	con ocho
 	GlassCannons
-	in tow.
+	que lo
+	escoltan.
 	"""
 	end
 }
 script 780 mmz4 {
 	"""
-	Lonely
-	Reploid in
-	charge of
-	Cyber-elves.
+	Reploide
+	solitaria.
+	Encargada de
+	Cyber-elfos.
 	"""
 	end
 }
 script 781 mmz4 {
 	"""
-	Human girl
-	that feels
-	no ill will
-	towards the
-	Reploids.
+	Chica
+	humana sin
+	rencor hacia
+	Reploides.
 	"""
 	end
 }
 script 782 mmz4 {
 	"""
-	Humans saved
-	from Neo
-	Arcadia by
-	Neige.
+	Humanos
+	salvados de
+	Neo Arcadia
+	por Neige.
 	"""
 	end
 }
 script 783 mmz4 {
 	"""
-	Engineer who
-	designs new
-	weapons for
-	Zero.Will
-	design new
+	Ingeniero
+	crea armas
+	para Zero.
+	También crea
 	chips.
 	"""
 	end
 }
 script 784 mmz4 {
 	"""
-	Scientist
-	developing
-	Elves,
-	Reploids &
-	Energy.
+	Científica
+	desarrolla
+	elfos,
+	Reploides y
+	energía.
 	"""
 	end
 }
 script 785 mmz4 {
 	"""
-	Dedicated
-	leader of
-	the Colbor
-	Team, has
-	made some
-	mistakes.
+	Dedicado
+	líder del
+	equipo
+	Colbor.
+	Ha cometido
+	errores.
 	"""
 	end
 }
 script 786 mmz4 {
 	"""
-	Combat
-	Reploid that
-	is traveling
-	with Zero
-	and the
-	others.
+	Reploide de
+	combate.
+	Viaja con
+	Zero y
+	compañía.
 	"""
 	end
 }
 script 787 mmz4 {
 	"""
-	Resistance
-	intel.Joined
-	to provide
-	information.
+	Info de la
+	Resistencia.
+	Se unió para
+	apoyar con
+	información.
 	"""
 	end
 }
 script 788 mmz4 {
 	"""
-	Leader of
-	Humans in
-	Settlement.
-	Is an active
-	journalist.
+	Líder de
+	humanos en
+	colonia.
+	Periodista
+	activa.
 	"""
 	end
 }
 script 789 mmz4 {
 	"""
-	Functions as
-	a leader for
-	the Caravan.
-	Trusted by
-	everyone.
+	Actúa como
+	líder de la
+	caravana.
+	Todos
+	confían en
+	él.
 	"""
 	end
 }
 script 790 mmz4 {
 	"""
-	Female
-	Reploid in
-	charge of
-	mission
-	planning.
+	Reploide
+	encargada de
+	planear
+	misiones.
 	"""
 	end
 }
 script 791 mmz4 {
 	"""
-	Human who
-	guards the
-	baggage.Only
-	trusts X.
+	Humano cuida
+	equipaje.
+	Solo confía
+	en X.
 	"""
 	end
 }
 script 792 mmz4 {
 	"""
-	Trying to
-	bring all of
-	the Humans
-	to Area
-	Zero.
+	Intenta
+	llevar a
+	todos los
+	humanos a
+	Área Zero.
 	"""
 	end
 }
 script 793 mmz4 {
 	"""
-	Boy that has
-	joined the
-	Caravan.
-	Friendly to
+	Chico que se
+	unió a la
+	caravana.
+	Amigable con
 	Zero.
 	"""
 	end
 }
 script 794 mmz4 {
 	"""
-	An evil
-	scientist.
-	After the
-	loss of Copy
-	X,he rules
+	Científico
+	malvado.
+	Tras perder
+	a Copy X,
+	gobierna
 	Neo Arcadia.
 	"""
 	end
 }
 script 795 mmz4 {
 	"""
-	Legendary
-	Reploid
-	found by
-	Ciel in an
-	underground
-	laboratory.
+	Reploide
+	legendario.
+	Hallado por
+	Ciel en un
+	laboratorio
+	subterráneo.
 	"""
 	end
 }
 script 798 mmz4 {
 	"""
-	Left/Right to change tag
+	Left/Right cambiar etiqueta
 	"""
 	end
 }
@@ -4750,7 +4700,7 @@ script 808 mmz4 {
 }
 script 809 mmz4 {
 	"""
-	Hey Zero.
+	Oye, Zero.
 	Quiero
 	ayudarte
 	en lo que
@@ -4798,7 +4748,7 @@ script 813 mmz4 {
 }
 script 814 mmz4 {
 	"""
-	¡Hey Zero!
+	¡Oye, Zero!
 	¡Alouette
 	me enseña
 	a hablar!
@@ -4807,7 +4757,7 @@ script 814 mmz4 {
 }
 script 815 mmz4 {
 	"""
-	Hey Zero!
+	¡Oye, Zero!
 	Quiero
 	crecer.
 	¿Crees que
@@ -4836,7 +4786,7 @@ script 817 mmz4 {
 }
 script 818 mmz4 {
 	"""
-	Hey Zero.
+	Oye, Zero.
 	¿Por que
 	Ciel esta
 	siempre
@@ -5064,10 +5014,10 @@ script 855 mmz4 {
 }
 script 860 mmz4 {
 	"""
-	High score updated
+	Récord actualizado
 	
-	  Save high score
-	  Do not save
+	  Guardar récord
+	  No guardar
 	"""
 	end
 }
@@ -5087,7 +5037,7 @@ script 861 mmz4 {
 	"""
 	textColorWhite
 	"""
-	 added
+	 añadido
 	"""
 	end
 }
