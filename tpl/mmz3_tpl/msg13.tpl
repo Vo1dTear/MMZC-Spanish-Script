@@ -199,7 +199,7 @@ script 7 mmz3 {
 	mugshotShow
 		mugshot = 67
 	"""
-	¡Hey, Zero! ¡Estás
+	¡Oye, Zero! ¡Estás
 	bien!
 	"""
 	msgClear

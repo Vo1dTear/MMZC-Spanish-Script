@@ -1152,7 +1152,7 @@ script 68 mmz3 {
 	mugshotShow
 		mugshot = 68
 	"""
-	Oh, ¡hey, Zero!
+	Oh, ¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -1386,7 +1386,7 @@ script 76 mmz3 {
 	mugshotShow
 		mugshot = 72
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -1616,7 +1616,7 @@ script 83 mmz3 {
 	mugshotShow
 		mugshot = 79
 	"""
-	Oh, ¡hey!
+	¡Oh, oye!
 	"""
 	msgClear
 	"""
@@ -1995,7 +1995,7 @@ script 108 mmz3 {
 	mugshotShow
 		mugshot = 88
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -2626,7 +2626,7 @@ script 115 mmz3 {
 	mugshotShow
 		mugshot = 87
 	"""
-	¡Hey, hey! ¿Cómo va
+	¡Oye, Oye! ¿Cómo va
 	el chico nuevo?
 	"""
 	msgClear

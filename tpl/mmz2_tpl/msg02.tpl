@@ -2616,7 +2616,7 @@ script 108 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	Nadie me lo
 	creería, pero
 	"""
@@ -2649,7 +2649,7 @@ script 109 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -2688,7 +2688,7 @@ script 110 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
@@ -4178,7 +4178,7 @@ script 165 mmz2 {
 	mugshotShow
 		mugshot = 44
 	"""
-	¡Hey, Zero!
+	¡Oye, Zero!
 	"""
 	msgClear
 	"""
