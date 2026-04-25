@@ -36,7 +36,7 @@ script 2 mmz3 {
 }
 script 3 mmz3 {
 	"""
-	El Cyber-elf se convirtió
+	El Ciber-elfo se convirtió
 	"""
 	msgClear
 	"""
@@ -569,7 +569,7 @@ script 32 mmz3 {
 }
 script 33 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -587,7 +587,7 @@ script 33 mmz3 {
 }
 script 34 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -605,7 +605,7 @@ script 34 mmz3 {
 }
 script 35 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -623,7 +623,7 @@ script 35 mmz3 {
 }
 script 36 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -641,7 +641,7 @@ script 36 mmz3 {
 }
 script 37 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -659,7 +659,7 @@ script 37 mmz3 {
 }
 script 38 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -677,7 +677,7 @@ script 38 mmz3 {
 }
 script 39 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -695,7 +695,7 @@ script 39 mmz3 {
 }
 script 40 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -713,7 +713,7 @@ script 40 mmz3 {
 }
 script 41 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -731,7 +731,7 @@ script 41 mmz3 {
 }
 script 42 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -749,7 +749,7 @@ script 42 mmz3 {
 }
 script 43 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -767,7 +767,7 @@ script 43 mmz3 {
 }
 script 44 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -785,7 +785,7 @@ script 44 mmz3 {
 }
 script 45 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -803,7 +803,7 @@ script 45 mmz3 {
 }
 script 46 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -821,7 +821,7 @@ script 46 mmz3 {
 }
 script 47 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -839,7 +839,7 @@ script 47 mmz3 {
 }
 script 48 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -857,7 +857,7 @@ script 48 mmz3 {
 }
 script 49 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -875,7 +875,7 @@ script 49 mmz3 {
 }
 script 50 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -893,7 +893,7 @@ script 50 mmz3 {
 }
 script 51 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -911,7 +911,7 @@ script 51 mmz3 {
 }
 script 52 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -929,7 +929,7 @@ script 52 mmz3 {
 }
 script 53 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -947,7 +947,7 @@ script 53 mmz3 {
 }
 script 54 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -965,7 +965,7 @@ script 54 mmz3 {
 }
 script 55 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -983,7 +983,7 @@ script 55 mmz3 {
 }
 script 56 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1001,7 +1001,7 @@ script 56 mmz3 {
 }
 script 57 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1019,7 +1019,7 @@ script 57 mmz3 {
 }
 script 58 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1037,7 +1037,7 @@ script 58 mmz3 {
 }
 script 59 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1055,7 +1055,7 @@ script 59 mmz3 {
 }
 script 60 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1073,7 +1073,7 @@ script 60 mmz3 {
 }
 script 61 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1091,7 +1091,7 @@ script 61 mmz3 {
 }
 script 62 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1109,7 +1109,7 @@ script 62 mmz3 {
 }
 script 63 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1127,7 +1127,7 @@ script 63 mmz3 {
 }
 script 64 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1145,7 +1145,7 @@ script 64 mmz3 {
 }
 script 65 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1163,7 +1163,7 @@ script 65 mmz3 {
 }
 script 66 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1181,7 +1181,7 @@ script 66 mmz3 {
 }
 script 67 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1199,7 +1199,7 @@ script 67 mmz3 {
 }
 script 68 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1217,7 +1217,7 @@ script 68 mmz3 {
 }
 script 69 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1235,7 +1235,7 @@ script 69 mmz3 {
 }
 script 70 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1253,7 +1253,7 @@ script 70 mmz3 {
 }
 script 71 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1271,7 +1271,7 @@ script 71 mmz3 {
 }
 script 72 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1289,7 +1289,7 @@ script 72 mmz3 {
 }
 script 73 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1307,7 +1307,7 @@ script 73 mmz3 {
 }
 script 74 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1325,7 +1325,7 @@ script 74 mmz3 {
 }
 script 75 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1343,7 +1343,7 @@ script 75 mmz3 {
 }
 script 76 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1361,7 +1361,7 @@ script 76 mmz3 {
 }
 script 77 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1379,7 +1379,7 @@ script 77 mmz3 {
 }
 script 78 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1397,7 +1397,7 @@ script 78 mmz3 {
 }
 script 79 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1415,7 +1415,7 @@ script 79 mmz3 {
 }
 script 80 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1433,7 +1433,7 @@ script 80 mmz3 {
 }
 script 81 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1451,7 +1451,7 @@ script 81 mmz3 {
 }
 script 82 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1469,7 +1469,7 @@ script 82 mmz3 {
 }
 script 83 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1487,7 +1487,7 @@ script 83 mmz3 {
 }
 script 84 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1505,7 +1505,7 @@ script 84 mmz3 {
 }
 script 85 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1523,7 +1523,7 @@ script 85 mmz3 {
 }
 script 86 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1541,7 +1541,7 @@ script 86 mmz3 {
 }
 script 87 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1559,7 +1559,7 @@ script 87 mmz3 {
 }
 script 88 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1577,7 +1577,7 @@ script 88 mmz3 {
 }
 script 89 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1595,7 +1595,7 @@ script 89 mmz3 {
 }
 script 90 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1613,7 +1613,7 @@ script 90 mmz3 {
 }
 script 91 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1631,7 +1631,7 @@ script 91 mmz3 {
 }
 script 92 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1649,7 +1649,7 @@ script 92 mmz3 {
 }
 script 93 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1667,7 +1667,7 @@ script 93 mmz3 {
 }
 script 94 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1685,7 +1685,7 @@ script 94 mmz3 {
 }
 script 95 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1703,7 +1703,7 @@ script 95 mmz3 {
 }
 script 96 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1721,7 +1721,7 @@ script 96 mmz3 {
 }
 script 97 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1739,7 +1739,7 @@ script 97 mmz3 {
 }
 script 98 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1757,7 +1757,7 @@ script 98 mmz3 {
 }
 script 99 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1775,7 +1775,7 @@ script 99 mmz3 {
 }
 script 100 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1793,7 +1793,7 @@ script 100 mmz3 {
 }
 script 101 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1811,7 +1811,7 @@ script 101 mmz3 {
 }
 script 102 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1829,7 +1829,7 @@ script 102 mmz3 {
 }
 script 103 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1847,7 +1847,7 @@ script 103 mmz3 {
 }
 script 104 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1865,7 +1865,7 @@ script 104 mmz3 {
 }
 script 105 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""
@@ -1883,7 +1883,7 @@ script 105 mmz3 {
 }
 script 106 mmz3 {
 	"""
-	¡Cyber-elf 
+	¡Ciber-elfo 
 	"""
 	textColorRed
 	"""

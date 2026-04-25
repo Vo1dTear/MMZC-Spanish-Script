@@ -39,7 +39,7 @@ script 1 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:Cyber-elf que fue
+	CIEL:Ciber-elfo que fue
 	"""
 	msgClear
 	"""
@@ -81,15 +81,15 @@ script 2 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:Por favor, rescata al
+	CIEL:¡Por favor, rescata al
 	"""
 	msgClear
 	"""
-	CIEL:Cyber-elf secuestrado!
+	CIEL:Ciber-elfo secuestrado!
 	"""
 	msgClear
 	"""
-	CIEL:Cuento contigo,
+	CIEL:¡Cuento contigo,
 	"""
 	msgClear
 	"""

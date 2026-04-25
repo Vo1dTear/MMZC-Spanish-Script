@@ -139,7 +139,7 @@ script 1 mmz1 {
 	msgClear
 	"""
 	entidades llamadas
-	Cyber-elves. Fueron
+	Ciber-elfos. Fueron
 	lo suficientemente
 	amables para dejarme
 	"""
@@ -1296,11 +1296,11 @@ script 52 mmz1 {
 	"""
 	¿Has oído hablar
 	de algo llamado
-	Ciber-elf?
+	Ciber-elfo?
 	"""
 	msgClear
 	"""
-	Un Ciber-elf es una
+	Un Ciber-elfo es una
 	entidad electrónica
 	que otorga algún
 	tipo de poder.
@@ -1335,7 +1335,7 @@ script 53 mmz1 {
 	creo.
 	Ups, casi lo
 	olvido... Escuché
-	que un Cyber-elf
+	que un Ciber-elfo
 	"""
 	msgClear
 	"""
@@ -1366,7 +1366,7 @@ script 54 mmz1 {
 	"""
 	Ups, casi lo
 	olvido... Escuché
-	que un Cyber-elf
+	que un Ciber-elfo
 	que estaba en la
 	"""
 	msgClear
@@ -1395,7 +1395,7 @@ script 55 mmz1 {
 	"""
 	msgClear
 	"""
-	a los Cyber-elves...
+	a los Ciber-elfos...
 	Ciel es muy amable
 	y generosa con
 	todos. Creo que 
@@ -2270,7 +2270,7 @@ script 101 mmz1 {
 	Si quieres
 	descargar una
 	entidad electrónica
-	llamada Cyber-elf,
+	llamada Ciber-elfo,
 	"""
 	msgClear
 	"""
@@ -2280,7 +2280,7 @@ script 101 mmz1 {
 	msgClear
 	"""
 	Algunos de los
-	Cyber-elves que
+	Ciber-elfos que
 	captures no son
 	utilizables al
 	"""
@@ -2292,7 +2292,7 @@ script 101 mmz1 {
 	"""
 	Debes darles
 	a estos
-	Cyber-elves
+	Ciber-elfos
 	objetos azules
 	"""
 	msgClear
@@ -2310,7 +2310,7 @@ script 101 mmz1 {
 	"""
 	A medida que
 	alimentes a un
-	Cyber-elf con
+	Ciber-elfo con
 	"""
 	msgClear
 	"""
@@ -2328,7 +2328,7 @@ script 101 mmz1 {
 	"""
 	Sin embargo, una vez
 	que uses un
-	Cyber-elf, este
+	Ciber-elfo, este
 	morirá...
 	"""
 	msgClear
@@ -2348,7 +2348,7 @@ script 102 mmz1 {
 	mugshotShow
 		mugshot = 56
 	"""
-	Un Cyber-elf
+	Un Ciber-elfo
 	desconocido
 	apareció hace
 	no mucho, y
@@ -2479,7 +2479,7 @@ script 106 mmz1 {
 	Si quieres
 	descargar una
 	entidad electrónica
-	llamada Cyber-elf,
+	llamada Ciber-elfo,
 	"""
 	msgClear
 	"""
@@ -2489,7 +2489,7 @@ script 106 mmz1 {
 	msgClear
 	"""
 	Algunos de los
-	Cyber-elves que
+	Ciber-elfos que
 	captures no son
 	utilizables al
 	"""
@@ -2501,7 +2501,7 @@ script 106 mmz1 {
 	"""
 	Debes darles
 	a estos
-	Cyber-elves
+	Ciber-elfos
 	objetos azules
 	"""
 	msgClear
@@ -2519,7 +2519,7 @@ script 106 mmz1 {
 	"""
 	A medida que
 	alimentes a un
-	Cyber-elf con
+	Ciber-elfo con
 	"""
 	msgClear
 	"""
@@ -2537,7 +2537,7 @@ script 106 mmz1 {
 	"""
 	Sin embargo, una vez
 	que uses un
-	Cyber-elf, este
+	Ciber-elfo, este
 	morirá...
 	"""
 	msgClear
@@ -2913,7 +2913,7 @@ script 210 mmz1 {
 	mugshotShow
 		mugshot = 56
 	"""
-	¡Un Cyber-elf
+	¡Un Ciber-elfo
 	extremadamente
 	enorme apareció
 	de repente y

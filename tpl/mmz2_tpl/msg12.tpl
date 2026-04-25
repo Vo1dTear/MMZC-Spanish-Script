@@ -42,7 +42,7 @@ script 2 mmz2 {
 	msgClear
 	"""
 	Elpizo vino...
-	y Baby Elf
+	y Elfo Bebé
 	vino...
 	"""
 	msgClear

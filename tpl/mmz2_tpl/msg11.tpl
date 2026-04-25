@@ -37,7 +37,7 @@ script 2 mmz2 {
 	"""
 	msgClear
 	"""
-	Un Cyber-elf
+	Un Ciber-elfo
 	perfecto, que
 	traerá paz a
 	"""
@@ -214,7 +214,7 @@ script 10 mmz2 {
 	"""
 	Pronto seré...
 	controlado por
-	el Baby Elf...
+	el Elfo Bebé...
 	"""
 	msgClear
 	"""

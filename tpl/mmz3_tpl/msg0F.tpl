@@ -419,7 +419,7 @@ script 25 mmz3 {
 	"""
 	msgClear
 	"""
-	Este Cyber-elf fue
+	Este Ciber-elf fue
 	creado originalmente
 	con el propósito
 	"""
@@ -507,7 +507,7 @@ script 27 mmz3 {
 	"""
 	.......final de las
 	.........Guerras.....
-	Cyber-elfs.....usados...
+	Ciber-elfos....usados...
 	"""
 	msgClear
 	"""

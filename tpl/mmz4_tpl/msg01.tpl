@@ -27,7 +27,7 @@ script 2 mmz4 {
 }
 script 3 mmz4 {
 	"""
-	¡Cyber-elfo ahora es
+	¡Ciber-elfo ahora es
 	"""
 	msgClear
 	"""

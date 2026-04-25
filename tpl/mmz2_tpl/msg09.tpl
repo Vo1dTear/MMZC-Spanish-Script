@@ -132,7 +132,7 @@ script 3 mmz2 {
 	msgClear
 	"""
 	Gracias a estos
-	Baby Elves...
+	Elfos Bebé...
 	"""
 	msgClear
 	mugshotShow

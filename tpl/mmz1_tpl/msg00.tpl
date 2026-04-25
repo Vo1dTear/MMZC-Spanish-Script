@@ -104,8 +104,8 @@ script 10 mmz1 {
 		mugshot = 2
 	"""
 	  CAMBIAR ÁREA
-	  DESCARGAR ELF
-	  ALIMENTAR ELF
+	  DESCARGAR ELFO
+	  ALIMENTAR ELFO
 	  SALIR
 	"""
 	end
@@ -115,8 +115,8 @@ script 11 mmz1 {
 		mugshot = 2
 	"""
 	  VOLVER A BASE
-	  DESCARGAR ELF
-	  ALIMENTAR ELF
+	  DESCARGAR ELFO
+	  ALIMENTAR ELFO
 	  SALIR
 	"""
 	end
@@ -126,8 +126,8 @@ script 12 mmz1 {
 		mugshot = 2
 	"""
 	  ABORTAR MISIÓN
-	  DESCARGAR ELF
-	  ALIMENTAR ELF
+	  DESCARGAR ELFO
+	  ALIMENTAR ELFO
 	  SALIR
 	"""
 	end
@@ -1308,7 +1308,7 @@ script 39 mmz1 {
 		mugshot = 6
 	"""
 	¡Gracias a ti,
-	el Cyber-elf
+	el Ciber-elfo
 	secuestrado ha
 	sido salvado!
 	"""
@@ -1328,16 +1328,16 @@ script 39 mmz1 {
 	"""
 	msgClear
 	"""
-	El Cyber-elf
+	El Ciber-elfo
 	que rescataste
 	es solo una niña.
 	"""
 	msgClear
 	"""
-	Pero es un Cyber-elf
-	único y aprenderá
-	una habilidad
-	increíble,
+	Pero es un
+	Ciber-elfo único
+	y aprenderá una
+	habilidad increíble,
 	"""
 	msgClear
 	"""
@@ -2049,8 +2049,8 @@ script 68 mmz1 {
 	textColorWhite
 	"""
 	
-	  DESCARGAR ELF
-	  ALIMENTAR ELF
+	  DESCARGAR ELFO
+	  ALIMENTAR ELFO
 	  SALIR
 	"""
 	end

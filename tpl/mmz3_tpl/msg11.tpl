@@ -269,7 +269,7 @@ script 15 mmz3 {
 	"""
 	msgClear
 	"""
-	los Cyber-elfos
+	los Ciber-elfos
 	viven.
 	"""
 	msgClear

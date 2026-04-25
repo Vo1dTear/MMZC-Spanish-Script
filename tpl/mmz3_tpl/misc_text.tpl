@@ -916,7 +916,7 @@ script 178 mmz3 {
 	"""
 	Cría y
 	mejora tus
-	Cyber-elfos.
+	Ciber-elfos.
 	"""
 	end
 }
@@ -924,7 +924,7 @@ script 179 mmz3 {
 	"""
 	Puedes ver
 	una lista de
-	Cyber-elfos.
+	Ciber-elfos.
 	"""
 	end
 }
@@ -3020,7 +3020,7 @@ script 708 mmz3 {
 	textColorWhite
 	"""
 	
-	Cyber-elfos
+	Ciber-elfos
 	son prog.
 	que ayudan
 	a humanos
@@ -3084,7 +3084,7 @@ script 712 mmz3 {
 	textColorWhite
 	"""
 	
-	Cyber-elf X
+	Ciber-elf X
 	fue el X
 	original,
 	sin cuerpo
@@ -3206,7 +3206,7 @@ script 719 mmz3 {
 }
 script 720 mmz3 {
 	"""
-	Cyber-elfo
+	Ciber-elfo
 	"""
 	end
 }

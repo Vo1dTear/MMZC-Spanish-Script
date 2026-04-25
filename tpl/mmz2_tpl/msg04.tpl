@@ -58,7 +58,7 @@ script 2 mmz2 {
 		mugshot = 20
 	"""
 	No... Si tan solo ese
-	Baby Elf no hubiera
+	Elfo Bebé no hubiera
 	sido robado...
 	"""
 	msgClear
@@ -146,7 +146,7 @@ script 8 mmz2 {
 	"""
 	msgClear
 	"""
-	Baby Elf...
+	Elfo Bebé...
 	Pero nos topamos
 	con el ejército
 	"""
@@ -214,13 +214,13 @@ script 11 mmz2 {
 	"""
 	msgClear
 	"""
-	Ambos Baby
-	Elves han
+	Ambos Elfos
+	Bebé han
 	despertado...
 	"""
 	msgClear
 	"""
-	Los Baby Elves
+	Los Elfos Bebé
 	siguen siendo
 	niños...
 	"""
@@ -247,7 +247,7 @@ script 12 mmz2 {
 	mugshotShow
 		mugshot = 85
 	"""
-	Los Baby Elves harán
+	Los Elfos Bebé harán
 	cualquier cosa para
 	reunirse con
 	"""

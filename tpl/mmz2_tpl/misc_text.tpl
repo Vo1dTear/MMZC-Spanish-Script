@@ -526,7 +526,7 @@ script 97 mmz2 {
 }
 script 98 mmz2 {
 	"""
-	PROCESAR CYBER-ELF
+	PROCESAR CIBER-ELFO
 	"""
 	end
 }
@@ -1953,7 +1953,7 @@ script 324 mmz2 {
 }
 script 325 mmz2 {
 	"""
-	Tu Cyber-elf elegido.
+	Tu Ciber-elfo elegido.
 	"""
 	end
 }
@@ -2261,7 +2261,7 @@ script 380 mmz2 {
 }
 script 381 mmz2 {
 	"""
-	Elige un Elf.
+	Elige un Elfo.
 	"""
 	end
 }
@@ -2279,7 +2279,7 @@ script 383 mmz2 {
 }
 script 384 mmz2 {
 	"""
-	El Elf no ha crecido.
+	El Elfo no ha crecido.
 	"""
 	end
 }
@@ -2327,7 +2327,7 @@ script 391 mmz2 {
 }
 script 392 mmz2 {
 	"""
-	Elige un Cyber-Elf.
+	Elige un Ciber-Elfo.
 	"""
 	end
 }

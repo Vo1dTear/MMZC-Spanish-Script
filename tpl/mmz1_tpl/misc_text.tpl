@@ -1890,7 +1890,7 @@ script 282 mmz1 {
 script 283 mmz1 {
 	"""
 	Un
-	Cyber-elf
+	Ciber-elfo
 	muy único.
 	"""
 	end
@@ -2195,7 +2195,7 @@ script 324 mmz1 {
 }
 script 325 mmz1 {
 	"""
-	Tu Cyber-elf elegido.
+	Tu Ciber-elfo elegido.
 	"""
 	end
 }
@@ -2491,7 +2491,7 @@ script 380 mmz1 {
 }
 script 381 mmz1 {
 	"""
-	Elige un Elf.
+	Elige un Elfo.
 	"""
 	end
 }
@@ -2509,7 +2509,7 @@ script 383 mmz1 {
 }
 script 384 mmz1 {
 	"""
-	El Elf no ha crecido.
+	El Elfo no ha crecido.
 	"""
 	end
 }
@@ -2557,7 +2557,7 @@ script 391 mmz1 {
 }
 script 392 mmz1 {
 	"""
-	Elige un Cyber-Elf.
+	Elige un Ciber-Elfo.
 	"""
 	end
 }
@@ -3126,7 +3126,7 @@ script 501 mmz1 {
 script 502 mmz1 {
 	"""
 	Guarda con todos los
-	Cyber-Elves usados,
+	Ciber-Elfos usados,
 	mantén R y elige "NEW GAME"
 	para jugar en modo ULTIMATE.
 	"""

@@ -834,7 +834,7 @@ script 37 mmz2 {
 	"""
 	msgClear
 	"""
-	a los Baby Elves...
+	a los Elfos Bebé...
 	"""
 	msgClear
 	"""
@@ -862,7 +862,7 @@ script 37 mmz2 {
 	"""
 	¡Oye, no te
 	vayas,
-	Baby Elf!!
+	Elfo Bebé!!
 	"""
 	msgClear
 	"""

@@ -1132,7 +1132,7 @@ script 74 mmz4 {
 	"""
 	msgClear
 	"""
-	Cyber-elfos con más
+	Ciber-elfos con más
 	de un siglo de
 	antigüedad.
 	"""
@@ -1173,7 +1173,7 @@ script 75 mmz4 {
 	"""
 	msgClear
 	"""
-	Cyber-elfos con más
+	Ciber-elfos con más
 	de un siglo de
 	antigüedad.
 	"""
@@ -1762,7 +1762,7 @@ script 102 mmz4 {
 	"""
 	Recibimos datos
 	de un nuevo
-	Cyber-elfo
+	Ciber-elfo
 	"""
 	msgClear
 	"""
@@ -1774,7 +1774,7 @@ script 102 mmz4 {
 		mugshot = 4
 	"""
 	¿Un nuevo
-	Cyber-elfo?
+	Ciber-elfo?
 	"""
 	msgClear
 	mugshotShow
@@ -1782,7 +1782,7 @@ script 102 mmz4 {
 	"""
 	Han estado
 	investigando
-	Cyber-elfos.
+	Ciber-elfos.
 	"""
 	msgClear
 	"""
@@ -1992,7 +1992,7 @@ script 109 mmz4 {
 	msgClear
 	"""
 	Ayudaste a contener
-	a los Cyber-elfos.
+	a los Ciber-elfos.
 	"""
 	msgClear
 	"""

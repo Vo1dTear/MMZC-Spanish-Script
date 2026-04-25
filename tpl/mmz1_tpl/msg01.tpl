@@ -327,7 +327,7 @@ script 25 mmz1 {
 }
 script 26 mmz1 {
 	"""
-	¡Obtuviste un Cyber-elf!
+	¡Obtuviste un Ciber-elfo!
 	"""
 	end
 }

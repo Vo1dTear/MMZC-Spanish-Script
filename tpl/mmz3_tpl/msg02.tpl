@@ -2032,7 +2032,7 @@ script 108 mmz3 {
 	"""
 	msgClear
 	"""
-	Cyber-Elfos se
+	Ciber-Elfos se
 	activan
 	automáticamente.
 	"""
@@ -2881,7 +2881,7 @@ script 121 mmz3 {
 	"""
 	msgClear
 	"""
-	los Cyber-Elfos
+	los Ciber-Elfos
 	inmortales demuestran
 	"""
 	msgClear
@@ -2896,7 +2896,7 @@ script 122 mmz3 {
 		mugshot = 76
 	"""
 	Sobre los
-	Cyber-Elfos...
+	Ciber-Elfos...
 	"""
 	msgClear
 	option
@@ -3516,7 +3516,7 @@ script 141 mmz3 {
 	"""
 	msgClear
 	"""
-	El Dark Elf es un Cyber-Elf
+	El Dark Elf es un Ciber-Elf
 	diseñado originalmente para
 	"""
 	msgClear
@@ -3620,7 +3620,7 @@ script 142 mmz3 {
 	"""
 	Ciel es una chica humana
 	con una conexión empática
-	con los Cyber-elfos.
+	con los Ciber-elfos.
 	"""
 	msgClear
 	"""
@@ -3757,7 +3757,7 @@ script 163 mmz3 {
 	"""
 	msgClear
 	"""
-	Los Cyber-elfos se
+	Los Ciber-elfos se
 	han vuelto más fáci-
 	les de usar, ¿verdad?
 	"""
@@ -4584,7 +4584,7 @@ script 188 mmz3 {
 	"""
 	Sr. Zero, ¿es
 	difícil criar
-	Cyber-elfos?
+	Ciber-elfos?
 	"""
 	msgClear
 	"""
@@ -4596,7 +4596,7 @@ script 188 mmz3 {
 	"""
 	Use estos E-Crystals
 	para criar sus
-	Cyber-elfos.
+	Ciber-elfos.
 	"""
 	msgGotoSub
 		subindex = 9

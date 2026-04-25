@@ -301,7 +301,7 @@ script 22 mmz2 {
 }
 script 23 mmz2 {
 	"""
-	¡Obtuviste un Cyber-elf!!
+	¡Obtuviste un Ciber-elfo!!
 	"""
 	end
 }
@@ -609,7 +609,7 @@ script 49 mmz2 {
 }
 script 50 mmz2 {
 	"""
-	Obtienes Cyber-elf Grandie.
+	Obtienes Ciber-elfo Grandie.
 	"""
 	msgClear
 	"""
@@ -623,163 +623,163 @@ script 50 mmz2 {
 }
 script 51 mmz2 {
 	"""
-	Obtienes Cyber-elf Yeppie.
+	Obtienes Ciber-elfo Yeppie.
 	"""
 	end
 }
 script 52 mmz2 {
 	"""
-	Obtienes Cyber-elf Fuppie.
+	Obtienes Ciber-elfo Fuppie.
 	"""
 	end
 }
 script 53 mmz2 {
 	"""
-	Obtienes Cyber-elf Mappie.
+	Obtienes Ciber-elfo Mappie.
 	"""
 	end
 }
 script 54 mmz2 {
 	"""
-	Obtienes Cyber-elf Euppie.
+	Obtienes Ciber-elfo Euppie.
 	"""
 	end
 }
 script 55 mmz2 {
 	"""
-	Obtienes Cyber-elf Estan.
+	Obtienes Ciber-elfo Estan.
 	"""
 	end
 }
 script 56 mmz2 {
 	"""
-	Obtienes Cyber-elf Peatan.
+	Obtienes Ciber-elfo Peatan.
 	"""
 	end
 }
 script 57 mmz2 {
 	"""
-	Obtienes Cyber-elf Arnue.
+	Obtienes Ciber-elfo Arnue.
 	"""
 	end
 }
 script 58 mmz2 {
 	"""
-	Obtienes Cyber-elf Charnue.
+	Obtienes Ciber-elfo Charnue.
 	"""
 	end
 }
 script 59 mmz2 {
 	"""
-	Obtienes Cyber-elf Kereff.
+	Obtienes Ciber-elfo Kereff.
 	"""
 	end
 }
 script 60 mmz2 {
 	"""
-	Obtienes Cyber-elf Rireff.
+	Obtienes Ciber-elfo Rireff.
 	"""
 	end
 }
 script 61 mmz2 {
 	"""
-	Obtienes Cyber-elf Mureff.
+	Obtienes Ciber-elfo Mureff.
 	"""
 	end
 }
 script 62 mmz2 {
 	"""
-	Obtienes Cyber-elf Nureff.
+	Obtienes Ciber-elfo Nureff.
 	"""
 	end
 }
 script 63 mmz2 {
 	"""
-	Obtienes Cyber-elf Oreff.
+	Obtienes Ciber-elfo Oreff.
 	"""
 	end
 }
 script 64 mmz2 {
 	"""
-	Obtienes Cyber-elf Pireff.
+	Obtienes Ciber-elfo Pireff.
 	"""
 	end
 }
 script 65 mmz2 {
 	"""
-	Obtienes Cyber-elf Emick.
+	Obtienes Ciber-elfo Emick.
 	"""
 	end
 }
 script 66 mmz2 {
 	"""
-	Obtienes Cyber-elf Satick.
+	Obtienes Ciber-elfo Satick.
 	"""
 	end
 }
 script 67 mmz2 {
 	"""
-	Obtienes Cyber-elf Parick.
+	Obtienes Ciber-elfo Parick.
 	"""
 	end
 }
 script 68 mmz2 {
 	"""
-	Obtienes Cyber-elf Mitick.
+	Obtienes Ciber-elfo Mitick.
 	"""
 	end
 }
 script 69 mmz2 {
 	"""
-	Obtienes Cyber-elf Ishilar.
+	Obtienes Ciber-elfo Ishilar.
 	"""
 	end
 }
 script 70 mmz2 {
 	"""
-	Obtienes Cyber-elf Tomilar.
+	Obtienes Ciber-elfo Tomilar.
 	"""
 	end
 }
 script 71 mmz2 {
 	"""
-	Obtienes Cyber-elf Mikilar.
+	Obtienes Ciber-elfo Mikilar.
 	"""
 	end
 }
 script 72 mmz2 {
 	"""
-	Obtienes Cyber-elf Remilar.
+	Obtienes Ciber-elfo Remilar.
 	"""
 	end
 }
 script 73 mmz2 {
 	"""
-	Obtienes Cyber-elf Culoppe.
+	Obtienes Ciber-elfo Culoppe.
 	"""
 	end
 }
 script 74 mmz2 {
 	"""
-	Obtienes Cyber-elf Miloppe.
+	Obtienes Ciber-elfo Miloppe.
 	"""
 	end
 }
 script 75 mmz2 {
 	"""
-	Obtienes Cyber-elf Meloppe.
+	Obtienes Ciber-elfo Meloppe.
 	"""
 	end
 }
 script 76 mmz2 {
 	"""
-	Obtienes Cyber-elf Reloppe.
+	Obtienes Ciber-elfo Reloppe.
 	"""
 	end
 }
 script 77 mmz2 {
 	"""
-	Obtienes Cyber-elf Putick.
+	Obtienes Ciber-elfo Putick.
 	"""
 	msgClear
 	"""
@@ -787,169 +787,181 @@ script 77 mmz2 {
 	"""
 	msgClear
 	"""
-	Hallaste un Rare Elf, Zero.
+	Hallaste un Elfo Raro, Zero.
 	"""
 	end
 }
 script 78 mmz2 {
 	"""
-	Obtienes Cyber-elf Jettah.
+	Obtienes Ciber-elfo Jettah.
 	"""
 	end
 }
 script 79 mmz2 {
 	"""
-	Obtienes Cyber-elf Atti.
+	Obtienes Ciber-elfo Atti.
 	"""
 	end
 }
 script 80 mmz2 {
 	"""
-	Obtienes Cyber-elf Kelon.
+	Obtienes Ciber-elfo Kelon.
 	"""
 	end
 }
 script 81 mmz2 {
 	"""
-	Obtienes Cyber-elf Fubuffa.
+	Obtienes Ciber-elfo Fubuffa.
 	"""
 	end
 }
 script 82 mmz2 {
 	"""
-	Obtienes Cyber-elf Birwin.
+	Obtienes Ciber-elfo Birwin.
 	"""
 	end
 }
 script 83 mmz2 {
 	"""
-	Obtienes Cyber-elf Biraero.
+	Obtienes Ciber-elfo Biraero.
 	"""
 	end
 }
 script 84 mmz2 {
 	"""
-	Obtienes Cyber-elf Bircarry.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Bircarry.
 	"""
 	end
 }
 script 85 mmz2 {
 	"""
-	Obtienes Cyber-elf Birhang.
+	Obtienes Ciber-elfo Birhang.
 	"""
 	end
 }
 script 86 mmz2 {
 	"""
-	Obtienes Cyber-elf Birflow.
+	Obtienes Ciber-elfo Birflow.
 	"""
 	end
 }
 script 87 mmz2 {
 	"""
-	Obtienes Cyber-elf Birhelp.
+	Obtienes Ciber-elfo Birhelp.
 	"""
 	end
 }
 script 88 mmz2 {
 	"""
-	Obtienes Cyber-elf Beesult.
+	Obtienes Ciber-elfo Beesult.
 	"""
 	end
 }
 script 89 mmz2 {
 	"""
-	Obtienes Cyber-elf Beeshot.
+	Obtienes Ciber-elfo Beeshot.
 	"""
 	end
 }
 script 90 mmz2 {
 	"""
-	Obtienes Cyber-elf Beestin.
+	Obtienes Ciber-elfo Beestin.
 	"""
 	end
 }
 script 91 mmz2 {
 	"""
-	Obtienes Cyber-elf Beebite.
+	Obtienes Ciber-elfo Beebite.
 	"""
 	end
 }
 script 92 mmz2 {
 	"""
-	Obtienes Cyber-elf Beehitt.
+	Obtienes Ciber-elfo Beehitt.
 	"""
 	end
 }
 script 93 mmz2 {
 	"""
-	Obtienes Cyber-elf Beefire.
+	Obtienes Ciber-elfo Beefire.
 	"""
 	end
 }
 script 94 mmz2 {
 	"""
-	Obtienes Cyber-elf Beelanch.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Beelanch.
 	"""
 	end
 }
 script 95 mmz2 {
 	"""
-	Obtienes Cyber-elf Beellet.
+	Obtienes Ciber-elfo Beellet.
 	"""
 	end
 }
 script 96 mmz2 {
 	"""
-	Obtienes Cyber-elf Stickah.
+	Obtienes Ciber-elfo Stickah.
 	"""
 	end
 }
 script 97 mmz2 {
 	"""
-	Obtienes Cyber-elf Stickoo.
+	Obtienes Ciber-elfo Stickoo.
 	"""
 	end
 }
 script 98 mmz2 {
 	"""
-	Obtienes Cyber-elf Stickie.
+	Obtienes Ciber-elfo Stickie.
 	"""
 	end
 }
 script 99 mmz2 {
 	"""
-	Obtienes Cyber-elf Stickoh.
+	Obtienes Ciber-elfo Stickoh.
 	"""
 	end
 }
 script 100 mmz2 {
 	"""
-	Obtienes Cyber-elf Bomgrow.
+	Obtienes Ciber-elfo Bomgrow.
 	"""
 	end
 }
 script 101 mmz2 {
 	"""
-	Obtienes Cyber-elf Bomserow.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Bomserow.
 	"""
 	end
 }
 script 102 mmz2 {
 	"""
-	Obtienes Cyber-elf Bomphew.
+	Obtienes Ciber-elfo Bomphew.
 	"""
 	end
 }
 script 103 mmz2 {
 	"""
-	Obtienes Cyber-elf Bomblow.
+	Obtienes Ciber-elfo Bomblow.
 	"""
 	end
 }
 script 104 mmz2 {
 	"""
-	Obtienes Cyber-elf Dable.
+	Obtienes Ciber-elfo Dable.
 	"""
 	msgClear
 	"""
@@ -963,157 +975,197 @@ script 104 mmz2 {
 }
 script 105 mmz2 {
 	"""
-	Obtienes Cyber-elf Menite.
+	Obtienes Ciber-elfo Menite.
 	"""
 	end
 }
 script 106 mmz2 {
 	"""
-	Obtienes Cyber-elf Lanite.
+	Obtienes Ciber-elfo Lanite.
 	"""
 	end
 }
 script 107 mmz2 {
 	"""
-	Obtienes Cyber-elf Hafmardo.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Hafmardo.
 	"""
 	end
 }
 script 108 mmz2 {
 	"""
-	Obtienes Cyber-elf Hafmarmn.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Hafmarmn.
 	"""
 	end
 }
 script 109 mmz2 {
 	"""
-	Obtienes Cyber-elf Stoccum.
+	Obtienes Ciber-elfo Stoccum.
 	"""
 	end
 }
 script 110 mmz2 {
 	"""
-	Obtienes Cyber-elf Stockel.
+	Obtienes Ciber-elfo Stockel.
 	"""
 	end
 }
 script 111 mmz2 {
 	"""
-	Obtienes Cyber-elf Stocttus.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Stocttus.
 	"""
 	end
 }
 script 112 mmz2 {
 	"""
-	Obtienes Cyber-elf Stoctem.
+	Obtienes Ciber-elfo Stoctem.
 	"""
 	end
 }
 script 113 mmz2 {
 	"""
-	Obtienes Cyber-elf Stocpuss.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Stocpuss.
 	"""
 	end
 }
 script 114 mmz2 {
 	"""
-	Obtienes Cyber-elf Stocpell.
+	Obtienes Ciber-elfo 
+	"""
+	msgClear
+	"""
+	Stocpell.
 	"""
 	end
 }
 script 115 mmz2 {
 	"""
-	Obtienes Cyber-elf Clockle.
+	Obtienes Ciber-elfo Clockle.
 	"""
 	end
 }
 script 116 mmz2 {
 	"""
-	Obtienes Cyber-elf Clocsule.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Clocsule.
 	"""
 	end
 }
 script 117 mmz2 {
 	"""
-	Obtienes Cyber-elf Cloctell.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Cloctell.
 	"""
 	end
 }
 script 118 mmz2 {
 	"""
-	Obtienes Cyber-elf Clocpull.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	Clocpull.
 	"""
 	end
 }
 script 119 mmz2 {
 	"""
-	Obtienes Cyber-elf Itemeter.
+	Obtienes Ciber-elfo 
+	"""
+	msgClear
+	"""
+	Itemeter.
 	"""
 	end
 }
 script 120 mmz2 {
 	"""
-	Obtienes Cyber-elf Iteroth.
+	Obtienes Ciber-elfo Iteroth.
 	"""
 	end
 }
 script 121 mmz2 {
 	"""
-	Obtienes Cyber-elf Itemass.
+	Obtienes Ciber-elfo Itemass.
 	"""
 	end
 }
 script 122 mmz2 {
 	"""
-	Obtienes Cyber-elf Iterex.
+	Obtienes Ciber-elfo Iterex.
 	"""
 	end
 }
 script 123 mmz2 {
 	"""
-	Obtienes Cyber-elf M-orapp.
+	Obtienes Ciber-elfo M-orapp.
 	"""
 	end
 }
 script 124 mmz2 {
 	"""
-	Obtienes Cyber-elf M-orina.
+	Obtienes Ciber-elfo M-orina.
 	"""
 	end
 }
 script 125 mmz2 {
 	"""
-	Obtienes Cyber-elf M-orossa.
+	Obtienes Ciber-elfo
+	"""
+	msgClear
+	"""
+	M-orossa.
 	"""
 	end
 }
 script 126 mmz2 {
 	"""
-	Obtienes Cyber-elf M-oreno.
+	Obtienes Ciber-elfo M-oreno.
 	"""
 	end
 }
 script 127 mmz2 {
 	"""
-	Obtienes Cyber-elf Acool.
+	Obtienes Ciber-elfo Acool.
 	"""
 	end
 }
 script 128 mmz2 {
 	"""
-	Obtienes Cyber-elf Ashiro.
+	Obtienes Ciber-elfo Ashiro.
 	"""
 	end
 }
 script 129 mmz2 {
 	"""
-	Obtienes Cyber-elf Aterner.
+	Obtienes Ciber-elfo Aterner.
 	"""
 	end
 }
 script 130 mmz2 {
 	"""
-	Obtienes Cyber-elf Anurray.
+	Obtienes Ciber-elfo Anurray.
 	"""
 	end
 }

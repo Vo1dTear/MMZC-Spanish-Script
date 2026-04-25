@@ -2027,7 +2027,7 @@ script 72 mmz3 {
 	"""
 	Cerca del final de las
 	Guerras Maverick, muchos
-	Cyber-elfos fueron usados...
+	Ciber-elfos fueron usados...
 	"""
 	msgClear
 	"""

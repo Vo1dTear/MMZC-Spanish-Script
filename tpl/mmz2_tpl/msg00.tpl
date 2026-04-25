@@ -1089,7 +1089,7 @@ script 101 mmz2 {
 		mugshot = 6
 	"""
 	  PROCESAR DATOS
-	  SOBRE CYBER-ELF
+	  SOBRE CIBER-ELFO
 	  HABLAR
 	"""
 	end
@@ -1099,7 +1099,7 @@ script 102 mmz2 {
 		mugshot = 6
 	"""
 	  PROCESAR DATOS
-	  SOBRE CYBER-ELF
+	  SOBRE CIBER-ELFO
 	  HABLAR
 	"""
 	end
@@ -1109,7 +1109,7 @@ script 103 mmz2 {
 		mugshot = 6
 	"""
 	Por si lo olvidaste,
-	un Cyber-elf es un
+	un Ciber-elfo es un
 	tipo de programa
 	"""
 	msgClear
@@ -1142,7 +1142,7 @@ script 103 mmz2 {
 	msgClear
 	"""
 	tecnología,
-	un Cyber-elf no
+	un Ciber-elfo no
 	puede ser resucitado.
 	"""
 	msgClear
@@ -1231,9 +1231,9 @@ script 114 mmz2 {
 	mugshotShow
 		mugshot = 6
 	"""
-	  DESCARGAR ELF
-	  ALIMENTAR ELF
-	  PREGUNTAR POR ELF
+	  DESCARGAR ELFO
+	  ALIMENTAR ELFO
+	  PREGUNTAR POR ELFO
 	"""
 	end
 }
@@ -1254,12 +1254,12 @@ script 120 mmz2 {
 	msgClear
 	"""
 	recuperar otro
-	Baby Elf.
+	Elfo Bebé.
 	"""
 	msgClear
 	"""
 	Ahora tenemos ambos
-	Baby Elves que Neo
+	Elfos Bebé que Neo
 	Arcadia mantenía
 	"""
 	msgClear

@@ -4130,7 +4130,7 @@ script 745 mmz4 {
 }
 script 746 mmz4 {
 	"""
-	Cyber-elfo
+	Ciber-elfo
 	débil a luz.
 	En cápsula
 	de hibern.
@@ -4252,7 +4252,7 @@ script 758 mmz4 {
 	Circuito
 	teletransp.
 	Puede usar
-	Cyber-elfos.
+	Ciber-elfos.
 	"""
 	end
 }
@@ -4470,7 +4470,7 @@ script 780 mmz4 {
 	Reploide
 	solitaria.
 	Encargada de
-	Cyber-elfos.
+	Ciber-elfos.
 	"""
 	end
 }

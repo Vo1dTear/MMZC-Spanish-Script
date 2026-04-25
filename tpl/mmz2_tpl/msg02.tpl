@@ -567,7 +567,7 @@ script 29 mmz2 {
 		mugshot = 6
 	"""
 	Mira a este
-	Cyber-elf. ¿No es
+	Ciber-elfo. ¿No es
 	asombroso?
 	"""
 	msgClear
@@ -579,7 +579,7 @@ script 29 mmz2 {
 	msgClear
 	"""
 	pequeño... Este
-	Cyber-elf es un
+	Ciber-elfo es un
 	regalo del
 	"""
 	msgClear
@@ -921,7 +921,7 @@ script 43 mmz2 {
 	"""
 	msgClear
 	"""
-	Cyber-elf.
+	Ciber-elfo.
 	"""
 	msgClear
 	"""
@@ -1759,7 +1759,7 @@ script 65 mmz2 {
 	"""
 	preguntas bien.
 	Lleva este
-	Cyber-elf contigo.
+	Ciber-elfo contigo.
 	"""
 	msgGotoSub
 		subindex = 9
@@ -1914,7 +1914,7 @@ script 71 mmz2 {
 		mugshot = 34
 	"""
 	Ciel me mostró
-	un Baby Elf
+	un Elfo Bebé
 	muy bonito en su
 	"""
 	msgClear
@@ -1964,7 +1964,7 @@ script 73 mmz2 {
 		mugshot = 34
 	"""
 	Sabes, encontré
-	otro Baby Elf en la
+	otro Elfo Bebé en la
 	habitación de Ciel.
 	"""
 	msgClear
@@ -2012,7 +2012,7 @@ script 74 mmz2 {
 	"""
 	¡Quiero que Ciel
 	me muestre los
-	Baby Elves otra vez!
+	Elfos Bebé otra vez!
 	"""
 	end
 }
@@ -2027,7 +2027,7 @@ script 75 mmz2 {
 	"""
 	Zero, ¿cuándo
 	volverán mis
-	Baby Elves?
+	Elfos Bebé?
 	"""
 	end
 }
@@ -2944,7 +2944,7 @@ script 119 mmz2 {
 	"""
 	Sin embargo, creo
 	que los datos de
-	los Baby Elves que
+	los Elfos Bebé que
 	"""
 	msgClear
 	"""
@@ -3041,7 +3041,7 @@ script 123 mmz2 {
 	"""
 	Zero...
 	No pensé que
-	los Baby Elves
+	los Elfos Bebé
 	"""
 	msgClear
 	"""
@@ -3418,7 +3418,7 @@ script 135 mmz2 {
 	"""
 	¿Qué quieres?
 	  GUERRAS MAVERICK
-	  CYBER-ELF
+	  CIBER-ELFO
 	"""
 	msgClear
 	"""
@@ -3445,12 +3445,12 @@ script 135 mmz2 {
 	msgClear
 	"""
 	del poder de los
-	Cyber-elves.
+	Ciber-elfos.
 	"""
 	msgClear
 	"""
 	Gracias a X, los
-	Cyber-elves malvados
+	Ciber-elfos malvados
 	fueron eliminados.
 	"""
 	msgClear
@@ -3470,7 +3470,7 @@ script 135 mmz2 {
 	msgSub
 		subindex = 2
 	"""
-	Un Cyber-elf es un
+	Un Ciber-elfo es un
 	programa creado para
 	apoyar a humanos y
 	"""
@@ -3480,7 +3480,7 @@ script 135 mmz2 {
 	"""
 	msgClear
 	"""
-	Los Cyber-elves
+	Los Ciber-elfos
 	tienen voluntad
 	propia y pueden
 	"""
@@ -3557,7 +3557,7 @@ script 136 mmz2 {
 	"""
 	msgClear
 	"""
-	Si el Cyber-elf X
+	Si el Ciber-elfo X
 	es real...
 	"""
 	msgClear
@@ -3653,7 +3653,7 @@ script 137 mmz2 {
 	"""
 	El Dark Elf es un
 	tipo especial de
-	Cyber-elf creado
+	Ciber-elfo creado
 	"""
 	msgClear
 	"""
@@ -3671,7 +3671,7 @@ script 137 mmz2 {
 	"""
 	Luego de eso, fue
 	robada por
-	alguien, y la Dark
+	alguien, y el Dark
 	"""
 	msgClear
 	"""
@@ -4113,7 +4113,7 @@ script 162 mmz2 {
 	msgClear
 	"""
 	Encontré un
-	Cyber-elf perdido
+	Ciber-elfo perdido
 	hace un momento.
 	"""
 	msgClear
@@ -4124,13 +4124,13 @@ script 162 mmz2 {
 	msgClear
 	"""
 	Creo que este
-	Cyber-elf sería
+	Ciber-elfo sería
 	más feliz con
 	"""
 	msgClear
 	"""
 	los otros
-	Cyber-elves.
+	Ciber-elfos.
 	"""
 	end
 }
@@ -4195,12 +4195,12 @@ script 165 mmz2 {
 	"""
 	Me temo que incluso
 	usando todos
-	los Cyber-elves,
+	los Ciber-elfos,
 	"""
 	msgClear
 	"""
 	no podrás obtener
-	el Rare Elf.
+	el Elfo Raro.
 	"""
 	end
 }
