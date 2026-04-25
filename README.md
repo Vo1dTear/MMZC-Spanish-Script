@@ -21,7 +21,7 @@ this version focuses exclusively on **translating the game into Spanish**.
 | Mega Man Zero 1    | Fully translated |
 | Mega Man Zero 2    | Fully translated |
 | Mega Man Zero 3    | Fully translated |
-| Mega Man Zero 4    | In progress      |
+| Mega Man Zero 4    | Fully translated |
 
 
 
