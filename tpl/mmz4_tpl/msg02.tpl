@@ -176,7 +176,7 @@ script 7 mmz4 {
 	msgClear
 	"""
 	Recoge el último
-	Cyber-elfo de
+	Ciber-elfo de
 	Alouette y sigue
 	"""
 	msgClear
@@ -2314,55 +2314,54 @@ script 143 mmz4 {
 	"""
 	msgClear
 	"""
-	But since it's Easy
-	Mode, it can only
-	handle up to level
+	Pero como es Modo
+	Fácil, solo usa
+	habilidades hasta
 	"""
 	msgClear
 	"""
-	5 abilities, and
-	here's where it gets
-	a little tricky.
+	nivel 5, y aquí se
+	complica un poco.
 	"""
 	msgClear
 	"""
-	The Elf has
-	something called a
-	max level.
+	El Elfo tiene algo
+	llamado nivel
+	máximo.
 	"""
 	msgClear
 	"""
-	If the 3 ability
-	levels combined
-	exceed the max,
+	Si la suma de las 3
+	habilidades supera
+	el máximo,
 	"""
 	msgClear
 	"""
-	then you lose a
-	point for each
-	level over the max.
+	pierdes un punto por
+	cada nivel que lo
+	exceda.
 	"""
 	msgClear
 	"""
-	In other words, as
-	long as you keep the
-	combined levels
+	¡En otras palabras,
+	si mantienes los
+	niveles combinados
 	"""
 	msgClear
 	"""
-	below the max
-	level, you don't
-	lose any points!
+	bajo el nivel
+	máximo, no pierdes
+	puntos!
 	"""
 	msgClear
 	"""
-	There's probably
-	also a way to raise
-	the max level.
+	Quizá también haya
+	forma de aumentar
+	el nivel máximo.
 	"""
 	msgClear
 	"""
-	Use it well!
+	¡Úsalo bien!
 	"""
 	end
 }
@@ -3832,7 +3831,7 @@ script 238 mmz4 {
 	msgClear
 	"""
 	Recibí aviso de que
-	el nuevo Cyber-elfo
+	el nuevo Ciber-elfo
 	llegó.
 	"""
 	msgClear
@@ -3862,7 +3861,7 @@ script 240 mmz4 {
 	msgClear
 	"""
 	¿Un nombre para el
-	nuevo Cyber-elfo?
+	nuevo Ciber-elfo?
 	"""
 	msgClear
 	"""
@@ -4004,7 +4003,7 @@ script 249 mmz4 {
 		mugshot = 34
 	"""
 	¡Oí que el nuevo
-	modelo de Cyber-elfo
+	modelo de Ciber-elfo
 	es algo increíble!
 	"""
 	end
@@ -4019,7 +4018,7 @@ script 250 mmz4 {
 	"""
 	A Alouette le gusta
 	mucho ese
-	Cyber-elfo,
+	Ciber-elfo,
 	"""
 	msgClear
 	"""
