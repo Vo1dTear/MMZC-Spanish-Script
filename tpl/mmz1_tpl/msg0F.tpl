@@ -310,8 +310,8 @@ script 6 mmz1 {
 	"""
 	Debes ser
 	Zero, el
-	legendario
-	Reploide...
+	Reploide
+	legendario...
 	"""
 	msgClear
 	"""

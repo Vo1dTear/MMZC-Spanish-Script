@@ -421,7 +421,7 @@ script 13 mmz3 {
 	"""
 	las Guerras Élficas,
 	que terminaron
-	hace un siglo...
+	hace un siglo...?
 	"""
 	msgClear
 	mugshotShow

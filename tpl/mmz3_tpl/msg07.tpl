@@ -493,7 +493,7 @@ script 37 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	¡Maldición...
+	¡Maldición...!
 	"""
 	msgClear
 	"""

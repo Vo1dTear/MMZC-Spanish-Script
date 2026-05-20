@@ -49,8 +49,8 @@ script 1 mmz2 {
 	msgClear
 	"""
 	Quería enfrentarme
-	a ti. ¿Por qué no
-	nos divertimos!!
+	a ti. ¡¿Por qué no
+	nos divertimos?!
 	"""
 	end
 }

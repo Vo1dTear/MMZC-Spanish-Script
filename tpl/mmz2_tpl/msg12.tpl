@@ -461,7 +461,7 @@ script 24 mmz2 {
 	"""
 	msgClear
 	"""
-	Y liberar al
+	¡Y liberar al
 	Dark Elf!
 	"""
 	end

@@ -31,7 +31,7 @@ script 1 mmz2 {
 	msgClear
 	"""
 	¡Nadie puede pasar
-	de aquí, ¡ribbit!
+	de aquí, ribbit!
 	"""
 	msgClear
 	"""
@@ -139,7 +139,7 @@ script 3 mmz2 {
 		mugshot = 8
 	"""
 	¿Te refieres... al
-	Dark Elf...
+	Dark Elf...?
 	"""
 	end
 }

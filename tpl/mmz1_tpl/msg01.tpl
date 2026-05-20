@@ -25,7 +25,7 @@ script 2 mmz1 {
 }
 script 3 mmz1 {
 	"""
-	Buster Shot Skill Up!
+	¡Buster Shot Skill Up!
 	"""
 	msgClear
 	"""
@@ -39,7 +39,7 @@ script 3 mmz1 {
 }
 script 4 mmz1 {
 	"""
-	Buster Shot Skill Up!
+	¡Buster Shot Skill Up!
 	"""
 	msgClear
 	"""
@@ -53,7 +53,7 @@ script 4 mmz1 {
 }
 script 5 mmz1 {
 	"""
-	Buster Shot Skill MAX!
+	¡Buster Shot Skill MAX!
 	"""
 	msgClear
 	"""
@@ -67,7 +67,7 @@ script 5 mmz1 {
 }
 script 6 mmz1 {
 	"""
-	Buster Shot Skill Up!
+	¡Buster Shot Skill Up!
 	"""
 	msgClear
 	"""
@@ -81,7 +81,7 @@ script 6 mmz1 {
 }
 script 7 mmz1 {
 	"""
-	Buster Shot Skill MAX!
+	¡Buster Shot Skill MAX!
 	"""
 	msgClear
 	"""
@@ -95,7 +95,7 @@ script 7 mmz1 {
 }
 script 8 mmz1 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -109,7 +109,7 @@ script 8 mmz1 {
 }
 script 9 mmz1 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -123,7 +123,7 @@ script 9 mmz1 {
 }
 script 10 mmz1 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -137,7 +137,7 @@ script 10 mmz1 {
 }
 script 11 mmz1 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -151,7 +151,7 @@ script 11 mmz1 {
 }
 script 12 mmz1 {
 	"""
-	Z Saber Skill MAX!
+	¡Z Saber Skill MAX!
 	"""
 	msgClear
 	"""
@@ -165,7 +165,7 @@ script 12 mmz1 {
 }
 script 13 mmz1 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -179,7 +179,7 @@ script 13 mmz1 {
 }
 script 14 mmz1 {
 	"""
-	Z Saber Skill MAX!
+	¡Z Saber Skill MAX!
 	"""
 	msgClear
 	"""
@@ -193,7 +193,7 @@ script 14 mmz1 {
 }
 script 15 mmz1 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -207,7 +207,7 @@ script 15 mmz1 {
 }
 script 16 mmz1 {
 	"""
-	Z Saber Skill MAX!
+	¡Z Saber Skill MAX!
 	"""
 	msgClear
 	"""
@@ -221,7 +221,7 @@ script 16 mmz1 {
 }
 script 17 mmz1 {
 	"""
-	Triple Rod Skill Up!
+	¡Triple Rod Skill Up!
 	"""
 	msgClear
 	"""
@@ -235,7 +235,7 @@ script 17 mmz1 {
 }
 script 18 mmz1 {
 	"""
-	Triple Rod Skill Up!
+	¡Triple Rod Skill Up!
 	"""
 	msgClear
 	"""
@@ -249,7 +249,7 @@ script 18 mmz1 {
 }
 script 19 mmz1 {
 	"""
-	Triple Rod Skill Up!
+	¡Triple Rod Skill Up!
 	"""
 	msgClear
 	"""
@@ -263,7 +263,7 @@ script 19 mmz1 {
 }
 script 20 mmz1 {
 	"""
-	Triple Rod Skill MAX!
+	¡Triple Rod Skill MAX!
 	"""
 	msgClear
 	"""
@@ -277,7 +277,7 @@ script 20 mmz1 {
 }
 script 21 mmz1 {
 	"""
-	Shield Boomerang Skill Up!
+	¡Shield Boomerang Skill Up!
 	"""
 	msgClear
 	"""
@@ -291,11 +291,7 @@ script 21 mmz1 {
 }
 script 22 mmz1 {
 	"""
-	Shield Boomerang
-	"""
-	msgClear
-	"""
-	Skill MAX!
+	¡Shield Boomerang Skill MAX!
 	"""
 	msgClear
 	"""

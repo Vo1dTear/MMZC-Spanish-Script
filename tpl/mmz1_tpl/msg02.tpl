@@ -625,7 +625,7 @@ script 20 mmz1 {
 	"""
 	Qué mala suerte.
 	Si fueras un
-	Reploid, podrías
+	Reploide, podrías
 	dedicar un poco de
 	"""
 	msgClear
@@ -1680,7 +1680,7 @@ script 71 mmz1 {
 	Gracias por los
 	cristales. ¿Ves?
 	¡Ahora estoy en
-	plena forma
+	plena forma!
 	"""
 	msgClear
 	"""

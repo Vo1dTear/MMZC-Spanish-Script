@@ -186,8 +186,8 @@ script 13 mmz1 {
 	msgClear
 	"""
 	Tú ERES Zero,
-	el legendario
-	Reploide que
+	el Reploide
+	legendario que
 	luchó junto a
 	"""
 	msgClear
@@ -220,7 +220,8 @@ script 13 mmz1 {
 	mugshotShow
 		mugshot = 4
 	"""
-	X está intentando...
+	¿X está
+	intentando...
 	eliminarte...?
 	"""
 	msgClear
@@ -1125,8 +1126,8 @@ script 34 mmz1 {
 	msgClear
 	"""
 	TÚ ERES Zero,
-	el legendario
-	Reploide...
+	el Reploide
+	legendario...
 	"""
 	msgClear
 	"""
@@ -1236,8 +1237,8 @@ script 36 mmz1 {
 	msgClear
 	"""
 	TÚ ERES Zero,
-	el legendario
-	Reploide...
+	el Reploide
+	legendario...
 	"""
 	end
 }
@@ -1378,7 +1379,7 @@ script 41 mmz1 {
 	"""
 	A veces comete
 	errores, pero
-	es un buen Reploid
+	es un buen Reploide
 	de corazón.
 	"""
 	msgClear

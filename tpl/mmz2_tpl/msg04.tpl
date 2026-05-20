@@ -183,7 +183,7 @@ script 10 mmz2 {
 		mugshot = 8
 	"""
 	¿Qué estás
-	esperando...
+	esperando...?
 	"""
 	msgClear
 	"""

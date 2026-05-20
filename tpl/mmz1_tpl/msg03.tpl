@@ -25,8 +25,8 @@ script 2 mmz1 {
 		mugshot = 6
 	msgBottom
 	"""
-	Puff! Puff!
-	¡¿Un callejón
+	¡Puff! ¡Puff!
+	¿¡Un callejón
 	sin salida!?
 	"""
 	msgClear
@@ -44,7 +44,7 @@ script 3 mmz1 {
 	mugshotShow
 		mugshot = 56
 	"""
-	¡Está bien! Deja
+	¡Está bien! ¡Deja
 	esto en mis manos!
 	Quédate atrás, Ciel.
 	"""
@@ -56,7 +56,7 @@ script 4 mmz1 {
 	"""
 	Deberías irte.
 	¡Yo me encargaré
-	de ellos
+	de ellos!
 	"""
 	end
 }
@@ -107,7 +107,7 @@ script 7 mmz1 {
 		mugshot = 9
 	"""
 	¿Qué debería
-	hacer...
+	hacer...?
 	"""
 	end
 }
@@ -228,12 +228,12 @@ script 15 mmz1 {
 	"""
 	No te preocupes
 	por mí. Recuerda,
-	todos están
+	¡todos están
 	esperando tu
 	"""
 	msgClear
 	"""
-	¡regreso a salvo!
+	regreso a salvo!
 	"""
 	end
 }
@@ -307,7 +307,7 @@ script 20 mmz1 {
 	mugshotShow
 		mugshot = 6
 	"""
-	¡¿Qué!? Es un
+	¿¡Qué!? Es un
 	callejón sin salida...
 	¿Qué deberíamos
 	hacer...?
@@ -438,8 +438,8 @@ script 29 mmz1 {
 	"""
 	Teníamos razón.
 	¡Tú ERES Zero,
-	el legendario
-	Reploide!
+	el Reploide
+	legendario!
 	"""
 	msgClear
 	mugshotShow

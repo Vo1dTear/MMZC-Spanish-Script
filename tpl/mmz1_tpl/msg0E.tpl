@@ -226,7 +226,7 @@ script 7 mmz1 {
 		mugshot = 30
 	"""
 	¿Por qué no
-	me eliminaste...
+	me eliminaste...?
 	¿me estás mostrando
 	misericordia?
 	"""
