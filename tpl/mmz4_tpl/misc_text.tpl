@@ -2770,24 +2770,18 @@ script 493 mmz4 {
 	end
 }
 script 520 mmz4 {
-	"""
-	 
-	"""
 	cmdF7
 		parameter1 = 0
 	"""
-	   CONTINUE
+	   CONTINUAR
 	"""
 	end
 }
 script 521 mmz4 {
-	"""
-	 
-	"""
 	cmdF7
 		parameter1 = 1
 	"""
-	   CONTINUE
+	   CONTINUAR
 	"""
 	end
 }
@@ -2798,25 +2792,16 @@ script 522 mmz4 {
 	cmdF7
 		parameter1 = 0
 	"""
-	RESTART
+	CARGAR
 	"""
 	textColorWhite
 	"""
-	 
+	  
 	"""
 	cmdF7
 		parameter1 = 0
 	"""
-	S.
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	GAME
+	PARTIDA
 	"""
 	end
 }
@@ -2827,41 +2812,74 @@ script 523 mmz4 {
 	cmdF7
 		parameter1 = 1
 	"""
-	RESTART
+	CARGAR
 	"""
 	textColorWhite
 	"""
-	 
+	  
 	"""
 	cmdF7
 		parameter1 = 1
 	"""
-	S.
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	GAME
+	PARTIDA
 	"""
 	end
 }
 script 524 mmz4 {
+	"""
+	 
+	"""
 	cmdF7
 		parameter1 = 0
 	"""
-	 QUIT THE GAME
+	SALIR
+	"""
+	textColorWhite
+	"""
+	 
+	"""
+	cmdF7
+		parameter1 = 0
+	"""
+	DEL
+	"""
+	textColorWhite
+	"""
+	 
+	"""
+	cmdF7
+		parameter1 = 0
+	"""
+	JUEGO
 	"""
 	end
 }
 script 525 mmz4 {
+	"""
+	 
+	"""
 	cmdF7
 		parameter1 = 1
 	"""
-	 QUIT THE GAME
+	SALIR
+	"""
+	textColorWhite
+	"""
+	 
+	"""
+	cmdF7
+		parameter1 = 1
+	"""
+	DEL
+	"""
+	textColorWhite
+	"""
+	 
+	"""
+	cmdF7
+		parameter1 = 1
+	"""
+	JUEGO
 	"""
 	end
 }
