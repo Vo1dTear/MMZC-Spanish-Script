@@ -2444,7 +2444,7 @@ script 106 mmz1 {
 	"""
 	¿Sabes cómo usar
 	un Trans Server?
-	  Yes
+	  Sí
 	  No
 	"""
 	msgClear
