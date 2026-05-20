@@ -3220,7 +3220,7 @@ script 188 mmz4 {
 	"""
 	msgClear
 	"""
-	No puedes usar los
+	¡No puedes usar los
 	ataques Triple ni
 	cargados del Saber
 	"""
@@ -3230,7 +3230,7 @@ script 188 mmz4 {
 	"""
 	msgClear
 	"""
-	Pero aún puedes
+	¡Pero aún puedes
 	cargar el Zero
 	Knuckle!
 	"""

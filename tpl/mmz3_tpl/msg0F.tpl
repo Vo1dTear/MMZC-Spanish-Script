@@ -242,7 +242,7 @@ script 15 mmz3 {
 	"""
 	msgClear
 	"""
-	¡¡Aaaaaarrrggghhh!!!
+	¡¡¡Aaaaaarrrggghhh!!!
 	"""
 	end
 }

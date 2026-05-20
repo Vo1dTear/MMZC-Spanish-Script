@@ -16,7 +16,7 @@ script 1 mmz2 {
 		mugshot = 60
 	msgBottom
 	"""
-	¡Estamos esperan-
+	¡¡Estamos esperan-
 	do la señal, señor!!
 	"""
 	end
@@ -223,7 +223,7 @@ script 10 mmz2 {
 	"""
 	msgClear
 	"""
-	¡Solo quiero lo
+	¡¡Solo quiero lo
 	mejor para TODOS
 	USTEDES!!
 	"""
@@ -469,7 +469,7 @@ script 24 mmz2 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Voy contigo,
+	¡Voy contigo,
 	Zero!
 	"""
 	end
@@ -848,7 +848,8 @@ script 37 mmz2 {
 	"""
 	msgClear
 	"""
-	¡No me molestes, X!!
+	¡¡No me
+	molestes, X!!
 	"""
 	msgClear
 	mugshotShow
@@ -860,7 +861,7 @@ script 37 mmz2 {
 	mugshotShow
 		mugshot = 4
 	"""
-	¡Oye, no te
+	¡¡Oye, no te
 	vayas,
 	Elfo Bebé!!
 	"""

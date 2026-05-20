@@ -60,7 +60,7 @@ script 10 mmz4 {
 	"""
 	msgClear
 	"""
-	Soporté a Weil y
+	¡Soporté a Weil y
 	todo este plan solo
 	para poder
 	"""
@@ -190,7 +190,7 @@ script 19 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"¡Date prisa! No hay
+	Ciel:"¡Date prisa! ¡No hay
 	"""
 	msgClear
 	"""
@@ -270,7 +270,7 @@ script 25 mmz4 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Ciel:"Zero!"
+	Ciel:"¡Zero!"
 	"""
 	msgClear
 	"""

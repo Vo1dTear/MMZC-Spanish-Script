@@ -101,8 +101,8 @@ script 3 mmz3 {
 	"""
 	msgClear
 	"""
-	¡Vamos a subir la
-	temperatura,
+	¡¡¡Vamos a subir
+	la temperatura,
 	Zerrroooo!!!
 	"""
 	end

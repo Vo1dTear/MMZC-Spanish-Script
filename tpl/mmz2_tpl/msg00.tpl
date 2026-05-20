@@ -925,7 +925,7 @@ script 71 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	SAND WILDERNESS?
+	¿SAND WILDERNESS?
 	  OK
 	  CANCELAR
 	"""
@@ -935,7 +935,7 @@ script 72 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	FOREST OF DYSIS?
+	¿FOREST OF DYSIS?
 	  OK
 	  CANCELAR
 	"""
@@ -945,7 +945,7 @@ script 73 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	ENTRANCE OF C.F.?
+	¿ENTRANCE OF C.F.?
 	  OK
 	  CANCELAR
 	"""
@@ -955,7 +955,7 @@ script 74 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	POWER ROOM?
+	¿POWER ROOM?
 	  OK
 	  CANCELAR
 	"""
@@ -965,7 +965,7 @@ script 75 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	TRAIN?
+	¿TRAIN?
 	  OK
 	  CANCELAR
 	"""
@@ -975,7 +975,7 @@ script 76 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	RESIDENTIAL AREA?
+	¿RESIDENTIAL AREA?
 	  OK
 	  CANCELAR
 	"""
@@ -985,7 +985,7 @@ script 77 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	BROKEN AIRCRAFT?
+	¿BROKEN AIRCRAFT?
 	  OK
 	  CANCELAR
 	"""
@@ -995,7 +995,7 @@ script 78 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	ROOF OF C.F.?
+	¿ROOF OF C.F.?
 	  OK
 	  CANCELAR
 	"""
@@ -1005,7 +1005,7 @@ script 79 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	FOREST OF NOTUS?
+	¿FOREST OF NOTUS?
 	  OK
 	  CANCELAR
 	"""
@@ -1015,7 +1015,7 @@ script 80 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	CRYSTAL CAVE?
+	¿CRYSTAL CAVE?
 	  OK
 	  CANCELAR
 	"""
@@ -1025,7 +1025,7 @@ script 81 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	SHUTTLE FACTORY?
+	¿SHUTTLE FACTORY?
 	  OK
 	  CANCELAR
 	"""
@@ -1035,7 +1035,7 @@ script 82 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	NEO ARCADIA TEMPLE?
+	¿NEO ARCADIA TEMPLE?
 	  OK
 	  CANCELAR
 	"""
@@ -1045,7 +1045,7 @@ script 83 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	TEMPLE OF FIRE?
+	¿TEMPLE OF FIRE?
 	  OK
 	  CANCELAR
 	"""
@@ -1055,7 +1055,7 @@ script 84 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	TEMPLE OF ICE?
+	¿TEMPLE OF ICE?
 	  OK
 	  CANCELAR
 	"""
@@ -1065,7 +1065,7 @@ script 85 mmz2 {
 	mugshotShow
 		mugshot = 76
 	"""
-	TEMPLE OF WIND?
+	¿TEMPLE OF WIND?
 	  OK
 	  CANCELAR
 	"""

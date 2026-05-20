@@ -4383,7 +4383,7 @@ script 182 mmz3 {
 	"""
 	msgClear
 	"""
-	Toma, déjame darte
+	¡Toma, déjame darte
 	unos E-Crystals!
 	"""
 	msgClear
@@ -4743,7 +4743,7 @@ script 193 mmz3 {
 	"""
 	msgClear
 	"""
-	Tal vez Hibou está
+	¡Tal vez Hibou está
 	a dieta para poder
 	ser operador!
 	"""
@@ -4786,7 +4786,7 @@ script 194 mmz3 {
 	"""
 	msgClear
 	"""
-	Las pequeñas
+	¡Las pequeñas
 	cosas de la vida
 	son las que
 	"""
@@ -4903,7 +4903,7 @@ script 198 mmz3 {
 	"""
 	msgClear
 	"""
-	Nuestra vida en la
+	¡Nuestra vida en la
 	Resistencia ha
 	mejorado mucho,
 	"""

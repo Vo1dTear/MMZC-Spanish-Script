@@ -425,7 +425,7 @@ script 18 mmz3 {
 	"""
 	msgClear
 	"""
-	¡Ugghhh!!!
+	¡¡¡Ugghhh!!!
 	"""
 	end
 }
@@ -438,7 +438,7 @@ script 19 mmz3 {
 	msgClear
 	"""
 	¡Así que volviste!
-	Otra vez, listo
+	¡Otra vez, listo
 	para ser destrozado!
 	"""
 	msgClear

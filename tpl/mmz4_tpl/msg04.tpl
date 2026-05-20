@@ -75,7 +75,7 @@ script 1 mmz4 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Kyakya!
+	¡Kyakya!
 	¡Para qué preocuparse
 	por pequeñeces!
 	"""

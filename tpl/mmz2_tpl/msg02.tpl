@@ -235,7 +235,7 @@ script 9 mmz2 {
 	"""
 	¡Estuviste
 	increíble, Zero!
-	Lo hiciste mucho
+	¡Lo hiciste mucho
 	"""
 	msgClear
 	"""
@@ -704,7 +704,7 @@ script 30 mmz2 {
 	msgSub
 		subindex = 0
 	"""
-	Huh? No quieres
+	¿Eh? No quieres
 	saber...
 	"""
 	msgClear
@@ -1920,7 +1920,7 @@ script 71 mmz2 {
 	msgClear
 	"""
 	habitación...
-	Me pregunto cómo
+	¿Me pregunto cómo
 	se verá cuando
 	"""
 	msgClear
@@ -2051,8 +2051,8 @@ script 77 mmz2 {
 	msgClear
 	"""
 	¡Debo apurarme!
-	¡Debo apurarme!!
-	¡Debo apurarme!!!
+	¡¡Debo apurarme!!
+	¡¡¡Debo apurarme!!!
 	"""
 	msgClear
 	"""
@@ -3750,13 +3750,13 @@ script 138 mmz2 {
 	mugshotShow
 		mugshot = 70
 	"""
-	¿Qué?!!
+	¡¡¿Qué?!!
 	¿He atacado
 	al Sr. Zero?
 	"""
 	msgClear
 	"""
-	¡Debe ser algún
+	¿¡Debe ser algún
 	error!?
 	"""
 	end

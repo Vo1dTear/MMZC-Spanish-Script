@@ -370,7 +370,7 @@ script 41 mmz4 {
 	mugshotShow
 		mugshot = 61
 	"""
-	¿Qué haces para
+	¿¡Qué haces para
 	ayudar a la
 	humanidad!?
 	"""

@@ -81,7 +81,7 @@ script 1 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¿Está desbloqueada!?
+	CIEL:¿¡Está desbloqueada!?
 	"""
 	end
 }

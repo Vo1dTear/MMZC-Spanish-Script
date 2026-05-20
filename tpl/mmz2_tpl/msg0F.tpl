@@ -20,7 +20,7 @@ script 1 mmz2 {
 	"""
 	Está obsesionado
 	con el Dark Elf.
-	¡Deja a ese tipo
+	¡¡Deja a ese tipo
 	"""
 	msgClear
 	"""
@@ -65,7 +65,7 @@ script 2 mmz2 {
 	msgClear
 	"""
 	Algún día...
-	¡te destruiré
+	¡¡¡te destruiré
 	seguro!!!
 	"""
 	msgClear

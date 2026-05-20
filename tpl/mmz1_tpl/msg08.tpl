@@ -3,7 +3,7 @@
 
 script 0 mmz1 {
 	"""
-	CIEL:Las actividades
+	CIEL:¡Las actividades
 	"""
 	msgClear
 	"""
@@ -83,7 +83,7 @@ script 4 mmz1 {
 	"""
 	msgClear
 	"""
-	¡Gracias a Dios!!
+	¡¡Gracias a Dios!!
 	"""
 	end
 }

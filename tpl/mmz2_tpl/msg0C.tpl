@@ -17,7 +17,7 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 27
 	"""
-	¡Oh! ¡Debes ser
+	¡Oh! ¡¡Debes ser
 	Zero!!
 	"""
 	msgClear

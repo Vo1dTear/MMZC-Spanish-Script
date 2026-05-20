@@ -87,7 +87,7 @@ script 2 mmz1 {
 	"""
 	Tu leyenda
 	terminará, no de
-	un suspiro, ¡sino
+	un suspiro, ¡¡sino
 	con un estallido!!
 	"""
 	end
@@ -228,7 +228,7 @@ script 12 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¡Buena suerte!!
+	CIEL:¡¡Buena suerte!!
 	"""
 	end
 }

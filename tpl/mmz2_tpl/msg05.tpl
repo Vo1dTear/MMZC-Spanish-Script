@@ -41,7 +41,8 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 15
 	"""
-	¡Bwooooh! ¿Eres tú!?
+	¡Bwooooh!
+	¿¡Eres tú!?
 	"""
 	msgClear
 	"""

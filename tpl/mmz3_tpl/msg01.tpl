@@ -36,7 +36,7 @@ script 2 mmz3 {
 }
 script 3 mmz3 {
 	"""
-	El Ciber-elfo se convirtió
+	¡El Ciber-elfo se convirtió
 	"""
 	msgClear
 	"""

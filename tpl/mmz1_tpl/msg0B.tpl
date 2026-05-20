@@ -187,7 +187,7 @@ script 6 mmz1 {
 	mugshotShow
 		mugshot = 47
 	"""
-	¡Zero ha traído
+	¡¡Zero ha traído
 	de vuelta a un
 	superviviente!!
 	"""

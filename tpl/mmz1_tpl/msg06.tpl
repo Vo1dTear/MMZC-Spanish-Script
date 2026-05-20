@@ -131,11 +131,11 @@ script 5 mmz1 {
 }
 script 6 mmz1 {
 	"""
-	CIEL:¡Buen trabajo, Zero!!
+	CIEL:¡¡Buen trabajo, Zero!!
 	"""
 	msgClear
 	"""
-	CIEL:¡Nuestra base está
+	CIEL:¡¡Nuestra base está
 	"""
 	msgClear
 	"""
@@ -189,7 +189,7 @@ script 7 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¡Tú también deberías
+	CIEL:¡¡Tú también deberías
 	"""
 	msgClear
 	"""

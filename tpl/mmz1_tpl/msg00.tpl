@@ -311,7 +311,7 @@ script 14 mmz1 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Estás listo...?
+	¿Estás listo...?
 	Ahora, escucha.
 	"""
 	msgClear
@@ -514,7 +514,7 @@ script 19 mmz1 {
 	mugshotShow
 		mugshot = 6
 	"""
-	¡Todos! Protejan
+	¡Todos! ¡Protejan
 	la entrada de
 	la base a toda
 	costa!
@@ -1956,7 +1956,7 @@ script 58 mmz1 {
 	"""
 	msgClear
 	"""
-	¡Si no hacemos
+	¡¡Si no hacemos
 	algo, destruirá
 	nuestra base en
 	"""

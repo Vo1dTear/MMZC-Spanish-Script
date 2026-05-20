@@ -6,13 +6,13 @@ script 0 mmz1 {
 		mugshot = 42
 	"""
 	SOLDIER:
-	"¡Tenemos un
+	"¡¡Tenemos un
 	 problema!!
 	"""
 	msgClear
 	"""
 	SOLDIER:
-	 ¡Las tropas
+	 ¡¡Las tropas
 	 enemigas están 
 	 atacando nuestra
 	"""
@@ -226,7 +226,7 @@ script 3 mmz1 {
 	msgClear
 	"""
 	SOLDIER:
-	 ¡Acaba con los
+	 ¡¡Acaba con los
 	 enemigos en la
 	 sala de máquinas!!"
 	"""
@@ -286,7 +286,7 @@ script 5 mmz1 {
 	"""
 	SOLDIER:
 	 estamos perdidos.
-	 Dirígete al
+	 ¡Dirígete al
 	 almacén y
 	"""
 	msgClear
@@ -340,7 +340,7 @@ script 6 mmz1 {
 	"""
 	msgClear
 	"""
-	En-garde!
+	¡En-garde!
 	"""
 	end
 }

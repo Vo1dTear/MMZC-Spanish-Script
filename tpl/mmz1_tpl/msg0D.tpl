@@ -72,7 +72,7 @@ script 4 mmz1 {
 	mugshotShow
 		mugshot = 44
 	"""
-	¡Soy libre!!
+	¡¡Soy libre!!
 	¡Gracias!
 	"""
 	end
@@ -194,7 +194,7 @@ script 13 mmz1 {
 	"""
 	¿Has rescatado
 	a todos los demás?
-	¡Maravilloso! ¡Gra-
+	¡Maravilloso! ¡¡Gra-
 	cias por salvarnos!!
 	"""
 	end
@@ -477,7 +477,7 @@ script 25 mmz1 {
 	"""
 	msgClear
 	"""
-	¡Prepárate!!
+	¡¡Prepárate!!
 	"""
 	end
 }

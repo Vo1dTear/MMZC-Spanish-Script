@@ -203,7 +203,7 @@ script 13 mmz1 {
 	mugshotShow
 		mugshot = 10
 	"""
-	¡Deberías usar
+	¡¡Deberías usar
 	mi poder!!
 	¡No tienes
 	opción!

@@ -71,7 +71,7 @@ script 3 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¡La compuerta está
+	CIEL:¡¡La compuerta está
 	"""
 	msgClear
 	"""
@@ -79,7 +79,7 @@ script 3 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¡Date prisa!!
+	CIEL:¡¡Date prisa!!
 	"""
 	end
 }
@@ -145,7 +145,7 @@ script 6 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¡Mantente alerta,
+	CIEL:¡¡Mantente alerta,
 	"""
 	msgClear
 	"""
@@ -165,7 +165,7 @@ script 7 mmz1 {
 	msgClear
 	"""
 	SOLDIER:
-	¡Nuestra misión
+	¡¡Nuestra misión
 	 está completa!!"
 	"""
 	msgClear
@@ -180,7 +180,7 @@ script 7 mmz1 {
 	msgClear
 	"""
 	CIEL:
-	 No olvides recoger
+	 ¡No olvides recoger
 	 el Flame Chip
 	 antes de volver
 	"""

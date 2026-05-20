@@ -10,14 +10,15 @@ script 0 mmz4 {
 	"""
 	msgClear
 	"""
-	"No podemos detener
+	"¡No podemos detener
 	 ese rayo de partícu-
 	 las desde afuera!"
 	"""
 	msgClear
 	"""
-	"Infíltrate y deténlo
-	 desde dentro!"
+	"¡Infíltrate y
+	 deténlo desde
+	 dentro!"
 	"""
 	msgClear
 	"""

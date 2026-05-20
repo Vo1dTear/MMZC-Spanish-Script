@@ -138,7 +138,7 @@ script 8 mmz3 {
 	mugshotShow
 		mugshot = 102
 	"""
-	Ajajajajajajaa!
+	¡Ajajajajajajaa!
 	¡Está hecho
 	pedazos!
 	"""
@@ -146,7 +146,7 @@ script 8 mmz3 {
 	mugshotShow
 		mugshot = 105
 	"""
-	Tejejejeeejee!
+	¡Tejejejeeejee!
 	¡Está hecho
 	trizas!
 	"""

@@ -198,7 +198,7 @@ script 9 mmz1 {
 	"""
 	msgClear
 	"""
-	¡Comencemos!!
+	¡¡Comencemos!!
 	"""
 	end
 }
@@ -517,7 +517,7 @@ script 19 mmz1 {
 		mugshot = 29
 	"""
 	Silencio.
-	¡Ahora sentirás
+	¡¡Ahora sentirás
 	mi verdadero
 	poder!!
 	"""

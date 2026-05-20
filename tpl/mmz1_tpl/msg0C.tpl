@@ -30,7 +30,7 @@ script 1 mmz1 {
 	"""
 	msgClear
 	"""
-	¡Debes destruir
+	¡¡Debes destruir
 	su arteria
 	principal!!
 	"""
@@ -38,7 +38,7 @@ script 1 mmz1 {
 }
 script 2 mmz1 {
 	"""
-	CIEL:Sus tropas
+	CIEL:¡Sus tropas
 	"""
 	msgClear
 	"""
@@ -50,11 +50,11 @@ script 2 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:Zero, por favor
+	CIEL:¡Zero, por favor
 	"""
 	msgClear
 	"""
-	CIEL:¡encárgate de ellas!
+	CIEL:encárgate de ellas!
 	"""
 	end
 }
@@ -68,7 +68,7 @@ script 3 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¡Cuidado!!
+	CIEL:¡¡Cuidado!!
 	"""
 	end
 }
@@ -150,7 +150,7 @@ script 9 mmz1 {
 	"""
 	msgClear
 	"""
-	¡No me decepciones,
+	¡¡No me decepciones,
 	chico!!
 	"""
 	end
@@ -182,7 +182,7 @@ script 10 mmz1 {
 	"""
 	msgClear
 	"""
-	¡Adiós!!
+	¡¡Adiós!!
 	"""
 	end
 }

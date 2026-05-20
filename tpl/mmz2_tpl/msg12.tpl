@@ -36,7 +36,7 @@ script 2 mmz2 {
 	mugshotShow
 		mugshot = 20
 	"""
-	!¿Dónde... dónde
+	¡¿Dónde... dónde
 	estoy?!
 	"""
 	msgClear
@@ -91,7 +91,7 @@ script 5 mmz2 {
 	mugshotShow
 		mugshot = 14
 	"""
-	¿¡Bwooooh!...!?
+	¿¡¡Bwooooh!...!?
 	"""
 	msgClear
 	"""
@@ -333,7 +333,7 @@ script 15 mmz2 {
 	"""
 	Lo más
 	grande...
-	Ribbid!
+	¡Ribbid!
 	"""
 	msgClear
 	"""
@@ -472,7 +472,7 @@ script 25 mmz2 {
 	"""
 	Ja...
 	Ja Ja Ja...
-	Gua Ja Ja Ja Ja!
+	¡Gua Ja Ja Ja Ja!
 	"""
 	msgClear
 	"""

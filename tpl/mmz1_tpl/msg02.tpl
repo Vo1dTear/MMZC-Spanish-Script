@@ -1628,7 +1628,7 @@ script 68 mmz1 {
 	"""
 	msgClear
 	"""
-	¡En serio!! ¡Qué
+	¡¡En serio!! ¡Qué
 	amable de tu parte!
 	"""
 	msgSubEnd
@@ -1974,7 +1974,7 @@ script 89 mmz1 {
 	"""
 	msgClear
 	"""
-	¡Entraremos tan
+	¡¡Entraremos tan
 	pronto como
 	tengamos la
 	oportunidad!!
@@ -2047,7 +2047,7 @@ script 93 mmz1 {
 	mugshotShow
 		mugshot = 46
 	"""
-	¡Increíble! Zero
+	¡Increíble! ¡Zero
 	ha rescatado
 	al superviviente!
 	"""
@@ -2557,7 +2557,7 @@ script 110 mmz1 {
 	mugshotShow
 		mugshot = 47
 	"""
-	¡Tú atacarás
+	¡¡Tú atacarás
 	la base enemiga,
 	mientras nosotros
 	mantenemos nuestra
@@ -2595,13 +2595,12 @@ script 151 mmz1 {
 	¡Mira! ¡Hay
 	cristales por
 	todas partes!
-	Si no los
+	¡¡Si no los
 	"""
 	msgClear
 	"""
 	consigues todos,
-	¡te
-	arrepentirás!!
+	te arrepentirás!!
 	"""
 	end
 }
@@ -2898,7 +2897,7 @@ script 208 mmz1 {
 	"""
 	confiar en
 	nosotros.
-	¡Te deseo
+	¡¡Te deseo
 	mucha suerte!!
 	"""
 	end
@@ -2941,7 +2940,7 @@ script 210 mmz1 {
 	"""
 	confiar en
 	nosotros.
-	¡Te deseo
+	¡¡Te deseo
 	mucha suerte!!
 	"""
 	end
@@ -3022,7 +3021,7 @@ script 214 mmz1 {
 	"""
 	confiar en
 	nosotros.
-	¡Te deseo
+	¡¡Te deseo
 	mucha suerte!!
 	"""
 	end

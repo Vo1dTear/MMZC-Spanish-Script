@@ -49,7 +49,7 @@ script 2 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¡Mantente alerta!!
+	CIEL:¡¡Mantente alerta!!
 	"""
 	end
 }
@@ -91,7 +91,7 @@ script 3 mmz1 {
 	"""
 	descargarla desde
 	mi memoria...
-	¿Lo harás??
+	¿¿Lo harás??
 	"""
 	end
 }
@@ -112,7 +112,7 @@ script 4 mmz1 {
 }
 script 5 mmz1 {
 	"""
-	CIEL:¡El sistema de
+	CIEL:¡¡El sistema de
 	"""
 	msgClear
 	"""
@@ -124,7 +124,7 @@ script 5 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¡Tienes que evacuar
+	CIEL:¡¡Tienes que evacuar
 	"""
 	msgClear
 	"""

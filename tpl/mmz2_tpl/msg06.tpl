@@ -45,7 +45,7 @@ script 1 mmz2 {
 	mugshotShow
 		mugshot = 11
 	"""
-	No creas que
+	¡No creas que
 	podrás volver
 	fácilmente, Zero!
 	"""
@@ -176,14 +176,14 @@ script 7 mmz2 {
 		mugshot = 8
 	"""
 	¡Ciel!
-	¡Ve adelante!!
+	¡¡Ve adelante!!
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 7
 	"""
-	¡Está bien! ¡Sígueme
-	rápido!!
+	¡Está bien!
+	¡¡Sígueme rápido!!
 	"""
 	end
 }
@@ -243,7 +243,7 @@ script 10 mmz2 {
 	"""
 	msgClear
 	"""
-	¡Por favor, escapa por ahí!!
+	¡Por favor, escapa por ahí!
 	"""
 	end
 }

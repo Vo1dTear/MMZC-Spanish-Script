@@ -97,7 +97,7 @@ script 0 mmz3 {
 	mugshotShow
 		mugshot = 64
 	"""
-	*gulp!* ¡Perdón!
+	*¡gulp!* ¡Perdón!
 	"""
 	end
 }
@@ -148,7 +148,7 @@ script 5 mmz3 {
 	"""
 	msgClear
 	"""
-	¿Esa... cosa
+	¡¿Esa... cosa
 	enorme... cayó
 	del espacio?!
 	"""
@@ -772,7 +772,7 @@ script 41 mmz3 {
 		mugshot = 44
 	"""
 	¡¿M... Maestro X?!
-	¿Eres tú?!
+	¡¿Eres tú?!
 	"""
 	end
 }
@@ -959,7 +959,7 @@ script 47 mmz3 {
 	mugshotShow
 		mugshot = 4
 	"""
-	"Con ese cuerpo"...?
+	¿"Con ese cuerpo"...?
 	"""
 	msgClear
 	"""

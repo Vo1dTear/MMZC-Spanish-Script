@@ -2374,7 +2374,7 @@ script 155 mmz4 {
 	"""
 	msgClear
 	"""
-	"Bwahahaha!"
+	"¡Bwahahaha!"
 	"""
 	msgClear
 	mugshotShow
@@ -2434,7 +2434,7 @@ script 155 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Lo siento, no puedo
+	¡Lo siento, no puedo
 	determinar las
 	coordenadas!
 	"""
@@ -2448,8 +2448,8 @@ script 155 mmz4 {
 	mugshotShow
 		mugshot = 86
 	"""
-	Jejeje!
-	Bwahahaha!
+	¡Jejeje!
+	¡Bwahahaha!
 	"""
 	msgClear
 	"""
@@ -3017,7 +3017,7 @@ script 175 mmz4 {
 	mugshotShow
 		mugshot = 34
 	"""
-	Aún hay algo de
+	¡Aún hay algo de
 	tiempo antes de que
 	impacte, pero no
 	"""

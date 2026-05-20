@@ -139,7 +139,7 @@ script 4 mmz1 {
 }
 script 5 mmz1 {
 	"""
-	CIEL:El tren llegará a la
+	CIEL:¡El tren llegará a la
 	"""
 	msgClear
 	"""
@@ -165,7 +165,7 @@ script 6 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL:¡Tienes que evacuar
+	CIEL:¡¡Tienes que evacuar
 	"""
 	msgClear
 	"""

@@ -2354,7 +2354,7 @@ script 397 mmz2 {
 }
 script 398 mmz2 {
 	"""
-	OK para sobrescribir?
+	¿Sobrescribir?
 	  SÍ
 	  NO
 	"""

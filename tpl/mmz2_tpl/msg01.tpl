@@ -21,7 +21,7 @@ script 2 mmz2 {
 }
 script 3 mmz2 {
 	"""
-	Buster Shot Skill Up!
+	¡Buster Shot Skill Up!
 	"""
 	msgClear
 	"""
@@ -35,7 +35,7 @@ script 3 mmz2 {
 }
 script 4 mmz2 {
 	"""
-	Buster Shot Skill Up!
+	¡Buster Shot Skill Up!
 	"""
 	msgClear
 	"""
@@ -49,7 +49,7 @@ script 4 mmz2 {
 }
 script 5 mmz2 {
 	"""
-	Buster Shot Skill MAX!
+	¡Buster Shot Skill MAX!
 	"""
 	msgClear
 	"""
@@ -63,7 +63,7 @@ script 5 mmz2 {
 }
 script 6 mmz2 {
 	"""
-	Buster Shot Skill Up!
+	¡Buster Shot Skill Up!
 	"""
 	msgClear
 	"""
@@ -77,7 +77,7 @@ script 6 mmz2 {
 }
 script 7 mmz2 {
 	"""
-	Buster Shot Skill MAX!
+	¡Buster Shot Skill MAX!
 	"""
 	msgClear
 	"""
@@ -91,7 +91,7 @@ script 7 mmz2 {
 }
 script 8 mmz2 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -105,7 +105,7 @@ script 8 mmz2 {
 }
 script 9 mmz2 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -119,7 +119,7 @@ script 9 mmz2 {
 }
 script 10 mmz2 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -133,7 +133,7 @@ script 10 mmz2 {
 }
 script 11 mmz2 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -147,7 +147,7 @@ script 11 mmz2 {
 }
 script 12 mmz2 {
 	"""
-	Z Saber Skill MAX!
+	¡Z Saber Skill MAX!
 	"""
 	msgClear
 	"""
@@ -161,7 +161,7 @@ script 12 mmz2 {
 }
 script 13 mmz2 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -175,7 +175,7 @@ script 13 mmz2 {
 }
 script 14 mmz2 {
 	"""
-	Z Saber Skill MAX!
+	¡Z Saber Skill MAX!
 	"""
 	msgClear
 	"""
@@ -189,7 +189,7 @@ script 14 mmz2 {
 }
 script 15 mmz2 {
 	"""
-	Z Saber Skill Up!
+	¡Z Saber Skill Up!
 	"""
 	msgClear
 	"""
@@ -203,7 +203,7 @@ script 15 mmz2 {
 }
 script 16 mmz2 {
 	"""
-	Z Saber Skill MAX!
+	¡Z Saber Skill MAX!
 	"""
 	msgClear
 	"""
@@ -211,13 +211,13 @@ script 16 mmz2 {
 	"""
 	msgClear
 	"""
-	dashing rolling slas!!
+	dashing rolling slash!!
 	"""
 	end
 }
 script 17 mmz2 {
 	"""
-	Chain Rod Skill Up!
+	¡Chain Rod Skill Up!
 	"""
 	msgClear
 	"""
@@ -231,7 +231,7 @@ script 17 mmz2 {
 }
 script 18 mmz2 {
 	"""
-	Chain Rod Skill Up!
+	¡Chain Rod Skill Up!
 	"""
 	msgClear
 	"""
@@ -245,7 +245,7 @@ script 18 mmz2 {
 }
 script 19 mmz2 {
 	"""
-	Chain Rod Skill Up!
+	¡Chain Rod Skill Up!
 	"""
 	msgClear
 	"""
@@ -259,7 +259,7 @@ script 19 mmz2 {
 }
 script 20 mmz2 {
 	"""
-	Chain Rod Skill MAX!
+	¡Chain Rod Skill MAX!
 	"""
 	msgClear
 	"""
@@ -273,7 +273,7 @@ script 20 mmz2 {
 }
 script 21 mmz2 {
 	"""
-	Shield Boomerang Skill Up!
+	¡Shield Boomerang Skill Up!
 	"""
 	msgClear
 	"""
@@ -287,7 +287,7 @@ script 21 mmz2 {
 }
 script 22 mmz2 {
 	"""
-	Shield Boomerang Skill MAX!
+	¡Shield Boomerang Skill MAX!
 	"""
 	msgClear
 	"""
@@ -315,7 +315,7 @@ script 30 mmz2 {
 	"""
 	msgClear
 	"""
-	Obtienes el Laser Shot!
+	¡Obtienes el Laser Shot!
 	"""
 	end
 }
