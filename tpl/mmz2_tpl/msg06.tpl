@@ -155,7 +155,7 @@ script 6 mmz2 {
 	"""
 	msgClear
 	"""
-	Operator: Hemos confirmado
+	Operadora: Hemos confirmado
 	"""
 	msgClear
 	"""

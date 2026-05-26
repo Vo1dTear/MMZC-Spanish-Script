@@ -103,7 +103,7 @@ script 10 mmz1 {
 	mugshotShow
 		mugshot = 2
 	"""
-	  CAMBIAR ÁREA
+	  CAMBIAR DE ÁREA
 	  DESCARGAR ELFO
 	  ALIMENTAR ELFO
 	  SALIR
@@ -114,7 +114,7 @@ script 11 mmz1 {
 	mugshotShow
 		mugshot = 2
 	"""
-	  VOLVER A BASE
+	  VOLVER A LA BASE
 	  DESCARGAR ELFO
 	  ALIMENTAR ELFO
 	  SALIR
@@ -137,8 +137,8 @@ script 13 mmz1 {
 		mugshot = 7
 	"""
 	Bienvenido a nuestra
-	Base de la Resisten-
-	cia, Zero.
+	Base de la
+	Resistencia, Zero.
 	"""
 	msgClear
 	"""
@@ -249,8 +249,8 @@ script 13 mmz1 {
 	option
 		secondAnswerIndex = 1
 	"""
-	Por favor ayuda-
-	nos...
+	Por favor
+	ayudanos...
 	  OK
 	  NI HABLAR
 	"""
@@ -362,8 +362,9 @@ script 14 mmz1 {
 	"""
 	msgClear
 	"""
-	destruye la instala-
-	ción enemiga...
+	destruye la
+	instalación
+	enemiga...
 	"""
 	end
 }
@@ -440,8 +441,9 @@ script 15 mmz1 {
 	"""
 	msgClear
 	"""
-	destruye la instala-
-	ción enemiga...
+	destruye la
+	instalación
+	enemiga...
 	"""
 	end
 }
@@ -466,17 +468,14 @@ script 17 mmz1 {
 	"""
 	No tuvimos otra
 	opción que escapar,
-	pero mi investi-
-	gación dice
+	pero mi
+	investigación dice
 	"""
 	msgClear
 	"""
-	Que todavía
+	que todavía
 	hay información
 	muy importante
-	"""
-	msgClear
-	"""
 	para ti allí.
 	"""
 	msgClear
@@ -687,15 +686,15 @@ script 24 mmz1 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Algunos de los
-	Reploides secues-
-	trados parecen haber
-	tomado control de
+	Algunos de
+	los Reploides
+	secuestrados parecen
+	haber tomado control
 	"""
 	msgClear
 	"""
-	un avión de trans-
-	porte enemigo
+	de un avión de
+	transporte enemigo
 	y ahora han
 	escapado.
 	"""
@@ -720,21 +719,16 @@ script 24 mmz1 {
 	"""
 	msgClear
 	"""
-	Sin embargo
-	nuestros explora-
-	dores están teniendo
-	dificultades
+	Sin embargo nuestros
+	exploradores 
+	están teniendo
+	dificultades debido
 	"""
 	msgClear
 	"""
-	debido a las
-	hordas de
-	enemigos
-	hostiles en
-	"""
-	msgClear
-	"""
-	la zona...
+	a las hordas de
+	enemigos hostiles
+	en la zona...
 	"""
 	msgClear
 	"""
@@ -816,8 +810,8 @@ script 26 mmz1 {
 	msgClear
 	"""
 	Hemos estado
-	intentando loca-
-	lizarla, pero...
+	intentando
+	localizarla, pero...
 	"""
 	msgClear
 	"""
@@ -1161,8 +1155,8 @@ script 34 mmz1 {
 	"""
 	msgClear
 	"""
-	encontrarás a nues-
-	tro ingeniero 
+	encontrarás a
+	nuestro ingeniero
 	llamado Cerveau.
 	Me pidió que
 	"""
@@ -1181,11 +1175,7 @@ script 34 mmz1 {
 	"""
 	misión, podrás
 	abortar esa
-	misión
-	"""
-	msgClear
-	"""
-	y evacuar.
+	misión y evacuar.
 	"""
 	msgClear
 	"""
@@ -1247,8 +1237,8 @@ script 37 mmz1 {
 		mugshot = 6
 	"""
 	Si no hubieras
-	detenido al Mecani-
-	loide Gigante,
+	detenido al 
+	Mecaniloide Gigante,
 	la Base de la
 	"""
 	msgClear
@@ -1504,12 +1494,12 @@ script 45 mmz1 {
 	"""
 	Si logramos obtener
 	una energía
-	substituta, podría-
-	mos vivir felices
+	substituta,
+	podríamos vivir
 	"""
 	msgClear
 	"""
-	en un lugar
+	felices en un lugar
 	tranquilo...
 	"""
 	msgClear
@@ -1873,9 +1863,9 @@ script 56 mmz1 {
 		mugshot = 6
 	"""
 	Zero...
-	Prométeme que
-	no intentarás exi-
-	girte demasiado...
+	Prométeme que no
+	intentarás exigirte
+	demasiado...
 	"""
 	msgClear
 	"""

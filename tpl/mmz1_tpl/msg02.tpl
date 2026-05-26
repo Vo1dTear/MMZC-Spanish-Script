@@ -218,7 +218,7 @@ script 3 mmz1 {
 	msgClear
 	"""
 	que podrás
-	manejarla
+	manejarla.
 	"""
 	end
 }
@@ -810,8 +810,8 @@ script 22 mmz1 {
 	"""
 	Con el tiempo,
 	me convertí en un
-	marinero experimen-
-	tado.
+	marinero
+	experimentado.
 	"""
 	msgClear
 	"""
@@ -2016,7 +2016,7 @@ script 91 mmz1 {
 	msgClear
 	"""
 	CIEL:No podemos abrir
-	CIEL:la puerta ahora
+	CIEL:la puerta ahora.
 	"""
 	end
 }

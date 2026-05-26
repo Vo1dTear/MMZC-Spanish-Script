@@ -3144,8 +3144,8 @@ script 504 mmz1 {
 	"""
 	Salir a la pantalla
 	de título principal
-	El progreso no guar-
-	dado se perderá
+	El progreso no
+	guardado se perderá.
 	"""
 	end
 }

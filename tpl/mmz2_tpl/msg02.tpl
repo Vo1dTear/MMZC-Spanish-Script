@@ -326,7 +326,7 @@ script 20 mmz2 {
 	mugshotShow
 		mugshot = 8
 	"""
-	Sí
+	Sí...
 	"""
 	end
 }

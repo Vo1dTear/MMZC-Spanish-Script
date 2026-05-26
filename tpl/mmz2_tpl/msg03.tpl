@@ -488,11 +488,11 @@ script 29 mmz2 {
 	"""
 	De acuerdo, te
 	dejaré descansar.
-	Estaré un rato en
+	Estaré un momento
 	"""
 	msgClear
 	"""
-	mi laboratorio.
+	en mi laboratorio.
 	"""
 	msgClear
 	"""

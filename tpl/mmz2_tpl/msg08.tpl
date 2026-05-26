@@ -80,7 +80,7 @@ script 3 mmz2 {
 	mugshotShow
 		mugshot = 0
 	"""
-	Operator: ¡Sr. Zero!
+	Operadora: ¡Sr. Zero!
 	"""
 	msgClear
 	"""
